@@ -1,0 +1,27 @@
+apiVersion: 3
+dataDisplay:
+  noneValues: # to revisit
+  - none
+  - unknown
+  - null
+  - NA
+typeDisplay:
+  book:
+    featuresBare:
+      - book
+  word:
+    featuresBare:
+      - gloss
+    features:
+      - lemma
+      - strongs
+interfaceDefaults: {}
+provenanceSpec:
+  charText: 'Greek characters transcription'
+  charUrl: '{docBase}/features{docExt}'
+  corpus: "NA 1904"
+  doi: 10.5281/zenodo.5816380
+  org: CenterBLC
+  repo: NA
+  version: 202201
+writing: grc
