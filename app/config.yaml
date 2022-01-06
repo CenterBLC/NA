@@ -28,8 +28,6 @@ interfaceDefaults: {}
 provenanceSpec:
   corpus: "NA 1904"
   doi: 10.5281/zenodo.5819479
-  org: CenterBLC
-  repo: NA
   version: 1904
   webUrl: "https://bibleol.3bmoodle.dk/text/show_text/nestle1904/<1>/<2>/<3>"
 docs:
