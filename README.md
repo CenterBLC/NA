@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/442394564.svg)](https://zenodo.org/badge/latestdoi/442394564)
- [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![DOI](https://zenodo.org/badge/442394564.svg)](https://zenodo.org/badge/latestdoi/442394564) [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
 # NA
 This repository contains the Nestle 1904 edition in a TextFabric format. As a source for the CBLC version of NA1904 we have used the Nestle 1904 version from BiblicaHumanities as it is made available in their repository "Nestle1904" (https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv). We have then converted the csv file into the TextFabric format (see https://github.com/CenterBLC/NA/tree/main/programs). This allows TF users to access the Nestle1904 text in a convenient way and query it.
