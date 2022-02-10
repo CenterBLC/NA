@@ -14,3 +14,10 @@ Text-Fabric has proven to be an excellent linguistic research tool as it can use
 1.	Linguistic Research into the Septuagint Greek and Koine Greek of the NT is made possible within the TF environment. Particularly valence analysis of Greek verbs will become possible. Also valence comparison between Greek and Hebrew words can be carried out.
 2.	Since the BibleOL uses the Nestle1904 version, we now offer with the TF Nestle1904 app the possibility to create vocab lists, and identify text material for BibleOL based exercises.
 
+# How to get started?
+Run in a jupyter notebook the following command:
+```phython
+from tf.fabric import Fabric
+from tf.app import use
+NA = use("CenterBLC/NA", version="1904")
+```
