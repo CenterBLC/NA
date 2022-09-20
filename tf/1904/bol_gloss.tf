@@ -9,7 +9,7 @@
 @description=BOL based English gloss
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-02T03:06:26Z
+@dateWritten=2022-01-05T06:39:52Z
 
 written book, roll, or volume
 birth, lineage
@@ -584,7 +584,7 @@ find
 report, bring a report, announce
 I
 how, in order that, so that
-I also, I too
+I also, I too, and I, but
 come, go
 worship
 he, she, it, they, them, same
@@ -1030,7 +1030,7 @@ am about to
 anger, wrath, passion
 do, make
 therefore, then
-fruit, result, gain
+fruit, result, gain, crop
 worthy, worthy of, deserving
 the
 repentance, change of mind
@@ -1074,7 +1074,7 @@ therefore, then
 tree
 not, lest
 do, make
-fruit, result, gain
+fruit, result, gain, crop
 beautiful, good, worthy
 cut out, cut off
 and, even, also, namely
@@ -1484,7 +1484,7 @@ make to rise, rise, shine
 he, she, it, they, them, same
 from, away from
 then
-begin
+begin, reign, rule
 the
 Jesus
 proclaim, herald, preach
@@ -1865,7 +1865,7 @@ the
 beautiful, good, worthy
 work, labor, action, deed
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 father, Father, ancestor
 you
@@ -2531,7 +2531,7 @@ in, on, among
 the
 street, lane
 how, in order that, so that
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 by, under, about
 the
 man, one of human race
@@ -2833,13 +2833,13 @@ treasure, store
 on, to, against, on the basis of, at
 the
 earth, soil, land
-where, whither
+where, whither, whereas, since
 moth
 and, even, also, namely
 eating, food, meal, rust
 cause to disappear, hide, remove, disfigure
 and, even, also, namely
-where, whither
+where, whither, whereas, since
 thief
 dig through, break through
 and, even, also, namely
@@ -2850,20 +2850,20 @@ you
 treasure, store
 in, on, among
 sky, heaven
-where, whither
+where, whither, whereas, since
 and not, neither, nor
 moth
 and not, neither, nor
 eating, food, meal, rust
 cause to disappear, hide, remove, disfigure
 and, even, also, namely
-where, whither
+where, whither, whereas, since
 thief
 no, not
 dig through, break through
 neither, nor, not even
 steal
-where, whither
+where, whither, whereas, since
 for
 am, exist
 the
@@ -2932,14 +2932,14 @@ one
 hate, detest
 and, even, also, namely
 the
-another, different
+another, different, other
 love
 or, than
 one
 hold fast to
 and, even, also, namely
 the
-another, different
+another, different, other
 despise, scorn
 no, not
 am powerful, am able
@@ -2961,7 +2961,7 @@ eat
 or, than
 who, which, what
 drink, imbibe
-and not, not even
+and not, not even, neither
 the
 body, flesh
 you
@@ -3221,7 +3221,7 @@ the
 set apart, holy, sacred
 the
 dog
-and not, not even
+and not, not even, neither
 cast, throw, rush, put, place, drop
 the
 pearl
@@ -3400,7 +3400,7 @@ wolf, jackal
 rapacious, ravenous, a robber, an extortioner
 from, away from
 the
-fruit, result, gain
+fruit, result, gain, crop
 he, she, it, they, them, same
 come to know, discern, recognize
 he, she, it, they, them, same
@@ -3417,34 +3417,34 @@ thus, so, in this manner
 all, the whole, every kind of
 tree
 good
-fruit, result, gain
+fruit, result, gain, crop
 beautiful, good, worthy
 do, make
 the
 but, on the other hand, and
 rotten, useless, corrupt
 tree
-fruit, result, gain
+fruit, result, gain, crop
 evil, bad, wicked
 do, make
 no, not
 am powerful, am able
 tree
 good
-fruit, result, gain
+fruit, result, gain, crop
 evil, bad, wicked
 carry, bear, bring, lead
 neither, nor, not even
 tree
 rotten, useless, corrupt
-fruit, result, gain
+fruit, result, gain, crop
 beautiful, good, worthy
 carry, bear, bring, lead
 all, the whole, every kind of
 tree
 not, lest
 do, make
-fruit, result, gain
+fruit, result, gain, crop
 beautiful, good, worthy
 cut out, cut off
 and, even, also, namely
@@ -3454,7 +3454,7 @@ cast, throw, rush, put, place, drop
 then, therefore, since
 from, away from
 the
-fruit, result, gain
+fruit, result, gain, crop
 he, she, it, they, them, same
 come to know, discern, recognize
 he, she, it, they, them, same
@@ -3963,7 +3963,7 @@ he, she, it, they, them, same
 teacher
 accompany, attend, follow
 you
-where, whither
+where, whither, whereas, since
 if
 come or go away from, depart, return
 and, even, also, namely
@@ -3992,7 +3992,7 @@ where, whither
 the
 head
 rest, recline, make to yield
-another, different
+another, different, other
 but, on the other hand, and
 the
 learner, disciple, pupil
@@ -4128,7 +4128,7 @@ way, road, journey
 that, that one there, yonder
 and, even, also, namely
 see, look upon, experience
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 who, which, what
 I
@@ -4349,7 +4349,7 @@ the
 crowd
 fear, am terrified
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 the
@@ -4700,7 +4700,7 @@ Jesus
 accompany, attend, follow
 two
 blind
-cry aloud, shriek
+cry aloud, shriek, cry out
 and, even, also, namely
 say, speak
 pity, have mercy on
@@ -5004,9 +5004,9 @@ offer, give
 not, lest
 win, get, buy, possess
 anything made of gold
-and not, not even
+and not, not even, neither
 silver as metal
-and not, not even
+and not, not even, neither
 copper, brass, money
 into, in, among, till, for
 the
@@ -5016,12 +5016,12 @@ not, lest
 sack, wallet
 into, in, among, till, for
 way, road, journey
-and not, not even
+and not, not even, neither
 two
 tunic, garment, undergarment
-and not, not even
+and not, not even, neither
 sandal
-and not, not even
+and not, not even, neither
 rod, staff
 worthy, worthy of, deserving
 for
@@ -5086,7 +5086,7 @@ an untranslatable word that makes a statement contingent
 not, lest
 take, receive, accept, welcome
 you
-and not, not even
+and not, not even, neither
 hear, listen
 the
 word, speech, divine utterance, analogy
@@ -5252,7 +5252,7 @@ this, he, she, it
 flee, escape, shun
 into, in, among, till, for
 the
-another, different
+another, different, other
 verily, truly, amen, so let it be
 for
 say, speak
@@ -5415,7 +5415,7 @@ in front, before the face
 the
 man, one of human race
 confess, profess, acknowledge, praise
-I also, I too
+I also, I too, and I, but
 in, on, among
 he, she, it, they, them, same
 in front, before the face
@@ -5435,7 +5435,7 @@ in front, before the face
 the
 man, one of human race
 deny, repudiate
-I also, I too
+I also, I too, and I, but
 he, she, it, they, them, same
 in front, before the face
 the
@@ -5641,7 +5641,7 @@ am, exist
 the
 come, go
 or, than
-another, different
+another, different, other
 expect, await
 and, even, also, namely
 answer, reply
@@ -5684,7 +5684,7 @@ I
 this, he, she, it
 but, on the other hand, and
 travel, journey, go
-begin
+begin, reign, rule
 the
 Jesus
 say, speak
@@ -5833,7 +5833,7 @@ market-place
 who, which, what, that
 call to, summon
 the
-another, different
+another, different, other
 say, speak
 play the flute, pipe
 you
@@ -5883,7 +5883,7 @@ the
 work, labor, action, deed
 he, she, it, they, them, same
 then
-begin
+begin, reign, rule
 reproach, revile, upbraid
 the
 city
@@ -6052,7 +6052,7 @@ the
 grow weary, toil
 and, even, also, namely
 load, burden
-I also, I too
+I also, I too, and I, but
 make to rest, give rest to, rest, take my ease
 you
 raise, lift up
@@ -6107,7 +6107,7 @@ learner, disciple, pupil
 he, she, it, they, them, same
 am hungry, needy
 and, even, also, namely
-begin
+begin, reign, rule
 pluck, pluck off
 head of grain
 and, even, also, namely
@@ -6629,7 +6629,7 @@ tree
 beautiful, good, worthy
 and, even, also, namely
 the
-fruit, result, gain
+fruit, result, gain, crop
 he, she, it, they, them, same
 beautiful, good, worthy
 or, than
@@ -6639,13 +6639,13 @@ tree
 rotten, useless, corrupt
 and, even, also, namely
 the
-fruit, result, gain
+fruit, result, gain, crop
 he, she, it, they, them, same
 rotten, useless, corrupt
 from out, out from among, from
 for
 the
-fruit, result, gain
+fruit, result, gain, crop
 the
 tree
 come to know, learn, realize
@@ -6878,7 +6878,7 @@ take, receive
 with, after
 himself, herself, itself
 seven
-another, different
+another, different, other
 wind, breath, spirit
 evil, bad, wicked
 himself, herself, itself
@@ -7063,7 +7063,7 @@ fall, fall under
 on, to, against, on the basis of, at
 the
 rocky, stony
-where, whither
+where, whither, whereas, since
 no, not
 have, hold, possess
 earth, soil, land
@@ -7111,7 +7111,7 @@ the
 beautiful, good, worthy
 and, even, also, namely
 offer, give
-fruit, result, gain
+fruit, result, gain, crop
 who, which, what, that
 truly, indeed
 one hundred
@@ -7451,7 +7451,7 @@ sprout, cause to sprout, make to grow up
 the
 grass, hay
 and, even, also, namely
-fruit, result, gain
+fruit, result, gain, crop
 do, make
 then
 shine, appear, seem
@@ -8482,7 +8482,7 @@ and, even, also, namely
 from, away from
 the
 fear, terror, reverence
-cry aloud, shriek
+cry aloud, shriek, cry out
 immediately, soon
 but, on the other hand, and
 speak, say
@@ -8538,9 +8538,9 @@ the
 wind
 fear, am terrified
 and, even, also, namely
-begin
+begin, reign, rule
 sink in the sea, am drowned
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 lord, Lord, master, sir
 save, heal
@@ -8927,7 +8927,7 @@ the
 districts, territory
 that, that one there, yonder
 go out, come out
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 pity, have mercy on
 I
@@ -8956,7 +8956,7 @@ say, speak
 release, let go, send away, divorce
 he, she, it, they, them, same
 that, since, because
-cry aloud, shriek
+cry aloud, shriek, cry out
 from behind, after
 I
 the
@@ -9076,7 +9076,7 @@ crippled, lame
 blind
 dumb, deaf
 and, even, also, namely
-another, different
+another, different, other
 much, many, often
 and, even, also, namely
 throw, cast, toss
@@ -9104,7 +9104,7 @@ and, even, also, namely
 blind
 look, see
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 Israel
@@ -9453,7 +9453,7 @@ baptizer, Baptist
 other, another, different
 but, on the other hand, and
 Elijah
-another, different
+another, different, other
 but, on the other hand, and
 Jeremiah
 or, than
@@ -9508,7 +9508,7 @@ the
 in, on, among
 the
 sky, heaven
-I also, I too
+I also, I too, and I, but
 but, on the other hand, and
 you
 say, speak
@@ -9577,7 +9577,7 @@ the
 anointed, Messiah, Christ
 from, away from
 then
-begin
+begin, reign, rule
 Jesus
 anointed, Messiah, Christ
 point out, show
@@ -9612,7 +9612,7 @@ take to myself, welcome
 he, she, it, they, them, same
 the
 Peter
-begin
+begin, reign, rule
 rebuke, chide, admonish, warn
 he, she, it, they, them, same
 say, speak
@@ -10728,7 +10728,7 @@ with, after
 the
 a male slave
 he, she, it, they, them, same
-begin
+begin, reign, rule
 but, on the other hand, and
 he, she, it, they, them, same
 make a reckoning, settle accounts
@@ -10886,7 +10886,7 @@ the
 fellow servant, colleague
 you
 as, like as, how, while, so that
-I also, I too
+I also, I too, and I, but
 you
 pity, have mercy on
 and, even, also, namely
@@ -11577,7 +11577,7 @@ and, even, also, namely
 give back, return, sell
 the
 wages, reward
-begin
+begin, reign, rule
 from, away from
 the
 last, at the last, finally
@@ -11933,7 +11933,7 @@ hear, listen
 that, since, because
 Jesus
 pass by, depart, pass away
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 lord, Lord, master, sir
 pity, have mercy on
@@ -11950,7 +11950,7 @@ keep silence
 the
 but, on the other hand, and
 large, great
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 lord, Lord, master, sir
 pity, have mercy on
@@ -12138,7 +12138,7 @@ he, she, it, they, them, same
 and, even, also, namely
 the
 accompany, attend, follow
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 hosanna
 the
@@ -12253,7 +12253,7 @@ and, even, also, namely
 the
 boy or girl child
 the
-cry aloud, shriek
+cry aloud, shriek, cry out
 in, on, among
 the
 temple
@@ -12332,7 +12332,7 @@ no, not
 no longer
 from out, out from among, from
 you
-fruit, result, gain
+fruit, result, gain, crop
 come into being, am born
 into, in, among, till, for
 the
@@ -12434,14 +12434,14 @@ say, speak
 he, she, it, they, them, same
 ask, question, request
 you
-I also, I too
+I also, I too, and I, but
 word, speech, divine utterance, analogy
 one
 who, which, what, that
 if
 say, speak
 I
-I also, I too
+I also, I too, and I, but
 you
 say, speak
 in, on, among
@@ -12650,7 +12650,7 @@ come near, approach
 the
 fitting season, opportunity, time
 the
-fruit, result, gain
+fruit, result, gain, crop
 send forth, send, send away, dismiss
 the
 a male slave
@@ -12660,7 +12660,7 @@ the
 worker of soil, husbandman, vine-dresser
 receive, take
 the
-fruit, result, gain
+fruit, result, gain, crop
 he, she, it, they, them, same
 and, even, also, namely
 receive, take
@@ -12760,7 +12760,7 @@ whosoever, whichsoever, whatsoever
 give back, return, sell
 he, she, it, they, them, same
 the
-fruit, result, gain
+fruit, result, gain, crop
 in, on, among
 the
 fitting season, opportunity, time
@@ -12811,7 +12811,7 @@ offer, give
 race, people, Gentiles
 do, make
 the
-fruit, result, gain
+fruit, result, gain, crop
 he, she, it, they, them, same
 and, even, also, namely
 the
@@ -12938,7 +12938,7 @@ trading, trade, trafficking, business
 he, she, it, they, them, same
 the
 but, on the other hand, and
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 lay hold of, obtain
 the
 a male slave
@@ -13008,7 +13008,7 @@ all, the whole, every kind of
 who, which, what, that
 find
 evil, bad, wicked
-and, both
+and, both, likewise, so
 and, even, also, namely
 good
 and, even, also, namely
@@ -13291,7 +13291,7 @@ not, lest
 know, remember
 the
 writing, passage of scripture, scriptures
-and not, not even
+and not, not even, neither
 the
 might, power, marvelous works
 the
@@ -13653,7 +13653,7 @@ the
 father, Father, ancestor
 the
 heavenly
-and not, not even
+and not, not even, neither
 call, invite, name
 leader, teacher, guide
 that, since, because
@@ -14453,7 +14453,7 @@ the
 flight
 you
 tempest, rainy season
-and not, not even
+and not, not even, neither
 Sabbath, week
 am, exist
 for
@@ -14563,7 +14563,7 @@ the
 son, descendent
 the
 man, one of human race
-where, whither
+where, whither, whereas, since
 if
 am, exist
 the
@@ -14940,7 +14940,7 @@ I
 the
 lord, Lord, master, sir
 and, even, also, namely
-begin
+begin, reign, rule
 beat, strike, wound, inflict punishment
 the
 fellow servant, colleague
@@ -15132,7 +15132,7 @@ but, on the other hand, and
 come, go
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 virgin
 say, speak
 lord, Lord, master, sir
@@ -15349,7 +15349,7 @@ hard, violent, harsh, stern
 am, exist
 man, one of human race
 reap, gather
-where, whither
+where, whither, whereas, since
 no, not
 sow, spread, scatter
 and, even, also, namely
@@ -15385,7 +15385,7 @@ slothful, backward
 know, remember
 that, since, because
 reap, gather
-where, whither
+where, whither, whereas, since
 no, not
 sow, spread, scatter
 and, even, also, namely
@@ -15900,7 +15900,7 @@ do, make
 verily, truly, amen, so let it be
 say, speak
 you
-where, whither
+where, whither, whereas, since
 if
 proclaim, herald, preach
 the
@@ -15935,7 +15935,7 @@ who, which, what
 will, wish, desire
 I
 offer, give
-I also, I too
+I also, I too, and I, but
 you
 hand over, deliver, betray
 he, she, it, they, them, same
@@ -16038,7 +16038,7 @@ I
 and, even, also, namely
 pain, grieve, vex
 exceedingly, greatly
-begin
+begin, reign, rule
 say, speak
 he, she, it, they, them, same
 one
@@ -16313,7 +16313,7 @@ the
 two
 son, descendent
 Zebedee
-begin
+begin, reign, rule
 pain, grieve, vex
 and, even, also, namely
 am troubled, distressed
@@ -16454,7 +16454,7 @@ and, even, also, namely
 say, speak
 he, she, it, they, them, same
 sleep, am sleeping
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 and, even, also, namely
 make to rest, give rest to, rest, take my ease
 see, look upon, experience
@@ -16676,7 +16676,7 @@ to, towards, with
 Caiaphas
 the
 high priest, chief priest
-where, whither
+where, whither, whereas, since
 the
 scribe, town-clerk, man of learning
 and, even, also, namely
@@ -16945,7 +16945,7 @@ clear, manifest, evident
 you
 do, make
 then
-begin
+begin, reign, rule
 curse, devote to destruction
 and, even, also, namely
 swear, take an oath
@@ -17314,7 +17314,7 @@ do, make
 the
 but, on the other hand, and
 greatly, exceedingly
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 crucify
 see, look upon, experience
@@ -17684,7 +17684,7 @@ and, even, also, namely
 receive, take
 sponge
 fill
-and, both
+and, both, likewise, so
 vinegar, sour wine
 and, even, also, namely
 put around, bestow
@@ -17693,7 +17693,7 @@ cause to drink, give to drink
 he, she, it, they, them, same
 the
 but, on the other hand, and
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 say, speak
 send away, release, remit, forgive, permit
 see, look upon, experience
@@ -17706,7 +17706,7 @@ the
 but, on the other hand, and
 Jesus
 again, further, on the other hand
-cry aloud, shriek
+cry aloud, shriek, cry out
 sound, noise, voice
 large, great
 send away, release, remit, forgive, permit
@@ -18076,7 +18076,7 @@ come hither, come, hither
 see, look upon, experience
 the
 place
-where, whither
+where, whither, whereas, since
 lie, recline, am laid
 and, even, also, namely
 quickly, speedily
@@ -18179,7 +18179,7 @@ with, after
 the
 elder
 council, advice
-and, both
+and, both, likewise, so
 receive, take
 silver, shekel, money in general
 sufficient, worthy, many, much
@@ -18985,7 +18985,7 @@ he, she, it, they, them, same
 the
 but, on the other hand, and
 go out, come out
-begin
+begin, reign, rule
 proclaim, herald, preach
 much, many, often
 and, even, also, namely
@@ -19029,7 +19029,7 @@ much, many, often
 so that, therefore
 no longer
 make room, go, receive
-and not, not even
+and not, not even, neither
 the
 to, towards, with
 the
@@ -19059,14 +19059,14 @@ crowd
 unroof, take the roof off
 the
 flat roof of house
-where, whither
+where, whither, whereas, since
 am, exist
 and, even, also, namely
 dig out, gouge
 let down, lower
 the
 bed, mattress, mat
-where, whither
+where, whither, whereas, since
 the
 afflicted with paralysis
 recline, am lying ill
@@ -19199,7 +19199,7 @@ so that, therefore
 astonish, am astonished
 all, the whole, every kind of
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 say, speak
@@ -19458,7 +19458,7 @@ and, even, also, namely
 the
 learner, disciple, pupil
 he, she, it, they, them, same
-begin
+begin, reign, rule
 way, road, journey
 do, make
 pluck, pluck off
@@ -19731,7 +19731,7 @@ behold, look at, experience
 fall down before, beat against
 he, she, it, they, them, same
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 that, since, because
 you
@@ -19852,7 +19852,7 @@ so that, therefore
 not, lest
 am powerful, am able
 he, she, it, they, them, same
-and not, not even
+and not, not even, neither
 bread, loaf, food
 eat
 and, even, also, namely
@@ -20093,7 +20093,7 @@ mother
 am, exist
 and, even, also, namely
 again, further, on the other hand
-begin
+begin, reign, rule
 teach
 from, in the presence of
 the
@@ -20167,7 +20167,7 @@ fall, fall under
 on, to, against, on the basis of, at
 the
 rocky, stony
-where, whither
+where, whither, whereas, since
 no, not
 have, hold, possess
 earth, soil, land
@@ -20208,7 +20208,7 @@ and, even, also, namely
 choke utterly, crowd upon
 he, she, it, they, them, same
 and, even, also, namely
-fruit, result, gain
+fruit, result, gain, crop
 no, not
 offer, give
 and, even, also, namely
@@ -20221,7 +20221,7 @@ the
 beautiful, good, worthy
 and, even, also, namely
 offer, give
-fruit, result, gain
+fruit, result, gain, crop
 go up, mount, ascend
 and, even, also, namely
 cause to increase, become greater, grow
@@ -20321,7 +20321,7 @@ the
 from, in the presence of
 the
 way, road, journey
-where, whither
+where, whither, whereas, since
 sow, spread, scatter
 the
 word, speech, divine utterance, analogy
@@ -20406,7 +20406,7 @@ and, even, also, namely
 the
 about, concerning, around
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 desire, eagerness for, inordinate desire, lust
 journey into, go into
 choke utterly, crowd upon
@@ -20568,7 +20568,7 @@ when, whensoever
 but, on the other hand, and
 hand over, deliver, betray
 the
-fruit, result, gain
+fruit, result, gain, crop
 immediately, soon
 send forth, send, send away, dismiss
 the
@@ -20859,7 +20859,7 @@ in, on, among
 the
 mountain
 am, exist
-cry aloud, shriek
+cry aloud, shriek, cry out
 and, even, also, namely
 beat, wound
 himself, herself, itself
@@ -20875,7 +20875,7 @@ and, even, also, namely
 worship
 he, she, it, they, them, same
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 sound, noise, voice
 large, great
 say, speak
@@ -21040,7 +21040,7 @@ about, concerning, around
 the
 swine
 and, even, also, namely
-begin
+begin, reign, rule
 summon, entreat, admonish, comfort
 he, she, it, they, them, same
 come or go away from, depart, return
@@ -21091,7 +21091,7 @@ you
 and, even, also, namely
 come or go away from, depart, return
 and, even, also, namely
-begin
+begin, reign, rule
 proclaim, herald, preach
 in, on, among
 the
@@ -21427,7 +21427,7 @@ with, after
 he, she, it, they, them, same
 and, even, also, namely
 journey into, go into
-where, whither
+where, whither, whereas, since
 am, exist
 the
 little child, infant
@@ -21496,7 +21496,7 @@ he, she, it, they, them, same
 and, even, also, namely
 come into being, am born
 Sabbath, week
-begin
+begin, reign, rule
 teach
 in, on, among
 the
@@ -21615,7 +21615,7 @@ summon
 the
 twelve
 and, even, also, namely
-begin
+begin, reign, rule
 he, she, it, they, them, same
 send forth, send, send away, dismiss
 two
@@ -21660,7 +21660,7 @@ tunic, garment, undergarment
 and, even, also, namely
 say, speak
 he, she, it, they, them, same
-where, whither
+where, whither, whereas, since
 if
 go in, come in, enter
 into, in, among, till, for
@@ -21678,7 +21678,7 @@ place
 not, lest
 take, receive, accept, welcome
 you
-and not, not even
+and not, not even, neither
 hear, listen
 you
 journey out, come forth
@@ -22099,7 +22099,7 @@ not, lest
 have, hold, possess
 shepherd
 and, even, also, namely
-begin
+begin, reign, rule
 teach
 he, she, it, they, them, same
 much, many, often
@@ -22412,7 +22412,7 @@ the
 region, land, fields
 that, that one there, yonder
 and, even, also, namely
-begin
+begin, reign, rule
 on, to, against, on the basis of, at
 the
 bed, mattress, mat
@@ -22420,12 +22420,12 @@ the
 badly, evilly
 have, hold, possess
 carry around, am driven to and fro
-where, whither
+where, whither, whereas, since
 hear, listen
 that, since, because
 am, exist
 and, even, also, namely
-where, whither
+where, whither, whereas, since
 an untranslatable word that makes a statement contingent
 journey into, go into
 into, in, among, till, for
@@ -23213,7 +23213,7 @@ go out, come out
 the
 Pharisee
 and, even, also, namely
-begin
+begin, reign, rule
 seek together, discuss, dispute
 he, she, it, they, them, same
 seek, search for, desire
@@ -23435,7 +23435,7 @@ into, in, among, till, for
 house, household
 he, she, it, they, them, same
 say, speak
-and not, not even
+and not, not even, neither
 into, in, among, till, for
 the
 village
@@ -23516,7 +23516,7 @@ say, speak
 about, concerning, around
 he, she, it, they, them, same
 and, even, also, namely
-begin
+begin, reign, rule
 teach
 he, she, it, they, them, same
 that, since, because
@@ -23555,7 +23555,7 @@ take to myself, welcome
 the
 Peter
 he, she, it, they, them, same
-begin
+begin, reign, rule
 rebuke, chide, admonish, warn
 he, she, it, they, them, same
 the
@@ -23979,7 +23979,7 @@ have, hold, possess
 wind, breath, spirit
 unable to speak
 and, even, also, namely
-where, whither
+where, whither, whereas, since
 if
 he, she, it, they, them, same
 seize tight hold of, overtake, comprehend
@@ -24097,7 +24097,7 @@ powerful, able, possible
 the
 believe, have faith in
 immediately, soon
-cry aloud, shriek
+cry aloud, shriek, cry out
 the
 father, Father, ancestor
 the
@@ -24139,7 +24139,7 @@ go in, come in, enter
 into, in, among, till, for
 he, she, it, they, them, same
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 and, even, also, namely
 much, many, often
 convulse
@@ -24517,7 +24517,7 @@ cast, throw, rush, put, place, drop
 into, in, among, till, for
 the
 Gehenna
-where, whither
+where, whither, whereas, since
 the
 gnawing worm
 he, she, it, they, them, same
@@ -24965,7 +24965,7 @@ powerful, able, possible
 from, in the presence of
 the
 God, god
-begin
+begin, reign, rule
 say, speak
 the
 Peter
@@ -25070,7 +25070,7 @@ take, receive
 again, further, on the other hand
 the
 twelve
-begin
+begin, reign, rule
 he, she, it, they, them, same
 say, speak
 the
@@ -25233,7 +25233,7 @@ and, even, also, namely
 hear, listen
 the
 ten
-begin
+begin, reign, rule
 am angry, am incensed
 about, concerning, around
 James
@@ -25250,7 +25250,7 @@ know, remember
 that, since, because
 the
 think, seem, appear, it seems
-begin
+begin, reign, rule
 the
 race, people, Gentiles
 exercise authority over, overpower
@@ -25341,8 +25341,8 @@ Jesus
 the
 of Nazareth
 am, exist
-begin
-cry aloud, shriek
+begin, reign, rule
+cry aloud, shriek, cry out
 and, even, also, namely
 say, speak
 son, descendent
@@ -25360,7 +25360,7 @@ the
 but, on the other hand, and
 much, many, often
 more, rather
-cry aloud, shriek
+cry aloud, shriek, cry out
 son, descendent
 David
 pity, have mercy on
@@ -25575,7 +25575,7 @@ lead forth, go before
 and, even, also, namely
 the
 accompany, attend, follow
-cry aloud, shriek
+cry aloud, shriek, cry out
 hosanna
 bless
 the
@@ -25664,7 +25664,7 @@ age, cycle of time
 from out, out from among, from
 you
 no one, nothing
-fruit, result, gain
+fruit, result, gain, crop
 eat
 and, even, also, namely
 hear, listen
@@ -25680,7 +25680,7 @@ go in, come in, enter
 into, in, among, till, for
 the
 temple
-begin
+begin, reign, rule
 throw, cast, put out, banish, bring forth, produce
 the
 sell
@@ -25995,7 +25995,7 @@ power, authority, weight
 this, he, she, it
 do, make
 and, even, also, namely
-begin
+begin, reign, rule
 he, she, it, they, them, same
 in, on, among
 parable, comparison
@@ -26033,7 +26033,7 @@ worker of soil, husbandman, vine-dresser
 receive, take
 from, away from
 the
-fruit, result, gain
+fruit, result, gain, crop
 the
 vineyard
 and, even, also, namely
@@ -26390,7 +26390,7 @@ not, lest
 know, remember
 the
 writing, passage of scripture, scriptures
-and not, not even
+and not, not even, neither
 the
 might, power, marvelous works
 the
@@ -26863,7 +26863,7 @@ all, the whole, every kind of
 the
 but, on the other hand, and
 Jesus
-begin
+begin, reign, rule
 say, speak
 he, she, it, they, them, same
 look, see
@@ -27022,7 +27022,7 @@ abominable thing, accursed thing
 the
 desolation, devastation
 cause to stand, stand
-where, whither
+where, whither, whereas, since
 no, not
 it is necessary, inevitable
 the
@@ -27043,7 +27043,7 @@ the
 top of house
 not, lest
 go down, come down
-and not, not even
+and not, not even, neither
 go in, come in, enter
 any one, some one
 raise, lift up
@@ -27530,7 +27530,7 @@ verily, truly, amen, so let it be
 but, on the other hand, and
 say, speak
 you
-where, whither
+where, whither, whereas, since
 if
 proclaim, herald, preach
 the
@@ -27623,7 +27623,7 @@ carry, carry away, bear
 accompany, attend, follow
 he, she, it, they, them, same
 and, even, also, namely
-where, whither
+where, whither, whereas, since
 if
 go in, come in, enter
 say, speak
@@ -27638,7 +27638,7 @@ am, exist
 the
 inn, lodging-place
 I
-where, whither
+where, whither, whereas, since
 the
 the feast of Passover, the Passover lamb
 with, after
@@ -27704,7 +27704,7 @@ the
 eat
 with, after
 I
-begin
+begin, reign, rule
 pain, grieve, vex
 and, even, also, namely
 say, speak
@@ -27945,7 +27945,7 @@ John
 with, after
 he, she, it, they, them, same
 and, even, also, namely
-begin
+begin, reign, rule
 am greatly astonished
 and, even, also, namely
 am troubled, distressed
@@ -28071,7 +28071,7 @@ say, speak
 he, she, it, they, them, same
 sleep, am sleeping
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 and, even, also, namely
 make to rest, give rest to, rest, take my ease
 have in full, am far, it is enough
@@ -28437,7 +28437,7 @@ involved in, liable
 am, exist
 death
 and, even, also, namely
-begin
+begin, reign, rule
 any one, some one
 spit upon
 he, she, it, they, them, same
@@ -28511,7 +28511,7 @@ the
 female slave, maidservant, maid.
 see, look upon, experience
 he, she, it, they, them, same
-begin
+begin, reign, rule
 again, further, on the other hand
 say, speak
 the
@@ -28544,7 +28544,7 @@ Galilean
 am, exist
 the
 but, on the other hand, and
-begin
+begin, reign, rule
 curse, invoke curses
 and, even, also, namely
 swear, take an oath
@@ -28683,7 +28683,7 @@ and, even, also, namely
 go up, mount, ascend
 the
 crowd
-begin
+begin, reign, rule
 ask, request, beg, petition
 just as, as
 do, make
@@ -28741,7 +28741,7 @@ Jewish
 the
 but, on the other hand, and
 again, further, on the other hand
-cry aloud, shriek
+cry aloud, shriek, cry out
 crucify
 he, she, it, they, them, same
 the
@@ -28756,7 +28756,7 @@ bad, evil
 the
 but, on the other hand, and
 greatly, exceedingly
-cry aloud, shriek
+cry aloud, shriek, cry out
 crucify
 he, she, it, they, them, same
 the
@@ -28806,7 +28806,7 @@ weave together, plait
 made of thorns
 crown, garland
 and, even, also, namely
-begin
+begin, reign, rule
 greet, salute, pay my respects to
 he, she, it, they, them, same
 rejoice, am glad
@@ -29345,7 +29345,7 @@ here
 see, look upon, experience
 the
 place
-where, whither
+where, whither, whereas, since
 put, place
 he, she, it, they, them, same
 but, except
@@ -29430,7 +29430,7 @@ he, she, it, they, them, same
 walk, conduct my life
 make clear, visible, or manifest
 in, on, among
-another, different
+another, different, other
 form, shape, outward appearance
 travel, journey, go
 into, in, among, till, for
@@ -29439,7 +29439,7 @@ and he, she, it, and that
 come or go away from, depart, return
 report, bring a report, announce
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 neither, nor, not even
 that, that one there, yonder
 believe, have faith in
@@ -29611,7 +29611,7 @@ come into being, am born
 the
 word, speech, divine utterance, analogy
 think, seem, appear, it seems
-I also, I too
+I also, I too, and I, but
 accompany, follow closely, investigate
 from above, from the beginning, again
 all, the whole, every kind of
@@ -30276,7 +30276,7 @@ woman, wife, my lady
 and, even, also, namely
 bless
 the
-fruit, result, gain
+fruit, result, gain, crop
 the
 belly, womb, inner man
 you
@@ -31012,7 +31012,7 @@ hasten, desire earnestly
 and, even, also, namely
 find by seeking out
 the
-and, both
+and, both, likewise, so
 Mary, Miriam
 and, even, also, namely
 the
@@ -31067,7 +31067,7 @@ and, even, also, namely
 turn back, return
 the
 shepherd
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 and, even, also, namely
 praise
 the
@@ -31272,7 +31272,7 @@ the
 people, crowd
 light, source of light
 into, in, among, till, for
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 race, people, Gentiles
 and, even, also, namely
 honor, renown, glory splendor
@@ -31550,7 +31550,7 @@ see, look upon, experience
 the
 father, Father, ancestor
 you
-I also, I too
+I also, I too, and I, but
 torment, pain
 seek, search for, desire
 you
@@ -31755,13 +31755,13 @@ am about to
 anger, wrath, passion
 do, make
 therefore, then
-fruit, result, gain
+fruit, result, gain, crop
 worthy, worthy of, deserving
 the
 repentance, change of mind
 and, even, also, namely
 not, lest
-begin
+begin, reign, rule
 say, speak
 in, on, among
 himself, herself, itself
@@ -31800,7 +31800,7 @@ therefore, then
 tree
 not, lest
 do, make
-fruit, result, gain
+fruit, result, gain, crop
 beautiful, good, worthy
 cut out, cut off
 and, even, also, namely
@@ -31873,7 +31873,7 @@ say, speak
 he, she, it, they, them, same
 no one, nothing
 blackmail, extort from
-and not, not even
+and not, not even, neither
 accuse falsely, defraud
 and, even, also, namely
 am sufficient, suffice, am content, satisfied
@@ -31962,7 +31962,7 @@ much, many, often
 truly, indeed
 therefore, then
 and, even, also, namely
-another, different
+another, different, other
 summon, entreat, admonish, comfort
 bring good news, preach good tidings
 the
@@ -32047,7 +32047,7 @@ and, even, also, namely
 he, she, it, they, them, same
 am, exist
 Jesus
-begin
+begin, reign, rule
 as if, as it were, like, about
 year
 thirty
@@ -32440,7 +32440,7 @@ in, on, among
 the
 assembly, congregation, synagogue
 he, she, it, they, them, same
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 by, under, about
 all, the whole, every kind of
 and, even, also, namely
@@ -32528,7 +32528,7 @@ assembly, congregation, synagogue
 am, exist
 direct my gaze, look steadily
 he, she, it, they, them, same
-begin
+begin, reign, rule
 but, on the other hand, and
 say, speak
 to, towards, with
@@ -32956,7 +32956,7 @@ he, she, it, they, them, same
 that, since, because
 and, even, also, namely
 the
-another, different
+another, different, other
 city
 bring good news, preach good tidings
 I
@@ -33096,7 +33096,7 @@ the
 a sharer, partner
 in, on, among
 the
-another, different
+another, different, other
 ship, vessel
 the
 come, go
@@ -33376,7 +33376,7 @@ the
 sin
 you
 and, even, also, namely
-begin
+begin, reign, rule
 reason, debate, consider
 the
 scribe, town-clerk, man of learning
@@ -33475,7 +33475,7 @@ into, in, among, till, for
 the
 house, household
 he, she, it, they, them, same
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 and, even, also, namely
@@ -33483,7 +33483,7 @@ bewilderment, amazement
 receive, take
 all, the whole
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 and, even, also, namely
@@ -33823,7 +33823,7 @@ man, one of human race
 come into being, am born
 but, on the other hand, and
 in, on, among
-another, different
+another, different, other
 Sabbath, week
 go in, come in, enter
 he, she, it, they, them, same
@@ -34501,14 +34501,14 @@ am, exist
 tree
 beautiful, good, worthy
 do, make
-fruit, result, gain
+fruit, result, gain, crop
 rotten, useless, corrupt
 neither, nor, not even
 again, further, on the other hand
 tree
 rotten, useless, corrupt
 do, make
-fruit, result, gain
+fruit, result, gain, crop
 beautiful, good, worthy
 each, every one
 for
@@ -34516,7 +34516,7 @@ tree
 from out, out from among, from
 the
 one's own, private, personal
-fruit, result, gain
+fruit, result, gain, crop
 come to know, learn, realize
 no, not
 for
@@ -34918,7 +34918,7 @@ sit up
 the
 dead, a corpse
 and, even, also, namely
-begin
+begin, reign, rule
 speak, say
 and, even, also, namely
 offer, give
@@ -34931,7 +34931,7 @@ but, on the other hand, and
 fear, terror, reverence
 all, the whole, every kind of
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 say, speak
@@ -35072,7 +35072,7 @@ but, on the other hand, and
 the
 angel, messenger
 John
-begin
+begin, reign, rule
 say, speak
 to, towards, with
 the
@@ -35318,7 +35318,7 @@ he, she, it, they, them, same
 weep, weep for, mourn
 the
 tear
-begin
+begin, reign, rule
 moisten, rain, send rain
 the
 foot
@@ -35396,7 +35396,7 @@ denarius
 five hundred
 the
 but, on the other hand, and
-another, different
+another, different, other
 fifty
 not, lest
 have, hold, possess
@@ -35516,7 +35516,7 @@ you
 the
 sin
 and, even, also, namely
-begin
+begin, reign, rule
 the
 recline at table with
 say, speak
@@ -35595,7 +35595,7 @@ Herod
 and, even, also, namely
 Susannah
 and, even, also, namely
-another, different
+another, different, other
 much, many, often
 whosoever, whichsoever, whatsoever
 wait at table, serve
@@ -35647,7 +35647,7 @@ sky, heaven
 eat till it is finished
 he, she, it, they, them, same
 and, even, also, namely
-another, different
+another, different, other
 fall down
 on, to, against, on the basis of, at
 the
@@ -35661,7 +35661,7 @@ not, lest
 have, hold, possess
 moisture
 and, even, also, namely
-another, different
+another, different, other
 fall, fall under
 in, on, among
 middle, in the middle
@@ -35674,7 +35674,7 @@ thorn-bush
 suffocate, choke, drown, stop the growth of
 he, she, it, they, them, same
 and, even, also, namely
-another, different
+another, different, other
 fall, fall under
 into, in, among, till, for
 the
@@ -35684,7 +35684,7 @@ good
 and, even, also, namely
 grow, grow up
 do, make
-fruit, result, gain
+fruit, result, gain, crop
 a hundredfold
 this, he, she, it
 say, speak
@@ -35719,7 +35719,7 @@ the
 God, god
 the
 but, on the other hand, and
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 in, on, among
 parable, comparison
 in order that, so that
@@ -36807,7 +36807,7 @@ heal
 the
 but, on the other hand, and
 day
-begin
+begin, reign, rule
 rest, recline, make to yield
 come near, consent to
 but, on the other hand, and
@@ -37157,7 +37157,7 @@ visible form, shape, appearance, kind
 the
 face, countenance, surface
 he, she, it, they, them, same
-another, different
+another, different, other
 and, even, also, namely
 the
 raiment, clothing
@@ -37344,7 +37344,7 @@ receive, take
 he, she, it, they, them, same
 and, even, also, namely
 suddenly, unexpectedly
-cry aloud, shriek
+cry aloud, shriek, cry out
 and, even, also, namely
 convulse
 he, she, it, they, them, same
@@ -37651,7 +37651,7 @@ he, she, it, they, them, same
 and, even, also, namely
 travel, journey, go
 into, in, among, till, for
-another, different
+another, different, other
 village
 and, even, also, namely
 travel, journey, go
@@ -37665,7 +37665,7 @@ to, towards, with
 he, she, it, they, them, same
 accompany, attend, follow
 you
-where, whither
+where, whither, whereas, since
 if
 come or go away from, depart, return
 and, even, also, namely
@@ -37697,7 +37697,7 @@ rest, recline, make to yield
 say, speak
 but, on the other hand, and
 to, towards, with
-another, different
+another, different, other
 accompany, attend, follow
 I
 the
@@ -37732,7 +37732,7 @@ God, god
 say, speak
 but, on the other hand, and
 and, even, also, namely
-another, different
+another, different, other
 accompany, attend, follow
 you
 lord, Lord, master, sir
@@ -37775,7 +37775,7 @@ this, he, she, it
 show forth, show clearly, proclaim, appoint
 the
 lord, Lord, master, sir
-another, different
+another, different, other
 seventy
 and, even, also, namely
 send forth, send, send away, dismiss
@@ -38715,7 +38715,7 @@ offer, give
 he, she, it, they, them, same
 how much, how great, how many
 need
-I also, I too
+I also, I too, and I, but
 you
 say, speak
 ask, request, beg, petition
@@ -38824,7 +38824,7 @@ evil-spirit, demon
 throw, cast, put out, banish, bring forth, produce
 the
 evil-spirit, demon
-another, different
+another, different, other
 but, on the other hand, and
 try, tempt, test
 sign, miracle, indication
@@ -38993,7 +38993,7 @@ then
 travel, journey, go
 and, even, also, namely
 take, receive
-another, different
+another, different, other
 wind, breath, spirit
 evil, bad, wicked
 himself, herself, itself
@@ -39055,7 +39055,7 @@ the
 but, on the other hand, and
 crowd
 gather together, crowd upon, press around
-begin
+begin, reign, rule
 say, speak
 the
 generation
@@ -39515,7 +39515,7 @@ prevent, hinder
 and thence, and from there
 go out, come out
 he, she, it, they, them, same
-begin
+begin, reign, rule
 the
 scribe, town-clerk, man of learning
 and, even, also, namely
@@ -39546,7 +39546,7 @@ crowd
 so that, therefore
 trample under foot
 one another
-begin
+begin, reign, rule
 say, speak
 to, towards, with
 the
@@ -39844,7 +39844,7 @@ have, hold, possess
 where, whither
 gather together
 the
-fruit, result, gain
+fruit, result, gain, crop
 I
 and, even, also, namely
 say, speak
@@ -39929,7 +39929,7 @@ the
 soul, life, self
 who, which, what
 eat
-and not, not even
+and not, not even, neither
 the
 body, flesh
 who, which, what
@@ -39991,7 +39991,7 @@ am powerful, am able
 who, which, what
 about, concerning, around
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 am anxious, distracted
 understand, perceive, consider
 the
@@ -40104,14 +40104,14 @@ unfailing
 in, on, among
 the
 sky, heaven
-where, whither
+where, whither, whereas, since
 thief
 no, not
 come near, approach
 neither, nor, not even
 moth
 destroy, waste, corrupt
-where, whither
+where, whither, whereas, since
 for
 am, exist
 the
@@ -40304,7 +40304,7 @@ lord, Lord, master, sir
 I
 come, go
 and, even, also, namely
-begin
+begin, reign, rule
 beat, strike, wound, inflict punishment
 the
 boy or girl child
@@ -40312,7 +40312,7 @@ and, even, also, namely
 the
 female slave, maidservant, maid.
 eat
-and, both
+and, both, likewise, so
 and, even, also, namely
 drink, imbibe
 and, even, also, namely
@@ -40680,7 +40680,7 @@ he, she, it, they, them, same
 and, even, also, namely
 come, go
 seek, search for, desire
-fruit, result, gain
+fruit, result, gain, crop
 in, on, among
 he, she, it, they, them, same
 and, even, also, namely
@@ -40698,7 +40698,7 @@ from, away from
 who, which, what, that
 come, go
 seek, search for, desire
-fruit, result, gain
+fruit, result, gain, crop
 in, on, among
 the
 fig-tree
@@ -40737,7 +40737,7 @@ manure
 and if, even if
 truly, indeed
 do, make
-fruit, result, gain
+fruit, result, gain, crop
 into, in, among, till, for
 the
 am about to
@@ -40798,7 +40798,7 @@ and, even, also, namely
 instantly, immediately
 make straight again, rear again, restore
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 answer, reply
@@ -41023,7 +41023,7 @@ shut
 the
 door, opportunity
 and, even, also, namely
-begin
+begin, reign, rule
 without, outside
 cause to stand, stand
 and, even, also, namely
@@ -41044,7 +41044,7 @@ you
 whence
 am, exist
 then
-begin
+begin, reign, rule
 say, speak
 eat
 before the face of, in the presence of
@@ -41369,7 +41369,7 @@ this, he, she, it
 place
 and, even, also, namely
 then
-begin
+begin, reign, rule
 with, after
 shame
 the
@@ -41432,15 +41432,15 @@ crow, shout, summon
 the
 friendly, a friend
 you
-and not, not even
+and not, not even, neither
 the
 brother
 you
-and not, not even
+and not, not even, neither
 the
 akin, a relative
 you
-and not, not even
+and not, not even, neither
 neighbor
 rich
 not, lest
@@ -41525,7 +41525,7 @@ now, already
 ready, prepared
 am, exist
 and, even, also, namely
-begin
+begin, reign, rule
 from, away from
 one
 all, the whole, every kind of
@@ -41548,7 +41548,7 @@ have, hold, possess
 I
 make excuse, refuse, reject
 and, even, also, namely
-another, different
+another, different, other
 say, speak
 yoke, team, pair
 ox
@@ -41564,7 +41564,7 @@ have, hold, possess
 I
 make excuse, refuse, reject
 and, even, also, namely
-another, different
+another, different, other
 say, speak
 woman, wife, my lady
 marry
@@ -41695,7 +41695,7 @@ and, even, also, namely
 the
 sister
 still, yet, even now
-and, both
+and, both, likewise, so
 and, even, also, namely
 the
 soul, life, self
@@ -41750,7 +41750,7 @@ complete, perform
 all, the whole, every kind of
 the
 behold, look at, experience
-begin
+begin, reign, rule
 he, she, it, they, them, same
 mock
 say, speak
@@ -41758,7 +41758,7 @@ that, since, because
 this, he, she, it
 the
 man, one of human race
-begin
+begin, reign, rule
 build, build up, edify
 and, even, also, namely
 no, not
@@ -41768,7 +41768,7 @@ or, than
 who, which, what
 king, ruler, emperor
 travel, journey, go
-another, different
+another, different, other
 king, ruler, emperor
 ponder, encounter, confer or dispute with
 into, in, among, till, for
@@ -41865,7 +41865,7 @@ he, she, it, they, them, same
 and, even, also, namely
 murmur greatly, continue murmuring
 the
-and, both
+and, both, likewise, so
 Pharisee
 and, even, also, namely
 the
@@ -42083,7 +42083,7 @@ region, land, fields
 that, that one there, yonder
 and, even, also, namely
 he, she, it, they, them, same
-begin
+begin, reign, rule
 am lacking, fall short, suffer need
 and, even, also, namely
 travel, journey, go
@@ -42267,7 +42267,7 @@ destroy, lose, am perishing
 and, even, also, namely
 find
 and, even, also, namely
-begin
+begin, reign, rule
 cheer, am glad, make merry
 am, exist
 but, on the other hand, and
@@ -42530,7 +42530,7 @@ soon, quickly, hastily
 write
 fifty
 then, thereafter, afterwards
-another, different
+another, different, other
 say, speak
 you
 but, on the other hand, and
@@ -42660,14 +42660,14 @@ one
 hate, detest
 and, even, also, namely
 the
-another, different
+another, different, other
 love
 or, than
 one
 hold fast to
 and, even, also, namely
 the
-another, different
+another, different, other
 despise, scorn
 no, not
 am powerful, am able
@@ -42755,7 +42755,7 @@ woman, wife, my lady
 he, she, it, they, them, same
 and, even, also, namely
 marry
-another, different
+another, different, other
 commit adultery
 and, even, also, namely
 the
@@ -42928,7 +42928,7 @@ to, towards, with
 you
 not, lest
 am powerful, am able
-and not, not even
+and not, not even, neither
 thence, from that place
 to, towards, with
 I
@@ -43245,7 +43245,7 @@ turn back, return
 with, after
 sound, noise, voice
 large, great
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 and, even, also, namely
@@ -43364,7 +43364,7 @@ see, look upon, experience
 here
 not, lest
 come or go away from, depart, return
-and not, not even
+and not, not even, neither
 pursue, persecute
 just as, as
 for
@@ -43543,7 +43543,7 @@ one
 take, receive
 and, even, also, namely
 the
-another, different
+another, different, other
 send away, release, remit, forgive, permit
 am, exist
 two
@@ -43556,7 +43556,7 @@ one
 take, receive
 the
 but, on the other hand, and
-another, different
+another, different, other
 send away, release, remit, forgive, permit
 and, even, also, namely
 answer, reply
@@ -43568,7 +43568,7 @@ the
 but, on the other hand, and
 say, speak
 he, she, it, they, them, same
-where, whither
+where, whither, whereas, since
 the
 body, flesh
 there, yonder, thither
@@ -43729,7 +43729,7 @@ just, righteous, impartial
 and, even, also, namely
 ignore, despise
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 parable, comparison
 this, he, she, it
@@ -43745,7 +43745,7 @@ one
 Pharisee
 and, even, also, namely
 the
-another, different
+another, different, other
 collector of taxes
 the
 Pharisee
@@ -43763,7 +43763,7 @@ no, not
 am, exist
 just as, as
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 man, one of human race
 rapacious, ravenous, a robber, an extortioner
@@ -44199,7 +44199,7 @@ he, she, it, they, them, same
 but, on the other hand, and
 much, many, often
 more, rather
-cry aloud, shriek
+cry aloud, shriek, cry out
 son, descendent
 David
 pity, have mercy on
@@ -44245,7 +44245,7 @@ look up, recover my sight
 and, even, also, namely
 accompany, attend, follow
 he, she, it, they, them, same
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 and, even, also, namely
@@ -44555,7 +44555,7 @@ five
 city
 and, even, also, namely
 the
-another, different
+another, different, other
 come, go
 say, speak
 lord, Lord, master, sir
@@ -44619,7 +44619,7 @@ the
 silver, shekel, money in general
 on, to, against, on the basis of, at
 table for food or business
-I also, I too
+I also, I too, and I, but
 come, go
 with
 interest, usury
@@ -44818,7 +44818,7 @@ the
 mountain
 the
 olive tree
-begin
+begin, reign, rule
 all, the whole
 the
 multitude
@@ -44876,7 +44876,7 @@ this, he, she, it
 keep silence
 the
 stone
-cry aloud, shriek
+cry aloud, shriek, cry out
 and, even, also, namely
 as, like as, how, while, so that
 come near, approach
@@ -44955,7 +44955,7 @@ go in, come in, enter
 into, in, among, till, for
 the
 temple
-begin
+begin, reign, rule
 throw, cast, put out, banish, bring forth, produce
 the
 sell
@@ -45063,7 +45063,7 @@ to, towards, with
 he, she, it, they, them, same
 ask, question, request
 you
-I also, I too
+I also, I too, and I, but
 word, speech, divine utterance, analogy
 and, even, also, namely
 say, speak
@@ -45129,7 +45129,7 @@ of what sort
 power, authority, weight
 this, he, she, it
 do, make
-begin
+begin, reign, rule
 but, on the other hand, and
 to, towards, with
 the
@@ -45159,7 +45159,7 @@ a male slave
 in order that, so that
 from, away from
 the
-fruit, result, gain
+fruit, result, gain, crop
 the
 vineyard
 offer, give
@@ -45173,7 +45173,7 @@ flay, flog, scourge, beat
 empty, vain, hollow
 and, even, also, namely
 put to, add, do again
-another, different
+another, different, other
 send
 a male slave
 the
@@ -45867,7 +45867,7 @@ kingship, sovereignty, authority, rule, kingdom
 on, to, against, on the basis of, at
 kingship, sovereignty, authority, rule, kingdom
 earthquake, storm
-and, both
+and, both, likewise, so
 large, great
 and, even, also, namely
 down from, against, according to, throughout, during
@@ -45877,7 +45877,7 @@ and, even, also, namely
 famine, hunger
 am, exist
 cause of terror
-and, both
+and, both, likewise, so
 and, even, also, namely
 from, away from
 sky, heaven
@@ -46127,7 +46127,7 @@ might, power, marvelous works
 and, even, also, namely
 honor, renown, glory splendor
 much, many, often
-begin
+begin, reign, rule
 but, on the other hand, and
 this, he, she, it
 come into being, am born
@@ -46434,7 +46434,7 @@ where, whither
 am, exist
 the
 inn, lodging-place
-where, whither
+where, whither, whereas, since
 the
 the feast of Passover, the Passover lamb
 with, after
@@ -46614,7 +46614,7 @@ who, which, what, that
 hand over, deliver, betray
 and, even, also, namely
 he, she, it, they, them, same
-begin
+begin, reign, rule
 seek together, discuss, dispute
 to, towards, with
 himself, herself, itself
@@ -46706,7 +46706,7 @@ in, on, among
 the
 trial, testing, temptation
 I
-I also, I too
+I also, I too, and I, but
 appoint, make
 you
 just as, as
@@ -47177,7 +47177,7 @@ woman, wife, my lady
 and, even, also, namely
 with, after
 short, little
-another, different
+another, different, other
 see, look upon, experience
 he, she, it, they, them, same
 say
@@ -47281,7 +47281,7 @@ the
 strike, smite
 you
 and, even, also, namely
-another, different
+another, different, other
 much, many, often
 speak evil against, blaspheme
 say, speak
@@ -47297,7 +47297,7 @@ assembly of elders
 the
 people, crowd
 high priest, chief priest
-and, both
+and, both, likewise, so
 and, even, also, namely
 scribe, town-clerk, man of learning
 and, even, also, namely
@@ -47392,7 +47392,7 @@ he, she, it, they, them, same
 on, to, against, on the basis of, at
 the
 Pilate
-begin
+begin, reign, rule
 but, on the other hand, and
 accuse, charge, prosecute
 he, she, it, they, them, same
@@ -47464,7 +47464,7 @@ all, the whole, entire
 the
 Judea
 and, even, also, namely
-begin
+begin, reign, rule
 from, away from
 the
 Galilee
@@ -47572,7 +47572,7 @@ come into being, am born
 but, on the other hand, and
 friendly, a friend
 the
-and, both
+and, both, likewise, so
 Herod
 and, even, also, namely
 the
@@ -47829,7 +47829,7 @@ who, which, what, that
 no, not
 feed, rear
 then
-begin
+begin, reign, rule
 say, speak
 the
 mountain
@@ -47856,7 +47856,7 @@ come into being, am born
 lead
 but, on the other hand, and
 and, even, also, namely
-another, different
+another, different, other
 a criminal
 two
 with
@@ -47979,7 +47979,7 @@ I
 answer, reply
 but, on the other hand, and
 the
-another, different
+another, different, other
 rebuke, chide, admonish, warn
 he, she, it, they, them, same
 say
@@ -48083,7 +48083,7 @@ the
 centurion
 the
 come into being, am born
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 say, speak
@@ -48347,7 +48347,7 @@ eleven
 and, even, also, namely
 all, the whole, every kind of
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 am, exist
 but, on the other hand, and
 the
@@ -48361,7 +48361,7 @@ the
 James
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 with
 he, she, it, they, them, same
 say, speak
@@ -48525,7 +48525,7 @@ all, the whole, every kind of
 the
 people, crowd
 how, in order that, so that
-and, both
+and, both, likewise, so
 hand over, deliver, betray
 he, she, it, they, them, same
 the
@@ -48647,7 +48647,7 @@ the
 honor, renown, glory splendor
 he, she, it, they, them, same
 and, even, also, namely
-begin
+begin, reign, rule
 from, away from
 Moses
 and, even, also, namely
@@ -48966,7 +48966,7 @@ into, in, among, till, for
 all, the whole, every kind of
 the
 race, people, Gentiles
-begin
+begin, reign, rule
 from, away from
 Jerusalem
 you
@@ -49236,7 +49236,7 @@ witness, testify
 about, concerning, around
 he, she, it, they, them, same
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 this, he, she, it
 am, exist
@@ -49447,7 +49447,7 @@ come into being, am born
 over, beyond
 the
 Jordan
-where, whither
+where, whither, whereas, since
 am, exist
 the
 John
@@ -49491,7 +49491,7 @@ that, since, because
 first, before
 I
 am, exist
-I also, I too
+I also, I too, and I, but
 no, not
 know, remember
 he, she, it, they, them, same
@@ -49524,7 +49524,7 @@ and, even, also, namely
 remain, abide
 on, to, against, on the basis of, at
 he, she, it, they, them, same
-I also, I too
+I also, I too, and I, but
 no, not
 know, remember
 he, she, it, they, them, same
@@ -49556,7 +49556,7 @@ dip, submerge, baptize
 in, on, among
 wind, breath, spirit
 set apart, holy, sacred
-I also, I too
+I also, I too, and I, but
 see, look upon, experience
 and, even, also, namely
 witness, testify
@@ -50119,7 +50119,7 @@ from out, out from among, from
 the
 temple
 the
-and, both
+and, both, likewise, so
 sheep
 and, even, also, namely
 the
@@ -50437,7 +50437,7 @@ beget, bring forth, give birth to
 from above, from the beginning, again
 the
 wind, breath, spirit
-where, whither
+where, whither, whereas, since
 will, wish, desire
 blow
 and, even, also, namely
@@ -51219,7 +51219,7 @@ water
 in order that, so that
 not, lest
 thirst for, desire earnestly
-and not, not even
+and not, not even, neither
 pass through, spread a report
 here, in this place
 draw, draw out
@@ -51293,7 +51293,7 @@ Jerusalem
 am, exist
 the
 place
-where, whither
+where, whither, whereas, since
 worship
 it is necessary, inevitable
 say, speak
@@ -51545,7 +51545,7 @@ wages, reward
 receive, take
 and, even, also, namely
 gather together
-fruit, result, gain
+fruit, result, gain, crop
 into, in, among, till, for
 life
 eternal, unending
@@ -51639,7 +51639,7 @@ the
 word, speech, divine utterance, analogy
 he, she, it, they, them, same
 the
-and, both
+and, both, likewise, so
 woman, wife, my lady
 say, speak
 that, since, because
@@ -51719,7 +51719,7 @@ the
 Cana
 the
 Galilee
-where, whither
+where, whither, whereas, since
 do, make
 the
 water
@@ -52161,7 +52161,7 @@ I
 until, as far as
 now, just now
 word, trade, do
-I also, I too
+I also, I too, and I, but
 word, trade, do
 through, on account of
 this, he, she, it
@@ -52974,7 +52974,7 @@ he, she, it, they, them, same
 the
 Jesus
 the
-and, both
+and, both, likewise, so
 sea, lake
 wind
 large, great
@@ -53073,7 +53073,7 @@ Tiberias
 near
 the
 place
-where, whither
+where, whither, whereas, since
 eat
 the
 bread, loaf, food
@@ -53481,7 +53481,7 @@ send
 I
 drag, draw, pull, persuade
 he, she, it, they, them, same
-I also, I too
+I also, I too, and I, but
 raise up, set up, rise from
 he, she, it, they, them, same
 in, on, among
@@ -53663,7 +53663,7 @@ blood
 have, hold, possess
 life
 eternal, unending
-I also, I too
+I also, I too, and I, but
 raise up, set up, rise from
 he, she, it, they, them, same
 the
@@ -53696,7 +53696,7 @@ blood
 in, on, among
 I
 remain, abide
-I also, I too
+I also, I too, and I, but
 in, on, among
 he, she, it, they, them, same
 just as, as
@@ -53705,7 +53705,7 @@ I
 the
 live
 father, Father, ancestor
-I also, I too
+I also, I too, and I, but
 live
 through, on account of
 the
@@ -53792,7 +53792,7 @@ son, descendent
 the
 man, one of human race
 go up, mount, ascend
-where, whither
+where, whither, whereas, since
 am, exist
 the
 formerly, before
@@ -54377,7 +54377,7 @@ no one, none, nothing
 come to know, learn, realize
 whence
 am, exist
-cry aloud, shriek
+cry aloud, shriek, cry out
 therefore, then
 in, on, among
 the
@@ -54387,7 +54387,7 @@ the
 Jesus
 and, even, also, namely
 say, speak
-I also, I too
+I also, I too, and I, but
 know, remember
 and, even, also, namely
 know, remember
@@ -54498,7 +54498,7 @@ and, even, also, namely
 no, not
 find
 and, even, also, namely
-where, whither
+where, whither, whereas, since
 am, exist
 I
 you
@@ -54545,7 +54545,7 @@ and, even, also, namely
 no, not
 find
 and, even, also, namely
-where, whither
+where, whither, whereas, since
 am, exist
 I
 you
@@ -54565,7 +54565,7 @@ cause to stand, stand
 the
 Jesus
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 if
 any one, some one
@@ -54611,7 +54611,7 @@ wind, breath, spirit
 that, since, because
 Jesus
 not yet, never before
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 from out, out from among, from
 the
 crowd
@@ -54657,7 +54657,7 @@ from, away from
 Bethlehem
 the
 village
-where, whither
+where, whither, whereas, since
 am, exist
 David
 come, go
@@ -54929,7 +54929,7 @@ rebuke, expose
 go out, come out
 one
 down from, against, according to, throughout, during
-begin
+begin, reign, rule
 from, away from
 the
 elder
@@ -55183,7 +55183,7 @@ the
 sin
 you
 am dying, am about to die
-where, whither
+where, whither, whereas, since
 I
 go away, depart
 you
@@ -55199,7 +55199,7 @@ put to death, kill
 himself, herself, itself
 that, since, because
 say, speak
-where, whither
+where, whither, whereas, since
 I
 go away, depart
 you
@@ -55283,7 +55283,7 @@ send
 I
 unconcealed, true
 am, exist
-I also, I too
+I also, I too, and I, but
 who, which, what, that
 hear, listen
 from, in the presence of
@@ -55790,7 +55790,7 @@ answer, reply
 Jesus
 if
 I
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 of myself
 the
 honor, renown, glory splendor
@@ -55802,7 +55802,7 @@ the
 father, Father, ancestor
 I
 the
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 I
 who, which, what, that
 you
@@ -56831,7 +56831,7 @@ come to know, learn, realize
 I
 the
 father, Father, ancestor
-I also, I too
+I also, I too, and I, but
 come to know, learn, realize
 the
 father, Father, ancestor
@@ -57037,13 +57037,13 @@ the
 sound, noise, voice
 I
 hear, listen
-I also, I too
+I also, I too, and I, but
 come to know, learn, realize
 he, she, it, they, them, same
 and, even, also, namely
 accompany, attend, follow
 I
-I also, I too
+I also, I too, and I, but
 offer, give
 he, she, it, they, them, same
 life
@@ -57217,7 +57217,7 @@ in, on, among
 I
 the
 father, Father, ancestor
-I also, I too
+I also, I too, and I, but
 in, on, among
 the
 father, Father, ancestor
@@ -57241,7 +57241,7 @@ Jordan
 into, in, among, till, for
 the
 place
-where, whither
+where, whither, whereas, since
 am, exist
 John
 the
@@ -57346,7 +57346,7 @@ honor, renown, glory splendor
 the
 God, god
 in order that, so that
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 son, descendent
 the
@@ -57729,7 +57729,7 @@ still, yet, even now
 in, on, among
 the
 place
-where, whither
+where, whither, whereas, since
 meet
 he, she, it, they, them, same
 the
@@ -57771,7 +57771,7 @@ therefore, then
 Mary, Miriam
 as, like as, how, while, so that
 come, go
-where, whither
+where, whither, whereas, since
 am, exist
 Jesus
 see, look upon, experience
@@ -58231,7 +58231,7 @@ the feast of Passover, the Passover lamb
 come, go
 into, in, among, till, for
 Bethany
-where, whither
+where, whither, whereas, since
 am, exist
 Lazarus, Eliezer
 who, which, what, that
@@ -58485,7 +58485,7 @@ the
 first, before
 but, except
 when
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 Jesus
 then
 remember, recall
@@ -58605,7 +58605,7 @@ come, go
 the
 hour, season
 in order that, so that
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 son, descendent
 the
@@ -58632,7 +58632,7 @@ if
 but, on the other hand, and
 am dying, am about to die
 much, many, often
-fruit, result, gain
+fruit, result, gain, crop
 carry, bear, bring, lead
 the
 love, kiss
@@ -58663,7 +58663,7 @@ wait at table, serve
 I
 accompany, attend, follow
 and, even, also, namely
-where, whither
+where, whither, whereas, since
 am, exist
 I
 there, yonder, thither
@@ -58705,7 +58705,7 @@ the
 hour, season
 this, he, she, it
 father, Father, ancestor
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 you
 the
 name, character, reputation
@@ -58716,10 +58716,10 @@ from out, out from among, from
 the
 sky, heaven
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 and, even, also, namely
 again, further, on the other hand
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 therefore, then
 crowd
@@ -58763,7 +58763,7 @@ world, universe
 this, he, she, it
 throw, cast, put out, banish, bring forth, produce
 without, outside
-I also, I too
+I also, I too, and I, but
 if
 lift up, exalt
 from out, out from among, from
@@ -58979,7 +58979,7 @@ the
 God, god
 Jesus
 but, on the other hand, and
-cry aloud, shriek
+cry aloud, shriek, cry out
 and, even, also, namely
 say, speak
 the
@@ -59200,7 +59200,7 @@ into, in, among, till, for
 the
 basin
 and, even, also, namely
-begin
+begin, reign, rule
 wash
 the
 foot
@@ -59632,7 +59632,7 @@ go out, come out
 say, speak
 Jesus
 now, already, at present
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 son, descendent
 the
@@ -59640,25 +59640,25 @@ man, one of human race
 and, even, also, namely
 the
 God, god
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 in, on, among
 he, she, it, they, them, same
 if
 the
 God, god
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 in, on, among
 he, she, it, they, them, same
 and, even, also, namely
 the
 God, god
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 he, she, it, they, them, same
 in, on, among
 himself, herself, itself
 and, even, also, namely
 immediately, soon
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 he, she, it, they, them, same
 little child
 still, yet, even now
@@ -59674,7 +59674,7 @@ say, speak
 the
 Jewish
 that, since, because
-where, whither
+where, whither, whereas, since
 I
 go away, depart
 you
@@ -59722,7 +59722,7 @@ where, whither
 go away, depart
 answer, reply
 Jesus
-where, whither
+where, whither, whereas, since
 go away, depart
 no, not
 am powerful, am able
@@ -59818,14 +59818,14 @@ you
 to, towards, with
 of myself
 in order that, so that
-where, whither
+where, whither, whereas, since
 am, exist
 I
 and, even, also, namely
 you
 am, exist
 and, even, also, namely
-where, whither
+where, whither, whereas, since
 I
 go away, depart
 know, remember
@@ -60008,7 +60008,7 @@ I
 this, he, she, it
 do, make
 in order that, so that
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 father, Father, ancestor
 in, on, among
@@ -60032,7 +60032,7 @@ ordinance, injunction, command
 the
 mine
 keep, guard, observe
-I also, I too
+I also, I too, and I, but
 ask, question, request
 the
 father, Father, ancestor
@@ -60116,7 +60116,7 @@ and, even, also, namely
 you
 in, on, among
 I
-I also, I too
+I also, I too, and I, but
 in, on, among
 you
 the
@@ -60141,7 +60141,7 @@ by, under, about
 the
 father, Father, ancestor
 I
-I also, I too
+I also, I too, and I, but
 love
 he, she, it, they, them, same
 and, even, also, namely
@@ -60271,7 +60271,7 @@ agitate, stir up, trouble
 you
 the
 heart, inner life, intention
-and not, not even
+and not, not even, neither
 shrink, am fearful
 hear, listen
 that, since, because
@@ -60365,18 +60365,18 @@ in, on, among
 I
 not, lest
 carry, bear, bring, lead
-fruit, result, gain
+fruit, result, gain, crop
 raise, lift up
 he, she, it, they, them, same
 and, even, also, namely
 all, the whole, every kind of
 the
-fruit, result, gain
+fruit, result, gain, crop
 carry, bear, bring, lead
 cleanse, purify, prune
 he, she, it, they, them, same
 in order that, so that
-fruit, result, gain
+fruit, result, gain, crop
 much, many, often
 carry, bear, bring, lead
 now, already
@@ -60392,7 +60392,7 @@ you
 remain, abide
 in, on, among
 I
-I also, I too
+I also, I too, and I, but
 in, on, among
 you
 just as, as
@@ -60400,7 +60400,7 @@ the
 branch, shoot
 no, not
 am powerful, am able
-fruit, result, gain
+fruit, result, gain, crop
 carry, bear, bring, lead
 from, away from
 himself, herself, itself
@@ -60429,12 +60429,12 @@ the
 remain, abide
 in, on, among
 I
-I also, I too
+I also, I too, and I, but
 in, on, among
 he, she, it, they, them, same
 this, he, she, it
 carry, bear, bring, lead
-fruit, result, gain
+fruit, result, gain, crop
 much, many, often
 that, since, because
 apart from, without
@@ -60486,12 +60486,12 @@ come into being, am born
 you
 in, on, among
 this, he, she, it
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 father, Father, ancestor
 I
 in order that, so that
-fruit, result, gain
+fruit, result, gain, crop
 much, many, often
 carry, bear, bring, lead
 and, even, also, namely
@@ -60503,7 +60503,7 @@ love
 I
 the
 father, Father, ancestor
-I also, I too
+I also, I too, and I, but
 you
 love
 remain, abide
@@ -60632,11 +60632,11 @@ in order that, so that
 you
 go away, depart
 and, even, also, namely
-fruit, result, gain
+fruit, result, gain, crop
 carry, bear, bring, lead
 and, even, also, namely
 the
-fruit, result, gain
+fruit, result, gain, crop
 you
 remain, abide
 in order that, so that
@@ -61044,7 +61044,7 @@ announce, make known, report
 you
 that, that one there, yonder
 I
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 that, since, because
 from out, out from among, from
 the
@@ -61395,7 +61395,7 @@ each, every one
 into, in, among, till, for
 the
 one's own, private, personal
-I also, I too
+I also, I too, and I, but
 alone, but, only
 send away, release, remit, forgive, permit
 and, even, also, namely
@@ -61443,14 +61443,14 @@ father, Father, ancestor
 come, go
 the
 hour, season
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 you
 the
 son, descendent
 in order that, so that
 the
 son, descendent
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 you
 just as, as
 offer, give
@@ -61487,7 +61487,7 @@ Jesus
 anointed, Messiah, Christ
 I
 you
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 on, to, against, on the basis of, at
 the
 earth, soil, land
@@ -61501,7 +61501,7 @@ in order that, so that
 do, make
 and, even, also, namely
 now, already, at present
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 I
 you
 father, Father, ancestor
@@ -61532,7 +61532,7 @@ the
 world, universe
 yours, thy, thine
 am, exist
-I also, I too
+I also, I too, and I, but
 he, she, it, they, them, same
 offer, give
 and, even, also, namely
@@ -61602,7 +61602,7 @@ the
 yours, thy, thine
 mine
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 in, on, among
 he, she, it, they, them, same
 and, even, also, namely
@@ -61617,7 +61617,7 @@ in, on, among
 the
 world, universe
 am, exist
-I also, I too
+I also, I too, and I, but
 to, towards, with
 you
 come, go
@@ -61756,7 +61756,7 @@ send forth, send, send away, dismiss
 into, in, among, till, for
 the
 world, universe
-I also, I too
+I also, I too, and I, but
 send forth, send, send away, dismiss
 he, she, it, they, them, same
 into, in, among, till, for
@@ -61801,7 +61801,7 @@ you
 father, Father, ancestor
 in, on, among
 I
-I also, I too
+I also, I too, and I, but
 in, on, among
 you
 in order that, so that
@@ -61818,7 +61818,7 @@ that, since, because
 you
 I
 send forth, send, send away, dismiss
-I also, I too
+I also, I too, and I, but
 the
 honor, renown, glory splendor
 who, which, what, that
@@ -61864,7 +61864,7 @@ offer, give
 I
 will, wish, desire
 in order that, so that
-where, whither
+where, whither, whereas, since
 am, exist
 I
 and he, she, it, and that
@@ -61922,7 +61922,7 @@ I
 in, on, among
 he, she, it, they, them, same
 am, exist
-I also, I too
+I also, I too, and I, but
 in, on, among
 he, she, it, they, them, same
 this, he, she, it
@@ -61938,7 +61938,7 @@ the
 winter torrent
 the
 Kidron
-where, whither
+where, whither, whereas, since
 am, exist
 garden
 into, in, among, till, for
@@ -62303,7 +62303,7 @@ and, even, also, namely
 in, on, among
 the
 temple
-where, whither
+where, whither, whereas, since
 all, the whole, every kind of
 the
 Jewish
@@ -63032,7 +63032,7 @@ who, which, what, that
 say, speak
 in the Hebrew or Aramaic dialect
 Golgotha
-where, whither
+where, whither, whereas, since
 he, she, it, they, them, same
 crucify
 and, even, also, namely
@@ -63083,7 +63083,7 @@ the
 place
 the
 city
-where, whither
+where, whither, whereas, since
 crucify
 the
 Jesus
@@ -63412,7 +63412,7 @@ break by crushing
 he, she, it, they, them, same
 and, even, also, namely
 again, further, on the other hand
-another, different
+another, different, other
 writing, passage of scripture, scriptures
 say, speak
 see, look upon, experience
@@ -63499,7 +63499,7 @@ but, on the other hand, and
 in, on, among
 the
 place
-where, whither
+where, whither, whereas, since
 crucify
 garden
 and, even, also, namely
@@ -63728,7 +63728,7 @@ one
 to, towards, with
 the
 foot
-where, whither
+where, whither, whereas, since
 lie, recline, am laid
 the
 body, flesh
@@ -63797,7 +63797,7 @@ I
 where, whither
 put, place
 he, she, it, they, them, same
-I also, I too
+I also, I too, and I, but
 he, she, it, they, them, same
 raise, lift up
 say, speak
@@ -63876,7 +63876,7 @@ and, even, also, namely
 the
 door, opportunity
 shut, shut up
-where, whither
+where, whither, whereas, since
 am, exist
 the
 learner, disciple, pupil
@@ -63929,7 +63929,7 @@ send forth, send, send away, dismiss
 I
 the
 father, Father, ancestor
-I also, I too
+I also, I too, and I, but
 send
 you
 and, even, also, namely
@@ -64519,7 +64519,7 @@ gird
 of yourself
 and, even, also, namely
 walk, conduct my life
-where, whither
+where, whither, whereas, since
 will, wish, desire
 when, whensoever
 but, on the other hand, and
@@ -64534,7 +64534,7 @@ gird
 you
 and, even, also, namely
 carry, bear, bring, lead
-where, whither
+where, whither, whereas, since
 no, not
 will, wish, desire
 this, he, she, it
@@ -64543,7 +64543,7 @@ say, speak
 signify, indicate
 of what sort
 death
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 and, even, also, namely
@@ -64696,11 +64696,11 @@ all, the whole, every kind of
 O, an exclamation
 Theophilus
 who, which, what, that
-begin
+begin, reign, rule
 the
 Jesus
 do, make
-and, both
+and, both, likewise, so
 and, even, also, namely
 teach
 as far as, up to, until
@@ -64823,7 +64823,7 @@ am, exist
 I
 witness
 in, on, among
-and, both
+and, both, likewise, so
 Jerusalem
 and, even, also, namely
 in, on, among
@@ -64927,7 +64927,7 @@ where, whither, when
 am, exist
 wait, stay, remain, abide
 the
-and, both
+and, both, likewise, so
 Peter
 and, even, also, namely
 John
@@ -64983,7 +64983,7 @@ the
 brother
 say, speak
 am, exist
-and, both
+and, both, likewise, so
 crowd
 name, character, reputation
 on, to, against, on the basis of, at
@@ -65090,7 +65090,7 @@ the
 visitation of judgment, oversight
 he, she, it, they, them, same
 receive, take
-another, different
+another, different, other
 it is necessary, inevitable
 therefore, then
 the
@@ -65109,7 +65109,7 @@ I
 the
 lord, Lord, master, sir
 Jesus
-begin
+begin, reign, rule
 from, away from
 the
 rite or ceremony of baptism
@@ -65243,9 +65243,9 @@ all, the whole, every kind of
 wind, breath, spirit
 set apart, holy, sacred
 and, even, also, namely
-begin
+begin, reign, rule
 speak, say
-another, different
+another, different, other
 tongue, language, nation
 just as, as
 the
@@ -65323,7 +65323,7 @@ dwell in, settle in, inhabit
 the
 Mesopotamia
 Judea
-and, both
+and, both, likewise, so
 and, even, also, namely
 Cappadocia
 Pontus
@@ -65331,7 +65331,7 @@ and, even, also, namely
 the
 roughly western third of Asia Minor
 Phrygia
-and, both
+and, both, likewise, so
 and, even, also, namely
 Pamphylia
 Egypt
@@ -65348,7 +65348,7 @@ the
 sojourn, am resident
 Roman, a Roman citizen
 Jewish
-and, both
+and, both, likewise, so
 and, even, also, namely
 proselyte
 Cretan
@@ -65377,7 +65377,7 @@ who, which, what
 will, wish, desire
 this, he, she, it
 am, exist
-another, different
+another, different, other
 but, on the other hand, and
 mock, scoff
 say, speak
@@ -65713,7 +65713,7 @@ he, she, it, they, them, same
 the
 God, god
 from out, out from among, from
-fruit, result, gain
+fruit, result, gain, crop
 the
 loins
 he, she, it, they, them, same
@@ -65758,7 +65758,7 @@ the
 God, god
 lift up, exalt
 the
-and, both
+and, both, likewise, so
 promise
 the
 wind, breath, spirit
@@ -65832,13 +65832,13 @@ am pierced, stung
 the
 heart, inner life, intention
 say, speak
-and, both
+and, both, likewise, so
 to, towards, with
 the
 Peter
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 apostle, messenger, envoy, delegate
 who, which, what
 do, make
@@ -65891,8 +65891,8 @@ lord, Lord, master, sir
 the
 God, god
 I
-another, different
-and, both
+another, different, other
+and, both, likewise, so
 word, speech, divine utterance, analogy
 much, many, often
 give solemn evidence, testify solemnly
@@ -65983,14 +65983,14 @@ need, necessity, business
 have, hold, possess
 down from, against, according to, throughout, during
 day
-and, both
+and, both, likewise, so
 persist
 with one mind, unanimously
 in, on, among
 the
 temple
 break
-and, both
+and, both, likewise, so
 down from, against, according to, throughout, during
 house, household
 bread, loaf, food
@@ -66258,7 +66258,7 @@ God, god
 the
 father, Father, ancestor
 I
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 boy or girl child
 he, she, it, they, them, same
@@ -66719,7 +66719,7 @@ neither, nor, not even
 for
 name, character, reputation
 am, exist
-another, different
+another, different, other
 by, under, about
 the
 sky, heaven
@@ -66750,7 +66750,7 @@ and, even, also, namely
 amateur, layman
 wonder, admire
 come to know, discern, recognize
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 that, since, because
 with
@@ -66758,7 +66758,7 @@ the
 Jesus
 am, exist
 the
-and, both
+and, both, likewise, so
 man, one of human race
 look, see
 with
@@ -66828,7 +66828,7 @@ notify, command, charge
 entirely, at all
 not, lest
 speak aloud, utter
-and not, not even
+and not, not even, neither
 teach
 on, to, against, on the basis of, at
 the
@@ -66883,7 +66883,7 @@ the
 people, crowd
 that, since, because
 all, the whole, every kind of
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 on, to, against, on the basis of, at
@@ -67006,7 +67006,7 @@ Jesus
 who, which, what, that
 anoint
 Herod
-and, both
+and, both, likewise, so
 and, even, also, namely
 Pontius
 Pilate
@@ -67130,7 +67130,7 @@ Jesus
 the
 rising again, resurrection
 grace, favor, kindness
-and, both
+and, both, likewise, so
 large, great
 am, exist
 on, to, against, on the basis of, at
@@ -67432,7 +67432,7 @@ colonnade, portico
 Solomon
 the
 but, on the other hand, and
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 no one, none, nothing
 dare, endure, am bold
 glue, cleave, keep company with
@@ -67450,7 +67450,7 @@ the
 lord, Lord, master, sir
 multitude
 male human being, man
-and, both
+and, both, likewise, so
 and, even, also, namely
 woman, wife, my lady
 so that, therefore
@@ -67535,7 +67535,7 @@ door, opportunity
 the
 watching, guard, prison, imprisonment
 lead out
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 say, speak
 travel, journey, go
@@ -67630,7 +67630,7 @@ the
 word, speech, divine utterance, analogy
 this, he, she, it
 the
-and, both
+and, both, likewise, so
 general, magistrate, captain of temple
 the
 temple
@@ -67817,7 +67817,7 @@ the
 man, one of human race
 do, make
 say, speak
-and, both
+and, both, likewise, so
 to, towards, with
 he, she, it, they, them, same
 male human being, man
@@ -67958,7 +67958,7 @@ the
 name, character, reputation
 disgrace, dishonor
 all, the whole, every kind of
-and, both
+and, both, likewise, so
 day
 in, on, among
 the
@@ -68105,7 +68105,7 @@ in, on, among
 Jerusalem
 exceedingly, greatly
 much, many, often
-and, both
+and, both, likewise, so
 crowd
 the
 priest
@@ -68176,7 +68176,7 @@ and, even, also, namely
 the
 God, god
 move together, stir up
-and, both
+and, both, likewise, so
 the
 people, crowd
 and, even, also, namely
@@ -68195,7 +68195,7 @@ into, in, among, till, for
 the
 council, Sanhedrin
 cause to stand, stand
-and, both
+and, both, likewise, so
 witness
 false, deceitful, lying
 say, speak
@@ -68595,7 +68595,7 @@ as far as, up to, until
 who, which, what, that
 raise up, set up, rise from
 king, ruler, emperor
-another, different
+another, different, other
 on, to, against, on the basis of, at
 Egypt
 who, which, what, that
@@ -68718,7 +68718,7 @@ but, on the other hand, and
 no, not
 consider, understand
 the
-and, both
+and, both, likewise, so
 the next day
 day
 see, look upon, experience
@@ -69305,7 +69305,7 @@ on the right hand, right hand, right
 cause to stand, stand
 the
 God, god
-cry aloud, shriek
+cry aloud, shriek, cry out
 but, on the other hand, and
 sound, noise, voice
 large, great
@@ -69354,7 +69354,7 @@ put, place
 but, on the other hand, and
 the
 knee
-cry aloud, shriek
+cry aloud, shriek, cry out
 sound, noise, voice
 large, great
 lord, Lord, master, sir
@@ -69424,7 +69424,7 @@ the
 house, household
 journey into, go into
 draw, drag
-and, both
+and, both, likewise, so
 male human being, man
 and, even, also, namely
 woman, wife, my lady
@@ -69562,7 +69562,7 @@ Jesus
 anointed, Messiah, Christ
 dip, submerge, baptize
 male human being, man
-and, both
+and, both, likewise, so
 and, even, also, namely
 woman, wife, my lady
 the
@@ -69578,7 +69578,7 @@ persist
 the
 Philip
 behold, look at, experience
-and, both
+and, both, likewise, so
 sign, miracle, indication
 and, even, also, namely
 might, power, marvelous works
@@ -69661,7 +69661,7 @@ he, she, it, they, them, same
 money, riches
 say, speak
 offer, give
-I also, I too
+I also, I too, and I, but
 the
 power, authority, weight
 this, he, she, it
@@ -69779,7 +69779,7 @@ turn back, return
 into, in, among, till, for
 Jerusalem
 much, many, often
-and, both
+and, both, likewise, so
 village
 the
 Samaritan
@@ -69888,7 +69888,7 @@ any one, some one
 lead, guide
 I
 summon, entreat, admonish, comfort
-and, both
+and, both, likewise, so
 the
 Philip
 go up, mount, ascend
@@ -69962,7 +69962,7 @@ about, concerning, around
 himself, herself, itself
 or, than
 about, concerning, around
-another, different
+another, different, other
 any one, some one
 open
 but, on the other hand, and
@@ -69972,7 +69972,7 @@ the
 mouth, speech
 he, she, it, they, them, same
 and, even, also, namely
-begin
+begin, reign, rule
 from, away from
 the
 writing, passage of scripture, scriptures
@@ -70013,7 +70013,7 @@ into, in, among, till, for
 the
 water
 the
-and, both
+and, both, likewise, so
 Philip
 and, even, also, namely
 the
@@ -70095,7 +70095,7 @@ the
 way, road, journey
 am, exist
 male human being, man
-and, both
+and, both, likewise, so
 and, even, also, namely
 woman, wife, my lady
 bind
@@ -70112,7 +70112,7 @@ come near, approach
 the
 Damascus
 suddenly, unexpectedly
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 flash around like lightning
 light, source of light
@@ -70318,11 +70318,11 @@ name, character, reputation
 I
 before the face of, in the presence of
 race, people, Gentiles
-and, both
+and, both, likewise, so
 and, even, also, namely
 king, ruler, emperor
 son, descendent
-and, both
+and, both, likewise, so
 Israel
 I
 for
@@ -70382,7 +70382,7 @@ eye
 as, like as, how, while, so that
 scale, scaly substance
 look up, recover my sight
-and, both
+and, both, likewise, so
 and, even, also, namely
 raise up, set up, rise from
 dip, submerge, baptize
@@ -70485,7 +70485,7 @@ and, even, also, namely
 the
 door, gate
 day
-and, both
+and, both, likewise, so
 and, even, also, namely
 night, night-time
 how, in order that, so that
@@ -70569,7 +70569,7 @@ name, character, reputation
 the
 lord, Lord, master, sir
 speak, say
-and, both
+and, both, likewise, so
 and, even, also, namely
 seek together, discuss, dispute
 to, towards, with
@@ -71187,7 +71187,7 @@ fear, am terrified
 the
 God, god
 witness, testify
-and, both
+and, both, likewise, so
 by, under, about
 all, the whole, entire
 the
@@ -71287,7 +71287,7 @@ find
 come or go with, accompany, assemble
 much, many, often
 say
-and, both
+and, both, likewise, so
 to, towards, with
 he, she, it, they, them, same
 you
@@ -71301,7 +71301,7 @@ glue, cleave, keep company with
 or, than
 come near, consent to
 foreign
-I also, I too
+I also, I too, and I, but
 the
 God, god
 point out, show
@@ -71389,7 +71389,7 @@ send
 to, towards, with
 you
 you
-and, both
+and, both, likewise, so
 well, nobly, rightly
 do, make
 appear, come, arrive at
@@ -71462,7 +71462,7 @@ down from, against, according to, throughout, during
 all, the whole, entire
 the
 Judea
-begin
+begin, reign, rule
 from, away from
 the
 Galilee
@@ -71509,7 +71509,7 @@ all, the whole, every kind of
 who, which, what, that
 do, make
 in, on, among
-and, both
+and, both, likewise, so
 the
 region, land, fields
 the
@@ -71723,7 +71723,7 @@ have, hold, possess
 and, even, also, namely
 eat with
 he, she, it, they, them, same
-begin
+begin, reign, rule
 but, on the other hand, and
 Peter
 put out or expose a child, set forth, explain
@@ -71912,7 +71912,7 @@ you
 in, on, among
 but, on the other hand, and
 the
-begin
+begin, reign, rule
 I
 speak, say
 fall upon, press upon
@@ -71976,7 +71976,7 @@ but, on the other hand, and
 this, he, she, it
 rest, am silent, live quietly
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 say, speak
@@ -72046,7 +72046,7 @@ lord, Lord, master, sir
 with, after
 he, she, it, they, them, same
 much, many, often
-and, both
+and, both, likewise, so
 number, total
 the
 believe, have faith in
@@ -72136,7 +72136,7 @@ teach
 crowd
 sufficient, worthy, many, much
 warn, am publicly called
-and, both
+and, both, likewise, so
 first, before
 in, on, among
 Antioch
@@ -72309,7 +72309,7 @@ bind
 light chain
 two
 guard, keeper, sentinel
-and, both
+and, both, likewise, so
 before
 the
 door, opportunity
@@ -72455,7 +72455,7 @@ people, crowd
 the
 Jewish
 
-and, both
+and, both, likewise, so
 come, go
 on, to, against, on the basis of, at
 the
@@ -72554,7 +72554,7 @@ from out, out from among, from
 the
 watching, guard, prison, imprisonment
 say, speak
-and, both
+and, both, likewise, so
 report, bring a report, announce
 James
 and, even, also, namely
@@ -72565,7 +72565,7 @@ and, even, also, namely
 go out, come out
 travel, journey, go
 into, in, among, till, for
-another, different
+another, different, other
 place
 come into being, am born
 but, on the other hand, and
@@ -72710,7 +72710,7 @@ prophet, poet
 and, even, also, namely
 teacher
 the
-and, both
+and, both, likewise, so
 Barnabas
 and, even, also, namely
 Simeon or Simon
@@ -72722,7 +72722,7 @@ Lucius
 the
 belonging to Cyrene, Cyrenaean
 Manaen
-and, both
+and, both, likewise, so
 Herod
 the
 tetrarch
@@ -72776,7 +72776,7 @@ come down
 into, in, among, till, for
 Seleucia
 thence, from that place
-and, both
+and, both, likewise, so
 sail away
 into, in, among, till, for
 Cyprus
@@ -73330,7 +73330,7 @@ trustworthy, faithful, believing
 on this account, because, for
 and, even, also, namely
 in, on, among
-another, different
+another, different, other
 say, speak
 no, not
 offer, give
@@ -73499,7 +73499,7 @@ Paul
 speak, say
 speak evil against, blaspheme
 speak freely, boldly
-and, both
+and, both, likewise, so
 the
 Paul
 and, even, also, namely
@@ -73557,7 +73557,7 @@ the
 race, people, Gentiles
 rejoice, am glad
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 word, speech, divine utterance, analogy
 the
@@ -73622,7 +73622,7 @@ come, go
 into, in, among, till, for
 Iconium
 the
-and, both
+and, both, likewise, so
 learner, disciple, pupil
 fill, fulfill, complete
 joy, gladness
@@ -73649,7 +73649,7 @@ thus, so, in this manner
 so that, therefore
 believe, have faith in
 Jewish
-and, both
+and, both, likewise, so
 and, even, also, namely
 Hellene, Greek
 much, many, often
@@ -73718,7 +73718,7 @@ come into being, am born
 rush, violent assault
 the
 race, people, Gentiles
-and, both
+and, both, likewise, so
 and, even, also, namely
 Jewish
 with
@@ -73791,7 +73791,7 @@ leap, bubble up
 and, even, also, namely
 walk, conduct my life
 the
-and, both
+and, both, likewise, so
 crowd
 see, look upon, experience
 who, which, what, that
@@ -73811,7 +73811,7 @@ go down, come down
 to, towards, with
 I
 call, invite, name
-and, both
+and, both, likewise, so
 the
 Barnabas
 Zeus
@@ -73827,7 +73827,7 @@ lead, think
 the
 word, speech, divine utterance, analogy
 the
-and, both
+and, both, likewise, so
 priest
 the
 Zeus
@@ -73863,7 +73863,7 @@ himself, herself, itself
 into, in, among, till, for
 the
 crowd
-cry aloud, shriek
+cry aloud, shriek, cry out
 and, even, also, namely
 say, speak
 male human being, man
@@ -73987,7 +73987,7 @@ Barnabas
 into, in, among, till, for
 Derbe
 bring good news, preach good tidings
-and, both
+and, both, likewise, so
 the
 city
 that, that one there, yonder
@@ -74167,7 +74167,7 @@ the
 assembly, congregation, church
 pass through, spread a report
 the
-and, both
+and, both, likewise, so
 Phoenicia
 and, even, also, namely
 Samaria
@@ -74198,7 +74198,7 @@ and, even, also, namely
 the
 elder
 announce, make known, report
-and, both
+and, both, likewise, so
 how much, how great, how many
 the
 God, god
@@ -74221,13 +74221,13 @@ it is necessary, inevitable
 circumcise
 he, she, it, they, them, same
 notify, command, charge
-and, both
+and, both, likewise, so
 keep, guard, observe
 the
 law, Mosaic Law
 Moses
 gather together
-and, both
+and, both, likewise, so
 the
 apostle, messenger, envoy, delegate
 and, even, also, namely
@@ -74292,7 +74292,7 @@ no one, none, nothing
 distinguish, discern, doubt, hesitate
 meanwhile, afterwards, between
 I
-and, both
+and, both, likewise, so
 and, even, also, namely
 he, she, it, they, them, same
 the
@@ -74655,7 +74655,7 @@ on, to, against, on the basis of, at
 the
 exhortation, entreaty, encouragement, comfort
 Judah, Judas, Jude
-and, both
+and, both, likewise, so
 and, even, also, namely
 Silas
 and, even, also, namely
@@ -74695,7 +74695,7 @@ and, even, also, namely
 bring good news, preach good tidings
 with, after
 and, even, also, namely
-another, different
+another, different, other
 much, many, often
 the
 word, speech, divine utterance, analogy
@@ -74764,7 +74764,7 @@ he, she, it, they, them, same
 from, away from
 one another
 the
-and, both
+and, both, likewise, so
 Barnabas
 take, receive
 the
@@ -75004,7 +75004,7 @@ tarry, continue, stay
 day
 any one, some one
 the
-and, both
+and, both, likewise, so
 day
 the
 Sabbath, week
@@ -75100,7 +75100,7 @@ the
 Paul
 and, even, also, namely
 I
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 this, he, she, it
 the
@@ -75392,7 +75392,7 @@ he, she, it, they, them, same
 all, the whole
 instantly, immediately
 lead up, put to sea, set sail
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 into, in, among, till, for
 the
@@ -75520,7 +75520,7 @@ Apollonia
 come, go
 into, in, among, till, for
 Thessalonica
-where, whither
+where, whither, whereas, since
 am, exist
 assembly, congregation, synagogue
 the
@@ -75580,13 +75580,13 @@ and, even, also, namely
 the
 Silas
 the
-and, both
+and, both, likewise, so
 reverence, worship
 Hellene, Greek
 multitude
 much, many, often
 woman, wife, my lady
-and, both
+and, both, likewise, so
 the
 first, before
 no, not
@@ -75652,7 +75652,7 @@ decree, edict, ordinance
 Caesar
 do, fare, require
 king, ruler, emperor
-another, different
+another, different, other
 say, speak
 am, exist
 Jesus
@@ -75674,7 +75674,7 @@ the
 Jason
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 release, let go, send away, divorce
 he, she, it, they, them, same
 the
@@ -75685,7 +75685,7 @@ through, on account of
 night, night-time
 send out
 the
-and, both
+and, both, likewise, so
 Paul
 and, even, also, namely
 the
@@ -75782,9 +75782,9 @@ on, to, against, on the basis of, at
 the
 sea, lake
 remain behind, endure
-and, both
+and, both, likewise, so
 the
-and, both
+and, both, likewise, so
 Silas
 and, even, also, namely
 the
@@ -75932,7 +75932,7 @@ sojourn, am resident
 new, novel, a foreigner
 into, in, among, till, for
 no one, none, nothing
-another, different
+another, different, other
 have a good opportunity, have leisure
 or, than
 say, speak
@@ -76020,7 +76020,7 @@ and, even, also, namely
 the
 all, the whole, every kind of
 do, make
-and, both
+and, both, likewise, so
 from out, out from among, from
 one
 all, the whole, every kind of
@@ -76182,7 +76182,7 @@ woman, wife, my lady
 name, character, reputation
 Damaris
 and, even, also, namely
-another, different
+another, different, other
 with
 he, she, it, they, them, same
 with, after
@@ -76249,7 +76249,7 @@ down from, against, according to, throughout, during
 all, the whole, every kind of
 Sabbath, week
 persuade, urge
-and, both
+and, both, likewise, so
 Jewish
 and, even, also, namely
 Hellene, Greek
@@ -76260,7 +76260,7 @@ from, away from
 the
 Macedonia
 the
-and, both
+and, both, likewise, so
 Silas
 and, even, also, namely
 the
@@ -76635,8 +76635,8 @@ the
 rite or ceremony of baptism
 John
 this, he, she, it
-and, both
-begin
+and, both, likewise, so
+begin, reign, rule
 speak freely, boldly
 in, on, among
 the
@@ -76717,7 +76717,7 @@ find
 any one, some one
 learner, disciple, pupil
 say, speak
-and, both
+and, both, likewise, so
 to, towards, with
 he, she, it, they, them, same
 if
@@ -76737,7 +76737,7 @@ set apart, holy, sacred
 am, exist
 hear, listen
 say, speak
-and, both
+and, both, likewise, so
 into, in, among, till, for
 who, which, what
 therefore, then
@@ -76794,7 +76794,7 @@ set apart, holy, sacred
 on, to, against, on the basis of, at
 he, she, it, they, them, same
 speak, say
-and, both
+and, both, likewise, so
 tongue, language, nation
 and, even, also, namely
 foretell, prophesy
@@ -76865,11 +76865,11 @@ word, speech, divine utterance, analogy
 the
 lord, Lord, master, sir
 Jewish
-and, both
+and, both, likewise, so
 and, even, also, namely
 Hellene, Greek
 might, power, marvelous works
-and, both
+and, both, likewise, so
 no, not
 the
 obtain, happen, perhaps
@@ -76900,7 +76900,7 @@ he, she, it, they, them, same
 the
 disease, malady
 the
-and, both
+and, both, likewise, so
 wind, breath, spirit
 the
 evil, bad, wicked
@@ -76996,7 +76996,7 @@ come into being, am born
 known, an acquaintance
 all, the whole, every kind of
 Jewish
-and, both
+and, both, likewise, so
 and, even, also, namely
 Hellene, Greek
 the
@@ -77017,7 +77017,7 @@ the
 lord, Lord, master, sir
 Jesus
 much, many, often
-and, both
+and, both, likewise, so
 the
 believe, have faith in
 come, go
@@ -77206,7 +77206,7 @@ into, in, among, till, for
 no one, none, nothing
 reckon, count, decide
 am about to
-and, both
+and, both, likewise, so
 and, even, also, namely
 take down, depose, destroy
 the
@@ -77226,7 +77226,7 @@ and, even, also, namely
 come into being, am born
 full
 outburst of passion, wrath
-cry aloud, shriek
+cry aloud, shriek, cry out
 say, speak
 large, great
 the
@@ -77239,7 +77239,7 @@ city
 the
 confusion, disturbance
 rush
-and, both
+and, both, likewise, so
 with one mind, unanimously
 into, in, among, till, for
 the
@@ -77286,7 +77286,7 @@ truly, indeed
 therefore, then
 other, another, different
 any one, some one
-cry aloud, shriek
+cry aloud, shriek, cry out
 am, exist
 for
 the
@@ -77334,7 +77334,7 @@ as, like as, how, while, so that
 on, to, against, on the basis of, at
 hour, season
 two
-cry aloud, shriek
+cry aloud, shriek, cry out
 large, great
 the
 Persian or Ephesian Artemis
@@ -77481,7 +77481,7 @@ into, in, among, till, for
 the
 Hellas, Greece
 do, make
-and, both
+and, both, likewise, so
 month
 three
 come into being, am born
@@ -77549,7 +77549,7 @@ Troas
 as far as, up to, until
 day
 five
-where, whither
+where, whither, whereas, since
 tarry, continue, stay
 day
 seven
@@ -77572,7 +77572,7 @@ go out, depart
 the
 tomorrow
 extend, prolong
-and, both
+and, both, likewise, so
 the
 word, speech, divine utterance, analogy
 as far as, until
@@ -77644,7 +77644,7 @@ and, even, also, namely
 taste, experience
 on, to, against, on the basis of, at
 sufficient, worthy, many, much
-and, both
+and, both, likewise, so
 associate with, talk with
 as far as, up to, until
 light of day
@@ -77702,7 +77702,7 @@ right opposite, over against
 Chios
 the
 but, on the other hand, and
-another, different
+another, different, other
 compare, arrive
 into, in, among, till, for
 Samos
@@ -77813,7 +77813,7 @@ down from, against, according to, throughout, during
 house, household
 give solemn evidence, testify solemnly
 Jewish
-and, both
+and, both, likewise, so
 and, even, also, namely
 Hellene, Greek
 the
@@ -78064,7 +78064,7 @@ take hold of, help, share in
 the
 am weak, sick
 remember, make mention of
-and, both
+and, both, likewise, so
 the
 word, speech, divine utterance, analogy
 the
@@ -78345,7 +78345,7 @@ hear, listen
 this, he, she, it
 summon, entreat, admonish, comfort
 I
-and, both
+and, both, likewise, so
 and, even, also, namely
 the
 belonging to the place, native, resident
@@ -78444,7 +78444,7 @@ I
 to, towards, with
 James
 all, the whole, every kind of
-and, both
+and, both, likewise, so
 appear, come, arrive at
 the
 elder
@@ -78469,11 +78469,11 @@ he, she, it, they, them, same
 the
 but, on the other hand, and
 hear, listen
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 say, speak
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 behold, look at, experience
 brother
@@ -78512,7 +78512,7 @@ circumcise
 he, she, it, they, them, same
 the
 child, descendent, inhabitant
-and not, not even
+and not, not even, neither
 the
 custom
 walk, conduct my life
@@ -78578,7 +78578,7 @@ judge, decide, think good
 keep, guard, observe
 he, she, it, they, them, same
 the
-and, both
+and, both, likewise, so
 sacrificed to an image
 and, even, also, namely
 blood
@@ -78645,7 +78645,7 @@ on, to, against, on the basis of, at
 he, she, it, they, them, same
 the
 hand
-cry aloud, shriek
+cry aloud, shriek, cry out
 male human being, man
 Israelite
 come to the rescue of
@@ -78668,7 +78668,7 @@ all, the whole, every kind of
 everywhere
 teach
 still, yet, even now
-and, both
+and, both, likewise, so
 and, even, also, namely
 Hellene, Greek
 lead in, bring in
@@ -78702,7 +78702,7 @@ lead in, bring in
 the
 Paul
 move, stir, excite
-and, both
+and, both, likewise, so
 the
 city
 all, the whole, entire
@@ -78726,7 +78726,7 @@ shut, shut up
 the
 door, opportunity
 seek, search for, desire
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 put to death, kill
 go up, mount, ascend
@@ -78826,11 +78826,11 @@ the
 multitude
 the
 people, crowd
-cry aloud, shriek
+cry aloud, shriek, cry out
 raise, lift up
 he, she, it, they, them, same
 am about to
-and, both
+and, both, likewise, so
 lead in, bring in
 into, in, among, till, for
 the
@@ -78993,7 +78993,7 @@ hand over, deliver, betray
 into, in, among, till, for
 watching, guard, prison, imprisonment
 male human being, man
-and, both
+and, both, likewise, so
 and, even, also, namely
 woman, wife, my lady
 as, like as, how, while, so that
@@ -79047,7 +79047,7 @@ sufficient, worthy, many, much
 about, concerning, around
 I
 fall, fall under
-and, both
+and, both, likewise, so
 into, in, among, till, for
 the
 base, ground
@@ -79068,7 +79068,7 @@ who, which, what
 am, exist
 lord, Lord, master, sir
 say, speak
-and, both
+and, both, likewise, so
 to, towards, with
 I
 I
@@ -79162,7 +79162,7 @@ I
 Saul
 brother
 look up, recover my sight
-I also, I too
+I also, I too, and I, but
 he, she, it, they, them, same
 the
 hour, season
@@ -79255,7 +79255,7 @@ you
 witness, evidence, testimony
 about, concerning, around
 I
-I also, I too
+I also, I too, and I, but
 say, speak
 lord, Lord, master, sir
 he, she, it, they, them, same
@@ -79332,7 +79332,7 @@ it is fitting
 he, she, it, they, them, same
 live
 cry aloud, shout
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 and, even, also, namely
 throw, cast, toss
@@ -79559,7 +79559,7 @@ the
 God, god
 revile, abuse
 say
-and, both
+and, both, likewise, so
 the
 Paul
 no, not
@@ -79590,9 +79590,9 @@ am, exist
 Sadducee
 the
 but, on the other hand, and
-another, different
+another, different, other
 Pharisee
-cry aloud, shriek
+cry aloud, shriek, cry out
 in, on, among
 the
 council, Sanhedrin
@@ -79690,7 +79690,7 @@ from out, out from among, from
 middle, in the middle
 he, she, it, they, them, same
 lead
-and, both
+and, both, likewise, so
 into, in, among, till, for
 the
 camp, barracks, army in battle array
@@ -79978,7 +79978,7 @@ hour, season
 the
 night, night-time
 beast of burden
-and, both
+and, both, likewise, so
 bring, present, come up to and stand by
 in order that, so that
 place upon
@@ -80024,7 +80024,7 @@ that, since, because
 Roman, a Roman citizen
 am, exist
 will, intend, desire
-and, both
+and, both, likewise, so
 come to know, discern, recognize
 the
 cause, reason, charge
@@ -80175,7 +80175,7 @@ Paul
 call, invite, name
 but, on the other hand, and
 he, she, it, they, them, same
-begin
+begin, reign, rule
 accuse, charge, prosecute
 the
 Tertullus
@@ -80196,7 +80196,7 @@ the
 yours, thy, thine
 forethought, foresight
 in every way
-and, both
+and, both, likewise, so
 and, even, also, namely
 everywhere
 receive, welcome, entertain
@@ -80237,7 +80237,7 @@ down from, against, according to, throughout, during
 the
 inhabited (Roman) world
 leader, chief
-and, both
+and, both, likewise, so
 the
 the
 Nazarene
@@ -80274,7 +80274,7 @@ this, he, she, it
 thus, so, in this manner
 have, hold, possess
 answer, reply
-and, both
+and, both, likewise, so
 the
 Paul
 nod, make a sign
@@ -80386,7 +80386,7 @@ rising again, resurrection
 am about to
 am, exist
 just, righteous, impartial
-and, both
+and, both, likewise, so
 and, even, also, namely
 unjust, unrighteous
 in, on, among
@@ -80468,7 +80468,7 @@ one
 this, he, she, it
 sound, noise, voice
 who, which, what, that
-cry aloud, shriek
+cry aloud, shriek, cry out
 in, on, among
 he, she, it, they, them, same
 cause to stand, stand
@@ -80508,7 +80508,7 @@ centurion
 keep, guard, observe
 he, she, it, they, them, same
 have, hold, possess
-and, both
+and, both, likewise, so
 relief, remission, indulgence, freedom, rest
 and, even, also, namely
 no one, nothing
@@ -80597,7 +80597,7 @@ Felix
 Porcius
 Festus
 will, wish, desire
-and, both
+and, both, likewise, so
 grace, favor, kindness
 lay down, deposit
 the
@@ -80622,7 +80622,7 @@ Jerusalem
 from, away from
 Caesarea
 make visible, report against, appear before
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 the
 high priest, chief priest
@@ -80908,7 +80908,7 @@ have, hold, possess
 the
 prosecutor, accuser
 place
-and, both
+and, both, likewise, so
 verbal defense
 receive, take
 about, concerning, around
@@ -81032,7 +81032,7 @@ into, in, among, till, for
 the
 auditorium, recitation hall, court room
 with
-and, both
+and, both, likewise, so
 military tribune
 and, even, also, namely
 male human being, man
@@ -81072,7 +81072,7 @@ Jewish
 meet, encounter, call upon, make a petition
 I
 in, on, among
-and, both
+and, both, likewise, so
 Jerusalem
 and, even, also, namely
 here, in this place
@@ -81181,7 +81181,7 @@ the
 down from, against, according to, throughout, during
 Jewish
 custom
-and, both
+and, both, likewise, so
 and, even, also, namely
 question, dispute
 wherefore
@@ -81205,7 +81205,7 @@ the
 race, people, Gentiles
 I
 in, on, among
-and, both
+and, both, likewise, so
 Jerusalem
 know, remember
 all, the whole, every kind of
@@ -81294,7 +81294,7 @@ in, on, among
 Jerusalem
 and, even, also, namely
 much, many, often
-and, both
+and, both, likewise, so
 the
 set apart, holy, sacred
 I
@@ -81308,7 +81308,7 @@ high priest, chief priest
 power, authority, weight
 receive, take
 take up, abolish, murder
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 bring down, oppress
 pebble, vote
@@ -81323,7 +81323,7 @@ he, she, it, they, them, same
 force, compel
 speak evil against, blaspheme
 greatly, exceedingly
-and, both
+and, both, likewise, so
 am madly enraged with
 he, she, it, they, them, same
 pursue, persecute
@@ -81368,7 +81368,7 @@ with
 I
 travel, journey, go
 all, the whole, every kind of
-and, both
+and, both, likewise, so
 fall down
 I
 into, in, among, till, for
@@ -81427,11 +81427,11 @@ servant, attendant
 and, even, also, namely
 witness
 who, which, what, that
-and, both
+and, both, likewise, so
 see, look upon, experience
 I
 who, which, what, that
-and, both
+and, both, likewise, so
 see, look upon, experience
 you
 remove, choose, rescue
@@ -81493,11 +81493,11 @@ the
 in, on, among
 Damascus
 first, before
-and, both
+and, both, likewise, so
 and, even, also, namely
 Jerusalem
 all, the whole, every kind of
-and, both
+and, both, likewise, so
 the
 region, land, fields
 the
@@ -81541,14 +81541,14 @@ this, he, she, it
 cause to stand, stand
 call to witness, testify, solemnly charge
 little, small
-and, both
+and, both, likewise, so
 and, even, also, namely
 large, great
 no one, none, nothing
 without, outside, except, the outside, apart from
 say, speak
 who, which, what, that
-and, both
+and, both, likewise, so
 the
 prophet, poet
 speak, say
@@ -81569,7 +81569,7 @@ light, source of light
 am about to
 declare openly, preach
 the
-and, both
+and, both, likewise, so
 people, crowd
 and, even, also, namely
 the
@@ -81686,14 +81686,14 @@ the
 bond, chain
 this, he, she, it
 raise up, set up, rise from
-and, both
+and, both, likewise, so
 the
 king, ruler, emperor
 and, even, also, namely
 the
 governor
 the
-and, both
+and, both, likewise, so
 Bernice
 and, even, also, namely
 the
@@ -81740,11 +81740,11 @@ the
 Italy
 hand over, deliver, betray
 the
-and, both
+and, both, likewise, so
 Paul
 and, even, also, namely
 any one, some one
-another, different
+another, different, other
 prisoner, captive
 centurion
 name, character, reputation
@@ -81771,13 +81771,13 @@ Aristarchus
 Macedonian
 Thessalonian
 the
-and, both
-another, different
+and, both, likewise, so
+another, different, other
 lead down, bring down
 into, in, among, till, for
 Sidon
 humanely, kindly
-and, both
+and, both, likewise, so
 the
 Julius
 the
@@ -81802,7 +81802,7 @@ wind
 am, exist
 opposite, opposed, contrary, the adversary
 the
-and, both
+and, both, likewise, so
 sea, deep
 the
 down from, against, according to, throughout, during
@@ -81852,7 +81852,7 @@ Crete
 down from, against, according to, throughout, during
 Salmone
 with difficulty, hardly
-and, both
+and, both, likewise, so
 coast along, sail along
 he, she, it, they, them, same
 come, go
@@ -82013,7 +82013,7 @@ under-gird
 the
 ship, vessel
 fear, am terrified
-and, both
+and, both, likewise, so
 not, lest
 into, in, among, till, for
 the
@@ -82051,11 +82051,11 @@ on, to, against, on the basis of, at
 much, many, often
 day
 tempest, rainy season
-and, both
+and, both, likewise, so
 no, not
 small, brief, few, soon
 lie upon, am insistent
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 strip off, cast off
 hope, expectation
 all, the whole, every kind of
@@ -82063,7 +82063,7 @@ the
 save, heal
 I
 much, many, often
-and, both
+and, both, likewise, so
 abstinence, fast
 am, exist, am in possession
 then
@@ -82086,7 +82086,7 @@ from, away from
 the
 Crete
 gain, win, avoid loss
-and, both
+and, both, likewise, so
 the
 insult, damage, loss
 this, he, she, it
@@ -82200,7 +82200,7 @@ find
 fathom, about five or six feet
 fifteen
 fear, am terrified
-and, both
+and, both, likewise, so
 not, lest
 somewhere
 down from, against, according to, throughout, during
@@ -82322,7 +82322,7 @@ before the face of, in the presence of
 all, the whole, every kind of
 and, even, also, namely
 break
-begin
+begin, reign, rule
 eat
 cheerful, having good courage
 but, on the other hand, and
@@ -82448,7 +82448,7 @@ he, she, it, they, them, same
 the
 will, counsel, purpose
 command, order
-and, both
+and, both, likewise, so
 the
 am powerful, am able
 swim
@@ -82460,7 +82460,7 @@ earth, soil, land
 go out, depart
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 who, which, what, that
 truly, indeed
 on, to, against, on the basis of, at
@@ -82491,7 +82491,7 @@ the
 island
 call, invite, name
 the
-and, both
+and, both, likewise, so
 a foreigner who speaks neither Greek nor Latin
 offer, provide
 no, not
@@ -82656,7 +82656,7 @@ but, on the other hand, and
 come into being, am born
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 in, on, among
 the
@@ -82924,13 +82924,13 @@ kingship, sovereignty, authority, rule, kingdom
 the
 God, god
 persuade, urge
-and, both
+and, both, likewise, so
 he, she, it, they, them, same
 about, concerning, around
 the
 Jesus
 from, away from
-and, both
+and, both, likewise, so
 the
 law, Mosaic Law
 Moses
@@ -83261,7 +83261,7 @@ in, on, among
 one another
 faith, belief, trust
 you
-and, both
+and, both, likewise, so
 and, even, also, namely
 I
 no, not
@@ -83283,7 +83283,7 @@ the
 come, now, the present
 in order that, so that
 any one, some one
-fruit, result, gain
+fruit, result, gain, crop
 have, hold, possess
 and, even, also, namely
 in, on, among
@@ -83292,14 +83292,14 @@ just as, as
 and, even, also, namely
 in, on, among
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 race, people, Gentiles
 Hellene, Greek
-and, both
+and, both, likewise, so
 and, even, also, namely
 a foreigner who speaks neither Greek nor Latin
 wise
-and, both
+and, both, likewise, so
 and, even, also, namely
 foolish, thoughtless
 debtor, sinner
@@ -83330,7 +83330,7 @@ all, the whole, every kind of
 the
 believe, have faith in
 Jewish
-and, both
+and, both, likewise, so
 first, before
 and, even, also, namely
 Hellene, Greek
@@ -83396,7 +83396,7 @@ thing made
 understand, consider
 see clearly
 the
-and, both
+and, both, likewise, so
 eternal
 he, she, it, they, them, same
 might, power, marvelous works
@@ -83414,7 +83414,7 @@ God, god
 no, not
 as, like as, how, while, so that
 God, god
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 or, than
 thank, give thanks
 but, except
@@ -83506,7 +83506,7 @@ into, in, among, till, for
 suffering, emotion, depraved passion, lust
 disgrace, dishonor
 the
-and, both
+and, both, likewise, so
 for
 female
 he, she, it, they, them, same
@@ -83519,7 +83519,7 @@ the
 from, in the presence of
 nature, inherent nature
 in like manner
-and, both
+and, both, likewise, so
 and, even, also, namely
 the
 male
@@ -83635,7 +83635,7 @@ who, which, what, that
 for
 judge, decide, think good
 the
-another, different
+another, different, other
 of yourself
 condemn
 the
@@ -83718,7 +83718,7 @@ in, on, among
 day
 anger, wrath, passion
 and, even, also, namely
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 just judgment
 the
 God, god
@@ -83770,7 +83770,7 @@ work out, produce, accomplish
 the
 bad, evil
 Jewish
-and, both
+and, both, likewise, so
 first, before
 and, even, also, namely
 Hellene, Greek
@@ -83786,7 +83786,7 @@ word, trade, do
 the
 good
 Jewish
-and, both
+and, both, likewise, so
 first, before
 and, even, also, namely
 Hellene, Greek
@@ -83911,7 +83911,7 @@ from out, out from among, from
 the
 law, Mosaic Law
 persuade, urge
-and, both
+and, both, likewise, so
 of yourself
 leader, guide
 am, exist
@@ -83938,7 +83938,7 @@ law, Mosaic Law
 the
 therefore, then
 teach
-another, different
+another, different, other
 of yourself
 no, not
 teach
@@ -84183,7 +84183,7 @@ honor, renown, glory splendor
 he, she, it, they, them, same
 who, which, what
 still, yet, even now
-I also, I too
+I also, I too, and I, but
 as, like as, how, while, so that
 sinning, sinful, a sinner
 judge, decide, think good
@@ -84218,7 +84218,7 @@ entirely, in every way, certainly
 make a prior accusation
 for
 Jewish
-and, both
+and, both, likewise, so
 and, even, also, namely
 Hellene, Greek
 all, the whole, every kind of
@@ -85502,7 +85502,7 @@ listen, obey
 the
 desire, eagerness for, inordinate desire, lust
 he, she, it, they, them, same
-and not, not even
+and not, not even, neither
 bring, present, come up to and stand by
 the
 limb, member
@@ -85647,7 +85647,7 @@ the
 justice, justness, righteousness
 who, which, what
 therefore, then
-fruit, result, gain
+fruit, result, gain, crop
 have, hold, possess
 then
 on, to, against, on the basis of, at
@@ -85671,7 +85671,7 @@ the
 God, god
 have, hold, possess
 the
-fruit, result, gain
+fruit, result, gain, crop
 you
 into, in, among, till, for
 sanctification, holiness
@@ -85746,7 +85746,7 @@ warn, am publicly called
 if
 come into being, am born
 male human being, man
-another, different
+another, different, other
 if
 but, on the other hand, and
 am dying, am about to die
@@ -85764,7 +85764,7 @@ he, she, it, they, them, same
 adulteress
 come into being, am born
 male human being, man
-another, different
+another, different, other
 so that, therefore
 brother
 I
@@ -85782,7 +85782,7 @@ into, in, among, till, for
 the
 come into being, am born
 you
-another, different
+another, different, other
 the
 from out, out from among, from
 dead, a corpse
@@ -85853,7 +85853,7 @@ not, lest
 through, on account of
 law, Mosaic Law
 the
-and, both
+and, both, likewise, so
 for
 desire, eagerness for, inordinate desire, lust
 no, not
@@ -86105,7 +86105,7 @@ within, inside
 man, one of human race
 look, see
 but, on the other hand, and
-another, different
+another, different, other
 law, Mosaic Law
 in, on, among
 the
@@ -86424,7 +86424,7 @@ wind, breath, spirit
 adoption
 in, on, among
 who, which, what, that
-cry aloud, shriek
+cry aloud, shriek, cry out
 Father
 the
 father, Father, ancestor
@@ -86478,7 +86478,7 @@ eager expectation
 the
 creation, creature, institution
 the
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 the
 son, descendent
 the
@@ -86672,7 +86672,7 @@ but, on the other hand, and
 make righteous, defend the cause of, justify
 this, he, she, it
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 who, which, what
 therefore, then
 say, speak
@@ -86804,7 +86804,7 @@ depth, depth, deep
 and not, neither, nor
 any one, some one
 creation, creature, institution
-another, different
+another, different, other
 am powerful, am able
 I
 separate, depart
@@ -86986,7 +86986,7 @@ I
 not yet
 for
 beget, bring forth, give birth to
-and not, not even
+and not, not even, neither
 do, fare, require
 any one, some one
 good
@@ -87237,7 +87237,7 @@ God, god
 live
 Isaiah
 but, on the other hand, and
-cry aloud, shriek
+cry aloud, shriek, cry out
 in behalf of, above
 the
 Israel
@@ -87521,7 +87521,7 @@ for
 am, exist
 distinction, difference, separation
 Jewish
-and, both
+and, both, likewise, so
 and, even, also, namely
 Hellene, Greek
 the
@@ -87734,7 +87734,7 @@ the
 altar
 you
 dig down under, demolish
-I also, I too
+I also, I too, and I, but
 leave behind
 alone, but, only
 and, even, also, namely
@@ -87796,7 +87796,7 @@ choosing out, selecting, choice by God
 attain, obtain, acquire
 the
 but, on the other hand, and
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 harden, render callous
 even as
 write
@@ -87906,7 +87906,7 @@ apostle, messenger, envoy, delegate
 the
 waiting at table, service, ministration
 I
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 if
 how, in what manner
 make jealous
@@ -88718,7 +88718,7 @@ the
 for
 love
 the
-another, different
+another, different, other
 law, Mosaic Law
 fill, fulfill, complete
 the
@@ -88734,7 +88734,7 @@ long for, covet, lust after
 and, even, also, namely
 if
 any one, some one
-another, different
+another, different, other
 ordinance, injunction, command
 in, on, among
 the
@@ -88947,24 +88947,24 @@ no one, none, nothing
 himself, herself, itself
 am dying, am about to die
 if
-and, both
+and, both, likewise, so
 for
 live
 the
 lord, Lord, master, sir
 live
 if
-and, both
+and, both, likewise, so
 am dying, am about to die
 the
 lord, Lord, master, sir
 am dying, am about to die
 if
-and, both
+and, both, likewise, so
 therefore, then
 live
 if
-and, both
+and, both, likewise, so
 am dying, am about to die
 the
 lord, Lord, master, sir
@@ -89165,10 +89165,10 @@ the
 not, lest
 eat
 flesh, kinds of flesh
-and not, not even
+and not, not even, neither
 drink, imbibe
 wine
-and not, not even
+and not, not even, neither
 in, on, among
 who, which, what, that
 the
@@ -89297,7 +89297,7 @@ with one mind, unanimously
 in, on, among
 one
 mouth, speech
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 and, even, also, namely
@@ -89341,7 +89341,7 @@ but, on the other hand, and
 race, people, Gentiles
 in behalf of, above
 pity, mercy
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 just as, as
@@ -89392,7 +89392,7 @@ Jesse
 and, even, also, namely
 the
 raise up, set up, rise from
-begin
+begin, reign, rule
 race, people, Gentiles
 on, to, against, on the basis of, at
 he, she, it, they, them, same
@@ -89546,7 +89546,7 @@ but, on the other hand, and
 desire very strongly
 bring good news, preach good tidings
 no, not
-where, whither
+where, whither, whereas, since
 give a name to, mention
 anointed, Messiah, Christ
 in order that, so that
@@ -89671,7 +89671,7 @@ and, even, also, namely
 set a seal upon
 he, she, it, they, them, same
 the
-fruit, result, gain
+fruit, result, gain, crop
 this, he, she, it
 come or go away from, depart, return
 through, on account of
@@ -90139,7 +90139,7 @@ proclamation, preaching
 Jesus
 anointed, Messiah, Christ
 down from, against, according to, throughout, during
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 anything hidden, mystery
 time, particular time, season
 eternal, unending
@@ -90148,7 +90148,7 @@ make clear, visible, or manifest
 but, on the other hand, and
 now, already, at present
 through, on account of
-and, both
+and, both, likewise, so
 writing, passage of scripture, scriptures
 prophetic
 down from, against, according to, throughout, during
@@ -90280,7 +90280,7 @@ no one, nothing
 undeserved favor
 expect eagerly, wait for eagerly
 the
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 the
 lord, Lord, master, sir
 I
@@ -90427,7 +90427,7 @@ and, even, also, namely
 the
 Stephanas
 house, household
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 no, not
 know, remember
 if
@@ -90553,7 +90553,7 @@ but, on the other hand, and
 the
 called, summoned
 Jewish
-and, both
+and, both, likewise, so
 and, even, also, namely
 Hellene, Greek
 anointed, Messiah, Christ
@@ -90662,7 +90662,7 @@ I
 from, away from
 God, god
 justice, justness, righteousness
-and, both
+and, both, likewise, so
 and, even, also, namely
 sanctification, holiness
 and, even, also, namely
@@ -90675,7 +90675,7 @@ boast, glory
 in, on, among
 lord, Lord, master, sir
 boast, glory
-I also, I too
+I also, I too, and I, but
 come, go
 to, towards, with
 you
@@ -90707,7 +90707,7 @@ anointed, Messiah, Christ
 and, even, also, namely
 this, he, she, it
 crucify
-I also, I too
+I also, I too, and I, but
 in, on, among
 want of strength, weakness, illness
 and, even, also, namely
@@ -90963,7 +90963,7 @@ but, on the other hand, and
 mind, reasoning faculty
 anointed, Messiah, Christ
 have, hold, possess
-I also, I too
+I also, I too, and I, but
 brother
 no, not
 am powerful, am able
@@ -90995,7 +90995,7 @@ still, yet, even now
 for
 fleshly, carnal
 am, exist
-where, whither
+where, whither, whereas, since
 for
 in, on, among
 you
@@ -91017,7 +91017,7 @@ I
 truly, indeed
 am, exist
 Paul
-another, different
+another, different, other
 but, on the other hand, and
 I
 Apollos
@@ -91315,7 +91315,7 @@ steward
 anything hidden, mystery
 God, god
 here
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 seek, search for, desire
 in, on, among
 the
@@ -91417,7 +91417,7 @@ one
 inflate, puff up
 down from, against, according to, throughout, during
 the
-another, different
+another, different, other
 who, which, what
 for
 you
@@ -91647,7 +91647,7 @@ or, than
 in, on, among
 love
 wind, breath, spirit
-and, both
+and, both, likewise, so
 mildness, gentleness
 wholly, altogether, not at all
 hear, listen
@@ -91779,7 +91779,7 @@ not, lest
 in, on, among
 leaven, ferment
 old, ancient, worn out
-and not, not even
+and not, not even, neither
 in, on, among
 leaven, ferment
 evil, wickedness, malice
@@ -91844,7 +91844,7 @@ or, than
 rapacious, ravenous, a robber, an extortioner
 the
 of such a kind, such
-and not, not even
+and not, not even, neither
 eat with
 who, which, what
 for
@@ -91876,7 +91876,7 @@ thing done, matter
 have, hold, possess
 to, towards, with
 the
-another, different
+another, different, other
 judge, decide, think good
 on, to, against, on the basis of, at
 the
@@ -92196,7 +92196,7 @@ himself, herself, itself
 buy
 for
 price, honor
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 so, then, indeed, truly
 the
 God, god
@@ -92336,7 +92336,7 @@ he, she, it, they, them, same
 if
 remain, abide
 as, like as, how, while, so that
-I also, I too
+I also, I too, and I, but
 if
 but, on the other hand, and
 no, not
@@ -92379,7 +92379,7 @@ not, lest
 send away, release, remit, forgive, permit
 the
 but, on the other hand, and
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 say, speak
 I
 no, not
@@ -92659,7 +92659,7 @@ fitting season, opportunity, time
 shorten, swathe
 am, exist
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 in order that, so that
 and, even, also, namely
 the
@@ -92886,7 +92886,7 @@ mine
 opinion, counsel, judgment, intention
 think, seem, appear, it seems
 but, on the other hand, and
-I also, I too
+I also, I too, and I, but
 wind, breath, spirit
 God, god
 have, hold, possess
@@ -93179,7 +93179,7 @@ lead about, go about
 as, like as, how, while, so that
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 apostle, messenger, envoy, delegate
 and, even, also, namely
 the
@@ -93208,7 +93208,7 @@ plant
 vineyard
 and, even, also, namely
 the
-fruit, result, gain
+fruit, result, gain, crop
 he, she, it, they, them, same
 no, not
 eat
@@ -93654,7 +93654,7 @@ bad, evil
 just as, as
 and he, she, it, and that
 long for, covet, lust after
-and not, not even
+and not, not even, neither
 worshipper of image
 come into being, am born
 just as, as
@@ -93671,7 +93671,7 @@ drink, imbibe
 and, even, also, namely
 raise up, set up, rise from
 play, sport
-and not, not even
+and not, not even, neither
 fornicate, practice idolatry
 just as, as
 any one, some one
@@ -93683,7 +93683,7 @@ one
 day
 twenty
 thousand
-and not, not even
+and not, not even, neither
 put to the test, make trial of, tempt
 the
 lord, Lord, master, sir
@@ -93696,7 +93696,7 @@ by, under, about
 the
 serpent
 destroy, lose, am perishing
-and not, not even
+and not, not even, neither
 whisper, murmur, grumble
 even as
 any one, some one
@@ -93901,7 +93901,7 @@ seek, search for, desire
 but, except
 the
 the
-another, different
+another, different, other
 all, the whole, every kind of
 the
 in, on, among
@@ -93967,7 +93967,7 @@ himself, herself, itself
 but, except
 the
 the
-another, different
+another, different, other
 in order that, so that
 who, which, what
 for
@@ -94013,7 +94013,7 @@ assembly, congregation, church
 the
 God, god
 just as, as
-I also, I too
+I also, I too, and I, but
 all, the whole, every kind of
 all, the whole, every kind of
 please, serve
@@ -94032,7 +94032,7 @@ imitator
 I
 come into being, am born
 just as, as
-I also, I too
+I also, I too, and I, but
 anointed, Messiah, Christ
 praise, commend
 but, on the other hand, and
@@ -94554,7 +94554,7 @@ judgment, verdict, lawsuit
 come or go with, accompany, assemble
 the
 but, on the other hand, and
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 as, like as, how, while, so that
 an untranslatable word that makes a statement contingent
 come, go
@@ -94662,7 +94662,7 @@ down from, against, according to, throughout, during
 the
 he, she, it, they, them, same
 wind, breath, spirit
-another, different
+another, different, other
 faith, belief, trust
 in, on, among
 the
@@ -94687,7 +94687,7 @@ other, another, different
 but, on the other hand, and
 distinguishing, deciding, passing sentence on
 wind, breath, spirit
-another, different
+another, different, other
 offspring, family, race, kind
 tongue, language, nation
 other, another, different
@@ -94953,7 +94953,7 @@ all, the whole, every kind of
 the
 limb, member
 and if, whether
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 limb, member
 rejoice with
 all, the whole, every kind of
@@ -95318,7 +95318,7 @@ you
 speak, say
 or, than
 in, on, among
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 or, than
 in, on, among
 knowledge, doctrine, wisdom
@@ -95494,7 +95494,7 @@ well, nobly, rightly
 thank, give thanks
 but, except
 the
-another, different
+another, different, other
 no, not
 build, build up, edify
 thank, give thanks
@@ -95549,7 +95549,7 @@ speaking another language
 and, even, also, namely
 in, on, among
 lip, mouth, shore
-another, different
+another, different, other
 speak, say
 the
 people, crowd
@@ -95654,7 +95654,7 @@ psalm
 have, hold, possess
 teaching, doctrine
 have, hold, possess
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 have, hold, possess
 tongue, language, nation
 have, hold, possess
@@ -95931,7 +95931,7 @@ just as if, as it were
 the
 untimely birth
 see, look upon, experience
-I also, I too
+I also, I too, and I, but
 I
 for
 am, exist
@@ -96353,7 +96353,7 @@ wheat, grain
 or, than
 any one, some one
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 but, on the other hand, and
 God, god
@@ -96396,13 +96396,13 @@ and, even, also, namely
 body, flesh
 earthly
 but, except
-another, different
+another, different, other
 truly, indeed
 the
 the
 heavenly, celestial
 honor, renown, glory splendor
-another, different
+another, different, other
 but, on the other hand, and
 the
 the
@@ -96735,7 +96735,7 @@ but, on the other hand, and
 worthy, worthy of, deserving
 am, exist
 the
-I also, I too
+I also, I too, and I, but
 travel, journey, go
 with
 I
@@ -96817,7 +96817,7 @@ work, labor, action, deed
 lord, Lord, master, sir
 word, trade, do
 as, like as, how, while, so that
-I also, I too
+I also, I too, and I, but
 not, lest
 any one, some one
 therefore, then
@@ -97630,7 +97630,7 @@ who, which, what, that
 but, on the other hand, and
 any one, some one
 show favor to, forgive
-I also, I too
+I also, I too, and I, but
 and, even, also, namely
 for
 I
@@ -97771,7 +97771,7 @@ God, god
 in, on, among
 anointed, Messiah, Christ
 speak, say
-begin
+begin, reign, rule
 again, further, on the other hand
 himself, herself, itself
 commend, prove, am composed of, cohere
@@ -97934,9 +97934,9 @@ honor, renown, glory splendor
 and, even, also, namely
 for
 no, not
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 in, on, among
 this, he, she, it
 the
@@ -98087,7 +98087,7 @@ not, lest
 walk, conduct my life
 in, on, among
 cunning, craftiness
-and not, not even
+and not, not even, neither
 adulterate, corrupt
 the
 word, speech, divine utterance, analogy
@@ -98972,7 +98972,7 @@ and, even, also, namely
 unclean, impure
 not, lest
 touch or handle
-I also, I too
+I also, I too, and I, but
 welcome in
 you
 and, even, also, namely
@@ -99446,7 +99446,7 @@ say, speak
 but, except
 through, on account of
 the
-another, different
+another, different, other
 haste, diligence
 and, even, also, namely
 the
@@ -99966,7 +99966,7 @@ trial, proof; tried, approved character
 the
 waiting at table, service, ministration
 this, he, she, it
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 on, to, against, on the basis of, at
@@ -100135,7 +100135,7 @@ thus, so, in this manner
 and, even, also, namely
 I
 if
-and, both
+and, both, likewise, so
 for
 abundant, greater, vehemently, advantage
 any one, some one
@@ -100387,14 +100387,14 @@ no, not
 proclaim, herald, preach
 or, than
 wind, breath, spirit
-another, different
+another, different, other
 receive, take
 who, which, what, that
 no, not
 receive, take
 or, than
 good news, gospel
-another, different
+another, different, other
 who, which, what, that
 no, not
 take, receive, accept, welcome
@@ -100583,7 +100583,7 @@ senseless, foolish, inconsiderate
 take, receive, accept, welcome
 I
 in order that, so that
-I also, I too
+I also, I too, and I, but
 little, small
 any one, some one
 boast, glory
@@ -100609,7 +100609,7 @@ boast, glory
 down from, against, according to, throughout, during
 the
 flesh, body
-I also, I too
+I also, I too, and I, but
 boast, glory
 gladly, pleasantly
 for
@@ -100656,17 +100656,17 @@ in, on, among
 want of sense, foolishness
 say, speak
 dare, endure, am bold
-I also, I too
+I also, I too, and I, but
 a Hebrew
 am, exist
-I also, I too
+I also, I too, and I, but
 Israelite
 am, exist
-I also, I too
+I also, I too, and I, but
 seed, offspring
 Abraham
 am, exist
-I also, I too
+I also, I too, and I, but
 waiter, servant, administrator
 anointed, Messiah, Christ
 am, exist
@@ -100832,7 +100832,7 @@ but, on the other hand, and
 into, in, among, till, for
 vision, supernatural appearance
 and, even, also, namely
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 lord, Lord, master, sir
 know, remember
 man, one of human race
@@ -100935,7 +100935,7 @@ and, even, also, namely
 the
 surpassing excellence, exceedingly
 the
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 wherefore
 in order that, so that
 not, lest
@@ -101045,7 +101045,7 @@ in, on, among
 all, the whole, every kind of
 endurance, steadfastness
 sign, miracle, indication
-and, both
+and, both, likewise, so
 and, even, also, namely
 wonder, portent
 and, even, also, namely
@@ -101057,7 +101057,7 @@ who, which, what, that
 am defeated, made inferior
 in behalf of, above
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 assembly, congregation, church
 if
 not, lest
@@ -101188,7 +101188,7 @@ of what kind, such as
 will, wish, desire
 find
 you
-I also, I too
+I also, I too, and I, but
 find
 you
 of what kind, such as
@@ -101260,7 +101260,7 @@ the
 sin previously
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 all, the whole, every kind of
 that, since, because
 if
@@ -101419,7 +101419,7 @@ and, even, also, namely
 no, not
 into, in, among, till, for
 taking down, destroying
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 brother
 rejoice, am glad
 fit together, prepare
@@ -101556,7 +101556,7 @@ in, on, among
 grace, favor, kindness
 anointed, Messiah, Christ
 into, in, among, till, for
-another, different
+another, different, other
 good news, gospel
 who, which, what, that
 no, not
@@ -101653,7 +101653,7 @@ and not, neither, nor
 teach
 but, except
 through, on account of
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 Jesus
 anointed, Messiah, Christ
 hear, listen
@@ -101762,7 +101762,7 @@ to, towards, with
 he, she, it, they, them, same
 day
 fifteen
-another, different
+another, different, other
 but, on the other hand, and
 the
 apostle, messenger, envoy, delegate
@@ -101825,7 +101825,7 @@ who, which, what, that
 at one time or other
 lay waste, destroy
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 in, on, among
 I
 the
@@ -101846,7 +101846,7 @@ Titus
 go up, mount, ascend
 but, on the other hand, and
 down from, against, according to, throughout, during
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 and, even, also, namely
 lay a case before, impart, communicate, relate
 he, she, it, they, them, same
@@ -102047,7 +102047,7 @@ dissemble with
 he, she, it, they, them, same
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 Jewish
 so that, therefore
 and, even, also, namely
@@ -102754,7 +102754,7 @@ into, in, among, till, for
 the
 heart, inner life, intention
 I
-cry aloud, shriek
+cry aloud, shriek, cry out
 Father
 the
 father, Father, ancestor
@@ -102826,7 +102826,7 @@ come into being, am born
 as, like as, how, while, so that
 I
 that, since, because
-I also, I too
+I also, I too, and I, but
 as, like as, how, while, so that
 you
 brother
@@ -103383,7 +103383,7 @@ no, not
 inherit, obtain
 the
 but, on the other hand, and
-fruit, result, gain
+fruit, result, gain, crop
 the
 wind, breath, spirit
 am, exist
@@ -103491,7 +103491,7 @@ and, even, also, namely
 no, not
 into, in, among, till, for
 the
-another, different
+another, different, other
 each, every one
 for
 the
@@ -103637,7 +103637,7 @@ who, which, what, that
 I
 world, universe
 crucify
-I also, I too
+I also, I too, and I, but
 world, universe
 and not, neither, nor
 for
@@ -103667,7 +103667,7 @@ Israel
 the
 God, god
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 trouble, toil, labor
 I
 no one, nothing
@@ -103930,7 +103930,7 @@ honor, renown, glory splendor
 he, she, it, they, them, same
 through, on account of
 this, he, she, it
-I also, I too
+I also, I too, and I, but
 hear, listen
 the
 down from, against, according to, throughout, during
@@ -103976,7 +103976,7 @@ you
 wind, breath, spirit
 wisdom
 and, even, also, namely
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 in, on, among
 knowledge, discernment, recognition
 he, she, it, they, them, same
@@ -104163,7 +104163,7 @@ anger, wrath, passion
 as, like as, how, while, so that
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 but, on the other hand, and
 God, god
@@ -104488,7 +104488,7 @@ into, in, among, till, for
 you
 that, since, because
 down from, against, according to, throughout, during
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 make known, declare, know
 I
 the
@@ -104511,7 +104511,7 @@ anything hidden, mystery
 the
 anointed, Messiah, Christ
 who, which, what, that
-another, different
+another, different, other
 generation
 no, not
 make known, declare, know
@@ -104730,7 +104730,7 @@ height, heaven
 and, even, also, namely
 depth, depth, deep
 come to know, learn, realize
-and, both
+and, both, likewise, so
 the
 surpass
 the
@@ -105172,7 +105172,7 @@ sink, set
 on, to, against, on the basis of, at
 exasperation, wrath
 you
-and not, not even
+and not, not even, neither
 offer, give
 place
 the
@@ -105303,7 +105303,7 @@ uncleanness, impurity
 all, the whole, every kind of
 or, than
 covetousness, avarice
-and not, not even
+and not, not even, neither
 give a name to, mention
 in, on, among
 you
@@ -105384,7 +105384,7 @@ light, source of light
 walk, conduct my life
 the
 for
-fruit, result, gain
+fruit, result, gain, crop
 the
 light, source of light
 in, on, among
@@ -105860,7 +105860,7 @@ am, exist
 from, in the presence of
 he, she, it, they, them, same
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 fill with power, strengthen
 in, on, among
 lord, Lord, master, sir
@@ -106216,7 +106216,7 @@ the
 heart, inner life, intention
 you
 in, on, among
-and, both
+and, both, likewise, so
 the
 bond, chain
 I
@@ -106280,7 +106280,7 @@ into, in, among, till, for
 day
 anointed, Messiah, Christ
 fill, fulfill, complete
-fruit, result, gain
+fruit, result, gain, crop
 justice, justness, righteousness
 the
 through, on account of
@@ -106320,7 +106320,7 @@ the
 official residence of procurator
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 all, the whole, every kind of
 and, even, also, namely
 the
@@ -106466,7 +106466,7 @@ in, on, among
 flesh, body
 this, he, she, it
 I
-fruit, result, gain
+fruit, result, gain, crop
 work, labor, action, deed
 and, even, also, namely
 who, which, what
@@ -106655,7 +106655,7 @@ think, judge, observe
 no one, nothing
 down from, against, according to, throughout, during
 ambition, rivalry
-and not, not even
+and not, not even, neither
 down from, against, according to, throughout, during
 vainglory, empty pride
 but, except
@@ -106673,7 +106673,7 @@ regard attentively, take heed
 but, except
 and, even, also, namely
 the
-another, different
+another, different, other
 each, every one
 this, he, she, it
 think, judge, observe
@@ -106885,7 +106885,7 @@ soon, quickly, hastily
 send
 you
 in order that, so that
-I also, I too
+I also, I too, and I, but
 am of good cheer
 come to know, learn, realize
 the
@@ -107012,7 +107012,7 @@ see, look upon, experience
 he, she, it, they, them, same
 again, further, on the other hand
 rejoice, am glad
-I also, I too
+I also, I too, and I, but
 free from pain, grief, trouble
 am, exist
 expect, welcome, accept
@@ -107049,7 +107049,7 @@ to, towards, with
 I
 charitable gift, public service
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 brother
 I
 rejoice, am glad
@@ -107432,7 +107432,7 @@ and, even, also, namely
 Clement
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 a fellow worker
 I
 who, which, what, that
@@ -107497,7 +107497,7 @@ in, on, among
 anointed, Messiah, Christ
 Jesus
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 brother
 how much, how great, how many
 am, exist
@@ -107655,7 +107655,7 @@ gift
 but, except
 seek after, desire, search for
 the
-fruit, result, gain
+fruit, result, gain, crop
 the
 abound, increase
 into, in, among, till, for
@@ -108631,9 +108631,9 @@ world, universe
 subject to regulations, decree
 not, lest
 touch or handle
-and not, not even
+and not, not even, neither
 taste, experience
-and not, not even
+and not, not even, neither
 touch, handle
 who, which, what, that
 am, exist
@@ -108800,7 +108800,7 @@ image, likeness, bust
 the
 create, form, shape, make
 he, she, it, they, them, same
-where, whither
+where, whither, whereas, since
 no, not
 there is in, is present
 Hellene, Greek
@@ -109986,7 +109986,7 @@ and, even, also, namely
 know, remember
 through, on account of
 this, he, she, it
-I also, I too
+I also, I too, and I, but
 no longer
 cover, conceal, bear with
 send
@@ -110168,7 +110168,7 @@ all, the whole, every kind of
 the
 set apart, holy, sacred
 he, she, it, they, them, same
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 therefore, then
 brother
 ask, question, request
@@ -110374,7 +110374,7 @@ pain, grieve, vex
 just as, as
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 not, lest
 have, hold, possess
@@ -110557,7 +110557,7 @@ not, lest
 sleep, am sleeping
 as, like as, how, while, so that
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 but, except
 am awake, am vigilant, watch
 and, even, also, namely
@@ -110909,7 +110909,7 @@ with, after
 I
 in, on, among
 the
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 the
 lord, Lord, master, sir
 Jesus
@@ -111053,7 +111053,7 @@ you
 from, away from
 the
 mind, reasoning faculty
-and not, not even
+and not, not even, neither
 disturb, agitate
 nor, neither, not even
 through, on account of
@@ -111343,7 +111343,7 @@ and, even, also, namely
 word, speech, divine utterance, analogy
 good
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 pray, pray for
 brother
 about, concerning, around
@@ -111355,7 +111355,7 @@ the
 lord, Lord, master, sir
 run, exercise myself
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 just as, as
 and, even, also, namely
 to, towards, with
@@ -111507,7 +111507,7 @@ any one, some one
 no, not
 will, wish, desire
 word, trade, do
-and not, not even
+and not, not even, neither
 eat
 hear, listen
 for
@@ -111661,7 +111661,7 @@ notify, command, charge
 any one, some one
 not, lest
 teach different things
-and not, not even
+and not, not even, neither
 pay attention to, devote myself to
 idle tale, fable
 and, even, also, namely
@@ -111751,7 +111751,7 @@ perjured
 and, even, also, namely
 if
 any one, some one
-another, different
+another, different, other
 the
 am well
 instruction, teaching
@@ -112786,7 +112786,7 @@ rebuke, expose
 in order that, so that
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 fear, terror, reverence
 have, hold, possess
 give solemn evidence, testify solemnly
@@ -112813,7 +112813,7 @@ hand
 soon, quickly, hastily
 no one, nothing
 put, place upon, lay on
-and not, not even
+and not, not even, neither
 share, communicate, have fellowship with
 sin
 belonging to another person, foreign
@@ -113143,7 +113143,7 @@ age, cycle of time
 notify, command, charge
 not, lest
 am high-minded, proud
-and not, not even
+and not, not even, neither
 hope, hope for, expect
 on, to, against, on the basis of, at
 riches, wealth
@@ -113335,7 +113335,7 @@ witness, evidence, testimony
 the
 lord, Lord, master, sir
 I
-and not, not even
+and not, not even, neither
 I
 the
 one bound, prisoner
@@ -113548,7 +113548,7 @@ whosoever, whichsoever, whatsoever
 sufficient, worthy, many, much
 am, exist
 and, even, also, namely
-another, different
+another, different, other
 teach
 suffer hardships together with
 as, like as, how, while, so that
@@ -113584,7 +113584,7 @@ worker of soil, husbandman, vine-dresser
 it is necessary, inevitable
 first, before
 the
-fruit, result, gain
+fruit, result, gain, crop
 share in, partake of
 understand, consider
 who, which, what, that
@@ -114215,7 +114215,7 @@ end, accomplish, pay
 the
 faith, belief, trust
 keep, guard, observe
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 have been put away, am stored, am reserved for
 I
 the
@@ -114717,7 +114717,7 @@ behavior, conduct
 suitable to a sacred character, reverent
 not, lest
 slanderous, the Slanderer, the Devil
-and not, not even
+and not, not even, neither
 wine
 much, many, often
 enslave
@@ -115475,7 +115475,7 @@ the
 assurance, substance, reality
 he, she, it, they, them, same
 carry, bear, bring, lead
-and, both
+and, both, likewise, so
 the
 all, the whole, every kind of
 the
@@ -115740,7 +115740,7 @@ unite in bearing witness
 the
 God, god
 sign, miracle, indication
-and, both
+and, both, likewise, so
 and, even, also, namely
 wonder, portent
 and, even, also, namely
@@ -115869,7 +115869,7 @@ through, on account of
 suffering, passion
 complete, accomplish, make perfect
 the
-and, both
+and, both, likewise, so
 for
 make holy, sanctify
 and, even, also, namely
@@ -116503,7 +116503,7 @@ soul, life, self
 and, even, also, namely
 wind, breath, spirit
 joint of body
-and, both
+and, both, likewise, so
 and, even, also, namely
 marrow
 and, even, also, namely
@@ -116598,7 +116598,7 @@ God, god
 in order that, so that
 bring to, offer
 gift, present
-and, both
+and, both, likewise, so
 and, even, also, namely
 sacrifice
 in behalf of, above
@@ -116650,7 +116650,7 @@ the
 anointed, Messiah, Christ
 no, not
 himself, herself, itself
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 come into being, am born
 high priest, chief priest
 but, except
@@ -116669,7 +116669,7 @@ you
 just as, as
 and, even, also, namely
 in, on, among
-another, different
+another, different, other
 say, speak
 you
 priest
@@ -116688,7 +116688,7 @@ the
 flesh, body
 he, she, it, they, them, same
 supplication, prayer
-and, both
+and, both, likewise, so
 and, even, also, namely
 supplication, entreaty
 to, towards, with
@@ -116810,7 +116810,7 @@ have, hold, possess
 to, towards, with
 distinguishing, deciding, passing sentence on
 beautiful, good, worthy
-and, both
+and, both, likewise, so
 and, even, also, namely
 bad, evil
 wherefore
@@ -116840,7 +116840,7 @@ God, god
 dipping, washing
 teaching, doctrine
 laying on
-and, both
+and, both, likewise, so
 hand
 rising again, resurrection
 dead, a corpse
@@ -116860,7 +116860,7 @@ the
 once, once for all
 illuminate, bring to light
 taste, experience
-and, both
+and, both, likewise, so
 the
 free gift
 the
@@ -116876,7 +116876,7 @@ taste, experience
 God, god
 thing spoken
 might, power, marvelous works
-and, both
+and, both, likewise, so
 am about to
 age, cycle of time
 and, even, also, namely
@@ -117087,7 +117087,7 @@ have, hold, possess
 the
 soul, life, self
 safe, reliable, trustworthy
-and, both
+and, both, likewise, so
 and, even, also, namely
 firm, steadfast, enduring
 and, even, also, namely
@@ -117097,7 +117097,7 @@ the
 inner
 the
 veil, curtain
-where, whither
+where, whither, whereas, since
 a precursor, forerunner
 in behalf of, above
 I
@@ -117301,7 +117301,7 @@ down from, against, according to, throughout, during
 the
 order, position, rank
 Melchizedek
-another, different
+another, different, other
 raise up, set up, rise from
 priest
 and, even, also, namely
@@ -117327,7 +117327,7 @@ for
 say, speak
 this, he, she, it
 tribe, race
-another, different
+another, different, other
 participate in, share
 from, away from
 who, which, what, that
@@ -117364,7 +117364,7 @@ likeness, resemblance
 Melchizedek
 raise up, set up, rise from
 priest
-another, different
+another, different, other
 who, which, what, that
 no, not
 down from, against, according to, throughout, during
@@ -117607,7 +117607,7 @@ into, in, among, till, for
 the
 bring to, offer
 gift, present
-and, both
+and, both, likewise, so
 and, even, also, namely
 sacrifice
 set, establish, appoint, conduct
@@ -117743,7 +117743,7 @@ in, on, among
 the
 covenant, will, testament
 I
-I also, I too
+I also, I too, and I, but
 neglect
 he, she, it, they, them, same
 say, speak
@@ -117850,7 +117850,7 @@ first, before
 thing pronounced to be just
 service, worship
 the
-and, both
+and, both, likewise, so
 set apart, holy, sacred
 earthly, worldly
 tent, tabernacle
@@ -117861,7 +117861,7 @@ first, before
 in, on, among
 who, which, what, that
 the
-and, both
+and, both, likewise, so
 lamp-stand
 and, even, also, namely
 the
@@ -117996,7 +117996,7 @@ place in or upon, am at hand, am present, threaten
 down from, against, according to, throughout, during
 who, which, what, that
 gift, present
-and, both
+and, both, likewise, so
 and, even, also, namely
 sacrifice
 bring to, offer
@@ -118133,7 +118133,7 @@ call, invite, name
 the
 eternal, unending
 inheritance
-where, whither
+where, whither, whereas, since
 for
 covenant, will, testament
 death
@@ -118189,7 +118189,7 @@ crimson
 and, even, also, namely
 hyssop
 he, she, it, they, them, same
-and, both
+and, both, likewise, so
 the
 papyrus roll
 and, even, also, namely
@@ -118535,7 +118535,7 @@ on the right hand, right hand, right
 the
 God, god
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 wait for, expect
 until, as far as
 put, place
@@ -118605,7 +118605,7 @@ no, not
 not, lest
 remember, recall
 still, yet, even now
-where, whither
+where, whither, whereas, since
 but, on the other hand, and
 deliverance, pardon, complete forgiveness
 this, he, she, it
@@ -118809,7 +118809,7 @@ suffering, passion
 this, he, she, it
 truly, indeed
 reproach, reviling
-and, both
+and, both, likewise, so
 and, even, also, namely
 persecution, affliction, distress
 make a public show of
@@ -119416,7 +119416,7 @@ Barak
 Samson
 Jephthah
 David
-and, both
+and, both, likewise, so
 and, even, also, namely
 Samuel
 and, even, also, namely
@@ -119468,7 +119468,7 @@ in order that, so that
 stronger, more excellent
 rising again, resurrection
 obtain, happen, perhaps
-another, different
+another, different, other
 but, on the other hand, and
 mockery
 and, even, also, namely
@@ -119581,7 +119581,7 @@ shame
 despise, scorn
 in, on, among
 on the right hand, right hand, right
-and, both
+and, both, likewise, so
 the
 throne, seat
 the
@@ -119628,7 +119628,7 @@ not, lest
 despise, make light of
 discipline
 lord, Lord, master, sir
-and not, not even
+and not, not even, neither
 am unstrung, become weak, fail
 by, under, about
 he, she, it, they, them, same
@@ -119733,7 +119733,7 @@ but, except
 pain, grief
 lastly, afterward
 but, on the other hand, and
-fruit, result, gain
+fruit, result, gain, crop
 peaceable, disposed to peace
 the
 through, on account of
@@ -120217,7 +120217,7 @@ the
 God, god
 this, he, she, it
 am, exist
-fruit, result, gain
+fruit, result, gain, crop
 lip, mouth, shore
 confess, profess, acknowledge, praise
 the
@@ -121066,7 +121066,7 @@ any one, some one
 you
 faith, belief, trust
 have, hold, possess
-I also, I too
+I also, I too, and I, but
 work, labor, action, deed
 have, hold, possess
 point out, show
@@ -121077,7 +121077,7 @@ you
 apart from, without
 the
 work, labor, action, deed
-I also, I too
+I also, I too, and I, but
 you
 point out, show
 from out, out from among, from
@@ -121191,7 +121191,7 @@ receive as a guest
 the
 angel, messenger
 and, even, also, namely
-another, different
+another, different, other
 way, road, journey
 throw, cast, put out, banish, bring forth, produce
 just as, as
@@ -121276,7 +121276,7 @@ turn about, change the position of
 by, under, about
 least, smallest, very little
 rudder of ship
-where, whither
+where, whither, whereas, since
 the
 rush, violent assault
 the
@@ -121333,11 +121333,11 @@ all, the whole, every kind of
 for
 nature, inherent nature
 wild beast, animal
-and, both
+and, both, likewise, so
 and, even, also, namely
 bird
 creeping creature, reptile
-and, both
+and, both, likewise, so
 and, even, also, namely
 living in the sea
 tame, subdue
@@ -121466,7 +121466,7 @@ but, except
 earthly
 animal, natural, sensuous
 demon-like
-where, whither
+where, whither, whereas, since
 for
 eagerness, zeal, rivalry
 and, even, also, namely
@@ -121492,11 +121492,11 @@ compliant
 full
 pity, mercy
 and, even, also, namely
-fruit, result, gain
+fruit, result, gain, crop
 good
 unambiguous
 unfeigned, without hypocrisy
-fruit, result, gain
+fruit, result, gain, crop
 but, on the other hand, and
 justice, justness, righteousness
 in, on, among
@@ -121842,7 +121842,7 @@ the
 deprive one of something, rob
 from, away from
 you
-cry aloud, shriek
+cry aloud, shriek, cry out
 and, even, also, namely
 the
 shout
@@ -121888,7 +121888,7 @@ worker of soil, husbandman, vine-dresser
 wait for, expect
 the
 of great price, precious, honored
-fruit, result, gain
+fruit, result, gain, crop
 the
 earth, soil, land
 suffer long, have patience, am forbearing
@@ -122093,7 +122093,7 @@ the
 earth, soil, land
 sprout, cause to sprout, make to grow up
 the
-fruit, result, gain
+fruit, result, gain, crop
 he, she, it, they, them, same
 brother
 I
@@ -122245,7 +122245,7 @@ honor, renown, glory splendor
 and, even, also, namely
 price, honor
 in, on, among
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 Jesus
 anointed, Messiah, Christ
 who, which, what, that
@@ -122263,7 +122263,7 @@ exult, am full of joy
 joy, gladness
 unspeakable
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 bring, receive, recover
 the
 end, purpose, tax
@@ -122351,7 +122351,7 @@ carry, bear, bring, lead
 you
 grace, favor, kindness
 in, on, among
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 Jesus
 anointed, Messiah, Christ
 as, like as, how, while, so that
@@ -122725,7 +122725,7 @@ the
 beautiful, good, worthy
 work, labor, action, deed
 am an eyewitness of, behold
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 in, on, among
@@ -123144,7 +123144,7 @@ fear, terror, reverence
 he, she, it, they, them, same
 not, lest
 fear, am terrified
-and not, not even
+and not, not even, neither
 agitate, stir up, trouble
 lord, Lord, master, sir
 but, on the other hand, and
@@ -123443,7 +123443,7 @@ God, god
 in order that, so that
 in, on, among
 all, the whole, every kind of
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 God, god
 through, on account of
@@ -123489,7 +123489,7 @@ in order that, so that
 and, even, also, namely
 in, on, among
 the
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 the
 honor, renown, glory splendor
 he, she, it, they, them, same
@@ -123533,7 +123533,7 @@ as, like as, how, while, so that
 Christian
 not, lest
 am ashamed, am put to shame
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 but, on the other hand, and
 the
 God, god
@@ -123545,7 +123545,7 @@ that, since, because
 the
 fitting season, opportunity, time
 the
-begin
+begin, reign, rule
 the
 judgment, verdict, lawsuit
 from, away from
@@ -123629,11 +123629,11 @@ but, except
 willingly
 down from, against, according to, throughout, during
 God, god
-and not, not even
+and not, not even, neither
 greedily
 but, except
 readily
-and not, not even
+and not, not even, neither
 as, like as, how, while, so that
 exercise authority over, overpower
 the
@@ -124350,7 +124350,7 @@ honor, renown, glory splendor
 no, not
 tremble, am afraid
 speak evil against, blaspheme
-where, whither
+where, whither, whereas, since
 angel, messenger
 strength, power
 and, even, also, namely
@@ -124856,7 +124856,7 @@ rack, pervert, twist
 as, like as, how, while, so that
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 writing, passage of scripture, scriptures
 to, towards, with
 the
@@ -125384,7 +125384,7 @@ not, lest
 love
 the
 world, universe
-and not, not even
+and not, not even, neither
 the
 in, on, among
 the
@@ -126043,7 +126043,7 @@ little child
 not, lest
 love
 word, speech, divine utterance, analogy
-and not, not even
+and not, not even, neither
 the
 tongue, language, nation
 but, except
@@ -127599,7 +127599,7 @@ not, lest
 believe, have faith in
 destroy, lose, am perishing
 angel, messenger
-and, both
+and, both, likewise, so
 the
 not, lest
 keep, guard, observe
@@ -127638,7 +127638,7 @@ and, even, also, namely
 come or go away from, depart, return
 behind, after
 flesh, body
-another, different
+another, different, other
 am set before
 example, type
 fire, trials
@@ -127958,7 +127958,7 @@ all, the whole, every kind of
 the
 age, cycle of time
 verily, truly, amen, so let it be
-unveiling, uncovering, revealing, revelation
+unveiling, uncovering, revealing
 Jesus
 anointed, Messiah, Christ
 who, which, what, that
@@ -128545,7 +128545,7 @@ work, labor, action, deed
 the
 Nicolaitan
 who, which, what, that
-I also, I too
+I also, I too, and I, but
 hate, detest
 the
 have, hold, possess
@@ -128693,7 +128693,7 @@ sharp, swift, eager
 know, remember
 where, whither
 dwell in, settle in, inhabit
-where, whither
+where, whither, whereas, since
 the
 throne, seat
 the
@@ -128724,7 +128724,7 @@ who, which, what, that
 put to death, kill
 from, in the presence of
 you
-where, whither
+where, whither, whereas, since
 the
 adversary, Satan
 dwell in, settle in, inhabit
@@ -128963,7 +128963,7 @@ you
 but, on the other hand, and
 say, speak
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 in, on, among
 Thyatira
@@ -129026,7 +129026,7 @@ the
 of clay, made by a potter
 break by crushing
 as, like as, how, while, so that
-I also, I too
+I also, I too, and I, but
 receive, take
 from, in the presence of
 the
@@ -129087,7 +129087,7 @@ am awake, am vigilant, watch
 and, even, also, namely
 fix firmly, strengthen
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 who, which, what, that
 am about to
 am dying, am about to die
@@ -129291,7 +129291,7 @@ word, speech, divine utterance, analogy
 the
 endurance, steadfastness
 I
-I also, I too
+I also, I too, and I, but
 you
 keep, guard, observe
 from out, out from among, from
@@ -129550,7 +129550,7 @@ the
 throne, seat
 I
 as, like as, how, while, so that
-I also, I too
+I also, I too, and I, but
 conquer, overcome
 and, even, also, namely
 set, make to sit
@@ -130431,7 +130431,7 @@ witness, evidence, testimony
 who, which, what, that
 have, hold, possess
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 sound, noise, voice
 large, great
 say, speak
@@ -130667,7 +130667,7 @@ signet-ring, impression of seal, proof
 God, god
 live
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 sound, noise, voice
 large, great
 the
@@ -130821,7 +130821,7 @@ the
 hand
 he, she, it, they, them, same
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 sound, noise, voice
 large, great
 say, speak
@@ -131328,7 +131328,7 @@ the
 earth, soil, land
 from out, out from among, from
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 sound, noise, voice
 the
 trumpet
@@ -131765,7 +131765,7 @@ he, she, it, they, them, same
 act unjustly towards
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 man, one of human race
 who, which, what, that
@@ -131892,7 +131892,7 @@ on, to, against, on the basis of, at
 the
 earth, soil, land
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 sound, noise, voice
 large, great
 just as, as
@@ -131900,7 +131900,7 @@ lion
 bellow, roar
 and, even, also, namely
 when
-cry aloud, shriek
+cry aloud, shriek, cry out
 speak, say
 the
 seven
@@ -132308,7 +132308,7 @@ spiritually
 Sodom
 and, even, also, namely
 Egypt
-where, whither
+where, whither, whereas, since
 and, even, also, namely
 the
 lord, Lord, master, sir
@@ -132446,7 +132446,7 @@ thousand
 seven
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 full of fear, terrified
 come into being, am born
 and, even, also, namely
@@ -132653,7 +132653,7 @@ in, on, among
 womb, stomach, to be pregnant
 have, hold, possess
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 am in travail, suffer birth-pangs
 and, even, also, namely
 torment, torture, buffet
@@ -132750,7 +132750,7 @@ flee, escape, shun
 into, in, among, till, for
 the
 deserted, desolate, a desert
-where, whither
+where, whither, whereas, since
 have, hold, possess
 there, yonder, thither
 place
@@ -132968,7 +132968,7 @@ into, in, among, till, for
 the
 place
 he, she, it, they, them, same
-where, whither
+where, whither, whereas, since
 feed, rear
 there, yonder, thither
 fitting season, opportunity, time
@@ -133037,7 +133037,7 @@ do, make
 war, battle, strife
 with, after
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 seed, offspring
 he, she, it, they, them, same
@@ -133614,7 +133614,7 @@ the
 accompany, attend, follow
 the
 lamb
-where, whither
+where, whither, whereas, since
 an untranslatable word that makes a statement contingent
 go away, depart
 this, he, she, it
@@ -133902,7 +133902,7 @@ go out, come out
 from out, out from among, from
 the
 temple, shrine
-cry aloud, shriek
+cry aloud, shriek, cry out
 in, on, among
 sound, noise, voice
 large, great
@@ -134155,7 +134155,7 @@ not, lest
 fear, am terrified
 lord, Lord, master, sir
 and, even, also, namely
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 the
 name, character, reputation
 you
@@ -134976,7 +134976,7 @@ head
 seven
 mountain
 am, exist
-where, whither
+where, whither, whereas, since
 the
 woman, wife, my lady
 sit, am seated
@@ -135202,7 +135202,7 @@ the
 honor, renown, glory splendor
 he, she, it, they, them, same
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 in, on, among
 strong, mighty, powerful
 sound, noise, voice
@@ -135327,7 +135327,7 @@ mix, pour out for drinking
 he, she, it, they, them, same
 double, two-fold
 how much, how great, how many
-glorify, honor, bestow glory on
+glorify, honor, bestow glory on, praise
 he, she, it, they, them, same
 and, even, also, namely
 live luxuriously
@@ -135613,7 +135613,7 @@ from, away from
 from a distance
 cause to stand, stand
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 look, see
 the
 smoke
@@ -135635,7 +135635,7 @@ the
 head
 he, she, it, they, them, same
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 weep, weep for, mourn
 and, even, also, namely
 mourn, lament
@@ -136178,7 +136178,7 @@ in, on, among
 the
 sun, sunlight
 and, even, also, namely
-cry aloud, shriek
+cry aloud, shriek, cry out
 in, on, among
 sound, noise, voice
 large, great
@@ -136221,7 +136221,7 @@ and, even, also, namely
 flesh, body
 all, the whole, every kind of
 free, delivered from obligation
-and, both
+and, both, likewise, so
 and, even, also, namely
 a male slave
 and, even, also, namely
@@ -136301,7 +136301,7 @@ in, on, among
 brimstone, sulfur
 and, even, also, namely
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 put to death, kill
 in, on, among
 the
@@ -136453,7 +136453,7 @@ anointed, Messiah, Christ
 a thousand
 year
 the
-left, left behind, the remainder
+left, left behind, the remainder, remaining, left, the rest
 the
 dead, a corpse
 no, not
@@ -136586,7 +136586,7 @@ the
 fire, trials
 and, even, also, namely
 brimstone, sulfur
-where, whither
+where, whither, whereas, since
 and, even, also, namely
 the
 wild beast, animal
@@ -137370,14 +137370,14 @@ thence, from that place
 staff, cross, anything made of wood
 life
 do, make
-fruit, result, gain
+fruit, result, gain, crop
 twelve
 down from, against, according to, throughout, during
 month
 each, every one
 give back, return, sell
 the
-fruit, result, gain
+fruit, result, gain, crop
 he, she, it, they, them, same
 and, even, also, namely
 the
@@ -137497,7 +137497,7 @@ prophecy
 the
 papyrus roll
 this, he, she, it
-I also, I too
+I also, I too, and I, but
 John
 the
 hear, listen
