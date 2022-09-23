@@ -10,7 +10,7 @@
 @valueType=str
 @writtenBy=Text-Fabric
 @dateWritten=2022-01-05T06:39:57Z
-bol_monad_num
+
 1
 2
 3

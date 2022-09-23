@@ -10,7 +10,7 @@
 @valueType=str
 @writtenBy=Text-Fabric
 @dateWritten=2022-01-05T06:39:53Z
-bol_case
+
 nominative
 genitive
 genitive
