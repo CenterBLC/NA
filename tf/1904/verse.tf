@@ -9,7 +9,7 @@
 @description=verse
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-02T03:06:32Z
+@dateWritten=2022-01-05T06:39:58Z
 
 1
 1
@@ -137790,7 +137790,7 @@
 21
 21
 21
-138066	1
+138039	1
 2
 3
 4

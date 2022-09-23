@@ -9,6 +9,6 @@
 @description=Short book abbreviation
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-02T03:06:27Z
+@dateWritten=2022-01-05T06:39:52Z
 
-137804	NTt5
+137780	NTt4

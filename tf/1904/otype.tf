@@ -8,11 +8,11 @@
 @Version=1904
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-02T03:06:31Z
+@dateWritten=2022-01-05T06:39:57Z
 
 1-137779	word
-137780-137804	book
-137805-138063	chapter
-138064	clause
-138065	sentence
-138066-146008	verse
+137780	book
+137781-138036	chapter
+138037	clause
+138038	sentence
+138039-145981	verse

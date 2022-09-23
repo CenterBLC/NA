@@ -9,7 +9,7 @@
 @description=lemma transliteration
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-02T03:06:29Z
+@dateWritten=2022-01-05T06:39:55Z
 
 biblos
 genesis

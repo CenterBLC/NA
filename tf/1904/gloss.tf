@@ -9,7 +9,7 @@
 @description=English translation
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-02T03:06:28Z
+@dateWritten=2022-01-05T06:39:54Z
 
 written book, roll, or volume
 birth, lineage

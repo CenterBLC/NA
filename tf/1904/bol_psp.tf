@@ -6,7 +6,7 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=part of speech
+@description=bol_psp BOL based part of speech
 @valueType=str
 @writtenBy=Text-Fabric
 @dateWritten=2022-01-05T06:39:57Z

@@ -9,6 +9,6 @@
 @description=clause
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-02T03:06:28Z
+@dateWritten=2022-01-05T06:39:53Z
 
-138064	1
+138037	1

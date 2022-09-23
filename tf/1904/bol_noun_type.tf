@@ -6,12 +6,18 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=degree
+@description=noun type
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-01-05T06:39:53Z
+@dateWritten=2022-01-05T06:39:52Z
 
+ο
+ι
+irregular
+ο
+ο
 
+ο
 
 
 
@@ -26,9 +32,12 @@
 
 
 
+α
 
 
+ο
 
+α
 
 
 
@@ -91,13 +100,17 @@
 
 
 
+ευ
 
 
 
 
+ν
 
 
 
+α
+ν
 
 
 
@@ -126,6 +139,8 @@
 
 
 
+α
+α
 
 
 
@@ -139,9 +154,13 @@
 
 
 
+α
+α
 
 
 
+irregular
+irregular
 
 
 
@@ -150,17 +169,26 @@
 
 
 
+α
+α
 
 
 
+α
 
 
+ο
 
 
 
+α
+ν
 
 
 
+α
+ν
+α
 
 
 
@@ -220,39 +248,57 @@
 
 
 
+irregular
+α
 
 
 
+irregular
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
 
+α
+ν
+α
 
 
 
 
+α
+ν
 
 
+ο
+α
 
 
 
+irregular
+ο
 
+ι
 
 
 
 
+ρ
 
+α
 
 
 
@@ -261,12 +307,15 @@
 
 
 
+ρ
 
 
+τ
 
 
 
 
+irregular
 
 
 
@@ -284,17 +333,22 @@
 
 
 
+ο
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
+irregular
 
 
 
@@ -302,21 +356,27 @@
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+τ
 
+irregular
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -327,18 +387,24 @@
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
+ρ
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -347,20 +413,25 @@
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
+ο
 
 
 
+irregular
 
 
 
@@ -369,35 +440,49 @@
 
 
 
+ο
 
 
 
+τ
 
+irregular
 
 
+irregular
 
 
 
 
+α
 
+α
+α
 
+ευ
 
+ο
 
+α
 
 
+τ
 
 
 
 
 
+ευ
 
 
 
 
 
 
+ρ
 
 
+α
 
 
 
@@ -405,22 +490,29 @@
 
 
 
+ευ
+α
 
 
 
+τ
 
 
 
 
 
 
+ευ
 
+ευ
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -429,19 +521,25 @@
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+α
+α
 
 
 
 
 
+ν
+α
 
 
 
@@ -450,19 +548,24 @@
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
+ρ
 
 
 
@@ -474,6 +577,7 @@
 
 
 
+ο
 
 
 
@@ -488,14 +592,17 @@
 
 
 
+ευ
 
 
 
 
+ρ
 
 
 
 
+α
 
 
 
@@ -505,20 +612,27 @@
 
 
 
+ο
 
 
 
+ρ
 
+α
 
 
 
 
 
 
+α
 
 
+ο
 
+α
 
+ρ
 
 
 
@@ -527,29 +641,38 @@
 
 
 
+ο
 
 
 
+ο
+ο
 
+ο
 
+α
 
 
-superlative
 
 
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
+ο
 
 
 
@@ -559,12 +682,15 @@ superlative
 
 
 
+ο
 
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -574,8 +700,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -584,35 +712,47 @@ superlative
 
 
 
+ο
 
 
+ρ
 
+irregular
 
 
 
+ο
 
 
 
 
 
+α
+α
 
 
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -620,6 +760,7 @@ superlative
 
 
 
+δ
 
 
 
@@ -627,6 +768,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -634,25 +776,33 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
 
+α
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
@@ -664,50 +814,66 @@ superlative
 
 
 
+α
 
+ο
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ρ
 
 
 
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
+ρ
 
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
+ρ
 
+α
 
 
 
@@ -718,11 +884,14 @@ superlative
 
 
 
+ς
 
+α
 
 
 
 
+ι
 
 
 
@@ -731,92 +900,126 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
+α
 
 
+α
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
+ο
 
 
 
 
 
 
+α
 
+α
 
+α
 
 
 
 
 
 
+ο
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
+τ
 
 
+χ
+ο
 
+α
 
 
 
+υ
 
 
 
+α
 
 
+δ
 
+τ
 
 
 
 
 
+τ
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+α
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
+τ
 
 
+τ
+α
 
 
 
@@ -824,16 +1027,20 @@ superlative
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
 
 
+ρ
 
 
 
@@ -843,34 +1050,45 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
 
 
+ρ
 
+α
 
 
 
@@ -884,41 +1102,55 @@ superlative
 
 
 
+τ
 
 
 
 
 
+τ
 
 
+ρ
 
 
+ο
 
 
+ρ
 
 
 
 
+ν
 
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
+ρ
 
 
 
 
+irregular
 
 
+α
 
 
+α
 
 
+α
 
 
 
@@ -929,6 +1161,7 @@ superlative
 
 
 
+α
 
 
 
@@ -941,6 +1174,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -952,35 +1186,45 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
+τ
+ο
 
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -989,21 +1233,25 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
+irregular
 
 
 
@@ -1013,12 +1261,16 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
@@ -1027,14 +1279,19 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
+τ
 
 
+τ
+ο
 
 
 
@@ -1043,18 +1300,23 @@ superlative
 
 
 
+ι
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -1062,28 +1324,35 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
+δ
 
 
 
 
+irregular
 
 
 
 
+ο
 
+ο
 
 
 
@@ -1091,17 +1360,20 @@ superlative
 
 
 
+ς
 
 
 
-comparative
 
 
 
 
+α
 
+ο
 
 
+α
 
 
 
@@ -1118,10 +1390,14 @@ comparative
 
 
 
+irregular
 
+α
 
 
+ο
 
+ο
 
 
 
@@ -1135,6 +1411,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -1142,10 +1419,12 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -1157,6 +1436,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -1165,31 +1445,48 @@ comparative
 
 
 
+α
 
+α
 
+α
 
 
+α
 
+ο
+α
 
 
+α
+α
 
+ς
 
+ο
 
 
 
+α
+τ
 
 
 
 
 
 
+α
 
+α
+ο
+τ
 
 
 
 
 
 
+irregular
 
 
 
@@ -1197,24 +1494,36 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
+α
 
+α
 
 
+ο
+ν
 
 
+ο
 
+α
 
+ο
 
 
+ο
 
 
+α
 
 
+ευ
 
 
 
@@ -1224,11 +1533,14 @@ comparative
 
 
 
+ευ
+ο
 
 
 
 
 
+ο
 
 
 
@@ -1237,18 +1549,27 @@ comparative
 
 
 
+ο
+ο
 
 
+ο
 
+α
 
+ο
 
 
 
+ο
 
+ο
 
+ρ
 
 
 
+ο
 
 
 
@@ -1258,8 +1579,10 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
@@ -1268,28 +1591,37 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -1298,7 +1630,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -1311,31 +1645,41 @@ comparative
 
 
 
+ο
 
 
 
+α
 
+ι
 
+τ
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
+ς
 
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
@@ -1344,11 +1688,14 @@ comparative
 
 
 
+τ
 
 
 
 
+α
 
+ο
 
 
 
@@ -1362,12 +1709,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -1381,25 +1730,32 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
+ο
 
 
 
 
 
+α
 
 
 
 
+α
 
+ο
 
 
 
@@ -1421,24 +1777,30 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
+τ
 
+α
 
 
 
+τ
 
 
 
@@ -1454,57 +1816,73 @@ comparative
 
 
 
+ο
 
 
 
+τ
 
+ο
 
 
+ι
 
 
+ς
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
+τ
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -1518,17 +1896,21 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -1539,6 +1921,7 @@ comparative
 
 
 
+α
 
 
 
@@ -1546,11 +1929,14 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
@@ -1562,7 +1948,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -1572,15 +1960,20 @@ comparative
 
 
 
+α
 
 
+ευ
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -1595,6 +1988,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -1604,20 +1998,24 @@ comparative
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -1627,18 +2025,23 @@ comparative
 
 
 
+α
 
+ρ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -1647,24 +2050,29 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -1674,17 +2082,23 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
+α
 
 
+α
 
+α
 
 
+α
 
 
 
@@ -1698,6 +2112,7 @@ comparative
 
 
 
+α
 
 
 
@@ -1711,6 +2126,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -1720,10 +2136,12 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -1742,19 +2160,23 @@ comparative
 
 
 
+ς
 
 
 
 
 
+τ
 
 
 
+α
 
 
 
 
 
+ρ
 
 
 
@@ -1770,13 +2192,16 @@ comparative
 
 
 
+ς
 
 
 
 
 
+τ
 
 
+α
 
 
 
@@ -1784,9 +2209,11 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
 
 
@@ -1796,8 +2223,11 @@ comparative
 
 
 
+irregular
 
 
+ο
+α
 
 
 
@@ -1818,7 +2248,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -1830,31 +2262,42 @@ comparative
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+α
 
+ο
 
 
+δ
 
 
 
+τ
 
+ι
 
 
 
+ευ
 
 
 
+α
 
 
 
 
 
 
+χ
 
 
 
@@ -1862,6 +2305,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -1878,9 +2322,13 @@ comparative
 
 
 
+ο
 
+ο
 
+ντ
 
+ντ
 
 
 
@@ -1896,6 +2344,7 @@ comparative
 
 
 
+ν
 
 
 
@@ -1909,28 +2358,29 @@ comparative
 
 
 
+ν
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
-superlative
 
 
 
 
 
-superlative
 
 
 
@@ -1961,18 +2411,21 @@ superlative
 
 
 
-comparative
 
 
 
 
 
+ο
 
+ρ
 
 
 
+ο
 
 
+ο
 
 
 
@@ -1992,10 +2445,12 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -2003,6 +2458,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -2021,6 +2477,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -2029,11 +2486,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -2041,43 +2500,52 @@ comparative
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
-superlative
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -2092,11 +2560,13 @@ superlative
 
 
 
+α
 
 
 
 
 
+ρ
 
 
 
@@ -2111,26 +2581,31 @@ superlative
 
 
 
-superlative
 
+ο
 
 
 
 
+α
 
 
 
+α
 
+υ
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -2139,13 +2614,16 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ρ
 
 
 
@@ -2153,6 +2631,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -2173,6 +2652,7 @@ superlative
 
 
 
+α
 
 
 
@@ -2182,8 +2662,10 @@ superlative
 
 
 
+ρ
 
 
+α
 
 
 
@@ -2194,24 +2676,32 @@ superlative
 
 
 
+ρ
 
 
 
 
+ο
 
 
+τ
 
 
 
+α
 
 
 
+τ
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
@@ -2222,18 +2712,21 @@ superlative
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -2244,12 +2737,15 @@ superlative
 
 
 
+ο
 
+τ
 
 
 
 
 
+ρ
 
 
 
@@ -2258,11 +2754,14 @@ superlative
 
 
 
+ο
 
 
+ρ
 
 
 
+τ
 
 
 
@@ -2271,20 +2770,24 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -2292,17 +2795,21 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -2310,6 +2817,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -2321,26 +2829,36 @@ superlative
 
 
 
+ο
 
 
+α
 
+τ
 
+ι
 
 
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
+τ
 
+ι
 
 
 
+α
 
 
 
@@ -2349,50 +2867,63 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
+τ
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
 
 
+τ
 
 
 
+ς
 
 
+ς
 
 
 
 
+ο
 
 
 
@@ -2412,8 +2943,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -2421,6 +2954,7 @@ superlative
 
 
 
+α
 
 
 
@@ -2429,21 +2963,28 @@ superlative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
+α
 
 
+τ
 
+τ
 
 
 
+ο
 
+ο
 
 
 
@@ -2452,8 +2993,10 @@ superlative
 
 
 
+α
 
 
+ρ
 
 
 
@@ -2473,15 +3016,20 @@ superlative
 
 
 
+α
 
+υ
 
 
 
+τ
 
 
 
 
+ο
 
+ο
 
 
 
@@ -2493,9 +3041,11 @@ superlative
 
 
 
+ν
 
 
 
+α
 
 
 
@@ -2504,14 +3054,18 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -2535,10 +3089,12 @@ superlative
 
 
 
+ς
 
 
 
 
+ρ
 
 
 
@@ -2550,8 +3106,10 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
@@ -2571,7 +3129,9 @@ superlative
 
 
 
+α
 
+α
 
 
 
@@ -2581,11 +3141,13 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -2593,67 +3155,87 @@ superlative
 
 
 
+ς
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ς
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ς
 
 
+ο
 
+ο
 
 
 
 
 
 
+ν
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+δ
 
 
 
@@ -2688,17 +3270,23 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
+υ
 
 
+ι
 
 
 
@@ -2707,17 +3295,21 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -2732,6 +3324,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -2741,22 +3334,28 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -2767,13 +3366,16 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -2783,55 +3385,76 @@ superlative
 
 
 
+α
 
 
 
 
 
+τ
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
+α
 
 
+ο
+ο
 
 
+ο
 
+ο
 
 
 
 
 
+ο
+ο
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -2840,36 +3463,51 @@ superlative
 
 
 
+ο
+ο
 
 
 
+α
 
+ο
 
 
 
 
+τ
 
+ρ
 
 
 
 
+ο
 
 
 
 
 
 
+α
+ο
+ο
 
 
 
+τ
 
 
 
 
+τ
+ο
 
 
 
 
+τ
+ι
 
 
 
@@ -2886,36 +3524,45 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
 
+α
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -2924,43 +3571,53 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+ι
 
 
 
@@ -2968,32 +3625,39 @@ superlative
 
 
 
+irregular
 
+ο
 
-comparative
 
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+ευ
 
 
 
 
 
 
+ς
 
 
+ο
 
 
 
@@ -3002,6 +3666,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -3010,6 +3675,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -3020,10 +3686,12 @@ comparative
 
 
 
+α
 
 
 
 
+irregular
 
 
 
@@ -3032,12 +3700,16 @@ comparative
 
 
 
+ευ
 
 
 
+ο
 
 
+υ
 
+ο
 
 
 
@@ -3046,15 +3718,19 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
+δ
 
 
 
 
+α
 
 
 
@@ -3067,7 +3743,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -3075,22 +3753,28 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
+δ
 
 
 
 
+ο
 
 
+α
 
 
 
+α
 
 
 
@@ -3104,7 +3788,7 @@ comparative
 
 
 
-superlative
+ο
 
 
 
@@ -3113,6 +3797,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -3124,6 +3809,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -3134,7 +3820,9 @@ superlative
 
 
 
+α
 
+α
 
 
 
@@ -3146,25 +3834,35 @@ superlative
 
 
 
+α
 
+ο
 
 
+ο
 
+α
 
 
 
+ς
 
 
 
 
 
+ο
 
 
+ο
 
+ντ
 
 
 
+irregular
 
+α
 
 
 
@@ -3173,16 +3871,22 @@ superlative
 
 
 
+δ
 
 
+α
 
 
 
 
+irregular
 
 
+α
+ο
 
 
+α
 
 
 
@@ -3190,13 +3894,14 @@ superlative
 
 
 
+ρ
 
 
 
 
 
+ο
 
-superlative
 
 
 
@@ -3211,6 +3916,8 @@ superlative
 
 
 
+τ
+ο
 
 
 
@@ -3222,18 +3929,24 @@ superlative
 
 
 
+α
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+irregular
+ο
 
 
 
@@ -3244,8 +3957,10 @@ superlative
 
 
 
+ευ
 
 
+ο
 
 
 
@@ -3255,24 +3970,35 @@ superlative
 
 
 
+irregular
 
+κ
+ο
 
 
 
+ο
 
+ο
+ι
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -3280,9 +4006,11 @@ superlative
 
 
 
+ρ
 
 
 
+irregular
 
 
 
@@ -3300,21 +4028,27 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
+τ
 
 
 
@@ -3323,6 +4057,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -3336,13 +4071,17 @@ superlative
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -3351,8 +4090,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -3363,6 +4104,7 @@ superlative
 
 
 
+α
 
 
 
@@ -3371,6 +4113,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -3381,6 +4124,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -3390,10 +4134,13 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
@@ -3401,10 +4148,13 @@ superlative
 
 
 
+α
+ο
 
 
 
 
+ν
 
 
 
@@ -3415,7 +4165,9 @@ superlative
 
 
 
+α
 
+ο
 
 
 
@@ -3426,19 +4178,24 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
+ρ
 
 
 
@@ -3447,6 +4204,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -3457,9 +4215,12 @@ superlative
 
 
 
+ι
 
 
+ι
 
+irregular
 
 
 
@@ -3468,39 +4229,48 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
 
 
+irregular
 
+ι
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ευ
 
 
 
@@ -3509,7 +4279,9 @@ superlative
 
 
 
+irregular
 
+ι
 
 
 
@@ -3518,6 +4290,7 @@ superlative
 
 
 
+α
 
 
 
@@ -3527,6 +4300,7 @@ superlative
 
 
 
+α
 
 
 
@@ -3536,12 +4310,17 @@ superlative
 
 
 
+α
 
 
+ο
 
+ο
 
 
+α
 
+α
 
 
 
@@ -3550,36 +4329,47 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
+irregular
 
 
+ο
 
 
 
+ο
+ο
 
 
 
@@ -3596,40 +4386,50 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+irregular
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -3639,9 +4439,11 @@ superlative
 
 
 
+ς
 
 
 
+α
 
 
 
@@ -3653,15 +4455,19 @@ superlative
 
 
 
+α
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -3669,10 +4475,13 @@ superlative
 
 
 
+irregular
 
 
 
+ο
 
+ν
 
 
 
@@ -3680,51 +4489,67 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+τ
+ς
 
 
+ο
 
 
 
 
+τ
 
 
 
+ο
 
 
+τ
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
@@ -3734,6 +4559,7 @@ superlative
 
 
 
+ντ
 
 
 
@@ -3741,6 +4567,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -3748,6 +4575,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -3756,20 +4584,26 @@ superlative
 
 
 
+irregular
 
 
 
 
+α
 
 
 
+irregular
 
 
+ς
 
 
 
 
+ο
 
+ο
 
 
 
@@ -3779,37 +4613,48 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
 
 
+ρ
 
+ι
 
 
 
 
 
 
+irregular
 
 
+α
 
 
 
 
+irregular
 
 
+α
 
+ντ
 
 
 
+α
 
 
+ο
 
 
 
@@ -3817,6 +4662,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -3826,39 +4672,46 @@ superlative
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+irregular
 
 
-comparative
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -3867,6 +4720,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -3875,13 +4729,16 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ι
 
 
 
@@ -3889,10 +4746,12 @@ comparative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -3905,6 +4764,7 @@ comparative
 
 
 
+α
 
 
 
@@ -3917,12 +4777,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -3932,35 +4794,48 @@ comparative
 
 
 
+ο
 
 
 
+ντ
 
+ο
 
 
+ο
 
 
 
+irregular
 
+ι
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
@@ -3970,71 +4845,106 @@ comparative
 
 
 
+ο
 
 
+ν
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
+τ
 
 
 
-superlative
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
+τ
 
 
 
+ν
 
 
+ο
 
+α
 
+ο
 
 
+ο
 
 
+ο
 
+α
 
+ο
 
+ο
 
+ο
+α
 
+ο
 
+α
+ο
 
 
+ο
 
+ο
+ν
 
+ο
 
+α
 
+non-declinable
 
 
 
@@ -4044,14 +4954,19 @@ superlative
 
 
 
+irregular
 
 
 
 
+ο
+ς
 
 
 
 
+ι
+α
 
 
 
@@ -4059,8 +4974,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -4069,13 +4986,16 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -4083,27 +5003,40 @@ superlative
 
 
 
+ο
 
+ο
 
+ο
 
 
+α
 
 
+α
 
+ο
 
 
+ν
 
+τ
 
+ο
 
 
 
+α
 
+α
 
 
 
 
 
+ι
 
+α
 
 
 
@@ -4120,6 +5053,7 @@ superlative
 
 
 
+α
 
 
 
@@ -4127,9 +5061,11 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -4139,6 +5075,7 @@ superlative
 
 
 
+α
 
 
 
@@ -4152,68 +5089,90 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
+ι
 
 
 
+ο
 
+δ
 
 
 
 
 
 
+α
+τ
 
+α
 
+α
+ι
 
 
+ι
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ν
 
 
+ευ
 
 
 
 
+ο
 
 
 
+ς
 
 
 
@@ -4230,6 +5189,7 @@ superlative
 
 
 
+α
 
 
 
@@ -4240,7 +5200,9 @@ superlative
 
 
 
+τ
 
+ρ
 
 
 
@@ -4248,11 +5210,18 @@ superlative
 
 
 
+ο
+ο
 
+ο
 
+ρ
+ο
 
 
+ο
 
+ευ
 
 
 
@@ -4263,11 +5232,13 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ς
 
 
 
@@ -4276,6 +5247,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -4289,40 +5261,52 @@ superlative
 
 
 
+ι
 
 
 
 
 
+ο
 
-comparative
+ο
 
 
+α
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -4345,17 +5329,21 @@ comparative
 
 
 
+α
 
 
 
+τ
 
 
 
 
+τ
 
 
 
 
+τ
 
 
 
@@ -4363,8 +5351,10 @@ comparative
 
 
 
+τ
 
 
+α
 
 
 
@@ -4374,11 +5364,16 @@ comparative
 
 
 
+α
 
+τ
 
 
+α
 
 
+ο
+ο
 
 
 
@@ -4388,14 +5383,18 @@ comparative
 
 
 
+α
 
 
+ρ
 
 
 
 
 
+χ
 
+α
 
 
 
@@ -4403,6 +5402,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -4413,16 +5413,19 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -4430,48 +5433,65 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
+α
 
 
 
+α
 
+α
 
 
 
+ο
 
 
+ρ
 
 
+ρ
 
 
+ρ
 
 
+α
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
+ρ
 
+ρ
 
 
 
@@ -4481,7 +5501,9 @@ comparative
 
 
 
+ο
 
+ρ
 
 
 
@@ -4493,6 +5515,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -4505,6 +5528,7 @@ comparative
 
 
 
+α
 
 
 
@@ -4512,6 +5536,7 @@ comparative
 
 
 
+α
 
 
 
@@ -4532,14 +5557,21 @@ comparative
 
 
 
+α
 
+τ
+α
+ο
+α
 
 
 
 
 
 
+τ
 
+ο
 
 
 
@@ -4550,9 +5582,12 @@ comparative
 
 
 
+ο
 
 
 
+τ
+α
 
 
 
@@ -4560,15 +5595,18 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
+α
 
 
 
@@ -4578,17 +5616,23 @@ comparative
 
 
 
+ι
 
 
 
+α
 
 
 
+ο
 
+ο
 
+ο
 
 
 
+α
 
 
 
@@ -4602,10 +5646,12 @@ comparative
 
 
 
+irregular
 
 
 
 
+α
 
 
 
@@ -4640,21 +5686,27 @@ comparative
 
 
 
+irregular
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -4665,16 +5717,20 @@ comparative
 
 
 
+ο
 
+ευ
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -4684,12 +5740,15 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -4700,35 +5759,49 @@ comparative
 
 
 
+irregular
 
+α
 
+α
 
 
 
 
 
+α
 
+ο
 
 
 
 
 
 
+α
+α
 
+α
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
+ο
 
+α
 
 
 
@@ -4736,22 +5809,27 @@ comparative
 
 
 
+δ
 
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -4768,41 +5846,53 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
+ο
 
+α
+α
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
 
+ι
 
 
 
@@ -4816,9 +5906,12 @@ comparative
 
 
 
+ο
 
+ν
 
 
+ι
 
 
 
@@ -4826,15 +5919,21 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
+ν
 
 
 
+α
+ι
 
 
 
@@ -4842,14 +5941,18 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
+τ
 
 
+ι
 
 
 
@@ -4863,22 +5966,32 @@ comparative
 
 
 
+α
+τ
 
 
 
+α
+ι
 
 
 
 
 
+ο
 
 
+irregular
 
 
 
+ρ
+ο
 
+ο
 
 
+α
 
 
 
@@ -4892,8 +6005,10 @@ comparative
 
 
 
+ρ
 
 
+α
 
 
 
@@ -4902,27 +6017,32 @@ comparative
 
 
 
+ρ
 
 
-superlative
 
 
 
+ο
 
 
 
+ρ
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -4937,6 +6057,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -4950,44 +6071,56 @@ superlative
 
 
 
+α
 
 
+ι
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+irregular
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+υ
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -4995,6 +6128,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -5014,10 +6148,14 @@ superlative
 
 
 
+ο
 
+ο
 
 
+ο
 
+ι
 
 
 
@@ -5032,18 +6170,24 @@ superlative
 
 
 
+ευ
 
 
 
 
 
 
+ο
 
 
+ο
 
+ευ
 
 
+ο
 
+ο
 
 
 
@@ -5053,6 +6197,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -5061,28 +6206,37 @@ superlative
 
 
 
+ς
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
+ρ
 
 
 
@@ -5092,6 +6246,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -5104,16 +6259,19 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
-comparative
 
 
 
 
+ο
 
+ο
 
 
 
@@ -5122,17 +6280,22 @@ comparative
 
 
 
+ο
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -5144,6 +6307,8 @@ comparative
 
 
 
+ο
+ο
 
 
 
@@ -5152,6 +6317,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -5176,10 +6342,13 @@ comparative
 
 
 
+α
 
+α
 
 
 
+δ
 
 
 
@@ -5189,14 +6358,18 @@ comparative
 
 
 
+α
 
 
 
+τ
 
 
 
 
+ι
 
+ς
 
 
 
@@ -5207,12 +6380,16 @@ comparative
 
 
 
+υ
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
@@ -5220,10 +6397,14 @@ comparative
 
 
 
+ς
 
+ι
 
 
+τ
 
+ς
 
 
 
@@ -5245,41 +6426,51 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ντ
 
+ο
 
 
 
+ι
 
 
 
 
+α
 
 
 
 
 
 
+ι
 
+α
 
 
 
@@ -5288,7 +6479,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -5297,6 +6490,7 @@ comparative
 
 
 
+α
 
 
 
@@ -5305,7 +6499,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -5313,20 +6509,26 @@ comparative
 
 
 
+α
 
 
 
 
 
+τ
+ο
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -5334,10 +6536,12 @@ comparative
 
 
 
+α
 
 
 
 
+ς
 
 
 
@@ -5349,6 +6553,7 @@ comparative
 
 
 
+α
 
 
 
@@ -5371,21 +6576,29 @@ comparative
 
 
 
+α
 
+α
 
 
+ο
 
 
 
+τ
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -5394,6 +6607,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -5403,6 +6617,7 @@ comparative
 
 
 
+ν
 
 
 
@@ -5410,24 +6625,32 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
+τ
+α
 
 
 
@@ -5437,22 +6660,29 @@ comparative
 
 
 
+τ
 
+α
 
+τ
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -5460,22 +6690,29 @@ comparative
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+ο
 
+α
+ι
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -5483,52 +6720,78 @@ comparative
 
 
 
+ευ
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+δ
+ο
 
 
+ο
 
 
 
 
 
 
+ο
+α
 
+α
 
 
 
+α
 
 
+α
 
+ς
 
+α
 
 
+irregular
 
 
 
+ο
 
+ο
 
 
+α
 
+α
 
+α
 
 
+irregular
+irregular
+α
 
 
 
+ι
 
 
+α
 
 
 
@@ -5537,15 +6800,22 @@ comparative
 
 
 
+τ
+α
 
 
 
+α
 
+α
+ο
 
 
 
+ι
 
 
+α
 
 
 
@@ -5554,24 +6824,33 @@ comparative
 
 
 
+τ
 
+α
 
 
+α
+ν
 
 
 
+ν
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
+ι
 
 
 
@@ -5579,6 +6858,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -5599,6 +6879,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -5610,6 +6891,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -5618,6 +6900,7 @@ comparative
 
 
 
+α
 
 
 
@@ -5625,10 +6908,13 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
+ο
 
 
 
@@ -5641,9 +6927,11 @@ comparative
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -5660,76 +6948,96 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
+α
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
 
 
 
+τ
 
+ρ
 
 
 
+ο
 
 
+ο
 
+α
 
+ρ
 
 
 
+α
 
 
 
+irregular
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
-comparative
 
 
 
@@ -5742,9 +7050,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -5756,34 +7066,38 @@ comparative
 
 
 
+α
 
 
 
 
-comparative
 
 
 
 
+ο
+α
+ο
 
-comparative
 
 
 
 
 
-comparative
 
 
+α
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -5792,10 +7106,12 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -5807,15 +7123,18 @@ comparative
 
 
 
+τ
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -5827,8 +7146,11 @@ comparative
 
 
 
+ο
 
+α
 
+ο
 
 
 
@@ -5853,6 +7175,7 @@ comparative
 
 
 
+α
 
 
 
@@ -5869,8 +7192,11 @@ comparative
 
 
 
+α
+α
 
 
+α
 
 
 
@@ -5886,26 +7212,32 @@ comparative
 
 
 
+α
 
+ο
 
 
 
+τ
 
-superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+τ
 
 
 
+α
 
 
 
@@ -5916,10 +7248,12 @@ superlative
 
 
 
+ο
 
 
 
 
+τ
 
 
 
@@ -5929,7 +7263,7 @@ superlative
 
 
 
-comparative
+α
 
 
 
@@ -5950,12 +7284,15 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -5968,13 +7305,14 @@ comparative
 
 
 
-comparative
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -5986,15 +7324,18 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -6002,29 +7343,39 @@ comparative
 
 
 
+ι
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
+ν
 
 
+α
 
+ο
 
 
+ο
 
 
 
@@ -6033,11 +7384,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -6056,67 +7409,87 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
+ο
+ο
 
 
+τ
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
+ο
 
 
+τ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -6132,50 +7505,67 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
+α
 
 
 
 
 
 
+α
 
+ο
+ο
+ι
 
 
+ο
 
 
 
+ο
 
 
 
@@ -6183,35 +7573,47 @@ comparative
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
-comparative
 
+ο
 
 
+α
 
 
 
 
 
+α
 
+ο
+α
 
 
+irregular
 
 
+ο
+ο
 
 
 
@@ -6221,10 +7623,14 @@ comparative
 
 
 
+irregular
 
+α
 
+ο
 
 
+α
 
 
 
@@ -6234,31 +7640,41 @@ comparative
 
 
 
+α
 
 
 
+α
 
+τ
 
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+α
 
+ο
 
+ο
 
 
 
@@ -6267,24 +7683,34 @@ comparative
 
 
 
+τ
 
 
+ο
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+τ
 
 
 
+ο
 
+α
 
 
+ο
 
 
+ο
 
 
 
@@ -6298,75 +7724,105 @@ comparative
 
 
 
+ο
+α
+ν
 
 
 
+α
+ο
 
 
 
 
 
+ο
 
+ρ
 
 
 
 
 
+α
 
+ν
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
 
+ρ
 
 
 
+ο
 
 
+ο
 
+ντ
 
 
 
 
 
 
+ο
 
 
+α
 
+ρ
 
 
 
+τ
 
 
 
 
+α
 
+ο
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -6376,18 +7832,24 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
+ο
 
 
+α
 
 
 
 
+α
 
 
 
@@ -6400,13 +7862,18 @@ comparative
 
 
 
+α
 
+ο
+α
 
 
 
+α
 
 
 
+ς
 
 
 
@@ -6414,12 +7881,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ς
 
 
 
@@ -6429,9 +7898,12 @@ comparative
 
 
 
+α
 
+ν
 
 
+ο
 
 
 
@@ -6445,13 +7917,18 @@ comparative
 
 
 
+ο
 
+ρ
 
 
 
+ο
 
 
+ο
 
+ντ
 
 
 
@@ -6465,15 +7942,21 @@ comparative
 
 
 
+ευ
 
 
+α
 
+ο
 
 
+ο
+α
 
 
 
 
+ο
 
 
 
@@ -6483,7 +7966,9 @@ comparative
 
 
 
+irregular
 
+α
 
 
 
@@ -6491,11 +7976,13 @@ comparative
 
 
 
+δ
 
 
 
 
 
+α
 
 
 
@@ -6505,27 +7992,38 @@ comparative
 
 
 
+α
 
 
 
+ι
 
 
 
 
 
+ν
+ο
 
 
+ρ
 
 
+α
 
 
+ο
 
+ο
 
 
 
+ν
 
+α
 
 
+α
 
 
 
@@ -6543,41 +8041,54 @@ comparative
 
 
 
+irregular
 
 
 
-superlative
 
+α
 
 
 
 
 
+δ
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
+α
 
 
 
 
+ο
 
+α
 
+α
 
+α
+irregular
 
 
 
+δ
 
 
 
+α
 
+α
 
 
 
@@ -6587,24 +8098,33 @@ superlative
 
 
 
+ι
 
 
 
 
 
+α
 
 
+α
 
 
 
+α
 
 
+δ
 
+irregular
+ο
 
+ο
 
 
 
 
+α
 
 
 
@@ -6617,24 +8137,32 @@ superlative
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
+α
 
 
+ρ
 
+δ
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -6646,19 +8174,26 @@ superlative
 
 
 
+ρ
 
 
 
 
 
 
+κ
 
+α
+α
 
+α
 
 
 
+ευ
 
 
+ο
 
 
 
@@ -6667,26 +8202,34 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
+α
 
 
+κ
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
+α
 
 
 
+τ
 
 
 
@@ -6694,28 +8237,35 @@ superlative
 
 
 
+irregular
 
 
 
+irregular
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
+ο
 
 
 
@@ -6731,28 +8281,36 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
+τ
 
 
+irregular
 
 
 
+α
 
 
 
@@ -6769,8 +8327,10 @@ superlative
 
 
 
+ο
 
 
+υ
 
 
 
@@ -6781,30 +8341,38 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+υ
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
+α
 
+ο
 
 
-comparative
 
 
 
@@ -6813,27 +8381,33 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
 
 
+irregular
 
 
 
+irregular
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
-comparative
 
 
 
@@ -6841,12 +8415,15 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ς
 
 
 
@@ -6858,49 +8435,59 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
+ο
 
 
+α
 
+irregular
 
 
 
 
 
 
+α
 
-comparative
 
+α
 
 
 
 
+α
 
 
 
-superlative
 
+τ
 
 
 
 
-superlative
+ο
 
 
 
 
 
+irregular
 
 
 
@@ -6912,7 +8499,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -6923,6 +8512,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -6931,29 +8521,37 @@ superlative
 
 
 
+ο
+ο
 
 
 
+ρ
 
 
 
 
+irregular
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
+ρ
 
 
 
@@ -6968,29 +8566,37 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
+ο
 
 
 
@@ -7012,7 +8618,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -7021,22 +8629,30 @@ superlative
 
 
 
+irregular
 
+τ
+ο
 
+ευ
 
 
 
 
+α
 
 
 
+ι
 
 
 
 
 
 
+ρ
 
+ο
 
 
 
@@ -7049,21 +8665,30 @@ superlative
 
 
 
+α
 
+ο
 
 
+ι
 
 
 
+ο
 
 
 
+ρ
 
 
+ρ
 
 
 
+ρ
 
+ρ
+ο
 
 
 
@@ -7072,8 +8697,11 @@ superlative
 
 
 
+ρ
 
 
+ρ
+ο
 
 
 
@@ -7083,29 +8711,39 @@ superlative
 
 
 
+ρ
 
 
 
+ρ
 
 
 
 
+ο
 
+ο
 
 
+ι
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
+ς
 
 
 
 
+α
 
 
 
@@ -7116,9 +8754,13 @@ superlative
 
 
 
+α
+τ
+ο
 
 
 
+ο
 
 
 
@@ -7129,36 +8771,45 @@ superlative
 
 
 
+τ
 
 
+ο
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ρ
 
 
 
@@ -7167,6 +8818,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -7175,18 +8827,22 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -7199,61 +8855,87 @@ superlative
 
 
 
+τ
 
 
+α
 
 
 
+ν
 
 
 
 
 
 
+τ
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
+ο
 
+ο
+α
+α
+α
+α
+α
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
+ς
+ο
 
+ν
 
 
+irregular
 
 
 
+ο
 
 
 
 
 
 
+ο
+ο
 
 
+ρ
 
 
 
@@ -7262,9 +8944,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -7285,8 +8969,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -7294,6 +8980,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -7305,35 +8992,46 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
 
+irregular
 
 
 
+irregular
 
 
 
+ι
 
 
 
@@ -7341,27 +9039,34 @@ superlative
 
 
 
+ρ
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
+α
 
+α
 
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
@@ -7378,12 +9083,14 @@ superlative
 
 
 
+δ
 
 
 
 
 
 
+ο
 
 
 
@@ -7399,18 +9106,23 @@ superlative
 
 
 
+ο
 
 
 
+irregular
 
 
+α
 
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -7430,22 +9142,29 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
+ο
 
 
 
+ο
 
 
 
 
 
+irregular
 
+ο
 
 
 
@@ -7453,26 +9172,34 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
+υ
 
 
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
@@ -7482,36 +9209,48 @@ superlative
 
 
 
+τ
 
 
+δ
 
 
 
 
 
 
+irregular
 
+irregular
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
@@ -7522,37 +9261,50 @@ superlative
 
 
 
+α
 
 
 
+ο
 
-superlative
 
 
+ν
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
+ο
 
+ο
 
 
+α
 
 
+δ
+ο
 
 
+ο
 
 
 
 
 
 
+ο
+α
 
 
 
@@ -7560,24 +9312,28 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
+irregular
 
-comparative
 
 
 
 
 
 
+α
 
+ο
 
-comparative
+ο
 
 
 
@@ -7585,11 +9341,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
@@ -7597,6 +9355,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -7605,18 +9364,22 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+δ
 
 
 
@@ -7624,14 +9387,18 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+ο
 
+ο
 
 
 
@@ -7640,41 +9407,59 @@ comparative
 
 
 
+α
 
+ο
 
 
 
+α
 
+ο
 
+ο
 
 
 
+irregular
 
 
+ς
+α
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
+α
 
 
+δ
 
 
+α
 
 
 
+α
 
 
 
@@ -7685,33 +9470,44 @@ comparative
 
 
 
+ν
+ο
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
+ν
 
 
+κ
 
+τ
 
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -7719,45 +9515,58 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
+α
+α
 
 
 
 
 
 
+δ
 
+α
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -7765,16 +9574,21 @@ comparative
 
 
 
+ο
 
 
 
+irregular
+ο
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -7783,23 +9597,28 @@ comparative
 
 
 
+ευ
 
+ευ
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -7810,9 +9629,12 @@ comparative
 
 
 
+ο
 
 
 
+α
+ο
 
 
 
@@ -7820,13 +9642,17 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
+irregular
 
 
+α
 
 
 
@@ -7839,6 +9665,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -7848,6 +9675,7 @@ comparative
 
 
 
+α
 
 
 
@@ -7857,6 +9685,7 @@ comparative
 
 
 
+α
 
 
 
@@ -7865,30 +9694,41 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
+τ
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
+α
 
+ρ
 
 
 
+ο
 
 
 
@@ -7896,6 +9736,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -7910,29 +9751,40 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
+irregular
 
+ο
 
+ο
 
+α
 
+ο
 
 
 
 
 
+ς
 
 
 
@@ -7943,29 +9795,38 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+υ
 
+δ
 
 
 
 
 
 
+ο
 
 
+irregular
+ο
 
 
 
@@ -7976,27 +9837,34 @@ comparative
 
 
 
+α
 
 
 
+υ
 
 
+δ
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -8008,8 +9876,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -8017,6 +9887,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -8028,29 +9899,36 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
 
 
+ς
 
 
 
+irregular
 
 
 
 
+τ
 
 
 
+ο
 
+ο
 
 
 
@@ -8058,12 +9936,15 @@ comparative
 
 
 
+α
 
 
 
 
+ευ
 
 
+δ
 
 
 
@@ -8071,6 +9952,7 @@ comparative
 
 
 
+δ
 
 
 
@@ -8080,6 +9962,7 @@ comparative
 
 
 
+δ
 
 
 
@@ -8095,7 +9978,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -8103,24 +9988,31 @@ comparative
 
 
 
+α
 
 
+α
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -8131,14 +10023,17 @@ comparative
 
 
 
+ρ
 
 
 
 
+ρ
 
 
 
 
+α
 
 
 
@@ -8148,8 +10043,10 @@ comparative
 
 
 
+irregular
 
 
+α
 
 
 
@@ -8170,21 +10067,27 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
+δ
 
 
+α
 
 
 
 
+α
 
+irregular
 
 
 
@@ -8201,6 +10104,7 @@ comparative
 
 
 
+α
 
 
 
@@ -8208,9 +10112,13 @@ comparative
 
 
 
+ι
 
+ο
+ι
 
 
+ς
 
 
 
@@ -8226,20 +10134,27 @@ comparative
 
 
 
+α
 
 
 
+irregular
 
 
+ο
 
+ο
 
 
+ρ
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -8252,35 +10167,47 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+irregular
 
 
 
 
+ν
 
+ευ
 
+α
 
 
 
+ς
 
+ο
 
 
+ο
 
 
 
@@ -8294,10 +10221,12 @@ comparative
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
@@ -8305,17 +10234,22 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
+υ
 
 
 
 
+τ
 
 
+ρ
 
 
 
@@ -8327,9 +10261,12 @@ comparative
 
 
 
+α
 
 
+α
 
+irregular
 
 
 
@@ -8337,9 +10274,12 @@ comparative
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
@@ -8357,18 +10297,22 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -8376,15 +10320,19 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -8404,35 +10352,47 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ς
 
+α
 
 
+ο
 
 
+ο
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
+δ
 
 
 
@@ -8448,22 +10408,27 @@ comparative
 
 
 
+α
 
 
 
 
 
+ρ
 
 
+δ
 
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
@@ -8479,14 +10444,18 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
+ρ
 
 
 
@@ -8499,23 +10468,30 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
+ρ
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -8528,6 +10504,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -8557,11 +10534,14 @@ comparative
 
 
 
+τ
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -8572,6 +10552,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -8586,6 +10567,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -8600,21 +10582,26 @@ comparative
 
 
 
+τ
 
+ρ
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -8623,6 +10610,7 @@ comparative
 
 
 
+α
 
 
 
@@ -8631,21 +10619,24 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
-comparative
 
 
 
@@ -8656,8 +10647,10 @@ comparative
 
 
 
+α
 
 
+τ
 
 
 
@@ -8665,9 +10658,11 @@ comparative
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -8678,6 +10673,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -8686,13 +10682,16 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -8702,6 +10701,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -8715,12 +10715,18 @@ comparative
 
 
 
+α
 
+ο
+ο
+ευ
 
 
 
+ο
 
 
+ο
 
 
 
@@ -8729,7 +10735,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -8738,11 +10746,14 @@ comparative
 
 
 
+ο
 
 
 
+irregular
 
 
+ο
 
 
 
@@ -8752,6 +10763,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -8765,26 +10777,32 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -8797,6 +10815,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -8816,6 +10835,7 @@ comparative
 
 
 
+α
 
 
 
@@ -8823,6 +10843,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -8832,6 +10853,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -8840,12 +10862,15 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -8858,6 +10883,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -8866,10 +10892,12 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -8880,6 +10908,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -8890,30 +10919,39 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+irregular
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -8922,6 +10960,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -8930,9 +10969,11 @@ comparative
 
 
 
+irregular
 
 
 
+α
 
 
 
@@ -8943,6 +10984,7 @@ comparative
 
 
 
+α
 
 
 
@@ -8953,51 +10995,66 @@ comparative
 
 
 
+ο
 
+ρ
 
 
+ρ
 
 
 
+irregular
 
 
 
 
 
 
+κ
 
 
 
 
 
 
+κ
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+υ
 
 
+ο
+ο
 
 
 
 
 
+υ
 
 
+α
 
 
 
 
 
+irregular
 
 
+α
 
 
 
@@ -9010,9 +11067,11 @@ comparative
 
 
 
+irregular
 
 
 
+α
 
 
 
@@ -9020,13 +11079,17 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
+ο
 
 
+irregular
 
 
 
@@ -9038,30 +11101,39 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+α
+ρ
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -9069,21 +11141,26 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
+ο
 
 
 
@@ -9096,10 +11173,13 @@ comparative
 
 
 
+α
 
+ο
 
 
 
+ρ
 
 
 
@@ -9109,11 +11189,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -9134,14 +11216,17 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
@@ -9154,8 +11239,10 @@ comparative
 
 
 
+ρ
 
 
+ρ
 
 
 
@@ -9166,6 +11253,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -9175,6 +11263,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -9189,7 +11278,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -9197,17 +11288,22 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+τ
 
 
 
+irregular
 
 
+α
 
 
 
@@ -9218,23 +11314,31 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
+τ
+δ
 
 
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
@@ -9245,19 +11349,23 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -9273,6 +11381,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -9285,38 +11394,54 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+ο
 
+ο
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+α
 
+ο
 
+α
 
+ρ
 
+ρ
 
+ο
 
+ο
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -9331,35 +11456,47 @@ comparative
 
 
 
+α
 
+ο
+ο
+α
 
 
 
 
 
+α
 
 
+ν
 
 
 
 
 
+α
 
+ο
 
+α
 
 
 
 
+ν
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -9369,6 +11506,7 @@ comparative
 
 
 
+ν
 
 
 
@@ -9386,6 +11524,7 @@ comparative
 
 
 
+α
 
 
 
@@ -9404,6 +11543,7 @@ comparative
 
 
 
+α
 
 
 
@@ -9418,19 +11558,25 @@ comparative
 
 
 
+ν
 
 
 
 
 
+ο
 
+ν
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -9444,8 +11590,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -9458,6 +11606,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -9465,11 +11614,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -9479,19 +11630,24 @@ comparative
 
 
 
+ς
 
+α
 
 
+ν
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -9519,6 +11675,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -9538,7 +11695,9 @@ comparative
 
 
 
+irregular
 
+τ
 
 
 
@@ -9547,25 +11706,33 @@ comparative
 
 
 
+ο
 
 
 
 
 
+τ
 
 
+ο
 
+ο
 
 
+ευ
 
+ευ
 
 
 
 
+ο
 
 
 
 
+ς
 
 
 
@@ -9576,14 +11743,19 @@ comparative
 
 
 
+α
 
 
 
 
 
+ρ
 
+ο
+ο
 
 
+ο
 
 
 
@@ -9595,7 +11767,6 @@ comparative
 
 
 
-comparative
 
 
 
@@ -9606,6 +11777,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -9617,10 +11789,12 @@ comparative
 
 
 
+α
 
 
 
 
+irregular
 
 
 
@@ -9629,6 +11803,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -9640,6 +11815,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -9661,6 +11837,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -9670,15 +11847,19 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
 
 
 
 
+ντ
 
+ς
 
 
 
@@ -9701,6 +11882,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -9711,9 +11893,12 @@ comparative
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -9722,7 +11907,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -9732,6 +11919,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -9740,16 +11928,21 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
@@ -9759,12 +11952,15 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -9775,15 +11971,19 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+irregular
 
 
+τ
 
 
 
@@ -9795,29 +11995,37 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+ς
 
+α
 
+irregular
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -9832,7 +12040,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -9847,12 +12057,15 @@ comparative
 
 
 
+α
 
 
 
+ρ
 
 
 
+ευ
 
 
 
@@ -9860,26 +12073,35 @@ comparative
 
 
 
+ο
 
 
+ο
+ο
+ο
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -9887,22 +12109,29 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -9913,11 +12142,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
+τ
+ο
 
 
 
@@ -9926,28 +12158,35 @@ comparative
 
 
 
+τ
 
 
 
+ι
 
 
 
 
 
 
+ο
 
 
 
 
+α
+irregular
 
 
 
 
+α
 
 
+irregular
 
 
-superlative
+ο
 
 
 
@@ -9957,26 +12196,36 @@ superlative
 
 
 
+ο
 
 
+α
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
+ο
+α
 
 
 
 
 
+ο
+α
 
 
 
@@ -9985,28 +12234,34 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ευ
 
 
+ευ
 
 
 
 
 
 
+δ
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -10018,6 +12273,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -10025,17 +12281,21 @@ superlative
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
 
+ι
 
+α
 
 
 
@@ -10044,12 +12304,15 @@ superlative
 
 
 
+ι
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -10060,6 +12323,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -10068,25 +12332,31 @@ superlative
 
 
 
+ο
 
 
 
+ν
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
+irregular
 
 
 
@@ -10094,6 +12364,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -10101,10 +12372,12 @@ superlative
 
 
 
+α
 
 
 
 
+ς
 
 
 
@@ -10112,6 +12385,7 @@ superlative
 
 
 
+α
 
 
 
@@ -10120,6 +12394,7 @@ superlative
 
 
 
+α
 
 
 
@@ -10127,17 +12402,21 @@ superlative
 
 
 
+ο
 
 
 
 
+ευ
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -10145,15 +12424,18 @@ superlative
 
 
 
+α
 
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
@@ -10164,15 +12446,20 @@ superlative
 
 
 
+α
 
 
 
+τ
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
@@ -10182,6 +12469,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -10194,16 +12482,21 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
+α
 
 
 
+irregular
 
 
 
@@ -10217,30 +12510,35 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ν
 
 
 
 
 
+ο
 
-superlative
 
 
 
@@ -10264,39 +12562,50 @@ superlative
 
 
 
+τ
 
+ρ
 
 
 
 
 
-comparative
 
+irregular
 
 
 
 
 
+α
 
 
+α
 
 
 
 
+α
 
+ο
 
 
+α
 
 
 
+ο
+α
 
 
 
 
 
 
+α
 
 
+α
 
 
 
@@ -10309,42 +12618,56 @@ comparative
 
 
 
+α
 
+ο
 
+α
 
 
+ν
 
+ο
 
 
 
-comparative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
@@ -10358,6 +12681,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -10371,27 +12695,33 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -10399,16 +12729,20 @@ comparative
 
 
 
+ν
 
 
 
 
 
 
+ο
 
+ν
 
 
 
+ο
 
 
 
@@ -10418,22 +12752,29 @@ comparative
 
 
 
+ν
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
+α
+ο
 
 
 
@@ -10441,13 +12782,17 @@ comparative
 
 
 
+α
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -10458,17 +12803,22 @@ comparative
 
 
 
+α
 
+ο
 
 
+ς
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -10481,9 +12831,12 @@ comparative
 
 
 
+ευ
 
 
+ο
 
+α
 
 
 
@@ -10496,34 +12849,46 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
 
+irregular
 
 
 
+α
 
 
 
 
+α
 
+ο
+ο
+ευ
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -10531,15 +12896,18 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -10551,6 +12919,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -10560,40 +12929,49 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ευ
 
 
 
 
+τ
 
 
 
+ευ
 
 
 
+ι
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -10606,7 +12984,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -10614,12 +12994,15 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -10631,47 +13014,63 @@ comparative
 
 
 
+ν
 
 
 
 
+ευ
 
 
 
 
 
+ο
 
 
+τ
+ο
 
 
 
+ο
 
 
 
 
 
+τ
+ο
 
 
 
 
 
+ευ
 
 
+ο
 
 
+δ
 
+ρ
 
 
 
 
+ς
 
 
 
 
 
+ο
 
 
+ο
 
+ντ
 
 
 
@@ -10682,27 +13081,36 @@ comparative
 
 
 
+ο
+ο
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
+α
 
 
 
@@ -10714,6 +13122,8 @@ comparative
 
 
 
+ο
+ο
 
 
 
@@ -10722,44 +13132,59 @@ comparative
 
 
 
+ο
+ρ
 
 
 
 
 
+irregular
 
+α
 
 
 
 
 
+ο
 
 
 
+τ
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ν
 
 
 
+α
 
+ρ
 
 
 
 
 
 
+ρ
+ρ
 
 
 
+ο
 
+ο
 
 
 
@@ -10770,35 +13195,46 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
+ι
 
 
 
 
+ο
+υ
 
 
 
 
 
 
+ο
 
 
+ο
 
 
+irregular
 
 
 
+τ
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -10807,10 +13243,13 @@ comparative
 
 
 
+τ
 
 
+irregular
 
 
+ο
 
 
 
@@ -10827,13 +13266,16 @@ comparative
 
 
 
+irregular
 
 
+ι
 
 
 
 
 
+irregular
 
 
 
@@ -10841,30 +13283,38 @@ comparative
 
 
 
+irregular
 
 
 
 
 
 
+α
 
 
+ι
 
+ο
 
 
 
+ι
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ι
 
 
 
@@ -10874,36 +13324,45 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -10916,30 +13375,38 @@ comparative
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -10947,6 +13414,7 @@ comparative
 
 
 
+α
 
 
 
@@ -10960,24 +13428,31 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -10989,11 +13464,15 @@ comparative
 
 
 
+τ
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -11007,13 +13486,16 @@ comparative
 
 
 
+δ
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -11021,29 +13503,38 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+irregular
 
 
+ο
 
 
+α
 
 
 
 
+υ
+α
 
 
+ευ
 
 
+ο
 
 
 
@@ -11056,6 +13547,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -11066,15 +13558,19 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
@@ -11083,36 +13579,47 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
+α
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -11124,36 +13631,45 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
+ρ
 
 
 
 
 
+α
 
 
 
 
 
+ρ
 
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -11167,13 +13683,19 @@ comparative
 
 
 
+ευ
 
+ο
+ο
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
@@ -11185,24 +13707,32 @@ comparative
 
 
 
+ευ
 
+ο
+ο
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ο
+α
 
 
 
 
+ο
 
 
 
@@ -11211,6 +13741,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -11219,7 +13750,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -11229,17 +13762,21 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -11248,6 +13785,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -11257,16 +13795,20 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -11281,6 +13823,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -11294,10 +13837,13 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
@@ -11306,25 +13852,34 @@ comparative
 
 
 
+ευ
 
+ο
+ο
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
+ι
 
-comparative
 
+ς
 
 
+ι
 
 
 
@@ -11332,34 +13887,46 @@ comparative
 
 
 
+ο
 
 
 
 
+π
 
 
+ο
 
 
 
+ευ
 
+ο
+ο
 
 
 
 
 
+ο
 
 
+δ
 
 
 
 
+α
 
+α
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -11369,9 +13936,13 @@ comparative
 
 
 
+ευ
 
+ο
+ο
 
 
+ο
 
 
 
@@ -11381,9 +13952,11 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -11391,22 +13964,31 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ι
 
+α
 
 
+ευ
 
+ο
+ο
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
@@ -11415,48 +13997,60 @@ comparative
 
 
 
+α
 
+ρ
 
 
 
 
 
+ο
 
 
+τ
 
+α
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
+ρ
 
+ι
+τ
+α
 
 
 
 
+ι
 
+α
 
 
 
 
-superlative
-superlative
 
-superlative
-superlative
 
 
+α
 
 
 
+ευ
 
 
 
@@ -11468,33 +14062,45 @@ superlative
 
 
 
+α
 
 
 
 
+ι
 
+ι
 
 
 
 
 
+τ
 
 
 
 
+α
 
 
+τ
 
 
 
 
 
+τ
+α
+ο
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -11503,10 +14109,14 @@ superlative
 
 
 
+α
 
+τ
+τ
 
 
 
+α
 
 
 
@@ -11517,13 +14127,18 @@ superlative
 
 
 
+ο
 
 
+ο
+ι
 
 
+ο
 
 
 
+γ
 
 
 
@@ -11531,6 +14146,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -11548,20 +14164,27 @@ superlative
 
 
 
+τ
+ο
 
 
 
+irregular
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
+ο
 
 
 
@@ -11578,47 +14201,52 @@ superlative
 
 
 
+ο
 
+ο
 
-superlative
 
 
-superlative
 
 
 
 
 
+ς
 
+α
 
 
 
+α
 
 
 
 
-superlative
 
 
-comparative
 
 
 
 
 
+ο
 
 
+α
 
+α
 
+ν
 
 
 
+irregular
 
 
 
 
 
-superlative
 
 
 
@@ -11626,18 +14254,23 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
+ο
 
 
 
@@ -11648,23 +14281,33 @@ superlative
 
 
 
+ς
 
 
+ς
 
+ς
 
+α
 
+α
 
 
+ο
 
+ο
 
+ο
 
 
-superlative
 
+α
+ν
 
 
 
 
+ι
 
 
 
@@ -11674,8 +14317,10 @@ superlative
 
 
 
+ς
 
 
+τ
 
 
 
@@ -11686,13 +14331,10 @@ superlative
 
 
 
-superlative
-superlative
 
 
-superlative
-superlative
 
+α
 
 
 
@@ -11702,43 +14344,56 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
 
 
 
+ς
 
 
 
 
 
 
+ο
 
+α
 
 
 
+α
 
+ο
 
 
+ς
 
 
 
 
+ς
 
 
 
 
+τ
 
+ι
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -11747,33 +14402,40 @@ superlative
 
 
 
+α
 
 
 
+ς
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
@@ -11781,22 +14443,29 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
+ν
 
+ο
 
 
 
+ι
 
 
 
 
 
+α
+ο
 
 
 
@@ -11809,17 +14478,20 @@ superlative
 
 
 
+α
 
 
 
 
 
+κ
 
 
 
 
 
 
+α
 
 
 
@@ -11829,17 +14501,22 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
 
+ο
 
 
+τ
 
 
 
@@ -11864,81 +14541,112 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
+α
 
 
 
+α
 
 
 
+α
 
+ο
 
+ο
 
 
 
 
+τ
 
 
 
+ο
 
 
 
 
-superlative
+ι
 
+α
 
 
+ο
 
 
 
+α
 
 
 
+ς
 
 
 
+ρ
 
 
 
+ο
 
 
+ι
 
+ο
 
 
 
 
 
+ο
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+α
 
+α
 
 
 
+ο
 
+ο
 
 
 
+α
 
+ο
 
+ι
 
+α
 
 
 
 
+ο
 
 
+γ
 
 
 
@@ -11948,28 +14656,36 @@ superlative
 
 
 
+ο
 
-comparative
+ο
+ο
 
+ο
 
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ς
 
 
 
@@ -11982,6 +14698,7 @@ comparative
 
 
 
+α
 
 
 
@@ -11990,6 +14707,7 @@ comparative
 
 
 
+α
 
 
 
@@ -11997,11 +14715,14 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
@@ -12009,38 +14730,50 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+ρ
 
 
 
 
+α
 
 
 
 
 
+α
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -12049,16 +14782,19 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -12066,13 +14802,17 @@ comparative
 
 
 
+α
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -12082,6 +14822,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -12093,7 +14834,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -12103,18 +14846,21 @@ comparative
 
 
 
+α
 
+α
 
+α
 
 
 
-superlative
 
 
 
 
 
 
+α
 
 
 
@@ -12126,34 +14872,43 @@ superlative
 
 
 
+α
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
 
-superlative
+ο
 
 
 
@@ -12174,17 +14929,21 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -12195,14 +14954,18 @@ superlative
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -12211,28 +14974,39 @@ superlative
 
 
 
+ς
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
+ντ
 
 
 
+α
 
+ο
 
+ο
 
 
 
+δ
 
 
 
+ι
 
+ο
 
 
 
@@ -12247,41 +15021,53 @@ superlative
 
 
 
+δ
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
+δ
 
 
 
 
+ο
 
 
 
 
 
 
+irregular
+α
 
 
 
+ο
 
 
+ι
 
 
 
 
+ο
 
 
 
 
+δ
 
 
 
@@ -12293,9 +15079,11 @@ superlative
 
 
 
+ο
 
 
 
+δ
 
 
 
@@ -12325,6 +15113,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -12333,16 +15122,21 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+ο
 
+ο
+ο
 
 
 
@@ -12361,14 +15155,18 @@ superlative
 
 
 
+α
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -12380,6 +15178,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -12390,6 +15189,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -12397,6 +15197,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -12410,7 +15211,6 @@ superlative
 
 
 
-comparative
 
 
 
@@ -12420,20 +15220,27 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
@@ -12441,23 +15248,30 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -12472,26 +15286,34 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -12506,7 +15328,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -12514,16 +15338,18 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
-superlative
 
 
 
@@ -12536,9 +15362,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -12546,10 +15374,12 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -12568,8 +15398,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -12578,17 +15410,20 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -12609,33 +15444,44 @@ superlative
 
 
 
+ο
 
 
 
+ς
 
 
 
 
 
+ο
 
 
+ο
 
+ντ
 
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
+α
 
 
 
@@ -12643,6 +15489,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -12650,24 +15497,30 @@ superlative
 
 
 
+ν
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ευ
 
 
 
@@ -12676,15 +15529,17 @@ superlative
 
 
 
+ρ
 
 
 
 
 
+α
 
-comparative
+α
+ο
 
-superlative
 
 
 
@@ -12708,6 +15563,7 @@ superlative
 
 
 
+α
 
 
 
@@ -12719,6 +15575,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -12747,6 +15604,7 @@ superlative
 
 
 
+α
 
 
 
@@ -12754,6 +15612,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -12765,6 +15624,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -12782,6 +15642,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -12790,6 +15651,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -12817,6 +15679,7 @@ superlative
 
 
 
+α
 
 
 
@@ -12826,6 +15689,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -12840,6 +15704,7 @@ superlative
 
 
 
+α
 
 
 
@@ -12866,33 +15731,41 @@ superlative
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -12900,19 +15773,26 @@ superlative
 
 
 
+ευ
 
 
 
 
+ο
 
 
+α
 
+ευ
 
 
+α
 
 
 
 
+irregular
+ο
 
 
 
@@ -12921,36 +15801,49 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
+irregular
 
 
+α
 
+α
+ν
 
 
 
 
+irregular
 
+ο
+ο
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -12963,11 +15856,15 @@ superlative
 
 
 
+irregular
 
 
 
+ο
 
 
+irregular
+ο
 
 
 
@@ -12989,9 +15886,11 @@ superlative
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -13005,16 +15904,19 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -13023,8 +15925,11 @@ superlative
 
 
 
+α
+non-declinable
 
 
+ευ
 
 
 
@@ -13039,10 +15944,12 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -13053,7 +15960,9 @@ superlative
 
 
 
+α
 
+irregular
 
 
 
@@ -13061,7 +15970,6 @@ superlative
 
 
 
-comparative
 
 
 
@@ -13069,6 +15977,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -13076,8 +15985,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -13088,14 +15999,17 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
@@ -13107,6 +16021,7 @@ comparative
 
 
 
+α
 
 
 
@@ -13131,6 +16046,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -13140,14 +16056,18 @@ comparative
 
 
 
+ρ
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -13156,11 +16076,14 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
@@ -13169,9 +16092,11 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -13189,21 +16114,26 @@ comparative
 
 
 
+irregular
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
@@ -13217,13 +16147,17 @@ comparative
 
 
 
+τ
 
 
+α
 
 
 
 
 
+ι
+α
 
 
 
@@ -13235,10 +16169,12 @@ comparative
 
 
 
+τ
 
+ο
 
-superlative
 
+α
 
 
 
@@ -13248,18 +16184,23 @@ superlative
 
 
 
+α
 
+ρ
 
 
 
 
 
 
+ς
 
+α
 
 
 
 
+irregular
 
 
 
@@ -13267,15 +16208,19 @@ superlative
 
 
 
+irregular
 
 
 
 
 
+ν
 
 
 
+ο
 
+α
 
 
 
@@ -13285,9 +16230,11 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -13301,6 +16248,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -13308,7 +16256,9 @@ superlative
 
 
 
+irregular
 
+ρ
 
 
 
@@ -13316,6 +16266,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -13330,18 +16281,22 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+irregular
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -13352,9 +16307,12 @@ superlative
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
@@ -13365,8 +16323,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -13378,10 +16338,12 @@ superlative
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
@@ -13390,6 +16352,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -13403,6 +16366,7 @@ superlative
 
 
 
+α
 
 
 
@@ -13410,11 +16374,12 @@ superlative
 
 
 
+ο
 
 
 
-superlative
 
+α
 
 
 
@@ -13425,11 +16390,14 @@ superlative
 
 
 
+ο
 
 
+τ
 
 
 
+κ
 
 
 
@@ -13437,6 +16405,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -13449,6 +16418,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -13460,6 +16430,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -13471,12 +16442,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -13487,11 +16460,15 @@ superlative
 
 
 
+α
 
 
+ο
 
+ο
 
 
+ρ
 
 
 
@@ -13505,6 +16482,7 @@ superlative
 
 
 
+α
 
 
 
@@ -13512,20 +16490,26 @@ superlative
 
 
 
+ο
 
 
+α
 
+ο
 
 
+ευ
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -13538,6 +16522,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -13546,8 +16531,10 @@ superlative
 
 
 
+irregular
 
 
+ο
 
 
 
@@ -13555,8 +16542,10 @@ superlative
 
 
 
+ρ
 
 
+irregular
 
 
 
@@ -13565,33 +16554,44 @@ superlative
 
 
 
+irregular
 
 
+ρ
 
 
+α
 
 
 
 
+ο
 
+ευ
 
 
 
+ο
 
 
 
 
+irregular
 
 
+α
 
 
 
+ο
 
 
 
 
 
+α
 
+α
 
 
 
@@ -13599,20 +16599,22 @@ superlative
 
 
 
-superlative
 
+ρ
 
 
 
 
-superlative
 
 
 
+ν
+ο
 
 
 
 
+α
 
 
 
@@ -13620,19 +16622,27 @@ superlative
 
 
 
+α
 
 
+irregular
 
+ο
 
 
+α
 
 
+α
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
@@ -13646,9 +16656,12 @@ superlative
 
 
 
+α
 
+α
 
 
+α
 
 
 
@@ -13657,41 +16670,53 @@ superlative
 
 
 
+irregular
 
 
+α
 
+ευ
 
 
+ευ
 
 
 
-comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+ευ
 
 
 
 
 
 
+α
 
 
+ς
 
 
+ευ
 
 
+ο
 
 
+α
 
 
+irregular
 
 
 
@@ -13700,6 +16725,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -13710,14 +16736,18 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
+ευ
 
 
 
@@ -13728,16 +16758,18 @@ comparative
 
 
 
-comparative
+irregular
 
 
 
+ευ
 
 
 
 
 
 
+ο
 
 
 
@@ -13747,11 +16779,15 @@ comparative
 
 
 
+ο
 
+ο
 
+ο
 
 
 
+irregular
 
 
 
@@ -13759,33 +16795,42 @@ comparative
 
 
 
-comparative
 
 
+ο
 
+ο
 
 
 
 
+ι
 
 
 
 
+α
 
+ο
 
 
+ευ
 
 
+ο
 
 
 
 
 
+α
 
+ρ
 
 
 
 
+α
 
 
 
@@ -13793,13 +16838,14 @@ comparative
 
 
 
-comparative
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -13810,6 +16856,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -13817,20 +16864,25 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+irregular
 
+ο
 
 
 
@@ -13845,6 +16897,7 @@ comparative
 
 
 
+ν
 
 
 
@@ -13855,24 +16908,28 @@ comparative
 
 
 
+irregular
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
-comparative
 
 
 
+ο
 
 
 
@@ -13882,6 +16939,7 @@ comparative
 
 
 
+α
 
 
 
@@ -13895,16 +16953,22 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
 
+ο
 
+τ
+irregular
 
 
 
+ρ
 
 
 
@@ -13914,18 +16978,22 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
+ευ
 
 
 
-superlative
 
+ο
 
 
+irregular
 
 
 
@@ -13935,9 +17003,12 @@ superlative
 
 
 
+ο
 
+ν
 
 
+α
 
 
 
@@ -13947,12 +17018,15 @@ superlative
 
 
 
+ο
 
+ευ
 
 
 
 
 
+τ
 
 
 
@@ -13965,16 +17039,20 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ευ
 
 
+ο
 
 
 
@@ -13982,22 +17060,32 @@ superlative
 
 
 
+non-declinable
 
+α
+τ
 
+ο
 
 
 
 
 
 
+ο
 
+ευ
 
+α
 
 
 
 
 
+ο
 
+ο
+τ
 
 
 
@@ -14006,45 +17094,58 @@ superlative
 
 
 
+α
 
+α
 
 
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ευ
 
 
 
+ο
 
 
+irregular
 
 
 
+ν
 
 
 
 
+ν
 
 
 
 
+ευ
 
 
 
 
+irregular
 
 
 
@@ -14055,6 +17156,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -14063,6 +17165,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -14075,41 +17178,54 @@ superlative
 
 
 
+τ
 
 
 
+ν
 
 
 
+α
 
 
+ν
 
 
 
+ο
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
+irregular
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -14117,10 +17233,12 @@ superlative
 
 
 
+τ
 
 
 
 
+irregular
 
 
 
@@ -14139,20 +17257,25 @@ superlative
 
 
 
+ευ
 
 
 
 
 
+ο
 
 
 
+α
 
 
+irregular
 
 
 
 
+ν
 
 
 
@@ -14166,14 +17289,18 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
+irregular
 
 
+ο
 
 
 
@@ -14193,22 +17320,28 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ρ
 
 
+ρ
 
 
+ο
 
 
 
 
 
+τ
 
 
 
@@ -14216,51 +17349,66 @@ superlative
 
 
 
+ο
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
+irregular
 
 
 
 
 
 
+α
 
+ν
 
 
+irregular
 
 
+ο
 
 
 
 
 
+α
 
 
 
+υ
 
 
 
 
 
+ο
 
+α
 
 
 
+α
 
 
+ο
 
 
 
@@ -14273,6 +17421,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -14281,10 +17430,12 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -14293,10 +17444,12 @@ superlative
 
 
 
+υ
 
 
 
 
+ο
 
 
 
@@ -14307,23 +17460,34 @@ superlative
 
 
 
+ο
+ο
+τ
+ν
 
 
 
 
 
+ο
 
 
 
 
+ο
 
+irregular
 
 
+ο
+ο
 
 
 
 
+ο
 
+α
 
 
 
@@ -14335,8 +17499,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -14346,13 +17512,17 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
 
+irregular
 
+ευ
 
 
 
@@ -14360,6 +17530,7 @@ superlative
 
 
 
+α
 
 
 
@@ -14374,30 +17545,38 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
+ευ
 
 
 
+ευ
 
 
 
@@ -14407,12 +17586,14 @@ superlative
 
 
 
+ευ
 
 
 
 
 
 
+ο
 
 
 
@@ -14420,6 +17601,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -14428,12 +17610,15 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -14443,18 +17628,25 @@ superlative
 
 
 
+α
+ς
 
 
 
 
+α
 
+α
 
 
 
 
 
+α
 
 
+irregular
+α
 
 
 
@@ -14463,7 +17655,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -14477,6 +17671,7 @@ superlative
 
 
 
+δ
 
 
 
@@ -14487,10 +17682,13 @@ superlative
 
 
 
+ο
 
 
+ς
 
 
+ο
 
 
 
@@ -14501,19 +17699,25 @@ superlative
 
 
 
+δ
 
 
 
 
+irregular
 
 
+α
 
 
 
+τ
 
 
 
+τ
 
+ο
 
 
 
@@ -14523,15 +17727,19 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -14540,26 +17748,32 @@ superlative
 
 
 
+ο
 
 
+ι
 
 
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
+ο
 
 
 
@@ -14567,11 +17781,14 @@ superlative
 
 
 
+ο
+ο
 
 
 
 
 
+irregular
 
 
 
@@ -14579,28 +17796,40 @@ superlative
 
 
 
+irregular
 
 
+α
 
 
 
 
 
+α
 
+α
 
+α
 
 
+ο
 
 
+ρ
 
 
+ρ
 
+ο
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -14608,24 +17837,31 @@ superlative
 
 
 
+irregular
 
 
 
+ο
 
 
+τ
 
+irregular
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
 
+ν
 
 
 
@@ -14634,26 +17870,35 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
+α
 
+ο
 
 
 
 
+α
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -14661,12 +17906,17 @@ superlative
 
 
 
+α
 
 
+ευ
 
 
+ο
 
+ο
 
+ο
 
 
 
@@ -14677,23 +17927,28 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -14702,13 +17957,16 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -14718,34 +17976,48 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
+α
 
+α
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -14753,16 +18025,21 @@ superlative
 
 
 
+α
 
 
+α
 
 
+τ
 
 
 
+ν
 
 
 
+ο
 
 
 
@@ -14774,14 +18051,17 @@ superlative
 
 
 
+ο
 
 
+irregular
 
 
 
 
 
 
+irregular
 
 
 
@@ -14795,6 +18075,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -14802,6 +18083,7 @@ superlative
 
 
 
+α
 
 
 
@@ -14814,6 +18096,7 @@ superlative
 
 
 
+α
 
 
 
@@ -14825,15 +18108,20 @@ superlative
 
 
 
+ο
 
+ο
 
+α
 
 
 
 
+α
 
 
 
+irregular
 
 
 
@@ -14844,6 +18132,7 @@ superlative
 
 
 
+δ
 
 
 
@@ -14851,16 +18140,19 @@ superlative
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -14870,11 +18162,14 @@ superlative
 
 
 
+α
 
 
 
+ι
 
 
+ευ
 
 
 
@@ -14883,16 +18178,21 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
+irregular
 
 
 
@@ -14904,6 +18204,7 @@ superlative
 
 
 
+ν
 
 
 
@@ -14913,30 +18214,37 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
+ς
 
 
 
 
+irregular
 
 
 
@@ -14947,31 +18255,40 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
 
 
+ς
 
 
 
 
+τ
 
+ρ
 
 
+ο
 
 
 
+τ
 
 
 
@@ -14987,51 +18304,77 @@ superlative
 
 
 
+α
 
 
+α
 
+ν
+α
 
+ο
+irregular
+ο
+ο
+ο
 
 
 
 
+α
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
+ο
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+τ
+α
 
+ι
+α
 
 
 
 
 
 
+α
+α
 
 
+α
 
 
 
@@ -15039,21 +18382,31 @@ superlative
 
 
 
+α
+ο
 
 
+α
 
 
 
 
+α
 
+χ
+ο
 
+α
 
 
 
+υ
 
 
 
+δ
 
+τ
 
 
 
@@ -15071,51 +18424,67 @@ superlative
 
 
 
+ντ
 
+τ
 
 
 
 
+ρ
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
+irregular
 
 
 
+α
 
 
 
 
+α
 
+α
 
 
 
 
 
+ρ
 
 
 
+ο
 
 
+τ
 
+α
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -15125,6 +18494,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -15136,15 +18506,19 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -15152,44 +18526,62 @@ superlative
 
 
 
+α
 
 
+irregular
 
 
+α
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+α
 
+α
 
+ν
 
+α
 
+ο
+ν
 
 
 
+α
 
 
+ευ
 
 
 
 
+irregular
 
 
 
@@ -15197,27 +18589,36 @@ superlative
 
 
 
+ευ
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -15225,11 +18626,15 @@ superlative
 
 
 
+ρ
 
+ο
 
 
+ο
 
 
+ο
 
 
 
@@ -15240,32 +18645,40 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+ευ
 
 
 
 
 
+α
 
+ο
 
+τ
 
 
 
@@ -15274,6 +18687,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -15285,10 +18699,12 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -15298,10 +18714,12 @@ superlative
 
 
 
+τ
 
 
 
 
+α
 
 
 
@@ -15316,10 +18734,13 @@ superlative
 
 
 
+α
 
 
+α
 
 
+τ
 
 
 
@@ -15329,6 +18750,7 @@ superlative
 
 
 
+α
 
 
 
@@ -15337,19 +18759,28 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+α
+ν
 
+α
 
+ο
 
+α
 
 
+α
+ν
 
 
 
@@ -15364,10 +18795,12 @@ superlative
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -15377,6 +18810,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -15391,16 +18825,20 @@ superlative
 
 
 
+ι
 
 
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -15408,6 +18846,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -15421,11 +18860,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ν
 
 
 
@@ -15448,9 +18889,9 @@ superlative
 
 
 
+ι
 
 
-comparative
 
 
 
@@ -15462,12 +18903,15 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -15490,6 +18934,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -15503,6 +18948,7 @@ comparative
 
 
 
+α
 
 
 
@@ -15523,14 +18969,18 @@ comparative
 
 
 
+ευ
 
 
 
 
+ο
 
 
 
+υ
 
+ο
 
 
 
@@ -15541,17 +18991,20 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
 
 
+ο
 
 
 
@@ -15564,9 +19017,11 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -15578,10 +19033,12 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -15598,14 +19055,17 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -15613,25 +19073,30 @@ comparative
 
 
 
+irregular
 
+ι
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ευ
 
 
-superlative
 
 
 
 
+α
 
 
 
@@ -15641,15 +19106,19 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+irregular
 
+τ
 
 
 
@@ -15663,6 +19132,7 @@ superlative
 
 
 
+α
 
 
 
@@ -15673,12 +19143,14 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -15686,12 +19158,17 @@ superlative
 
 
 
+α
 
 
+ο
 
+ο
 
+α
 
 
+α
 
 
 
@@ -15700,11 +19177,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -15712,6 +19191,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -15721,9 +19201,9 @@ superlative
 
 
 
+ο
 
 
-superlative
 
 
 
@@ -15732,9 +19212,11 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -15744,11 +19226,14 @@ superlative
 
 
 
+non-declinable
 
 
+ο
 
 
 
+ο
 
 
 
@@ -15764,26 +19249,31 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
 
+irregular
 
 
+α
 
 
 
-comparative
 
 
 
 
 
 
+ευ
 
+ο
 
 
 
@@ -15791,24 +19281,30 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -15822,8 +19318,11 @@ comparative
 
 
 
+α
+α
 
 
+ο
 
 
 
@@ -15833,33 +19332,44 @@ comparative
 
 
 
+α
+α
 
 
+α
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
+ο
 
+ν
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -15867,27 +19377,34 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
+τ
+ς
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -15896,52 +19413,67 @@ comparative
 
 
 
+τ
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
+υ
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -15954,8 +19486,8 @@ comparative
 
 
 
+α
 
-superlative
 
 
 
@@ -15967,12 +19499,17 @@ superlative
 
 
 
+ο
 
+ο
 
 
+ευ
 
 
+ο
 
+ι
 
 
 
@@ -15981,6 +19518,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -15992,35 +19530,47 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
@@ -16029,8 +19579,10 @@ superlative
 
 
 
+ο
 
 
+ρ
 
 
 
@@ -16042,10 +19594,12 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -16056,27 +19610,36 @@ superlative
 
 
 
+α
 
 
 
+ι
 
+α
 
 
 
+ο
 
 
+ρ
 
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
@@ -16085,31 +19648,43 @@ superlative
 
 
 
+irregular
 
 
+α
 
 
 
 
+α
 
 
+ς
 
 
+α
 
 
 
 
+α
 
 
+τ
 
 
 
+α
 
 
 
+α
 
 
+ο
 
+ν
+ς
 
 
 
@@ -16120,12 +19695,15 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -16141,8 +19719,10 @@ superlative
 
 
 
+γ
 
 
+τ
 
 
 
@@ -16157,7 +19737,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -16171,6 +19753,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -16194,39 +19777,64 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+τ
 
+ν
+ο
 
+ο
 
 
+ο
 
+α
 
+ο
 
+ο
 
 
 
+τ
 
 
 
+ο
+α
 
+α
 
+ο
 
+ο
 
+ο
 
+α
 
+ο
 
 
+ο
 
+ο
 
+ν
 
+ο
 
+α
+non-declinable
 
 
 
@@ -16234,15 +19842,18 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -16258,8 +19869,10 @@ superlative
 
 
 
+ευ
 
 
+τ
 
 
 
@@ -16269,20 +19882,27 @@ superlative
 
 
 
+ντ
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
+α
 
 
 
+α
 
 
 
@@ -16290,20 +19910,24 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -16313,6 +19937,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -16320,10 +19945,12 @@ superlative
 
 
 
+α
 
 
 
 
+ς
 
 
 
@@ -16335,6 +19962,7 @@ superlative
 
 
 
+α
 
 
 
@@ -16344,10 +19972,14 @@ superlative
 
 
 
+ο
 
+ο
 
+τ
 
 
+α
 
 
 
@@ -16357,26 +19989,33 @@ superlative
 
 
 
+τ
 
 
 
 
+ι
 
 
+ν
 
 
 
 
+τ
 
 
+τ
 
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -16390,17 +20029,21 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -16412,31 +20055,41 @@ superlative
 
 
 
+ρ
 
 
 
+ο
 
 
 
 
 
+non-declinable
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
 
 
+τ
 
+ο
 
+ο
 
 
+α
 
+ρ
 
 
 
@@ -16444,36 +20097,45 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -16491,22 +20153,24 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
-comparative
 
 
 
 
 
 
+α
 
 
 
@@ -16515,29 +20179,36 @@ comparative
 
 
 
+ο
+α
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -16545,10 +20216,12 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -16566,6 +20239,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -16582,19 +20256,24 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -16606,7 +20285,6 @@ comparative
 
 
 
-comparative
 
 
 
@@ -16623,15 +20301,18 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -16639,18 +20320,22 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -16668,24 +20353,29 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
-comparative
 
+ι
 
+ο
 
 
+ο
 
 
 
@@ -16694,26 +20384,34 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
+ν
 
 
+α
 
+ο
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -16723,12 +20421,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -16748,17 +20448,21 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -16780,6 +20484,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -16790,6 +20495,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -16816,19 +20522,27 @@ comparative
 
 
 
+α
 
+ο
 
+ο
 
 
+ο
 
 
+α
 
 
 
 
+irregular
 
+α
 
 
+ο
 
 
 
@@ -16838,47 +20552,63 @@ comparative
 
 
 
+α
 
 
+ο
 
+υ
 
 
+ο
 
 
+υ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
 
+α
 
 
+ο
+ι
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -16888,28 +20618,36 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -16918,6 +20656,7 @@ comparative
 
 
 
+α
 
 
 
@@ -16926,6 +20665,7 @@ comparative
 
 
 
+α
 
 
 
@@ -16935,36 +20675,46 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+π
 
+ο
 
 
+τ
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -16972,6 +20722,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -16981,17 +20732,20 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
 
-comparative
 
+ο
 
 
+α
 
 
 
@@ -17003,8 +20757,10 @@ comparative
 
 
 
+ι
 
 
+ο
 
 
 
@@ -17017,39 +20773,50 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
-comparative
 
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
+ο
 
+τ
 
 
 
+ι
 
 
 
+τ
 
 
+ι
 
 
 
@@ -17059,15 +20826,19 @@ comparative
 
 
 
+α
 
+ι
 
 
 
 
 
 
+ι
 
 
+α
 
 
 
@@ -17077,20 +20848,26 @@ comparative
 
 
 
+irregular
 
+α
 
 
+τ
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
@@ -17099,18 +20876,23 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+irregular
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -17119,18 +20901,23 @@ comparative
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
+ν
+τ
 
 
 
@@ -17145,11 +20932,15 @@ comparative
 
 
 
+α
 
 
 
 
 
+ς
+α
+ο
 
 
 
@@ -17158,9 +20949,9 @@ comparative
 
 
 
-comparative
 
 
+ο
 
 
 
@@ -17171,24 +20962,30 @@ comparative
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -17198,9 +20995,11 @@ comparative
 
 
 
+ι
 
 
 
+ο
 
 
 
@@ -17212,6 +21011,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -17223,6 +21023,7 @@ comparative
 
 
 
+ν
 
 
 
@@ -17237,6 +21038,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -17244,12 +21046,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -17260,7 +21064,6 @@ comparative
 
 
 
-comparative
 
 
 
@@ -17269,6 +21072,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -17278,6 +21082,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -17290,23 +21095,28 @@ comparative
 
 
 
+ι
 
 
 
 
+irregular
 
 
 
 
 
 
+irregular
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -17314,16 +21124,21 @@ comparative
 
 
 
+α
 
 
 
 
+ο
+τ
+ο
 
 
 
 
 
 
+δ
 
 
 
@@ -17332,6 +21147,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -17339,6 +21155,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -17351,19 +21168,25 @@ comparative
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
+ι
+τ
 
+ς
 
 
 
 
 
+ο
 
 
 
@@ -17383,12 +21206,15 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -17397,46 +21223,57 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+τ
 
 
 
 
+τ
 
 
 
 
+γ
 
 
 
+irregular
 
 
 
 
 
 
+ι
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -17452,6 +21289,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -17468,21 +21306,26 @@ comparative
 
 
 
+α
 
 
 
 
+ρ
 
+ι
 
 
 
 
 
+α
 
 
 
 
 
+γ
 
 
 
@@ -17490,22 +21333,28 @@ comparative
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
 
+irregular
 
 
+ο
 
 
 
+ο
 
 
 
@@ -17520,16 +21369,24 @@ comparative
 
 
 
+ο
 
+ο
 
+α
 
+ο
+ο
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
@@ -17544,6 +21401,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -17557,9 +21415,12 @@ comparative
 
 
 
+ρ
 
+ο
 
 
+ρ
 
 
 
@@ -17569,19 +21430,22 @@ comparative
 
 
 
+ο
 
 
 
+ρ
 
+ο
 
 
 
 
 
-comparative
 
 
 
+ο
 
 
 
@@ -17589,14 +21453,17 @@ comparative
 
 
 
+ο
 
 
 
 
+ς
 
 
 
 
+ι
 
 
 
@@ -17618,18 +21485,22 @@ comparative
 
 
 
+δ
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -17642,30 +21513,42 @@ comparative
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
+ρ
 
 
 
 
 
 
+ν
 
+ο
 
+α
 
+ο
+ο
 
+τ
 
+α
 
+ν
 
 
 
 
+α
 
 
 
@@ -17678,14 +21561,17 @@ comparative
 
 
 
+irregular
 
 
 
+α
 
 
 
 
 
+δ
 
 
 
@@ -17695,6 +21581,7 @@ comparative
 
 
 
+α
 
 
 
@@ -17702,21 +21589,26 @@ comparative
 
 
 
+ι
 
 
 
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
 
+α
+non-declinable
 
 
 
@@ -17731,7 +21623,9 @@ comparative
 
 
 
+α
 
+τ
 
 
 
@@ -17741,20 +21635,28 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
+α
 
 
 
+α
+ο
 
 
+ο
 
 
 
 
+ν
 
 
 
@@ -17762,6 +21664,7 @@ comparative
 
 
 
+α
 
 
 
@@ -17771,6 +21674,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -17781,11 +21685,14 @@ comparative
 
 
 
+ου
 
 
 
+δ
 
 
+ο
 
 
 
@@ -17793,10 +21700,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -17804,14 +21713,18 @@ comparative
 
 
 
+ευ
+α
 
 
 
 
+τ
 
 
 
 
+α
 
 
 
@@ -17822,42 +21735,55 @@ comparative
 
 
 
+ι
 
 
 
 
 
 
+δ
 
 
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+α
 
+δ
 
+irregular
+ο
 
+ο
 
 
 
@@ -17865,17 +21791,22 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
 
 
+irregular
 
+ο
 
 
 
+δ
 
 
 
@@ -17887,10 +21818,13 @@ comparative
 
 
 
+α
 
 
+α
 
 
+irregular
 
 
 
@@ -17908,35 +21842,47 @@ comparative
 
 
 
+α
 
 
+α
 
+α
 
+ο
 
 
+ν
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ρ
 
 
+δ
 
 
 
 
+α
 
 
 
 
 
+ευ
 
 
+ο
 
 
 
@@ -17956,15 +21902,14 @@ comparative
 
 
 
-superlative
 
-comparative
+α
 
-superlative
 
 
 
 
+ρ
 
 
 
@@ -17972,14 +21917,18 @@ superlative
 
 
 
+α
+α
 
 
 
 
 
 
+α
 
 
+ευ
 
 
 
@@ -17988,14 +21937,20 @@ superlative
 
 
 
+κ
 
+α
+α
 
+α
 
 
 
 
+ευ
 
 
+ο
 
 
 
@@ -18007,9 +21962,12 @@ superlative
 
 
 
+ευ
+ρ
 
 
 
+α
 
 
 
@@ -18017,39 +21975,50 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
+κ
 
 
 
 
+ο
 
 
+ο
 
 
 
+ρ
 
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+irregular
 
 
 
@@ -18069,6 +22038,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -18088,8 +22058,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -18104,6 +22076,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -18113,6 +22086,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -18120,8 +22094,10 @@ superlative
 
 
 
+ο
 
 
+ν
 
 
 
@@ -18129,19 +22105,23 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -18149,7 +22129,10 @@ superlative
 
 
 
+non-declinable
+ο
 
+α
 
 
 
@@ -18168,7 +22151,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -18177,9 +22162,9 @@ superlative
 
 
 
-comparative
 
 
+ο
 
 
 
@@ -18188,16 +22173,22 @@ comparative
 
 
 
+υ
 
 
 
 
 
+ο
+ο
 
 
 
+ο
 
 
+α
+α
 
 
 
@@ -18207,25 +22198,31 @@ comparative
 
 
 
+ο
 
 
 
+υ
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+υ
 
 
 
@@ -18235,24 +22232,32 @@ comparative
 
 
 
+τ
 
+ο
+τ
 
 
 
+υ
 
 
 
 
 
+ο
 
+irregular
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -18264,26 +22269,31 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ς
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -18294,17 +22304,21 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+irregular
 
 
 
 
 
 
+α
 
 
 
@@ -18315,9 +22329,11 @@ comparative
 
 
 
+α
 
 
 
+τ
 
 
 
@@ -18347,9 +22363,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -18362,15 +22380,18 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -18381,17 +22402,20 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -18405,15 +22429,18 @@ comparative
 
 
 
+α
 
 
+ι
 
 
+ο
 
 
+α
 
 
-comparative
 
 
 
@@ -18421,7 +22448,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -18435,41 +22464,52 @@ comparative
 
 
 
+ο
 
 
 
+ευ
 
 
+τ
 
 
 
 
+α
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ρ
 
 
 
 
+ι
 
 
 
 
+α
 
 
 
@@ -18482,47 +22522,62 @@ comparative
 
 
 
+ο
+ο
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ευ
 
 
 
 
 
+α
 
 
 
+ι
 
 
 
 
+ρ
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
+ς
 
 
 
 
+α
 
 
 
@@ -18533,47 +22588,67 @@ comparative
 
 
 
+α
+τ
+ο
 
 
+α
 
+ο
 
 
+ι
 
+ο
 
 
 
 
 
 
+α
 
+ο
 
 
+ι
 
 
+υ
 
 
 
 
+ρ
 
 
 
+ρ
 
 
 
 
+ρ
 
+ρ
+ο
 
 
 
 
 
 
+ο
 
+ρ
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -18585,12 +22660,17 @@ comparative
 
 
 
+ρ
 
 
+ρ
 
 
+ο
 
+ο
 
+ι
 
 
 
@@ -18603,6 +22683,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -18614,6 +22695,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -18625,22 +22707,28 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
+α
 
 
 
@@ -18658,6 +22746,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -18668,36 +22757,57 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
+ν
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
+ο
 
 
 
+α
+α
+ο
+α
+α
+α
+ο
+α
+ο
 
+α
+α
+α
 
 
 
@@ -18707,15 +22817,19 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
+ο
 
 
 
+α
 
 
 
@@ -18726,30 +22840,40 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+ο
 
+τ
 
 
 
 
 
+δ
 
 
 
+irregular
 
+δ
+α
 
+ς
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -18758,15 +22882,19 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
@@ -18775,52 +22903,71 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ρ
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
+ο
 
 
+ν
 
 
+α
 
+α
 
 
 
+ο
+ι
 
 
 
@@ -18834,28 +22981,34 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -18868,11 +23021,14 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
+α
 
 
 
@@ -18909,8 +23065,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -18919,13 +23077,16 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -18940,10 +23101,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -18954,6 +23117,7 @@ comparative
 
 
 
+α
 
 
 
@@ -18962,12 +23126,15 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -18975,26 +23142,32 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -19009,7 +23182,10 @@ comparative
 
 
 
+τ
+τ
 
+δ
 
 
 
@@ -19022,16 +23198,20 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
+ς
 
 
 
 
+ο
 
 
 
@@ -19039,26 +23219,33 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -19071,16 +23258,19 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -19089,14 +23279,19 @@ comparative
 
 
 
+α
 
+ο
 
 
+α
+α
 
 
 
 
 
+ο
 
 
 
@@ -19106,6 +23301,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -19115,11 +23311,14 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
+τ
 
 
 
@@ -19129,14 +23328,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
+τ
 
 
-comparative
 
 
 
@@ -19147,6 +23348,9 @@ comparative
 
 
 
+δ
+τ
+τ
 
 
 
@@ -19173,19 +23377,23 @@ comparative
 
 
 
+ρ
 
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
+ρ
 
 
 
@@ -19197,16 +23405,20 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ρ
 
 
+ο
 
 
 
@@ -19220,26 +23432,35 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+irregular
 
 
+α
 
 
 
+α
+α
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
@@ -19247,6 +23468,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -19254,14 +23476,18 @@ comparative
 
 
 
+α
 
+α
 
 
+δ
 
 
 
 
 
+α
 
 
 
@@ -19274,11 +23500,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -19294,7 +23522,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -19304,20 +23534,26 @@ comparative
 
 
 
+ευ
 
 
+ευ
 
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
@@ -19328,26 +23564,33 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
@@ -19362,6 +23605,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -19371,6 +23615,7 @@ comparative
 
 
 
+α
 
 
 
@@ -19380,27 +23625,35 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
+τ
 
+α
 
 
 
@@ -19410,25 +23663,33 @@ comparative
 
 
 
+ο
 
 
+α
 
 
+δ
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
+ρ
 
 
 
+ο
 
 
 
@@ -19447,26 +23708,36 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
+ι
 
 
+α
 
 
 
+irregular
 
+ο
 
 
+ο
 
+α
 
 
 
 
+ς
 
 
 
@@ -19477,14 +23748,17 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ευ
 
 
+α
 
 
 
@@ -19492,16 +23766,21 @@ comparative
 
 
 
+δ
 
+υ
 
 
 
 
+irregular
 
 
 
+ο
 
 
+irregular
 
 
 
@@ -19511,11 +23790,14 @@ comparative
 
 
 
+α
 
 
 
+υ
 
 
+δ
 
 
 
@@ -19527,15 +23809,19 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -19549,6 +23835,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -19557,6 +23844,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -19568,12 +23856,15 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -19591,7 +23882,9 @@ comparative
 
 
 
+ευ
 
+δ
 
 
 
@@ -19599,6 +23892,7 @@ comparative
 
 
 
+δ
 
 
 
@@ -19609,7 +23903,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -19620,6 +23916,7 @@ comparative
 
 
 
+δ
 
 
 
@@ -19634,11 +23931,14 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
+ευ
 
 
 
@@ -19646,6 +23946,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -19666,12 +23967,16 @@ comparative
 
 
 
+ο
+ο
 
 
+ο
 
 
 
 
+τ
 
 
 
@@ -19685,11 +23990,13 @@ comparative
 
 
 
+ντ
 
 
 
 
 
+α
 
 
 
@@ -19703,6 +24010,7 @@ comparative
 
 
 
+α
 
 
 
@@ -19726,6 +24034,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -19733,13 +24042,16 @@ comparative
 
 
 
+α
 
 
 
 
 
+ρ
 
 
+ο
 
 
 
@@ -19754,10 +24066,12 @@ comparative
 
 
 
+ρ
 
 
 
 
+ρ
 
 
 
@@ -19772,6 +24086,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -19784,19 +24099,25 @@ comparative
 
 
 
+ρ
 
+ο
 
 
 
 
 
+α
 
 
 
+irregular
 
 
+ο
 
 
+τ
 
 
 
@@ -19805,6 +24126,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -19834,8 +24156,10 @@ comparative
 
 
 
+irregular
 
 
+ρ
 
 
 
@@ -19845,7 +24169,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -19862,6 +24188,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -19869,11 +24196,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -19883,15 +24212,20 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
+ρ
+ο
 
 
 
@@ -19899,11 +24233,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -19915,12 +24251,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -19931,6 +24269,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -19951,11 +24290,12 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
-superlative
 
 
 
@@ -19969,9 +24309,11 @@ superlative
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -19990,12 +24332,16 @@ superlative
 
 
 
+α
+ο
 
 
 
 
+τ
 
 
+ο
 
 
 
@@ -20009,6 +24355,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -20018,8 +24365,10 @@ superlative
 
 
 
+ι
 
 
+τ
 
 
 
@@ -20040,8 +24389,12 @@ superlative
 
 
 
+ο
+ρ
 
+τ
 
+ο
 
 
 
@@ -20051,6 +24404,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -20068,19 +24422,23 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ρ
 
 
 
@@ -20091,21 +24449,25 @@ superlative
 
 
 
+α
 
 
 
+ρ
 
 
 
 
+α
 
 
+ρ
 
 
 
-superlative
 
 
+δ
 
 
 
@@ -20117,17 +24479,21 @@ superlative
 
 
 
+α
 
 
 
 
+δ
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -20140,30 +24506,39 @@ superlative
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
+κ
 
 
 
 
 
+ρ
 
 
 
 
+ρ
 
 
 
+τ
 
 
 
+τ
 
 
 
@@ -20173,6 +24548,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -20183,13 +24559,17 @@ superlative
 
 
 
+ο
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -20200,10 +24580,13 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
+irregular
 
 
 
@@ -20215,26 +24598,35 @@ superlative
 
 
 
+υ
 
 
 
 
+υ
+ο
+ο
 
 
 
 
 
+irregular
 
 
 
 
+α
 
 
 
 
+α
 
 
 
+α
+ι
 
 
 
@@ -20243,15 +24635,19 @@ superlative
 
 
 
+ο
 
+ρ
 
 
 
+ρ
 
 
 
 
 
+κ
 
 
 
@@ -20259,17 +24655,22 @@ superlative
 
 
 
+κ
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
+α
 
 
 
@@ -20281,6 +24682,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -20293,6 +24695,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -20300,22 +24703,26 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
@@ -20327,7 +24734,9 @@ superlative
 
 
 
+α
 
+ο
 
 
 
@@ -20336,8 +24745,11 @@ superlative
 
 
 
+α
 
+ο
 
+ο
 
 
 
@@ -20349,12 +24761,14 @@ superlative
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
 
 
@@ -20362,14 +24776,17 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
@@ -20382,7 +24799,9 @@ superlative
 
 
 
+ο
 
+α
 
 
 
@@ -20396,20 +24815,25 @@ superlative
 
 
 
+ρ
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+irregular
 
 
 
@@ -20430,7 +24854,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -20440,57 +24866,75 @@ superlative
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+irregular
 
 
+α
 
 
 
 
 
+τ
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
+α
 
+δ
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -20506,20 +24950,25 @@ superlative
 
 
 
+irregular
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -20530,6 +24979,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -20537,37 +24987,54 @@ superlative
 
 
 
+α
 
+ο
 
+α
 
+ρ
 
+ρ
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
-superlative
 
+ο
 
+α
 
+ο
 
+α
 
+ρ
 
+ο
 
+ο
 
+ο
 
 
 
+ν
 
 
+α
 
 
 
@@ -20582,13 +25049,16 @@ superlative
 
 
 
+ο
 
 
+τ
 
 
 
 
 
+irregular
 
 
 
@@ -20600,7 +25070,6 @@ superlative
 
 
 
-comparative
 
 
 
@@ -20612,21 +25081,27 @@ comparative
 
 
 
+τ
 
 
+ο
 
-comparative
+ο
 
 
+ευ
 
 
+ευ
 
 
 
+ο
 
 
 
 
+ς
 
 
 
@@ -20641,14 +25116,20 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
+α
 
+ο
+ο
 
 
+ο
 
 
 
@@ -20684,9 +25165,11 @@ comparative
 
 
 
+α
 
 
 
+irregular
 
 
 
@@ -20696,11 +25179,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
@@ -20712,15 +25197,18 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -20748,11 +25236,14 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
+irregular
 
 
 
@@ -20761,6 +25252,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -20785,6 +25277,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -20795,10 +25288,13 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
@@ -20807,7 +25303,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -20821,17 +25319,25 @@ comparative
 
 
 
+α
 
 
+ο
 
 
+ο
+ο
+ο
 
+α
 
 
 
+ο
 
 
 
+irregular
 
 
 
@@ -20839,7 +25345,9 @@ comparative
 
 
 
+ο
 
+irregular
 
 
 
@@ -20853,12 +25361,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
@@ -20876,19 +25386,21 @@ comparative
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
+irregular
 
 
 
-superlative
 
 
 
@@ -20901,10 +25413,12 @@ superlative
 
 
 
+irregular
 
 
 
 
+ι
 
 
 
@@ -20916,19 +25430,25 @@ superlative
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+α
 
 
+ς
 
+α
 
 
 
+α
 
 
 
@@ -20936,6 +25456,7 @@ superlative
 
 
 
+α
 
 
 
@@ -20945,11 +25466,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -20965,7 +25488,9 @@ superlative
 
 
 
+ο
 
+α
 
 
 
@@ -20977,11 +25502,14 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
@@ -20996,6 +25524,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -21003,18 +25532,22 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
+irregular
 
 
 
 
+ο
 
 
 
@@ -21023,15 +25556,19 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
+δ
 
 
 
+ο
 
 
 
@@ -21044,10 +25581,14 @@ superlative
 
 
 
+τ
+ο
 
 
 
+α
 
+ρ
 
 
 
@@ -21057,8 +25598,10 @@ superlative
 
 
 
+τ
 
 
+ο
 
 
 
@@ -21066,8 +25609,10 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
@@ -21077,12 +25622,15 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -21098,10 +25646,13 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
@@ -21109,21 +25660,26 @@ superlative
 
 
 
+ν
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
@@ -21133,14 +25689,19 @@ superlative
 
 
 
+ο
 
 
+α
 
+α
 
 
+α
 
 
 
+α
 
 
 
@@ -21148,9 +25709,10 @@ superlative
 
 
 
+ς
 
-superlative
 
+ο
 
 
 
@@ -21160,19 +25722,27 @@ superlative
 
 
 
+ο
 
+ο
+α
 
 
 
+ς
 
 
 
 
+ο
+α
 
 
 
+ευ
 
 
+ευ
 
 
 
@@ -21184,9 +25754,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -21195,30 +25767,38 @@ superlative
 
 
 
+ι
 
 
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
+ι
+ο
 
 
 
@@ -21227,17 +25807,20 @@ superlative
 
 
 
+ς
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -21275,29 +25858,36 @@ superlative
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
 
 
 
+ευ
 
 
+ευ
 
 
 
@@ -21306,6 +25896,7 @@ superlative
 
 
 
+α
 
 
 
@@ -21313,17 +25904,20 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
@@ -21332,14 +25926,19 @@ superlative
 
 
 
+α
 
 
 
+τ
 
+α
 
+ο
 
 
 
+ο
 
 
 
@@ -21350,6 +25949,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -21360,23 +25960,29 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
+α
 
 
 
 
+irregular
 
 
 
 
 
+irregular
 
 
 
@@ -21385,37 +25991,51 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
+ν
+ο
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
+ο
 
 
 
+ο
 
 
 
+ο
 
+ν
 
 
 
@@ -21429,6 +26049,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -21450,6 +26071,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -21460,10 +26082,12 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -21471,6 +26095,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -21478,6 +26103,7 @@ superlative
 
 
 
+α
 
 
 
@@ -21487,22 +26113,29 @@ superlative
 
 
 
+ν
 
 
 
+ο
 
+ν
 
 
 
 
+ο
 
 
 
+ν
 
 
 
+α
 
 
+ο
 
 
 
@@ -21510,13 +26143,17 @@ superlative
 
 
 
+α
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -21525,12 +26162,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -21542,15 +26181,19 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -21565,13 +26208,20 @@ superlative
 
 
 
+ο
+ο
 
 
+α
 
+ο
 
+ο
 
 
 
+ο
+ρ
 
 
 
@@ -21583,6 +26233,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -21590,6 +26241,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -21600,69 +26252,91 @@ superlative
 
 
 
+ν
 
 
 
+α
 
 
 
 
+ρ
 
 
+irregular
 
 
 
+ρ
 
+ρ
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
 
+ο
+υ
 
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
+ο
 
 
 
+ο
 
 
+irregular
 
 
+τ
 
+ο
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
+τ
 
 
 
@@ -21672,6 +26346,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -21681,26 +26356,32 @@ superlative
 
 
 
+τ
 
 
 
 
+irregular
 
 
 
+ι
 
 
 
 
 
+irregular
 
 
 
 
 
+irregular
 
 
 
+irregular
 
 
 
@@ -21708,9 +26389,12 @@ superlative
 
 
 
+α
 
 
+ι
 
+ο
 
 
 
@@ -21723,8 +26407,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -21735,22 +26421,30 @@ superlative
 
 
 
+ο
+υ
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
@@ -21760,6 +26454,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -21772,41 +26467,52 @@ superlative
 
 
 
+α
 
 
 
 
+irregular
 
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+υ
 
 
 
@@ -21819,14 +26525,18 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ευ
 
+ο
 
+α
 
 
 
@@ -21844,30 +26554,34 @@ superlative
 
 
 
+α
 
 
 
 
+ι
 
 
 
 
-superlative
+υ
 
 
 
 
 
 
-superlative
 
 
 
 
 
+τ
 
+α
 
 
+irregular
 
 
 
@@ -21880,7 +26594,9 @@ superlative
 
 
 
+α
 
+ο
 
 
 
@@ -21890,15 +26606,20 @@ superlative
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
+ευ
 
 
+ο
+ο
 
 
 
@@ -21906,10 +26627,13 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
+ο
 
 
 
@@ -21923,62 +26647,83 @@ superlative
 
 
 
+δ
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ευ
 
 
 
+α
 
 
+ο
 
 
+α
 
+α
 
 
+α
 
+α
 
 
+ο
 
 
 
+α
 
+ο
 
+ι
 
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
@@ -21987,14 +26732,18 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
@@ -22003,6 +26752,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -22013,6 +26763,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -22024,6 +26775,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -22031,33 +26783,43 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
+ο
 
 
+α
 
 
+irregular
 
 
 
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
@@ -22067,16 +26829,23 @@ superlative
 
 
 
+ς
 
+α
 
 
+ο
 
 
 
 
+ο
 
+ο
 
+α
 
+α
 
 
 
@@ -22085,6 +26854,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -22092,6 +26862,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -22104,6 +26875,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -22115,7 +26887,10 @@ superlative
 
 
 
+ο
 
+α
+ο
 
 
 
@@ -22123,14 +26898,24 @@ superlative
 
 
 
+ς
 
 
+ς
 
+ς
 
+α
 
+α
 
+ο
 
+ο
 
+ο
+α
+ν
 
 
 
@@ -22139,25 +26924,32 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
+ν
 
+ευ
 
 
 
 
+ο
 
 
 
 
 
+ς
 
 
 
 
+ο
 
 
 
@@ -22175,6 +26967,7 @@ superlative
 
 
 
+α
 
 
 
@@ -22185,15 +26978,23 @@ superlative
 
 
 
+τ
 
 
 
 
+ο
+ο
 
+ο
 
+ρ
+ο
 
 
+ο
 
+ευ
 
 
 
@@ -22204,18 +27005,22 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ς
 
 
 
 
 
 
+τ
 
+ι
 
 
 
@@ -22227,12 +27032,15 @@ superlative
 
 
 
+α
 
 
 
+ς
 
 
 
+τ
 
 
 
@@ -22241,11 +27049,13 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -22253,11 +27063,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
@@ -22265,23 +27077,30 @@ superlative
 
 
 
+α
 
 
 
 
 
+ν
 
 
 
+α
 
+ι
 
 
 
 
 
+α
+ι
 
 
 
+ο
 
 
 
@@ -22293,11 +27112,14 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
+κ
 
 
 
@@ -22306,6 +27128,7 @@ superlative
 
 
 
+α
 
 
 
@@ -22315,16 +27138,21 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
 
+ο
 
+τ
 
 
 
@@ -22342,43 +27170,58 @@ superlative
 
 
 
+α
 
 
+ι
 
 
+ο
 
 
 
+α
 
 
 
+ς
 
 
 
+ρ
 
 
 
+ο
 
 
 
+ι
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
+α
 
+ι
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -22387,26 +27230,36 @@ superlative
 
 
 
+ο
 
+ο
+α
 
+ο
+ο
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ς
 
 
 
@@ -22420,6 +27273,7 @@ superlative
 
 
 
+α
 
 
 
@@ -22428,6 +27282,7 @@ superlative
 
 
 
+α
 
 
 
@@ -22435,30 +27290,39 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -22466,22 +27330,29 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
@@ -22492,12 +27363,16 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
+ο
 
+α
 
 
 
@@ -22506,7 +27381,6 @@ superlative
 
 
 
-comparative
 
 
 
@@ -22523,14 +27397,18 @@ comparative
 
 
 
+α
 
 
 
+ευ
 
 
+ευ
 
 
 
+ο
 
 
 
@@ -22538,30 +27416,41 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
-comparative
 
+α
+ν
 
 
 
 
 
+irregular
 
+ο
+ο
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -22571,15 +27460,19 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -22590,13 +27483,16 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -22625,9 +27521,11 @@ comparative
 
 
 
+τ
 
 
 
+ο
 
 
 
@@ -22636,17 +27534,22 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+α
+non-declinable
 
 
 
@@ -22654,6 +27557,7 @@ comparative
 
 
 
+ευ
 
 
 
@@ -22665,6 +27569,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -22675,6 +27580,7 @@ comparative
 
 
 
+α
 
 
 
@@ -22684,6 +27590,7 @@ comparative
 
 
 
+α
 
 
 
@@ -22697,6 +27604,7 @@ comparative
 
 
 
+α
 
 
 
@@ -22704,9 +27612,13 @@ comparative
 
 
 
+ι
 
 
 
+ο
+ο
+ρ
 
 
 
@@ -22716,24 +27628,29 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -22744,10 +27661,12 @@ comparative
 
 
 
+α
 
 
 
 
+ι
 
 
 
@@ -22770,6 +27689,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -22807,10 +27727,13 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
@@ -22819,11 +27742,14 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
@@ -22831,11 +27757,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -22847,9 +27775,11 @@ comparative
 
 
 
+τ
 
 
 
+ο
 
 
 
@@ -22864,8 +27794,10 @@ comparative
 
 
 
+τ
 
 
+α
 
 
 
@@ -22879,11 +27811,13 @@ comparative
 
 
 
-superlative
 
+τ
 
+ο
 
 
+α
 
 
 
@@ -22891,17 +27825,22 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
+ς
 
+α
 
 
 
 
+irregular
 
 
 
@@ -22909,8 +27848,10 @@ superlative
 
 
 
+ν
 
 
+ο
 
 
 
@@ -22921,8 +27862,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -22936,6 +27879,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -22944,9 +27888,11 @@ superlative
 
 
 
+irregular
 
 
 
+ρ
 
 
 
@@ -22972,12 +27918,15 @@ superlative
 
 
 
+ο
 
 
+τ
 
 
 
 
+α
 
 
 
@@ -22986,10 +27935,13 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
 
@@ -23003,8 +27955,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -23015,6 +27969,7 @@ superlative
 
 
 
+α
 
 
 
@@ -23025,15 +27980,18 @@ superlative
 
 
 
+α
 
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
@@ -23045,7 +28003,6 @@ superlative
 
 
 
-comparative
 
 
 
@@ -23055,10 +28012,13 @@ comparative
 
 
 
+ο
+ν
 
 
 
 
+α
 
 
 
@@ -23067,11 +28027,14 @@ comparative
 
 
 
+ο
 
 
+τ
 
 
 
+κ
 
 
 
@@ -23079,6 +28042,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -23090,6 +28054,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -23112,12 +28077,16 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
+ρ
 
 
 
@@ -23134,18 +28103,24 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
+α
 
+ο
 
 
+ευ
 
 
+ευ
 
 
 
@@ -23154,6 +28129,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -23180,6 +28156,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -23191,31 +28168,41 @@ comparative
 
 
 
+α
 
 
+ο
 
+ευ
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -23225,16 +28212,19 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+ν
 
 
 
@@ -23244,24 +28234,30 @@ comparative
 
 
 
+ν
 
 
 
 
 
+irregular
 
 
+ευ
 
 
 
 
+ευ
 
 
 
 
 
+ευ
 
 
+ο
 
 
 
@@ -23270,24 +28266,32 @@ comparative
 
 
 
+α
 
+ευ
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
+ευ
 
 
 
+ο
 
 
 
+irregular
+α
 
 
 
@@ -23303,6 +28307,7 @@ comparative
 
 
 
+α
 
 
 
@@ -23321,12 +28326,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -23336,14 +28343,17 @@ comparative
 
 
 
+α
 
 
 
 
+ευ
 
 
 
 
+irregular
 
 
 
@@ -23361,6 +28371,7 @@ comparative
 
 
 
+ευ
 
 
 
@@ -23369,38 +28380,51 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+ι
 
 
 
 
+α
 
+ο
 
 
+ευ
 
 
+ν
 
 
 
 
+α
 
+ρ
 
 
+α
 
 
 
@@ -23411,6 +28435,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -23420,6 +28445,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -23429,21 +28455,28 @@ comparative
 
 
 
+α
+τ
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
+ευ
 
 
 
+ο
 
 
 
@@ -23455,6 +28488,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -23471,8 +28505,10 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
@@ -23497,12 +28533,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -23514,6 +28552,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -23521,18 +28560,22 @@ comparative
 
 
 
+ρ
 
 
 
 
+ο
 
+τ
 
 
 
 
+irregular
 
-comparative
 
+ρ
 
 
 
@@ -23544,27 +28587,35 @@ comparative
 
 
 
+ο
 
 
+ευ
 
 
 
 
+ευ
 
 
 
+ο
 
 
+irregular
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ευ
 
 
 
@@ -23578,9 +28629,11 @@ comparative
 
 
 
+ευ
 
 
 
+ο
 
 
 
@@ -23594,33 +28647,42 @@ comparative
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+α
 
 
 
 
+ι
+ο
 
 
 
 
+ο
 
 
 
@@ -23628,6 +28690,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -23635,26 +28698,33 @@ comparative
 
 
 
+ευ
 
 
 
 
 
 
+ο
 
 
 
+ευ
 
 
+ευ
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -23665,6 +28735,7 @@ comparative
 
 
 
+ευ
 
 
 
@@ -23675,6 +28746,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -23689,57 +28761,71 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ευ
 
 
 
 
 
 
+α
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -23749,10 +28835,12 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -23764,26 +28852,38 @@ comparative
 
 
 
+ν
+ο
 
 
+ο
 
+ρ
+ο
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+irregular
+ο
 
 
 
+ο
+ο
 
 
 
 
+ο
 
 
 
@@ -23794,8 +28894,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -23803,6 +28905,7 @@ comparative
 
 
 
+α
 
 
 
@@ -23810,10 +28913,13 @@ comparative
 
 
 
+α
 
+α
 
 
 
+ευ
 
 
 
@@ -23821,6 +28927,7 @@ comparative
 
 
 
+α
 
 
 
@@ -23836,6 +28943,7 @@ comparative
 
 
 
+α
 
 
 
@@ -23843,23 +28951,28 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ευ
 
 
 
 
 
+ευ
 
 
 
@@ -23868,12 +28981,15 @@ comparative
 
 
 
+ο
 
+ευ
 
 
 
 
 
+ο
 
 
 
@@ -23887,20 +29003,25 @@ comparative
 
 
 
-superlative
+α
 
+ς
 
 
 
 
+α
 
+α
 
-superlative
 
 
 
+α
 
 
+irregular
+α
 
 
 
@@ -23910,8 +29031,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -23924,13 +29047,17 @@ superlative
 
 
 
+δ
 
 
 
 
 
 
+ο
+ς
 
+ο
 
 
 
@@ -23938,16 +29065,21 @@ superlative
 
 
 
+δ
 
 
 
 
+irregular
 
+α
 
 
 
 
+τ
 
+ο
 
 
 
@@ -23958,6 +29090,7 @@ superlative
 
 
 
+ν
 
 
 
@@ -23970,28 +29103,40 @@ superlative
 
 
 
+ο
+ο
+ο
 
 
 
 
+irregular
 
 
 
 
 
 
+α
 
+α
 
+α
 
+ο
 
 
 
+τ
+ρ
 
+α
 
 
 
 
 
+α
 
 
 
@@ -24004,36 +29149,47 @@ superlative
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
+α
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
+τ
 
+irregular
 
 
+ο
 
 
 
@@ -24041,6 +29197,7 @@ superlative
 
 
 
+ν
 
 
 
@@ -24050,46 +29207,66 @@ superlative
 
 
 
+ν
 
 
+τ
 
 
 
 
+ν
 
 
 
 
+ν
 
 
 
 
+τ
 
 
 
 
+α
 
 
+ο
 
 
+α
 
+ο
 
 
+α
 
+α
 
+α
 
+τ
 
 
 
 
 
 
+ο
+α
 
+α
 
+α
 
 
+ο
 
+α
 
+τ
 
 
 
@@ -24100,11 +29277,14 @@ superlative
 
 
 
+ο
 
 
 
+τ
 
 
+ο
 
 
 
@@ -24113,15 +29293,19 @@ superlative
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -24130,12 +29314,15 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -24145,6 +29332,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -24156,6 +29344,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -24163,14 +29352,17 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -24182,10 +29374,13 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
+ι
 
 
 
@@ -24196,13 +29391,17 @@ superlative
 
 
 
+ο
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
@@ -24232,8 +29431,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -24252,8 +29453,10 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
@@ -24267,12 +29470,14 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
-comparative
 
+ι
 
 
 
@@ -24282,19 +29487,22 @@ comparative
 
 
 
+ο
 
-superlative
 
 
 
-superlative
 
 
 
+τ
 
+ο
 
+α
 
 
+ι
 
 
 
@@ -24306,6 +29514,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -24313,6 +29522,8 @@ superlative
 
 
 
+ο
+irregular
 
 
 
@@ -24320,24 +29531,29 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -24345,6 +29561,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -24353,9 +29570,12 @@ superlative
 
 
 
+irregular
 
+α
 
 
+ι
 
 
 
@@ -24363,25 +29583,33 @@ superlative
 
 
 
+τ
 
 
+α
 
 
 
 
+ι
 
 
 
 
 
+τ
 
 
 
 
 
+α
+α
 
+α
 
 
+ο
 
 
 
@@ -24392,26 +29620,40 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
+α
 
 
 
+α
+α
+ευ
 
+α
+ευ
 
+τ
+α
 
+α
 
 
+irregular
 
 
 
+ρ
 
 
 
+τ
 
 
 
@@ -24420,26 +29662,33 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -24450,41 +29699,58 @@ superlative
 
 
 
+ι
 
+α
 
 
 
+ο
 
 
+ς
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
 
+ς
 
 
+ο
 
 
 
+α
 
+τ
 
 
 
+ο
+ο
 
 
 
 
+ο
 
+τ
 
 
+α
 
 
+ο
 
 
 
@@ -24493,55 +29759,73 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
+ι
 
 
 
+irregular
 
 
 
+ο
 
 
 
 
+τ
 
+α
 
 
+α
 
 
+ι
 
 
 
 
+ι
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+τ
 
 
 
 
+α
+ρ
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
@@ -24549,19 +29833,30 @@ superlative
 
 
 
+τ
 
+ι
+δ
 
+α
+ρ
 
+ο
 
 
 
+ι
 
 
+ο
+ο
 
 
 
+α
 
 
+ο
 
 
 
@@ -24569,16 +29864,20 @@ superlative
 
 
 
+α
 
 
+irregular
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -24588,6 +29887,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -24607,6 +29907,7 @@ superlative
 
 
 
+α
 
 
 
@@ -24614,17 +29915,21 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -24632,6 +29937,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -24642,9 +29948,11 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -24658,58 +29966,81 @@ superlative
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+irregular
 
 
 
 
+ν
 
 
 
 
 
 
+ο
 
+α
 
 
 
+ς
 
 
+ο
 
 
 
+ν
 
 
 
 
+ο
 
 
 
+ο
 
+ι
 
+α
 
+τ
 
 
+ο
 
+irregular
 
+τ
 
 
+ο
 
 
 
+τ
 
+ο
+α
 
 
 
@@ -24718,85 +30049,111 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
+ι
 
 
+ο
 
 
 
 
+ρ
 
 
+ο
 
 
 
+τ
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
+ο
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
+ν
 
 
+α
 
 
 
+ς
 
 
+α
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
+τ
 
 
 
 
 
+ι
 
 
 
@@ -24806,58 +30163,79 @@ superlative
 
 
 
+ο
+ο
 
 
 
 
+δ
 
 
 
 
+ο
 
+ς
 
 
 
+ν
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
+τ
 
 
+α
 
 
+α
+ο
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
 
 
 
+α
 
+ι
+α
 
 
 
 
+ο
+α
 
 
 
@@ -24867,31 +30245,40 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
+ς
 
 
+α
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
+ο
 
+α
 
 
 
@@ -24900,7 +30287,9 @@ superlative
 
 
 
+ρ
 
+ο
 
 
 
@@ -24909,17 +30298,22 @@ superlative
 
 
 
+α
 
+ο
 
 
 
+τ
 
 
 
+ι
 
+ς
 
 
-comparative
+α
 
 
 
@@ -24927,29 +30321,39 @@ comparative
 
 
 
+ι
 
 
 
 
+ο
 
 
+α
 
 
+α
 
 
+ο
 
 
 
+τ
 
 
 
+ο
 
+ρ
 
 
 
 
 
+ι
 
+α
 
 
 
@@ -24960,6 +30364,7 @@ comparative
 
 
 
+α
 
 
 
@@ -24969,23 +30374,33 @@ comparative
 
 
 
+τ
 
 
 
+ς
 
 
+α
 
+α
 
 
 
 
+ς
 
+ν
 
 
 
+α
+α
 
 
+α
 
+ο
 
 
 
@@ -24998,56 +30413,64 @@ comparative
 
 
 
+δ
 
 
+ς
 
 
 
 
+ρ
 
 
 
 
 
+τ
 
 
 
+ν
 
 
+α
 
 
 
+ν
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
-superlative
-superlative
 
 
-superlative
-superlative
 
 
+ο
 
+ς
 
 
 
@@ -25058,26 +30481,33 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+τ
 
+ρ
 
+α
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
@@ -25087,14 +30517,17 @@ superlative
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
+ρ
 
 
 
@@ -25104,9 +30537,12 @@ superlative
 
 
 
+ο
 
 
+α
 
+τ
 
 
 
@@ -25114,19 +30550,23 @@ superlative
 
 
 
+τ
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -25136,9 +30576,11 @@ superlative
 
 
 
+α
 
 
 
+τ
 
 
 
@@ -25147,132 +30589,185 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ρ
+ο
 
 
 
 
+α
 
+ρ
 
 
+τ
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ι
 
+ο
 
 
 
+irregular
+α
 
 
+ο
 
+δ
 
 
 
 
+τ
 
 
 
+ν
+α
 
+α
 
 
 
 
 
+ρ
 
 
 
 
 
+ς
 
 
+ρ
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
 
 
+ρ
 
 
 
 
 
+τ
 
+α
 
 
 
 
+α
 
 
 
 
+ο
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
+ι
+α
 
+ο
 
 
+ι
+α
 
 
+ο
+ς
+ο
 
 
 
 
 
+α
 
+ς
 
 
 
+ς
 
+α
+ο
 
 
 
 
+δ
 
 
+ο
+α
 
 
+ο
 
 
 
+τ
 
 
 
 
 
 
+α
+ι
 
 
 
@@ -25281,18 +30776,25 @@ superlative
 
 
 
+α
 
 
+τ
 
+ρ
+ο
 
-superlative
 
 
+α
 
+α
 
 
 
 
+α
+ο
 
 
 
@@ -25301,17 +30803,22 @@ superlative
 
 
 
+ι
 
 
 
 
 
 
+α
 
+ι
 
 
 
+α
 
+ι
 
 
 
@@ -25321,14 +30828,18 @@ superlative
 
 
 
+ο
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -25338,12 +30849,14 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -25354,80 +30867,113 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
+τ
 
+ν
 
 
 
+α
 
 
 
 
 
+α
 
+irregular
 
 
+α
 
 
+ο
+ο
 
 
 
+α
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ρ
 
 
+ο
+ο
 
+ι
 
 
 
 
+ο
 
+ς
 
 
 
 
+α
 
 
 
 
 
+ο
+ς
+α
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
+α
+α
 
+ο
+α
 
 
 
@@ -25436,8 +30982,11 @@ superlative
 
 
 
+ο
 
+ο
 
+ν
 
 
 
@@ -25448,11 +30997,13 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -25462,24 +31013,29 @@ superlative
 
 
 
+α
 
 
 
 
 
+ς
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -25491,25 +31047,31 @@ superlative
 
 
 
+ν
 
 
 
 
+α
 
 
 
+τ
 
 
 
 
+α
 
 
 
 
+ν
 
 
 
 
+ο
 
 
 
@@ -25523,6 +31085,7 @@ superlative
 
 
 
+α
 
 
 
@@ -25530,98 +31093,133 @@ superlative
 
 
 
+τ
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+α
 
+ο
 
 
 
+ο
+υ
 
 
 
+τ
 
 
+ο
 
 
 
+ο
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
+ο
+ς
+ν
 
 
+ο
+α
 
 
+ο
 
 
+τ
 
+τ
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
+τ
 
 
 
 
-superlative
 
 
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
+ο
+ο
 
 
 
 
+τ
 
 
+ο
 
 
 
 
 
+ευ
 
+ο
+irregular
 
 
 
@@ -25629,6 +31227,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -25637,22 +31236,29 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
+α
 
 
+τ
 
 
+α
 
 
 
+ο
 
 
 
@@ -25660,18 +31266,27 @@ superlative
 
 
 
+ο
 
 
+ο
+τ
 
+ι
+ς
 
+α
+ο
 
 
 
 
 
+ρ
 
 
 
+ρ
 
 
 
@@ -25685,64 +31300,90 @@ superlative
 
 
 
+α
 
+ρ
 
 
 
 
 
+ι
 
+ι
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
 
 
 
+α
+ο
 
 
+α
+ι
+ρ
 
 
+α
 
 
 
 
+α
 
 
 
+irregular
+ς
 
 
 
+α
 
 
 
+ο
 
+ς
 
 
 
 
 
 
+ο
+α
 
+ι
 
+irregular
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -25750,6 +31391,8 @@ superlative
 
 
 
+ι
+τ
 
 
 
@@ -25757,54 +31400,74 @@ superlative
 
 
 
+ο
+ο
 
 
 
+α
 
+ι
 
 
 
 
+ο
 
 
 
 
+α
 
+ι
+ο
 
 
 
 
 
 
+ευ
 
 
+ς
 
+τ
 
+α
 
 
 
 
 
+ς
 
 
 
 
 
+ς
 
+α
 
 
 
+α
 
 
 
 
 
+irregular
 
+δ
 
+τ
 
 
 
 
+ευ
 
 
 
@@ -25812,7 +31475,10 @@ superlative
 
 
 
+α
 
+α
+ο
 
 
 
@@ -25827,20 +31493,24 @@ superlative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -25855,8 +31525,10 @@ superlative
 
 
 
+ι
 
 
+ι
 
 
 
@@ -25867,13 +31539,16 @@ superlative
 
 
 
+ρ
 
+ο
 
 
 
 
 
 
+ρ
 
 
 
@@ -25890,10 +31565,10 @@ superlative
 
 
 
-comparative
 
 
 
+ρ
 
 
 
@@ -25903,6 +31578,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -25920,45 +31596,77 @@ comparative
 
 
 
+ρ
 
 
 
 
+τ
 
 
+α
 
 
+irregular
 
 
 
+α
 
+α
 
+ι
 
+ο
 
+ο
 
+ς
 
 
 
+α
+ο
+ρ
 
+ο
+ο
 
+α
 
 
 
+α
+α
+ο
 
 
+ο
 
 
 
 
 
+ι
+α
 
+α
 
+α
 
 
+ευ
+α
 
+α
 
+τ
+ο
 
+α
 
+α
+ο
 
 
 
@@ -25969,27 +31677,43 @@ comparative
 
 
 
+α
 
+τ
+α
 
+ι
+α
 
 
 
+ο
+ο
+α
 
+α
+α
 
 
 
 
 
 
+ο
+ο
 
 
 
+ο
 
 
+γ
 
 
 
+ς
 
+ο
 
 
 
@@ -26001,20 +31725,26 @@ comparative
 
 
 
+ο
 
 
 
 
+κ
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+τ
+α
 
 
 
@@ -26022,16 +31752,20 @@ comparative
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
 
 
+ρ
 
 
 
@@ -26041,33 +31775,43 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
@@ -26075,11 +31819,11 @@ comparative
 
 
 
-superlative
 
 
 
 
+ν
 
 
 
@@ -26087,16 +31831,19 @@ superlative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -26131,29 +31878,36 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
+ρ
 
 
 
@@ -26167,31 +31921,42 @@ superlative
 
 
 
+ντ
 
+τ
 
 
 
 
 
+τ
 
 
+ρ
 
 
+ο
 
 
+ρ
 
 
 
+ν
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
+ρ
 
 
 
@@ -26201,15 +31966,21 @@ superlative
 
 
 
+ο
 
 
+α
 
+α
 
 
 
 
+δ
 
+irregular
 
+ο
 
 
 
@@ -26218,6 +31989,7 @@ superlative
 
 
 
+α
 
 
 
@@ -26225,7 +31997,9 @@ superlative
 
 
 
+α
 
+α
 
 
 
@@ -26233,27 +32007,36 @@ superlative
 
 
 
+ο
 
+irregular
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
+ς
 
+α
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
@@ -26263,10 +32046,13 @@ superlative
 
 
 
+irregular
 
 
+ς
 
 
+ο
 
 
 
@@ -26275,6 +32061,7 @@ superlative
 
 
 
+non-declinable
 
 
 
@@ -26282,6 +32069,7 @@ superlative
 
 
 
+α
 
 
 
@@ -26293,6 +32081,7 @@ superlative
 
 
 
+α
 
 
 
@@ -26320,6 +32109,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -26327,10 +32117,11 @@ superlative
 
 
 
+non-declinable
 
 
-superlative
 
+α
 
 
 
@@ -26357,7 +32148,6 @@ superlative
 
 
 
-superlative
 
 
 
@@ -26369,6 +32159,7 @@ superlative
 
 
 
+α
 
 
 
@@ -26416,19 +32207,25 @@ superlative
 
 
 
+ο
+irregular
 
 
+τ
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -26440,6 +32237,7 @@ superlative
 
 
 
+α
 
 
 
@@ -26451,36 +32249,45 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
+ο
 
-superlative
 
 
+ο
 
 
 
-superlative
 
 
 
 
+α
 
+α
 
+α
+ο
 
 
 
@@ -26489,10 +32296,12 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -26515,14 +32324,16 @@ superlative
 
 
 
+irregular
 
 
 
 
+ο
 
+ο
 
 
-comparative
 
 
 
@@ -26530,17 +32341,22 @@ comparative
 
 
 
+τ
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -26549,6 +32365,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -26559,44 +32376,56 @@ comparative
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
+δ
 
 
 
 
 
 
-comparative
+irregular
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+irregular
 
 
+ι
 
+τ
 
 
+α
 
+α
 
 
 
@@ -26609,6 +32438,7 @@ comparative
 
 
 
+α
 
 
 
@@ -26628,24 +32458,34 @@ comparative
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
+α
+α
 
 
 
+ο
 
 
+ο
 
 
 
+τ
+ο
 
 
 
@@ -26657,24 +32497,34 @@ comparative
 
 
 
+ο
+ι
 
 
+ι
 
 
 
+ι
 
+ο
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -26687,12 +32537,12 @@ comparative
 
 
 
-superlative
+α
 
 
 
+τ
 
-superlative
 
 
 
@@ -26701,16 +32551,19 @@ superlative
 
 
 
+ο
 
+ι
 
 
 
 
+τ
 
 
-comparative
 
 
+ο
 
 
 
@@ -26722,7 +32575,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -26736,6 +32591,7 @@ comparative
 
 
 
+δ
 
 
 
@@ -26744,46 +32600,61 @@ comparative
 
 
 
+α
 
 
 
 
+δ
 
 
+α
 
 
 
 
+ο
 
 
-comparative
 
+α
+δ
 
 
 
 
 
 
+ο
 
+ς
 
 
+ν
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+δ
 
 
 
+α
 
+ο
 
+irregular
+ο
 
 
 
@@ -26792,7 +32663,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -26801,11 +32674,14 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
@@ -26814,14 +32690,18 @@ comparative
 
 
 
+ι
 
 
 
 
+υ
 
+ς
 
 
 
+ι
 
 
 
@@ -26838,37 +32718,49 @@ comparative
 
 
 
+ι
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
+ο
 
 
 
 
+α
 
+ο
 
+τ
+ο
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
@@ -26880,10 +32772,12 @@ comparative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -26894,6 +32788,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -26905,6 +32800,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -26914,38 +32810,49 @@ comparative
 
 
 
+ο
 
 
 
+α
 
+ι
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+α
+ν
+α
 
 
+ν
 
 
+ο
 
 
 
-superlative
 
 
 
@@ -26955,6 +32862,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -26966,10 +32874,12 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -26981,12 +32891,14 @@ superlative
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
 
 
@@ -26996,7 +32908,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -27006,16 +32920,20 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -27039,11 +32957,14 @@ superlative
 
 
 
+ι
 
 
 
 
+α
 
+ο
 
 
 
@@ -27053,57 +32974,72 @@ superlative
 
 
 
+α
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
+ευ
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ν
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -27111,36 +33047,48 @@ superlative
 
 
 
+ν
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
+ν
 
+α
 
 
+irregular
 
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+ς
+υ
 
 
 
 
+ο
 
 
 
@@ -27149,6 +33097,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -27159,20 +33108,28 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ν
+ο
 
 
+τ
+irregular
 
 
 
 
 
+irregular
 
 
+ο
+ς
 
 
 
@@ -27183,33 +33140,46 @@ superlative
 
 
 
+α
 
+υ
 
 
 
 
 
+ο
 
+α
+ο
+ο
 
 
+ο
 
+ν
 
 
 
 
+ν
 
+irregular
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -27223,17 +33193,23 @@ superlative
 
 
 
+ι
 
 
+irregular
 
+α
 
 
 
+irregular
 
 
+ο
 
 
 
+ο
 
 
 
@@ -27242,6 +33218,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -27250,6 +33227,7 @@ superlative
 
 
 
+α
 
 
 
@@ -27264,29 +33242,36 @@ superlative
 
 
 
+ευ
 
 
 
 
+ο
 
 
 
+υ
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -27302,6 +33287,7 @@ superlative
 
 
 
+α
 
 
 
@@ -27309,16 +33295,24 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
+α
 
+α
 
+τ
 
+ι
+ο
 
 
 
@@ -27326,8 +33320,11 @@ superlative
 
 
 
+irregular
 
 
+α
+ο
 
 
 
@@ -27347,52 +33344,67 @@ superlative
 
 
 
+ο
 
 
 
+τ
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
+ι
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ευ
 
 
+ο
 
 
 
 
 
 
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
+irregular
 
+ο
 
 
 
@@ -27402,6 +33414,7 @@ superlative
 
 
 
+α
 
 
 
@@ -27410,6 +33423,7 @@ superlative
 
 
 
+α
 
 
 
@@ -27421,11 +33435,16 @@ superlative
 
 
 
+ο
 
+ο
+α
 
 
 
+α
 
+α
 
 
 
@@ -27435,10 +33454,12 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -27452,17 +33473,22 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
+ι
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -27474,9 +33500,13 @@ superlative
 
 
 
+α
+τ
+non-declinable
 
 
 
+ο
 
 
 
@@ -27490,14 +33520,19 @@ superlative
 
 
 
+α
 
+non-declinable
 
 
 
+α
 
 
 
+ο
 
+α
 
 
 
@@ -27508,17 +33543,21 @@ superlative
 
 
 
+ο
 
 
+ευ
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -27527,13 +33566,16 @@ superlative
 
 
 
+irregular
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -27545,20 +33587,25 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
+α
 
 
 
+ι
 
 
 
 
 
+ο
 
 
 
@@ -27567,47 +33614,57 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
+ν
 
 
 
+ο
 
 
-superlative
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+τ
 
+ο
 
 
 
 
+ο
 
 
 
@@ -27622,6 +33679,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -27629,26 +33687,33 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
@@ -27666,6 +33731,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -27673,15 +33739,19 @@ superlative
 
 
 
+α
 
 
 
 
+υ
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -27689,12 +33759,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
@@ -27713,10 +33785,14 @@ superlative
 
 
 
+ο
 
+ο
 
 
+ο
 
+ι
 
 
 
@@ -27732,28 +33808,37 @@ superlative
 
 
 
+ευ
 
 
 
+ο
 
 
+ο
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -27763,11 +33848,14 @@ superlative
 
 
 
+ευ
 
 
+ο
 
 
 
+ο
 
 
 
@@ -27777,14 +33865,17 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
+ρ
 
 
 
@@ -27797,6 +33888,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -27804,9 +33896,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -27818,6 +33912,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -27825,10 +33920,12 @@ superlative
 
 
 
+ρ
 
 
 
 
+α
 
 
 
@@ -27837,27 +33934,34 @@ superlative
 
 
 
+irregular
 
 
 
 
+α
 
 
 
 
 
+ς
 
 
 
 
 
 
+α
 
+ο
 
 
 
+α
 
 
+α
 
 
 
@@ -27866,48 +33970,77 @@ superlative
 
 
 
+ο
 
+ν
 
 
 
+ο
 
+α
 
+ο
 
 
+ο
 
+α
 
+ο
 
+ο
 
+ο
 
+α
 
+ο
+ο
 
+ν
 
 
+α
 
+α
+ο
 
+α
+non-declinable
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
+α
 
 
+ς
 
 
+ο
 
 
 
+α
 
+τ
 
 
 
+ο
 
+ν
 
 
 
@@ -27916,20 +34049,24 @@ superlative
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
 
+ι
 
 
 
@@ -27940,9 +34077,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -27952,7 +34091,9 @@ superlative
 
 
 
+α
 
+ο
 
 
 
@@ -27971,6 +34112,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -27980,32 +34122,40 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
+ρ
 
 
 
@@ -28015,6 +34165,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -28038,13 +34189,16 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+ρ
 
 
 
@@ -28074,6 +34228,7 @@ superlative
 
 
 
+ν
 
 
 
@@ -28084,8 +34239,10 @@ superlative
 
 
 
+ο
 
 
+ν
 
 
 
@@ -28107,6 +34264,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -28118,12 +34276,12 @@ superlative
 
 
 
+ι
 
 
 
 
 
-comparative
 
 
 
@@ -28137,6 +34295,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -28153,6 +34312,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -28176,10 +34336,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -28194,6 +34356,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -28218,6 +34381,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -28225,15 +34389,18 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -28243,101 +34410,134 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
-comparative
 
 
 
+ο
 
 
 
 
 
+ς
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
+ς
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ς
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
+ο
+α
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
@@ -28352,13 +34552,18 @@ comparative
 
 
 
+τ
+α
 
 
+τ
 
 
 
 
 
+ο
+ο
 
 
 
@@ -28373,6 +34578,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -28383,20 +34589,27 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
 
+α
+α
 
 
 
 
+ο
 
+α
 
 
 
@@ -28416,35 +34629,47 @@ comparative
 
 
 
+ο
 
+α
 
 
+α
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+τ
 
+α
 
 
 
 
 
 
+τ
 
 
 
+α
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
@@ -28457,6 +34682,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -28469,12 +34695,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
@@ -28488,14 +34716,17 @@ comparative
 
 
 
+ς
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
@@ -28507,11 +34738,14 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
+ο
 
 
 
@@ -28521,6 +34755,7 @@ comparative
 
 
 
+α
 
 
 
@@ -28532,19 +34767,24 @@ comparative
 
 
 
+ο
 
 
 
+δ
 
 
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
@@ -28558,6 +34798,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -28567,6 +34808,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -28574,6 +34816,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -28582,50 +34825,62 @@ comparative
 
 
 
+ι
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
-comparative
 
 
 
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+α
 
+ι
 
 
 
 
 
+ο
 
+ρ
 
 
 
 
+ο
 
+ο
 
+ι
 
 
 
@@ -28634,6 +34889,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -28646,12 +34902,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -28666,15 +34924,19 @@ comparative
 
 
 
+ρ
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -28683,15 +34945,19 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -28700,7 +34966,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -28710,11 +34978,14 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -28728,8 +34999,11 @@ comparative
 
 
 
+irregular
 
+α
 
+α
 
 
 
@@ -28745,11 +35019,15 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+γ
 
+τ
 
 
 
@@ -28762,6 +35040,7 @@ comparative
 
 
 
+α
 
 
 
@@ -28791,31 +35070,41 @@ comparative
 
 
 
+ο
+α
 
 
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -28825,11 +35114,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -28838,12 +35129,15 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -28852,6 +35146,8 @@ comparative
 
 
 
+irregular
+α
 
 
 
@@ -28859,27 +35155,37 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
+τ
+α
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
@@ -28891,7 +35197,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -28899,8 +35207,10 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
@@ -28918,39 +35228,53 @@ comparative
 
 
 
+α
 
+α
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
+ο
 
+α
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -28959,14 +35283,18 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+irregular
 
 
 
 
+ι
 
 
 
@@ -28974,35 +35302,47 @@ comparative
 
 
 
+α
 
+ο
 
+ο
+ο
 
 
 
 
 
+δ
 
 
 
+ο
 
 
 
+δ
 
 
 
+χ
 
+α
 
 
 
 
 
+δ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -29013,12 +35353,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
@@ -29028,23 +35370,29 @@ comparative
 
 
 
+irregular
 
 
 
+ν
 
 
 
 
 
 
+ο
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
@@ -29063,6 +35411,7 @@ comparative
 
 
 
+ν
 
 
 
@@ -29080,29 +35429,39 @@ comparative
 
 
 
+irregular
 
+ν
 
 
 
 
+irregular
 
 
 
 
+α
+ρ
 
 
+δ
 
 
 
 
 
+ο
 
 
 
+δ
 
 
+χ
 
 
+τ
 
 
 
@@ -29116,14 +35475,19 @@ comparative
 
 
 
+δ
+ο
 
+α
 
 
 
 
 
+ο
 
 
+δ
 
 
 
@@ -29131,6 +35495,7 @@ comparative
 
 
 
+α
 
 
 
@@ -29149,6 +35514,7 @@ comparative
 
 
 
+α
 
 
 
@@ -29161,17 +35527,21 @@ comparative
 
 
 
+α
 
 
 
 
 
+irregular
 
+ι
 
 
 
 
 
+α
 
 
 
@@ -29181,33 +35551,49 @@ comparative
 
 
 
+ι
 
+α
 
 
 
 
+α
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
 
+τ
 
 
+α
+α
 
 
+α
 
 
+ο
 
 
 
+α
+irregular
+α
+ο
+α
 
+α
 
 
 
@@ -29220,21 +35606,25 @@ comparative
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -29246,11 +35636,14 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
@@ -29258,6 +35651,7 @@ comparative
 
 
 
+α
 
 
 
@@ -29265,15 +35659,18 @@ comparative
 
 
 
+δ
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -29281,28 +35678,33 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -29310,12 +35712,16 @@ comparative
 
 
 
+ο
 
+α
 
+ο
 
 
 
 
+α
 
 
 
@@ -29328,14 +35734,19 @@ comparative
 
 
 
+α
 
+ο
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
@@ -29346,8 +35757,10 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
@@ -29357,26 +35770,34 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
 
 
+α
 
 
 
@@ -29384,50 +35805,61 @@ comparative
 
 
 
+α
 
+ο
 
+α
 
+ο
 
 
 
-superlative
 
 
-superlative
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
+ς
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+τ
 
 
 
@@ -29473,8 +35905,10 @@ superlative
 
 
 
+ρ
 
 
+ο
 
 
 
@@ -29483,13 +35917,16 @@ superlative
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -29502,14 +35939,18 @@ superlative
 
 
 
+ρ
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -29518,12 +35959,15 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -29534,6 +35978,7 @@ superlative
 
 
 
+α
 
 
 
@@ -29542,8 +35987,11 @@ superlative
 
 
 
+π
+ο
 
 
+α
 
 
 
@@ -29553,24 +36001,31 @@ superlative
 
 
 
+α
+α
 
 
 
 
 
 
+ο
 
 
+ν
 
+ρ
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
@@ -29585,9 +36040,11 @@ superlative
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -29595,47 +36052,62 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
+irregular
 
 
 
+ι
 
+ο
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
-superlative
 
 
+τ
 
 
 
+irregular
 
 
 
 
+α
 
 
 
 
 
 
+irregular
+ο
 
+ο
 
 
 
@@ -29646,25 +36118,32 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ι
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -29672,14 +36151,18 @@ superlative
 
 
 
+irregular
 
 
+τ
 
 
 
 
+ν
 
 
+ο
 
 
 
@@ -29692,14 +36175,18 @@ superlative
 
 
 
+ο
 
 
 
 
+α
+ο
 
 
 
 
+ς
 
 
 
@@ -29715,18 +36202,24 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
@@ -29740,9 +36233,11 @@ superlative
 
 
 
+ι
 
 
 
+ο
 
 
 
@@ -29752,20 +36247,25 @@ superlative
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+δ
 
+irregular
 
 
 
@@ -29782,28 +36282,34 @@ superlative
 
 
 
+ς
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
@@ -29814,6 +36320,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -29821,24 +36328,29 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
 
+irregular
 
 
 
 
 
+irregular
 
 
 
+ο
 
 
 
@@ -29847,26 +36359,36 @@ superlative
 
 
 
+irregular
 
+τ
+ο
 
 
+ντ
 
+α
 
 
 
 
 
+δ
+irregular
 
 
 
 
 
+ο
 
 
+ρ
 
 
 
 
+ς
 
 
 
@@ -29877,12 +36399,17 @@ superlative
 
 
 
+ο
 
 
 
+irregular
 
 
+ι
+τ
 
+ς
 
 
 
@@ -29894,17 +36421,22 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ι
 
+τ
 
 
 
 
+irregular
 
 
 
@@ -29914,13 +36446,17 @@ superlative
 
 
 
+ο
+α
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
@@ -29928,12 +36464,14 @@ superlative
 
 
 
+ι
 
 
 
 
 
 
+irregular
 
 
 
@@ -29944,12 +36482,14 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -29958,12 +36498,15 @@ superlative
 
 
 
+ρ
 
+ι
 
 
 
 
 
+α
 
 
 
@@ -29971,16 +36514,20 @@ superlative
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
+irregular
 
 
 
@@ -29994,6 +36541,7 @@ superlative
 
 
 
+α
 
 
 
@@ -30002,13 +36550,19 @@ superlative
 
 
 
+ο
 
+α
 
+ο
 
 
+ρ
 
+δ
 
 
+ρ
 
 
 
@@ -30034,14 +36588,17 @@ superlative
 
 
 
+ρ
 
 
 
 
+δ
 
 
 
 
+τ
 
 
 
@@ -30054,6 +36611,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -30069,18 +36627,24 @@ superlative
 
 
 
+ι
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -30091,19 +36655,25 @@ superlative
 
 
 
+ο
 
+ο
 
+α
 
+ο
 
+ο
 
 
 
-superlative
+ν
 
 
 
 
 
+α
 
 
 
@@ -30119,13 +36689,17 @@ superlative
 
 
 
+ι
 
 
+ο
 
 
+δ
 
 
 
+ο
 
 
 
@@ -30133,13 +36707,16 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
+α
 
 
 
@@ -30151,24 +36728,28 @@ superlative
 
 
 
+α
 
 
 
-superlative
 
 
 
 
+δ
 
 
 
 
+α
 
 
 
 
 
 
+α
+α
 
 
 
@@ -30186,6 +36767,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -30197,10 +36779,12 @@ superlative
 
 
 
+ι
 
 
 
 
+ο
 
 
 
@@ -30211,13 +36795,18 @@ superlative
 
 
 
+α
 
+ο
 
 
+α
 
+α
 
 
 
+α
 
 
 
@@ -30228,18 +36817,24 @@ superlative
 
 
 
+ο
 
 
 
 
+non-declinable
+α
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -30257,8 +36852,10 @@ superlative
 
 
 
+ο
 
 
+υ
 
 
 
@@ -30268,18 +36865,23 @@ superlative
 
 
 
+ο
 
+τ
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -30293,12 +36895,15 @@ superlative
 
 
 
+ο
 
 
 
+υ
 
 
 
+ο
 
 
 
@@ -30306,8 +36911,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -30318,6 +36925,8 @@ superlative
 
 
 
+τ
+ο
 
 
 
@@ -30331,6 +36940,7 @@ superlative
 
 
 
+α
 
 
 
@@ -30338,18 +36948,23 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
+δ
 
 
 
+α
 
 
 
@@ -30363,11 +36978,14 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
@@ -30380,7 +36998,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -30389,12 +37009,15 @@ superlative
 
 
 
+ευ
 
+ευ
 
 
 
 
 
+α
 
 
 
@@ -30411,8 +37034,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -30421,6 +37046,7 @@ superlative
 
 
 
+α
 
 
 
@@ -30430,6 +37056,7 @@ superlative
 
 
 
+α
 
 
 
@@ -30439,8 +37066,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -30455,20 +37084,26 @@ superlative
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -30482,25 +37117,34 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
+α
 
+ο
 
 
 
+ς
 
 
 
@@ -30509,48 +37153,61 @@ superlative
 
 
 
+ς
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
 
+υ
 
+δ
 
 
 
+α
 
 
+ο
 
 
 
 
 
+τ
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
@@ -30564,8 +37221,11 @@ superlative
 
 
 
+ο
 
 
+irregular
+α
 
 
 
@@ -30573,13 +37233,16 @@ superlative
 
 
 
+α
 
 
 
 
 
+υ
 
 
+δ
 
 
 
@@ -30589,6 +37252,7 @@ superlative
 
 
 
+α
 
 
 
@@ -30600,14 +37264,18 @@ superlative
 
 
 
+α
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -30618,7 +37286,9 @@ superlative
 
 
 
+α
 
+irregular
 
 
 
@@ -30629,6 +37299,7 @@ superlative
 
 
 
+α
 
 
 
@@ -30636,24 +37307,31 @@ superlative
 
 
 
+α
 
 
 
 
+ς
 
 
+ο
 
 
 
+irregular
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -30661,6 +37339,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -30670,6 +37349,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -30680,6 +37360,7 @@ superlative
 
 
 
+α
 
 
 
@@ -30690,8 +37371,10 @@ superlative
 
 
 
+irregular
 
 
+α
 
 
 
@@ -30705,8 +37388,8 @@ superlative
 
 
 
-superlative
 
+ο
 
 
 
@@ -30715,28 +37398,35 @@ superlative
 
 
 
+ο
 
 
 
 
 
+irregular
 
+τ
 
 
 
 
 
+δ
 
 
 
 
+ρ
 
 
 
 
 
 
+τ
 
+ο
 
 
 
@@ -30747,24 +37437,32 @@ superlative
 
 
 
+α
 
 
 
 
 
+τ
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
+ρ
+ο
 
 
 
 
+τ
 
 
 
@@ -30781,25 +37479,30 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
 
 
 
 
-superlative
 
 
 
 
 
+irregular
 
 
+ο
 
+α
 
 
+ο
 
 
 
@@ -30812,8 +37515,10 @@ superlative
 
 
 
+ο
 
 
+τ
 
 
 
@@ -30839,13 +37544,17 @@ superlative
 
 
 
+α
 
+α
 
 
 
 
+τ
 
 
+ο
 
 
 
@@ -30858,8 +37567,8 @@ superlative
 
 
 
+irregular
 
-superlative
 
 
 
@@ -30876,23 +37585,31 @@ superlative
 
 
 
+α
 
+ι
 
 
 
 
+ο
 
 
 
 
+τ
 
 
+ο
 
+ο
 
 
 
 
 
+α
+α
 
 
 
@@ -30902,20 +37619,28 @@ superlative
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+α
+ο
 
+α
 
+ο
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -30927,11 +37652,13 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -30945,18 +37672,27 @@ superlative
 
 
 
+irregular
 
+κ
+ο
 
 
 
+ο
 
+ο
+ι
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
@@ -30965,7 +37701,6 @@ superlative
 
 
 
-superlative
 
 
 
@@ -30974,6 +37709,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -30990,13 +37726,16 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -31005,16 +37744,20 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
+ρ
 
+ο
 
 
 
@@ -31023,12 +37766,15 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -31037,10 +37783,13 @@ superlative
 
 
 
+ο
 
 
 
+ι
 
+ο
 
 
 
@@ -31051,52 +37800,70 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ν
 
 
+ο
 
 
+ο
 
+α
 
+τ
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
 
 
+ο
+α
 
 
 
 
+α
 
 
 
@@ -31108,6 +37875,7 @@ superlative
 
 
 
+α
 
 
 
@@ -31118,16 +37886,21 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
+α
 
+α
 
 
 
 
+ι
 
 
 
@@ -31149,11 +37922,14 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
+ι
 
 
 
@@ -31162,18 +37938,22 @@ superlative
 
 
 
+υ
 
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
+δ
 
 
 
@@ -31182,17 +37962,22 @@ superlative
 
 
 
+α
 
+ο
 
 
 
+τ
 
 
+α
 
 
 
 
 
+ι
 
 
 
@@ -31203,9 +37988,12 @@ superlative
 
 
 
+ο
 
+ν
 
 
+ι
 
 
 
@@ -31213,15 +38001,20 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+ο
 
+ν
 
 
 
 
+ι
 
 
 
@@ -31229,9 +38022,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -31257,35 +38052,46 @@ superlative
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
+α
 
 
+ο
 
 
 
 
 
+α
 
 
 
+ι
 
+ο
 
 
 
 
+ι
 
 
 
@@ -31301,30 +38107,39 @@ superlative
 
 
 
+τ
 
 
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+α
 
 
+τ
 
 
 
 
 
 
+ρ
+ο
 
+ο
 
 
+α
 
 
 
@@ -31338,8 +38153,10 @@ superlative
 
 
 
+ρ
 
 
+α
 
 
 
@@ -31348,6 +38165,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -31355,31 +38173,38 @@ superlative
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -31389,7 +38214,9 @@ superlative
 
 
 
+α
 
+ευ
 
 
 
@@ -31413,8 +38240,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -31424,6 +38253,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -31433,26 +38263,32 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+υ
 
 
 
 
 
+α
 
 
 
@@ -31477,6 +38313,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -31484,29 +38321,37 @@ superlative
 
 
 
+irregular
 
+ο
 
 
 
+τ
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
+ευ
 
 
 
 
+ο
 
 
 
@@ -31515,12 +38360,15 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -31534,18 +38382,23 @@ superlative
 
 
 
+τ
 
 
+ο
 
+ο
 
 
 
 
 
 
+ς
 
 
 
+ο
 
 
 
@@ -31555,8 +38408,10 @@ superlative
 
 
 
+ο
 
 
+ευ
 
 
 
@@ -31585,18 +38440,21 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ς
 
 
 
 
 
 
+irregular
 
 
 
@@ -31610,39 +38468,53 @@ superlative
 
 
 
+α
 
+irregular
 
 
+τ
+α
 
 
 
 
+α
 
 
 
+α
 
+α
 
 
 
 
 
+δ
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -31659,6 +38531,9 @@ superlative
 
 
 
+ο
+α
+α
 
 
 
@@ -31667,11 +38542,14 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
+δ
 
 
 
@@ -31684,6 +38562,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -31691,16 +38570,20 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+α
 
 
+α
 
 
 
@@ -31708,13 +38591,17 @@ superlative
 
 
 
+ρ
 
 
+τ
 
 
 
+α
 
 
+ο
 
 
 
@@ -31722,10 +38609,12 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -31739,6 +38628,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -31752,17 +38642,21 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -31777,17 +38671,21 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -31810,6 +38708,7 @@ superlative
 
 
 
+α
 
 
 
@@ -31848,34 +38747,45 @@ superlative
 
 
 
+ρ
 
 
+ο
+υ
 
 
-comparative
+υ
+ι
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+ρ
 
 
+ο
 
+τ
 
 
 
@@ -31883,6 +38793,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -31890,6 +38801,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -31897,6 +38809,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -31905,15 +38818,19 @@ comparative
 
 
 
+ντ
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
-comparative
 
 
 
@@ -31921,26 +38838,32 @@ comparative
 
 
 
+τ
 
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -31949,6 +38872,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -31956,7 +38880,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -31965,19 +38891,25 @@ comparative
 
 
 
+α
 
 
 
 
+ο
+ο
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -31985,7 +38917,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -31998,6 +38932,7 @@ comparative
 
 
 
+α
 
 
 
@@ -32005,6 +38940,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32025,13 +38961,17 @@ comparative
 
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
+ι
 
 
 
@@ -32039,6 +38979,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32053,6 +38994,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -32065,6 +39007,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32078,16 +39021,21 @@ comparative
 
 
 
+α
+irregular
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -32098,43 +39046,63 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
+α
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
+α
 
 
 
+α
 
+α
+ο
 
 
 
 
+ο
 
+ο
 
+α
 
+α
+ο
 
 
 
+ι
 
 
+irregular
 
+α
 
 
 
@@ -32143,18 +39111,27 @@ comparative
 
 
 
+τ
 
+α
 
 
+α
+ν
 
 
 
+ν
 
+irregular
+α
 
 
 
+ι
 
 
+α
 
 
 
@@ -32163,38 +39140,51 @@ comparative
 
 
 
+τ
+α
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ς
 
 
+ο
 
+τ
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -32204,24 +39194,29 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+τ
 
 
 
+ς
 
 
 
 
+τ
 
 
 
 
 
+ς
 
 
 
@@ -32230,7 +39225,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -32239,6 +39236,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32248,6 +39246,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32256,26 +39255,33 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+κ
 
 
 
 
 
 
+α
 
+α
 
 
 
@@ -32290,6 +39296,7 @@ comparative
 
 
 
+α
 
 
 
@@ -32300,19 +39307,26 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+ι
 
 
+α
 
+ο
 
 
 
@@ -32323,25 +39337,32 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -32354,6 +39375,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32370,32 +39392,42 @@ comparative
 
 
 
+ο
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+α
 
 
+ρ
 
 
 
 
+ρ
 
 
 
 
+ο
 
+ρ
 
 
 
@@ -32409,12 +39441,16 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
@@ -32424,29 +39460,40 @@ comparative
 
 
 
+τ
 
 
+α
 
 
 
+α
+ο
 
 
+α
 
 
+τ
 
 
+τ
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -32455,7 +39502,9 @@ comparative
 
 
 
+δ
 
+ι
 
 
 
@@ -32468,8 +39517,10 @@ comparative
 
 
 
+ευ
 
 
+ο
 
 
 
@@ -32483,12 +39534,15 @@ comparative
 
 
 
+τ
 
 
 
 
 
+δ
 
+ο
 
 
 
@@ -32496,15 +39550,19 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+ι
 
+ο
 
 
 
@@ -32522,20 +39580,25 @@ comparative
 
 
 
+α
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -32548,6 +39611,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -32567,9 +39631,11 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -32577,7 +39643,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -32588,16 +39656,20 @@ comparative
 
 
 
+ο
 
 
 
+χ
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -32610,32 +39682,43 @@ comparative
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -32643,6 +39726,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -32652,10 +39736,13 @@ comparative
 
 
 
+α
 
 
+α
 
 
+α
 
 
 
@@ -32668,11 +39755,13 @@ comparative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
@@ -32681,22 +39770,29 @@ comparative
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
+α
 
 
 
@@ -32708,6 +39804,7 @@ comparative
 
 
 
+α
 
 
 
@@ -32715,6 +39812,7 @@ comparative
 
 
 
+α
 
 
 
@@ -32723,13 +39821,16 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -32743,6 +39844,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32751,6 +39853,7 @@ comparative
 
 
 
+α
 
 
 
@@ -32759,6 +39862,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32766,12 +39870,15 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
 
+ς
 
 
 
@@ -32781,10 +39888,13 @@ comparative
 
 
 
+ο
 
 
 
+irregular
 
+α
 
 
 
@@ -32801,11 +39911,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -32814,22 +39926,29 @@ comparative
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
+α
 
 
 
+α
 
 
+τ
 
+τ
 
 
+κ
 
 
 
@@ -32838,9 +39957,12 @@ comparative
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
@@ -32848,6 +39970,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32856,8 +39979,10 @@ comparative
 
 
 
+α
 
 
+υ
 
 
 
@@ -32870,6 +39995,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -32879,9 +40005,11 @@ comparative
 
 
 
+ν
 
 
 
+α
 
 
 
@@ -32890,14 +40018,18 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -32920,11 +40052,14 @@ comparative
 
 
 
+ς
 
+ο
 
 
 
 
+ρ
 
 
 
@@ -32932,6 +40067,7 @@ comparative
 
 
 
+α
 
 
 
@@ -32941,58 +40077,74 @@ comparative
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+υ
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -33002,10 +40154,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -33028,6 +40182,7 @@ comparative
 
 
 
+α
 
 
 
@@ -33042,14 +40197,18 @@ comparative
 
 
 
+α
 
+α
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -33057,17 +40216,23 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
+ο
+ο
 
 
 
+α
 
 
 
@@ -33077,29 +40242,37 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -33119,20 +40292,25 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+δ
 
 
+α
 
 
 
@@ -33141,14 +40319,18 @@ comparative
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -33157,6 +40339,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -33165,10 +40348,13 @@ comparative
 
 
 
+ο
 
 
 
+τ
 
+ο
 
 
 
@@ -33177,6 +40363,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -33187,6 +40374,7 @@ comparative
 
 
 
+α
 
 
 
@@ -33205,16 +40393,19 @@ comparative
 
 
 
+ρ
 
 
 
 
+α
 
 
 
 
 
 
+τ
 
 
 
@@ -33226,15 +40417,18 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -33243,6 +40437,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -33252,49 +40447,72 @@ comparative
 
 
 
+ρ
 
+ο
 
+ο
 
+ρ
+ρ
 
+ρ
 
+ρ
 
 
+ρ
+α
 
 
+α
 
 
+α
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ν
 
 
 
+ο
 
+ο
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
@@ -33314,11 +40532,15 @@ comparative
 
 
 
+ο
 
 
+ντ
 
 
+ο
 
+α
 
 
 
@@ -33328,16 +40550,21 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
+ρ
 
 
+ρ
 
 
 
+α
 
 
 
@@ -33348,6 +40575,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -33355,15 +40583,20 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
+τ
+ο
 
 
 
+α
 
 
 
@@ -33372,11 +40605,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -33400,6 +40635,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -33409,16 +40645,18 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
+τ
 
 
 
-comparative
 
 
 
@@ -33430,15 +40668,19 @@ comparative
 
 
 
+α
+α
 
 
 
 
 
+ν
 
 
 
 
+ο
 
 
 
@@ -33448,14 +40690,18 @@ comparative
 
 
 
+ο
 
 
+ς
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -33466,17 +40712,20 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+ς
 
 
 
@@ -33484,9 +40733,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -33501,11 +40752,17 @@ comparative
 
 
 
+α
 
 
+ο
 
 
+irregular
+τ
 
+α
+ς
 
 
 
@@ -33522,35 +40779,45 @@ comparative
 
 
 
+irregular
 
 
 
 
+irregular
 
 
+α
 
 
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
+irregular
 
 
+ο
 
 
+α
 
 
 
@@ -33564,46 +40831,60 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
+ου
 
 
 
+ο
 
 
+α
 
 
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
 
+ς
 
 
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
@@ -33616,6 +40897,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -33631,29 +40913,39 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
+ι
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
@@ -33661,13 +40953,19 @@ comparative
 
 
 
+α
 
+ο
 
 
+α
 
 
+irregular
 
 
+ο
+ο
 
 
 
@@ -33676,15 +40974,20 @@ comparative
 
 
 
+ι
 
+α
 
 
+α
 
 
+τ
 
 
 
 
+ο
 
 
 
@@ -33699,6 +41002,7 @@ comparative
 
 
 
+α
 
 
 
@@ -33713,9 +41017,11 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -33723,7 +41029,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -33746,6 +41054,7 @@ comparative
 
 
 
+υ
 
 
 
@@ -33760,12 +41069,17 @@ comparative
 
 
 
+α
+α
 
 
 
+ο
 
 
+ο
 
+ντ
 
 
 
@@ -33776,9 +41090,12 @@ comparative
 
 
 
+α
 
 
+α
 
+ο
 
 
 
@@ -33786,15 +41103,21 @@ comparative
 
 
 
+α
 
+α
 
 
+α
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
@@ -33811,8 +41134,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -33820,6 +41145,7 @@ comparative
 
 
 
+α
 
 
 
@@ -33829,10 +41155,13 @@ comparative
 
 
 
+κ
 
 
 
+ο
 
+ι
 
 
 
@@ -33854,11 +41183,16 @@ comparative
 
 
 
+α
 
 
+τ
+τ
+τ
 
 
 
+α
 
 
 
@@ -33869,12 +41203,17 @@ comparative
 
 
 
+ο
 
 
+ο
+ι
 
 
+α
 
 
+γ
 
 
 
@@ -33882,6 +41221,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -33898,6 +41238,8 @@ comparative
 
 
 
+τ
+ο
 
 
 
@@ -33905,10 +41247,15 @@ comparative
 
 
 
+ο
 
 
+ντ
 
+ο
+ο
 
+ο
 
 
 
@@ -33916,6 +41263,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -33924,14 +41272,17 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -33950,8 +41301,11 @@ comparative
 
 
 
+ο
 
+ου
 
+τ
 
 
 
@@ -33959,7 +41313,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -33971,9 +41327,11 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -33983,10 +41341,12 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -34006,12 +41366,15 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -34021,6 +41384,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -34029,11 +41393,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -34058,7 +41424,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -34066,12 +41434,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ν
 
 
 
@@ -34081,9 +41451,11 @@ comparative
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -34103,6 +41475,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -34116,15 +41489,20 @@ comparative
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -34132,9 +41510,12 @@ comparative
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
@@ -34153,9 +41534,11 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -34167,6 +41550,8 @@ comparative
 
 
 
+ς
+ου
 
 
 
@@ -34181,6 +41566,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -34191,22 +41577,29 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+υ
 
+α
 
+ι
 
 
 
@@ -34221,21 +41614,28 @@ comparative
 
 
 
+ο
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
@@ -34243,21 +41643,25 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -34273,30 +41677,39 @@ comparative
 
 
 
+ρ
 
 
 
+ρ
 
 
+irregular
 
 
+ο
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -34306,25 +41719,30 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -34339,19 +41757,22 @@ comparative
 
 
 
+ο
 
 
 
-superlative
 
 
 
 
 
+ευ
 
 
+ευ
 
 
+ο
 
 
 
@@ -34361,10 +41782,12 @@ superlative
 
 
 
+δ
 
 
 
 
+δ
 
 
 
@@ -34375,10 +41798,12 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -34395,21 +41820,26 @@ superlative
 
 
 
+α
 
 
 
+τ
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
+α
 
 
 
@@ -34417,6 +41847,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -34425,6 +41856,7 @@ superlative
 
 
 
+α
 
 
 
@@ -34434,8 +41866,10 @@ superlative
 
 
 
+ο
 
 
+ευ
 
 
 
@@ -34449,13 +41883,16 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -34475,7 +41912,6 @@ superlative
 
 
 
-superlative
 
 
 
@@ -34483,17 +41919,20 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ν
 
 
 
@@ -34501,6 +41940,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -34508,8 +41948,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -34522,19 +41964,26 @@ superlative
 
 
 
+α
 
+α
 
 
+irregular
+α
 
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -34545,62 +41994,79 @@ superlative
 
 
 
+ο
 
+ν
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ρ
+ρ
 
 
 
 
+ς
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -34609,9 +42075,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -34622,25 +42090,32 @@ superlative
 
 
 
+α
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -34653,23 +42128,29 @@ superlative
 
 
 
+ρ
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ρ
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -34677,6 +42158,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -34686,11 +42168,11 @@ superlative
 
 
 
-comparative
 
 
 
 
+ρ
 
 
 
@@ -34700,6 +42182,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -34708,6 +42191,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -34715,10 +42199,13 @@ comparative
 
 
 
+ο
 
+ρ
 
 
 
+ο
 
 
 
@@ -34726,15 +42213,19 @@ comparative
 
 
 
+ο
 
 
 
 
+ρ
 
 
+ο
 
 
 
+α
 
 
 
@@ -34742,15 +42233,20 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
+τ
 
 
+δ
 
 
 
+ο
 
 
 
@@ -34760,6 +42256,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -34775,21 +42272,27 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
 
+α
 
+ο
 
 
 
 
+δ
 
 
 
@@ -34801,13 +42304,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
+ο
 
 
 
@@ -34822,6 +42328,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -34831,18 +42338,22 @@ comparative
 
 
 
+ρ
 
 
+ς
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -34852,22 +42363,27 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -34886,6 +42402,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -34901,11 +42418,14 @@ comparative
 
 
 
+α
+ο
 
 
 
 
 
+ο
 
 
 
@@ -34927,7 +42447,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -34939,13 +42461,16 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -34961,17 +42486,21 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -34979,11 +42508,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
+ο
 
 
 
@@ -34991,6 +42523,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -35007,32 +42540,43 @@ comparative
 
 
 
+ο
+ο
 
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
+ο
 
+α
 
 
 
 
 
+ο
 
+ν
 
 
 
 
+ο
 
+τ
 
 
+α
 
 
 
@@ -35045,7 +42589,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -35054,6 +42600,7 @@ comparative
 
 
 
+α
 
 
 
@@ -35078,6 +42625,7 @@ comparative
 
 
 
+α
 
 
 
@@ -35100,8 +42648,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -35119,16 +42669,18 @@ comparative
 
 
 
-comparative
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -35143,29 +42695,37 @@ comparative
 
 
 
-comparative
 
+ο
 
 
+ο
 
 
+α
 
 
 
-comparative
 
+ο
 
+τ
 
 
+ο
 
-comparative
+ο
 
 
+α
 
+α
 
 
 
+α
 
+ο
 
 
 
@@ -35176,17 +42736,22 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
+α
 
 
 
 
 
+irregular
 
 
 
@@ -35196,24 +42761,32 @@ comparative
 
 
 
+irregular
 
 
+ο
 
 
 
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
+τ
+ο
 
 
 
+ν
 
 
 
@@ -35224,14 +42797,17 @@ comparative
 
 
 
+α
 
 
 
 
 
+ν
 
 
 
+ς
 
 
 
@@ -35243,8 +42819,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -35256,45 +42834,58 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
+ρ
 
 
 
+α
 
 
 
 
 
+γ
 
 
 
 
+ο
 
 
 
@@ -35303,8 +42894,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -35323,6 +42916,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -35344,16 +42938,20 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+ο
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -35364,20 +42962,25 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
+υ
 
 
+α
 
 
 
 
 
 
+ρ
 
 
 
@@ -35392,8 +42995,10 @@ comparative
 
 
 
+υ
 
 
+α
 
 
 
@@ -35407,32 +43012,35 @@ comparative
 
 
 
-comparative
+α
 
 
 
 
 
+ο
 
 
 
 
-comparative
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -35445,6 +43053,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -35457,6 +43066,7 @@ comparative
 
 
 
+α
 
 
 
@@ -35472,24 +43082,33 @@ comparative
 
 
 
+ο
 
+ο
 
 
+ι
 
 
 
+ο
 
 
+ι
 
+ο
+ι
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -35498,6 +43117,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -35506,6 +43126,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -35535,7 +43156,9 @@ comparative
 
 
 
+ι
 
+ο
 
 
 
@@ -35551,6 +43174,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -35563,27 +43187,35 @@ comparative
 
 
 
+τ
 
 
 
 
 
+α
 
+α
 
 
 
 
 
+α
 
 
 
+irregular
 
 
 
 
 
 
+α
 
+irregular
+α
 
 
 
@@ -35594,6 +43226,7 @@ comparative
 
 
 
+ευ
 
 
 
@@ -35610,23 +43243,29 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
+δ
 
 
 
 
 
 
+α
 
 
 
+irregular
 
 
 
@@ -35640,7 +43279,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -35652,6 +43293,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -35659,10 +43301,13 @@ comparative
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
@@ -35670,8 +43315,11 @@ comparative
 
 
 
+α
 
+ο
 
+ι
 
 
 
@@ -35681,7 +43329,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -35689,13 +43339,18 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
+α
 
+ο
 
+ο
 
 
 
@@ -35714,21 +43369,27 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
@@ -35740,33 +43401,41 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -35775,6 +43444,7 @@ comparative
 
 
 
+α
 
 
 
@@ -35784,12 +43454,17 @@ comparative
 
 
 
+α
 
 
 
+τ
 
+ρ
 
+ο
 
+ο
 
 
 
@@ -35798,21 +43473,28 @@ comparative
 
 
 
+α
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
+τ
 
 
+ς
 
 
 
+α
 
 
 
@@ -35820,6 +43502,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -35828,11 +43511,13 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
@@ -35847,9 +43532,11 @@ comparative
 
 
 
+irregular
 
 
 
+α
 
 
 
@@ -35876,18 +43563,22 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -35899,20 +43590,26 @@ comparative
 
 
 
+α
 
 
 
 
+ι
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ι
 
 
 
@@ -35923,11 +43620,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -35937,46 +43636,58 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ς
 
 
 
 
 
 
+ο
 
 
 
+α
 
+α
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
 
+α
 
+irregular
 
 
 
@@ -35986,17 +43697,23 @@ comparative
 
 
 
+ι
 
 
+ς
 
 
+ο
 
+ο
 
 
 
 
+ι
 
 
+α
 
 
 
@@ -36014,24 +43731,31 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -36041,37 +43765,46 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ς
 
 
 
+ο
 
 
 
@@ -36083,6 +43816,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -36102,22 +43836,25 @@ comparative
 
 
 
+ς
 
 
 
 
 
 
+α
 
-superlative
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
@@ -36130,7 +43867,9 @@ superlative
 
 
 
+α
 
+ο
 
 
 
@@ -36139,8 +43878,11 @@ superlative
 
 
 
+α
 
+ο
 
+ο
 
 
 
@@ -36150,16 +43892,20 @@ superlative
 
 
 
+ντ
 
+ο
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
@@ -36170,7 +43916,9 @@ superlative
 
 
 
+ο
 
+α
 
 
 
@@ -36182,9 +43930,11 @@ superlative
 
 
 
+ρ
 
 
 
+ρ
 
 
 
@@ -36192,9 +43942,11 @@ superlative
 
 
 
+τ
 
 
 
+irregular
 
 
 
@@ -36210,8 +43962,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -36230,27 +43984,35 @@ superlative
 
 
 
+irregular
 
 
 
 
 
+τ
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
+τ
 
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -36266,13 +44028,16 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -36292,13 +44057,20 @@ superlative
 
 
 
+α
 
+irregular
 
+ο
 
+ευ
 
+ο
 
 
+α
 
+ο
 
 
 
@@ -36306,12 +44078,15 @@ superlative
 
 
 
+ο
 
 
 
 
+ν
 
 
+α
 
 
 
@@ -36323,6 +44098,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -36330,11 +44106,15 @@ superlative
 
 
 
+α
 
+ο
 
+ο
 
 
 
+ς
 
 
 
@@ -36347,6 +44127,7 @@ superlative
 
 
 
+α
 
 
 
@@ -36358,6 +44139,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -36380,9 +44162,11 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -36392,11 +44176,15 @@ superlative
 
 
 
+irregular
 
+ο
 
 
 
 
+irregular
+ο
 
 
 
@@ -36412,12 +44200,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
@@ -36435,14 +44225,17 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
+ι
 
 
 
@@ -36454,12 +44247,16 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -36467,10 +44264,14 @@ superlative
 
 
 
+irregular
+τ
 
+ο
 
 
 
+ο
 
 
 
@@ -36478,6 +44279,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -36485,8 +44287,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -36496,6 +44300,7 @@ superlative
 
 
 
+α
 
 
 
@@ -36508,17 +44313,21 @@ superlative
 
 
 
+ο
 
 
+irregular
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -36538,19 +44347,23 @@ superlative
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -36566,20 +44379,26 @@ superlative
 
 
 
+irregular
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -36591,10 +44410,12 @@ superlative
 
 
 
+α
 
 
 
 
+τ
 
 
 
@@ -36603,26 +44424,33 @@ superlative
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -36633,11 +44461,13 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -36655,15 +44485,18 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -36674,33 +44507,42 @@ superlative
 
 
 
+ο
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ι
 
 
 
 
 
 
+α
 
+ο
 
 
+α
 
 
 
@@ -36710,22 +44552,27 @@ superlative
 
 
 
+ι
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -36741,13 +44588,16 @@ superlative
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -36766,10 +44616,13 @@ superlative
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
@@ -36781,17 +44634,21 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -36834,6 +44691,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -36841,28 +44699,34 @@ superlative
 
 
 
+α
 
 
+ς
 
 
+α
 
 
 
+α
 
 
-comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -36880,7 +44744,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -36894,82 +44760,111 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+α
 
 
 
 
 
 
+irregular
 
 
 
 
+ο
 
 
+ο
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ι
 
+ς
 
+α
 
 
 
+ς
 
+α
 
 
 
+ο
+α
 
 
 
 
 
+ι
 
 
 
 
 
+ευ
 
+τ
+ο
 
+ο
+α
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
@@ -36980,12 +44875,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
@@ -36995,19 +44892,22 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
-comparative
+α
 
 
 
@@ -37015,6 +44915,7 @@ comparative
 
 
 
+κ
 
 
 
@@ -37028,13 +44929,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -37042,12 +44946,15 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -37058,22 +44965,31 @@ comparative
 
 
 
+ο
 
+ο
+α
 
 
 
 
+ο
+α
 
 
 
 
 
+α
 
 
+ο
 
 
+ευ
 
 
+ευ
 
 
 
@@ -37081,6 +44997,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -37088,6 +45005,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -37098,17 +45016,22 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
 
+ευ
 
 
+ευ
 
 
 
@@ -37121,6 +45044,7 @@ comparative
 
 
 
+α
 
 
 
@@ -37130,6 +45054,7 @@ comparative
 
 
 
+α
 
 
 
@@ -37139,14 +45064,19 @@ comparative
 
 
 
+ο
 
 
 
 
+τ
+α
 
+ο
 
 
 
+ο
 
 
 
@@ -37157,6 +45087,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -37167,13 +45098,17 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
+α
 
 
 
@@ -37182,6 +45117,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -37190,34 +45126,47 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+α
 
+ο
 
+ν
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+ο
+ο
 
 
 
+ο
 
+ν
 
 
 
 
+ο
 
 
 
@@ -37226,6 +45175,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -37247,11 +45197,14 @@ comparative
 
 
 
+ο
 
+ν
 
 
 
 
+ο
 
 
 
@@ -37262,6 +45215,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -37269,32 +45223,39 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ν
 
 
 
 
 
 
+ο
 
+ν
 
 
 
 
+ο
 
 
 
 
+ν
 
 
 
@@ -37312,6 +45273,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -37319,12 +45281,15 @@ comparative
 
 
 
+α
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -37336,18 +45301,23 @@ comparative
 
 
 
+ευ
 
 
+ευ
 
 
 
 
+ρ
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -37355,6 +45325,7 @@ comparative
 
 
 
+α
 
 
 
@@ -37367,17 +45338,22 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
+α
 
+ν
 
 
 
 
+ο
 
 
 
@@ -37387,13 +45363,19 @@ comparative
 
 
 
+ο
 
 
+α
 
+ο
 
+ο
 
 
 
+ρ
+ο
 
 
 
@@ -37401,17 +45383,22 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ν
 
+α
 
 
 
+ρ
 
 
 
@@ -37420,40 +45407,53 @@ comparative
 
 
 
+ρ
+ρ
 
 
 
+ο
 
+ο
 
 
 
 
 
+τ
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
 
+ο
 
 
+ι
 
 
 
 
 
+ο
+υ
 
 
 
 
+ο
 
 
+irregular
 
 
 
@@ -37461,19 +45461,25 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
+τ
 
+ο
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
@@ -37490,32 +45496,40 @@ comparative
 
 
 
-comparative
 
+ο
 
 
 
 
 
+irregular
 
 
+irregular
 
 
 
+ι
 
 
 
+irregular
 
 
 
 
 
+irregular
 
 
 
 
+irregular
 
+ο
 
+ν
 
 
 
@@ -37524,16 +45538,17 @@ comparative
 
 
 
+ν
 
 
 
 
+ι
 
 
 
 
 
-comparative
 
 
 
@@ -37545,8 +45560,12 @@ comparative
 
 
 
+ο
 
+ο
 
+ι
+ο
 
 
 
@@ -37554,17 +45573,24 @@ comparative
 
 
 
+υ
 
 
 
+ο
 
 
+ο
 
+ο
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -37579,7 +45605,9 @@ comparative
 
 
 
+ευ
 
+ο
 
 
 
@@ -37595,15 +45623,21 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
+ο
 
+ο
 
+ο
 
 
 
@@ -37615,49 +45649,67 @@ comparative
 
 
 
+ο
 
+δ
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
+ευ
 
 
 
 
+α
 
 
+ο
 
 
+α
 
+α
 
 
+α
 
+α
 
 
+ο
 
 
 
+α
 
+ο
 
+ι
 
 
 
 
 
+τ
 
 
 
@@ -37665,15 +45717,19 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -37682,6 +45738,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -37698,14 +45755,16 @@ comparative
 
 
 
+ο
 
 
 
 
+τ
 
 
 
-superlative
+ο
 
 
 
@@ -37714,20 +45773,26 @@ superlative
 
 
 
+ο
 
+ο
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
@@ -37735,14 +45800,15 @@ superlative
 
 
 
+ο
 
-superlative
 
 
 
 
 
 
+ο
 
 
 
@@ -37758,12 +45824,14 @@ superlative
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
@@ -37772,7 +45840,9 @@ superlative
 
 
 
+ο
 
+α
 
 
 
@@ -37784,22 +45854,34 @@ superlative
 
 
 
+ς
 
 
 
 
+ς
 
+ς
 
+α
 
+α
+ο
 
 
 
 
+ο
+ο
 
+ο
 
+ο
 
 
 
+ο
+ο
 
 
 
@@ -37810,26 +45892,34 @@ superlative
 
 
 
+ρ
 
 
 
 
 
 
+α
 
+α
 
 
+ευ
 
+ν
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -37838,7 +45928,9 @@ superlative
 
 
 
+τ
 
+α
 
 
 
@@ -37847,14 +45939,15 @@ superlative
 
 
 
-superlative
 
 
 
 
 
 
+ευ
 
+ο
 
 
 
@@ -37870,38 +45963,48 @@ superlative
 
 
 
+τ
 
 
+χ
 
 
+α
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+ο
+τ
 
 
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
+ς
 
 
 
@@ -37912,11 +46015,14 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
+ι
 
 
 
@@ -37927,6 +46033,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -37934,58 +46041,91 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
+α
 
+α
 
+ο
 
 
 
+τ
+α
 
 
 
 
+ς
 
 
+τ
 
 
 
+ς
 
 
 
+ο
+ς
 
 
+ο
 
+ο
 
+α
 
+ο
 
 
 
+α
+α
+ς
 
+α
+ο
+α
 
+ο
 
+ο
 
+ο
 
+α
 
 
 
+α
 
-comparative
 
+ι
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
+α
 
+ι
 
+α
 
 
 
@@ -37995,22 +46135,26 @@ comparative
 
 
 
+α
 
 
 
 
+ι
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
-comparative
 
 
 
@@ -38020,6 +46164,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -38033,7 +46178,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -38042,17 +46189,21 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
@@ -38065,9 +46216,13 @@ comparative
 
 
 
+α
 
+α
 
+α
 
+α
 
 
 
@@ -38075,8 +46230,10 @@ comparative
 
 
 
+α
 
 
+δ
 
 
 
@@ -38084,12 +46241,15 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -38103,34 +46263,44 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
+irregular
 
 
 
 
+ς
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -38139,8 +46309,10 @@ comparative
 
 
 
+ευ
 
 
+ευ
 
 
 
@@ -38148,21 +46320,28 @@ comparative
 
 
 
+ο
 
 
+α
 
+α
 
 
+non-declinable
 
 
 
+ο
 
 
 
 
 
 
+ευ
 
+ο
 
 
 
@@ -38173,19 +46352,23 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -38195,7 +46378,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -38220,36 +46405,47 @@ comparative
 
 
 
+ι
 
 
+ο
+ο
+ρ
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
+α
 
 
 
+ο
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -38268,15 +46464,18 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -38302,9 +46501,12 @@ comparative
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
@@ -38324,14 +46526,19 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
 
@@ -38341,6 +46548,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -38351,8 +46559,10 @@ comparative
 
 
 
+ι
 
 
+ο
 
 
 
@@ -38360,10 +46570,13 @@ comparative
 
 
 
+ο
 
 
+α
 
 
+τ
 
 
 
@@ -38372,6 +46585,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -38379,10 +46593,13 @@ comparative
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
@@ -38390,6 +46607,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -38413,6 +46631,7 @@ comparative
 
 
 
+α
 
 
 
@@ -38426,13 +46645,16 @@ comparative
 
 
 
+ευ
 
+ς
 
 
 
 
 
 
+α
 
 
 
@@ -38482,6 +46704,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -38490,33 +46713,43 @@ comparative
 
 
 
+ρ
 
+α
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
+ν
+ν
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -38526,6 +46759,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -38533,28 +46767,34 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -38568,8 +46808,11 @@ comparative
 
 
 
+ο
 
+α
 
+τ
 
 
 
@@ -38584,18 +46827,22 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -38617,11 +46864,14 @@ comparative
 
 
 
+ς
 
 
 
 
+ο
 
+α
 
 
 
@@ -38635,45 +46885,57 @@ comparative
 
 
 
+ς
 
 
+ς
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
+α
 
 
 
+τ
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
@@ -38682,34 +46944,44 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+τ
 
 
+ο
+τ
 
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -38721,13 +46993,16 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -38736,13 +47011,19 @@ comparative
 
 
 
+irregular
 
 
+irregular
 
 
 
+α
+τ
 
+ο
 
+ο
 
 
 
@@ -38752,9 +47033,11 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -38762,16 +47045,20 @@ comparative
 
 
 
+ευ
 
+ο
 
 
 
+τ
 
 
 
 
 
 
+irregular
 
 
 
@@ -38779,34 +47066,45 @@ comparative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
 
+ευ
 
+ο
 
+ο
 
 
 
 
+α
 
 
+α
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -38814,9 +47112,12 @@ comparative
 
 
 
+α
 
 
+α
 
+ς
 
 
 
@@ -38825,29 +47126,37 @@ comparative
 
 
 
+α
 
+ευ
 
 
+ο
 
 
 
 
+ρ
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
@@ -38864,6 +47173,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -38878,18 +47188,22 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -38897,10 +47211,13 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
+ο
 
 
 
@@ -38911,22 +47228,28 @@ comparative
 
 
 
+ρ
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
-comparative
+ρ
 
 
 
@@ -38939,6 +47262,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -38966,22 +47290,29 @@ comparative
 
 
 
+α
 
 
+ο
 
+ο
+ευ
 
 
+ευ
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -38995,7 +47326,6 @@ comparative
 
 
 
-comparative
 
 
 
@@ -39005,15 +47335,17 @@ comparative
 
 
 
-superlative
 
+ο
 
+ο
 
 
 
-superlative
 
+ι
 
+ο
 
 
 
@@ -39021,7 +47353,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -39038,21 +47372,26 @@ superlative
 
 
 
+α
+α
 
 
 
 
 
+τ
 
 
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
@@ -39062,22 +47401,29 @@ superlative
 
 
 
+ς
 
 
 
+ο
+ρ
 
 
 
 
+ο
+ευ
 
 
 
+ο
 
 
 
 
 
 
+ευ
 
 
 
@@ -39089,16 +47435,20 @@ superlative
 
 
 
+ο
 
 
 
+ευ
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -39107,50 +47457,62 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
-comparative
 
 
+ο
+ο
 
 
 
 
 
 
+α
+α
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
+α
 
 
+α
 
 
-comparative
+irregular
 
 
 
 
 
 
+ο
 
 
 
@@ -39162,6 +47524,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -39170,6 +47533,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -39179,8 +47543,10 @@ comparative
 
 
 
+ευ
 
 
+ευ
 
 
 
@@ -39188,51 +47554,65 @@ comparative
 
 
 
+α
 
 
+τ
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ευ
 
 
+ντ
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -39243,6 +47623,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -39251,7 +47632,7 @@ comparative
 
 
 
-superlative
+α
 
 
 
@@ -39261,6 +47642,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -39278,25 +47660,32 @@ superlative
 
 
 
+α
 
 
 
+ι
 
 
 
 
+ι
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
@@ -39317,6 +47706,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -39327,6 +47717,7 @@ superlative
 
 
 
+α
 
 
 
@@ -39334,47 +47725,62 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
+τ
 
 
-superlative
 
 
 
+ι
 
+ο
 
 
+α
 
 
 
 
+irregular
 
 
+τ
 
 
 
 
 
 
+ν
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
+ς
 
+ο
 
+irregular
 
 
 
@@ -39384,7 +47790,10 @@ superlative
 
 
 
+irregular
 
+ρ
+τ
 
 
 
@@ -39396,21 +47805,26 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -39418,17 +47832,20 @@ superlative
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -39450,8 +47867,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -39468,7 +47887,9 @@ superlative
 
 
 
+irregular
 
+ρ
 
 
 
@@ -39479,16 +47900,20 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ντ
 
 
 
@@ -39498,7 +47923,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -39506,7 +47933,9 @@ superlative
 
 
 
+α
 
+ς
 
 
 
@@ -39515,6 +47944,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -39522,12 +47952,13 @@ superlative
 
 
 
+α
 
 
 
+ευ
 
 
-comparative
 
 
 
@@ -39540,6 +47971,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -39552,14 +47984,15 @@ comparative
 
 
 
-superlative
 
 
 
+ο
 
 
 
 
+τ
 
 
 
@@ -39577,12 +48010,14 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+α
 
 
 
@@ -39596,35 +48031,47 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
+ς
 
 
 
 
+α
 
+α
 
 
+ο
 
 
 
 
+τ
 
+ο
 
 
 
-comparative
+α
 
 
+irregular
 
+ρ
 
+ρ
 
 
 
+τ
 
 
 
@@ -39633,13 +48080,16 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -39647,14 +48097,17 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+ς
 
 
 
@@ -39665,17 +48118,23 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
 
+irregular
+τ
 
+α
 
+irregular
 
 
 
@@ -39684,30 +48143,41 @@ comparative
 
 
 
+α
 
 
+ι
 
 
+α
+ι
 
 
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
+τ
 
+irregular
 
 
 
 
+ν
 
 
 
 
+τ
 
 
 
@@ -39716,58 +48186,78 @@ comparative
 
 
 
+α
 
+α
 
+ο
 
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
+τ
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
+ο
 
 
 
+τ
 
 
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+τ
 
+ο
+irregular
 
 
 
@@ -39778,10 +48268,12 @@ comparative
 
 
 
+irregular
 
 
 
 
+τ
 
 
 
@@ -39790,8 +48282,10 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
@@ -39815,28 +48309,36 @@ comparative
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
 
+ρ
+ο
 
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -39849,39 +48351,49 @@ comparative
 
 
 
+α
+α
 
+α
 
+α
 
+ο
 
 
 
-comparative
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+τ
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -39898,13 +48410,18 @@ comparative
 
 
 
+α
 
 
 
+α
 
+ο
 
 
+τ
 
+τ
 
 
 
@@ -39926,24 +48443,26 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
 
 
 
-comparative
 
 
 
 
 
 
+ο
 
 
 
@@ -39956,12 +48475,15 @@ comparative
 
 
 
+τ
+α
 
 
 
 
 
 
+τ
 
 
 
@@ -39971,6 +48493,7 @@ comparative
 
 
 
+α
 
 
 
@@ -39982,28 +48505,38 @@ comparative
 
 
 
+irregular
 
 
 
 
-superlative
+irregular
+α
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ευ
 
 
+ντ
 
 
+τ
+ο
 
 
 
@@ -40026,6 +48559,7 @@ superlative
 
 
 
+α
 
 
 
@@ -40033,6 +48567,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -40042,14 +48577,18 @@ superlative
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
+α
+ο
 
 
 
@@ -40063,12 +48602,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
@@ -40084,6 +48625,7 @@ superlative
 
 
 
+α
 
 
 
@@ -40091,28 +48633,34 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+υ
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -40120,6 +48668,7 @@ superlative
 
 
 
+α
 
 
 
@@ -40136,11 +48685,13 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -40157,6 +48708,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -40166,6 +48718,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -40181,6 +48734,7 @@ superlative
 
 
 
+α
 
 
 
@@ -40191,16 +48745,20 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
+τ
 
 
 
@@ -40215,21 +48773,26 @@ superlative
 
 
 
+ο
 
 
+ν
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ι
 
+ο
 
 
 
@@ -40242,6 +48805,7 @@ superlative
 
 
 
+α
 
 
 
@@ -40249,6 +48813,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -40259,15 +48824,19 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
+ρ
 
 
 
+δ
 
 
 
@@ -40278,7 +48847,10 @@ superlative
 
 
 
+τ
+κ
 
+ο
 
 
 
@@ -40291,14 +48863,17 @@ superlative
 
 
 
+ρ
 
 
+δ
 
 
 
 
 
 
+α
 
 
 
@@ -40311,7 +48886,9 @@ superlative
 
 
 
+υ
 
+ς
 
 
 
@@ -40323,6 +48900,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -40340,18 +48918,24 @@ superlative
 
 
 
+ο
+υ
 
 
+α
 
+ο
 
 
 
 
 
 
+ου
 
 
 
+α
 
 
 
@@ -40360,52 +48944,67 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+τ
 
+α
 
+ι
+α
 
 
 
+ς
 
 
+τ
 
+ρ
 
 
 
 
 
 
+α
 
+ρ
 
 
 
 
 
-comparative
 
 
 
+ι
 
 
 
 
+ς
+ι
 
 
 
 
 
+α
 
 
 
+ρ
 
 
 
@@ -40423,13 +49022,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+τ
 
+α
 
 
 
@@ -40437,24 +49039,34 @@ comparative
 
 
 
+ο
 
 
+ο
 
+α
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
@@ -40469,33 +49081,46 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
+τ
 
+ο
 
 
+τ
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
+τ
 
+α
 
 
 
+α
 
 
 
 
+τ
 
 
 
@@ -40505,31 +49130,39 @@ comparative
 
 
 
+τ
 
 
 
 
 
+τ
 
 
+τ
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -40549,24 +49182,36 @@ comparative
 
 
 
+α
+ο
+ο
 
 
 
 
 
+τ
 
 
 
 
+τ
 
 
+τ
+κ
 
 
+τ
+irregular
 
 
+ο
 
 
 
+ο
+κ
 
 
 
@@ -40574,14 +49219,19 @@ comparative
 
 
 
-superlative
 
+α
 
+α
 
 
 
+ρ
 
+ι
 
+α
+α
 
 
 
@@ -40606,37 +49256,52 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ι
 
+ι
 
 
+ο
 
+υ
 
 
+ι
 
 
+α
 
+irregular
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
+ρ
 
 
 
 
 
 
+α
 
+α
 
 
 
@@ -40644,7 +49309,10 @@ superlative
 
 
 
+τ
+ευ
 
+α
 
 
 
@@ -40663,18 +49331,21 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+δ
 
 
 
 
 
 
+α
 
 
 
@@ -40686,6 +49357,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -40696,20 +49368,26 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
+ο
 
 
+α
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -40724,16 +49402,21 @@ superlative
 
 
 
+ο
 
+δ
 
 
+α
 
 
 
+α
 
 
 
 
+ρ
 
 
 
@@ -40754,20 +49437,26 @@ superlative
 
 
 
+ντ
 
+τ
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
@@ -40775,11 +49464,15 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+α
 
+ο
 
 
 
@@ -40789,6 +49482,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -40811,16 +49505,21 @@ superlative
 
 
 
+ρ
 
 
 
+α
 
 
 
 
+τ
 
 
+α
 
+ο
 
 
 
@@ -40835,6 +49534,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -40843,6 +49543,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -40853,6 +49554,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -40862,37 +49564,47 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
+irregular
 
 
 
@@ -40909,6 +49621,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -40927,12 +49640,18 @@ superlative
 
 
 
+α
 
+α
 
 
 
 
+α
 
+ο
+ν
+ο
 
 
 
@@ -40940,6 +49659,7 @@ superlative
 
 
 
+α
 
 
 
@@ -40947,54 +49667,73 @@ superlative
 
 
 
+ο
 
 
+ν
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
+irregular
 
 
 
+ν
 
+ο
+α
 
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
 
+ι
+α
 
+ο
 
+ο
 
 
 
@@ -41002,11 +49741,16 @@ superlative
 
 
 
+υ
 
 
+ο
 
 
+α
 
+irregular
+ο
 
 
 
@@ -41025,10 +49769,12 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -41040,8 +49786,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -41051,16 +49799,19 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -41070,12 +49821,16 @@ superlative
 
 
 
+ο
 
+ο
 
+ευ
 
 
 
 
+irregular
 
 
 
@@ -41087,6 +49842,7 @@ superlative
 
 
 
+α
 
 
 
@@ -41100,67 +49856,85 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
+α
 
 
 
-superlative
+ρ
 
+irregular
 
-superlative
 
 
-superlative
 
 
-superlative
+irregular
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
+ρ
 
+irregular
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
+irregular
 
 
 
+α
 
 
 
+ρ
 
 
+ο
 
 
 
@@ -41171,22 +49945,28 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
+α
+ρ
 
 
 
@@ -41200,6 +49980,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -41207,7 +49988,10 @@ superlative
 
 
 
+ο
 
+ρ
+ο
 
 
 
@@ -41216,20 +50000,26 @@ superlative
 
 
 
+ο
 
 
 
 
+ρ
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -41240,24 +50030,31 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
+irregular
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -41267,17 +50064,21 @@ superlative
 
 
 
+ρ
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -41288,39 +50089,55 @@ superlative
 
 
 
+τ
 
+irregular
 
 
 
 
+ο
 
 
+ου
 
+ο
 
+α
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
+ου
 
 
+α
 
 
+τ
 
 
+α
 
 
 
 
+α
 
 
 
@@ -41329,63 +50146,72 @@ superlative
 
 
 
+ο
 
+ρ
 
-superlative
+ο
+ο
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
-superlative
 
 
-comparative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
-superlative
 
 
 
 
+ς
 
 
+ο
 
 
 
-superlative
 
 
+α
 
 
 
@@ -41393,9 +50219,10 @@ superlative
 
 
 
+ο
 
+τ
 
-comparative
 
 
 
@@ -41403,6 +50230,7 @@ comparative
 
 
 
+α
 
 
 
@@ -41410,33 +50238,41 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
+irregular
 
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -41449,12 +50285,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -41462,17 +50300,24 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+ο
+ο
+τ
 
+ντ
 
 
 
 
 
 
+irregular
 
 
 
@@ -41480,12 +50325,15 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -41494,9 +50342,11 @@ comparative
 
 
 
+ο
 
 
 
+irregular
 
 
 
@@ -41513,27 +50363,34 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
+ο
 
+ντ
 
 
 
 
 
+α
 
+ρ
 
 
 
 
-superlative
 
 
+irregular
 
 
 
@@ -41543,23 +50400,31 @@ superlative
 
 
 
+ρ
 
+τ
 
 
 
 
 
+α
 
+ο
 
 
 
 
+κ
+κ
 
 
 
 
 
 
+τ
+τ
 
 
 
@@ -41571,11 +50436,13 @@ superlative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
@@ -41593,7 +50460,9 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
@@ -41602,12 +50471,14 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
@@ -41628,6 +50499,7 @@ superlative
 
 
 
+α
 
 
 
@@ -41651,18 +50523,24 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
+υ
 
 
+ι
 
 
 
@@ -41670,7 +50548,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -41678,14 +50558,18 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
@@ -41699,21 +50583,27 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -41728,35 +50618,44 @@ superlative
 
 
 
-superlative
 
 
 
 
+τ
 
 
+ο
 
+ο
 
 
 
 
+ι
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
 
+ς
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -41764,42 +50663,51 @@ superlative
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
 
+ο
 
 
-superlative
 
 
 
+α
 
 
 
+τ
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
+α
 
 
 
 
+α
 
 
 
@@ -41810,6 +50718,7 @@ superlative
 
 
 
+α
 
 
 
@@ -41817,6 +50726,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -41830,17 +50740,24 @@ superlative
 
 
 
+α
+α
 
 
+ι
 
 
+α
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -41851,6 +50768,7 @@ superlative
 
 
 
+α
 
 
 
@@ -41863,10 +50781,12 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -41876,6 +50796,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -41886,6 +50807,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -41895,23 +50817,30 @@ superlative
 
 
 
+α
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
@@ -41931,16 +50860,20 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -41953,6 +50886,7 @@ superlative
 
 
 
+α
 
 
 
@@ -41960,47 +50894,63 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+τ
 
+ο
 
 
 
 
+ο
 
 
+τ
 
+ρ
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
+α
 
 
+α
 
+ο
 
 
 
@@ -42008,91 +50958,117 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
+irregular
 
+α
 
 
 
 
+α
 
+irregular
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
-comparative
 
+α
 
 
 
 
 
 
+α
 
 
 
+ι
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+α
 
-comparative
 
 
 
+irregular
 
 
 
+α
 
 
 
 
+α
+α
 
 
 
 
+irregular
 
 
+α
 
+ρ
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
 
+ι
 
+α
 
 
 
 
 
+irregular
 
+ι
 
 
 
@@ -42101,19 +51077,25 @@ comparative
 
 
 
+irregular
+ι
 
 
 
 
 
+α
 
+irregular
 
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -42131,19 +51113,24 @@ comparative
 
 
 
+ρ
 
 
 
+ο
 
+τ
 
 
 
+τ
 
 
 
 
 
 
+ρ
 
 
 
@@ -42151,12 +51138,14 @@ comparative
 
 
 
+ρ
 
 
 
 
 
 
+τ
 
 
 
@@ -42164,11 +51153,14 @@ comparative
 
 
 
+ο
 
 
 
+τ
 
 
+irregular
 
 
 
@@ -42177,6 +51169,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -42186,6 +51179,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -42195,25 +51189,33 @@ comparative
 
 
 
+ν
 
 
+ρ
 
 
 
 
 
 
+α
+ρ
 
 
+α
 
 
 
 
 
+irregular
+ο
 
 
 
 
+ρ
 
 
 
@@ -42226,27 +51228,32 @@ comparative
 
 
 
+irregular
 
-superlative
 
 
 
 
 
+irregular
 
 
 
 
+irregular
 
 
 
+irregular
 
 
 
+irregular
 
 
 
 
+irregular
 
 
 
@@ -42255,49 +51262,62 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+irregular
+ο
 
 
+α
 
 
 
+ρ
 
 
 
+ς
 
 
 
 
 
 
-comparative
 
+τ
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
+irregular
 
 
+α
 
 
 
 
+ς
 
 
 
+τ
 
 
+ρ
 
 
 
@@ -42309,46 +51329,60 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ρ
 
+τ
 
+α
 
 
 
+ρ
 
 
 
 
 
+τ
 
+ο
 
 
 
 
+τ
 
+α
 
 
 
 
 
+irregular
 
 
+α
 
 
 
+ο
 
 
 
@@ -42358,6 +51392,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -42368,11 +51403,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
@@ -42387,17 +51424,22 @@ comparative
 
 
 
+α
 
 
+irregular
 
 
 
 
+ι
 
 
 
+ο
 
 
+ο
 
 
 
@@ -42408,9 +51450,11 @@ comparative
 
 
 
+ο
 
 
 
+ι
 
 
 
@@ -42421,6 +51465,7 @@ comparative
 
 
 
+α
 
 
 
@@ -42429,6 +51474,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -42438,6 +51484,7 @@ comparative
 
 
 
+α
 
 
 
@@ -42448,11 +51495,14 @@ comparative
 
 
 
+irregular
 
+τ
 
 
 
 
+τ
 
 
 
@@ -42460,6 +51510,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -42469,27 +51520,34 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
@@ -42503,8 +51561,8 @@ comparative
 
 
 
+ο
 
-superlative
 
 
 
@@ -42529,20 +51587,25 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
+ο
 
+irregular
 
 
 
@@ -42556,6 +51619,7 @@ superlative
 
 
 
+α
 
 
 
@@ -42565,22 +51629,25 @@ superlative
 
 
 
+α
 
 
 
-comparative
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
 
 
+α
 
 
 
@@ -42592,47 +51659,58 @@ comparative
 
 
 
+ρ
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
+irregular
 
-superlative
 
+α
 
 
 
+δ
+α
 
 
 
 
-superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+τ
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -42640,26 +51718,33 @@ superlative
 
 
 
+α
 
 
 
+ρ
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
+α
 
 
+α
 
 
 
@@ -42671,17 +51756,21 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
+ο
 
+τ
 
 
 
@@ -42691,25 +51780,32 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+irregular
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -42717,44 +51813,52 @@ superlative
 
 
 
+ο
 
 
 
 
 
+δ
 
 
 
 
 
+α
 
 
 
 
 
-comparative
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
+α
 
 
 
 
 
+irregular
 
+ο
 
 
 
@@ -42762,43 +51866,55 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+irregular
 
 
 
+α
 
 
+α
 
 
 
+α
 
 
 
 
+irregular
 
+τ
 
 
 
 
+τ
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ς
 
 
 
@@ -42807,46 +51923,60 @@ comparative
 
 
 
+ρ
+ι
+ο
 
 
+ο
 
 
 
+α
 
 
 
+ρ
 
 
 
 
 
 
+α
 
+ρ
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+ς
 
 
 
+α
 
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
@@ -42857,16 +51987,20 @@ comparative
 
 
 
+ο
+ο
 
 
 
 
 
 
+ρ
 
 
 
 
+α
 
 
 
@@ -42879,9 +52013,11 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
 
 
@@ -42890,23 +52026,28 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -42914,6 +52055,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -42927,6 +52069,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -42935,6 +52078,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -42950,17 +52094,22 @@ comparative
 
 
 
+irregular
 
+ο
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
+ο
 
 
 
@@ -42977,11 +52126,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
@@ -42994,15 +52145,18 @@ comparative
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
@@ -43023,18 +52177,23 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
@@ -43045,6 +52204,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -43054,6 +52214,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -43063,12 +52224,15 @@ comparative
 
 
 
+ο
 
 
 
 
+ρ
 
 
+ο
 
 
 
@@ -43081,12 +52245,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ρ
 
 
 
@@ -43095,33 +52261,41 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ρ
 
 
 
 
+ι
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -43132,6 +52306,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -43140,23 +52315,28 @@ comparative
 
 
 
+α
 
 
 
+ι
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -43165,8 +52345,11 @@ comparative
 
 
 
+α
 
+ο
 
+ο
 
 
 
@@ -43174,35 +52357,46 @@ comparative
 
 
 
+ρ
 
+α
 
 
 
 
 
+ο
 
+α
 
 
 
 
+α
 
 
+ι
 
 
+ο
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -43211,11 +52405,15 @@ comparative
 
 
 
+ι
+α
 
 
 
 
 
+ι
+ι
 
 
 
@@ -43228,6 +52426,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -43236,10 +52435,12 @@ comparative
 
 
 
+τ
 
 
 
 
+τ
 
 
 
@@ -43249,6 +52450,7 @@ comparative
 
 
 
+α
 
 
 
@@ -43265,6 +52467,7 @@ comparative
 
 
 
+α
 
 
 
@@ -43272,14 +52475,18 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
+α
 
 
 
@@ -43290,6 +52497,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -43299,26 +52507,33 @@ comparative
 
 
 
+α
 
 
+τ
 
 
 
 
 
+α
 
 
+α
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
@@ -43326,25 +52541,30 @@ comparative
 
 
 
+ρ
 
 
 
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
 
+ς
 
 
 
 
+ο
 
 
 
@@ -43361,11 +52581,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -43382,8 +52604,11 @@ comparative
 
 
 
+α
 
+α
 
+ο
 
 
 
@@ -43391,8 +52616,9 @@ comparative
 
 
 
-superlative
+α
 
+ο
 
 
 
@@ -43401,7 +52627,9 @@ superlative
 
 
 
+τ
 
+ρ
 
 
 
@@ -43412,6 +52640,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -43420,15 +52649,18 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -43439,10 +52671,12 @@ superlative
 
 
 
+ρ
 
 
 
 
+υ
 
 
 
@@ -43450,6 +52684,7 @@ superlative
 
 
 
+υ
 
 
 
@@ -43462,27 +52697,35 @@ superlative
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
 
 
+irregular
 
 
+α
 
+α
 
+δ
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -43492,11 +52735,14 @@ superlative
 
 
 
+ς
+irregular
 
 
 
 
 
+α
 
 
 
@@ -43504,23 +52750,29 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -43538,7 +52790,10 @@ superlative
 
 
 
+ο
 
+ο
+ο
 
 
 
@@ -43552,16 +52807,24 @@ superlative
 
 
 
+α
 
+α
 
+ο
+ν
+ο
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -43570,24 +52833,32 @@ superlative
 
 
 
+irregular
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+irregular
 
+ο
 
 
 
 
 
+ο
 
+irregular
 
 
 
@@ -43597,6 +52868,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -43604,10 +52876,12 @@ superlative
 
 
 
+α
 
 
 
 
+τ
 
 
 
@@ -43617,9 +52891,12 @@ superlative
 
 
 
+ο
+τ
 
 
 
+ο
 
 
 
@@ -43628,19 +52905,24 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
+irregular
 
 
 
@@ -43651,10 +52933,12 @@ superlative
 
 
 
+ευ
 
 
 
 
+ς
 
 
 
@@ -43663,18 +52947,23 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
@@ -43683,26 +52972,33 @@ superlative
 
 
 
+irregular
 
 
+α
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -43720,24 +53016,30 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -43750,51 +53052,66 @@ superlative
 
 
 
+α
 
 
+irregular
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
+δ
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
+irregular
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
@@ -43804,6 +53121,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -43815,34 +53133,43 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
+ι
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
 
+ρ
 
 
+ο
 
 
 
@@ -43852,15 +53179,20 @@ superlative
 
 
 
+ο
 
+ο
 
+irregular
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -43874,6 +53206,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -43882,6 +53215,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -43892,8 +53226,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -43901,53 +53237,70 @@ superlative
 
 
 
+irregular
 
 
 
 
 
+υ
 
 
 
+ο
 
 
+ο
 
 
+ρ
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
+ο
 
+α
 
 
 
@@ -43979,6 +53332,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -43995,15 +53349,17 @@ superlative
 
 
 
+ο
 
 
 
-comparative
 
+τ
 
 
 
 
+τ
 
 
 
@@ -44011,6 +53367,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -44029,22 +53386,27 @@ comparative
 
 
 
+α
 
 
 
 
+τ
 
+ρ
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -44053,6 +53415,7 @@ comparative
 
 
 
+α
 
 
 
@@ -44064,31 +53427,39 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
+ο
 
 
 
 
 
+ρ
 
 
+ρ
 
 
 
 
 
 
+ο
 
 
+irregular
 
 
 
@@ -44104,6 +53475,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -44115,19 +53487,23 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
@@ -44136,6 +53512,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -44144,9 +53521,11 @@ comparative
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -44154,12 +53533,16 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
+α
 
+ρ
 
 
 
@@ -44172,9 +53555,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -44187,11 +53572,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -44199,21 +53586,27 @@ comparative
 
 
 
+ο
 
 
 
+ν
 
 
+ο
 
 
 
 
 
+κ
 
 
 
 
 
+ο
+α
 
 
 
@@ -44227,11 +53620,13 @@ comparative
 
 
 
+κ
 
 
 
 
 
+irregular
 
 
 
@@ -44240,49 +53635,64 @@ comparative
 
 
 
+κ
 
+ο
 
+ο
 
 
 
 
+τ
 
 
+α
 
 
 
 
 
 
+κ
 
 
 
 
+τ
 
+α
 
 
 
 
 
 
+α
 
 
+κ
 
 
 
+ι
 
 
+τ
 
 
 
+ι
 
 
 
 
+κ
 
 
 
 
+τ
 
 
 
@@ -44294,10 +53704,12 @@ comparative
 
 
 
+ρ
 
 
 
 
+ρ
 
 
 
@@ -44309,25 +53721,31 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
 
 
+ν
 
 
 
+α
 
 
 
@@ -44336,11 +53754,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -44349,6 +53769,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -44356,6 +53777,7 @@ comparative
 
 
 
+α
 
 
 
@@ -44366,27 +53788,34 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+τ
 
 
 
 
+κ
 
 
 
 
+τ
 
 
 
 
+τ
 
 
+α
 
 
 
@@ -44399,7 +53828,9 @@ comparative
 
 
 
+α
 
+irregular
 
 
 
@@ -44430,10 +53861,12 @@ comparative
 
 
 
+ρ
 
 
 
 
+α
 
 
 
@@ -44447,6 +53880,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -44456,9 +53890,14 @@ comparative
 
 
 
+ν
+ο
+ο
 
 
 
+τ
+α
 
 
 
@@ -44472,9 +53911,11 @@ comparative
 
 
 
+ο
 
 
 
+irregular
 
 
 
@@ -44490,6 +53931,9 @@ comparative
 
 
 
+α
+ν
+non-declinable
 
 
 
@@ -44504,14 +53948,16 @@ comparative
 
 
 
+irregular
 
-superlative
 
+α
 
 
 
 
 
+α
 
 
 
@@ -44522,16 +53968,18 @@ superlative
 
 
 
-superlative
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -44539,12 +53987,15 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -44558,6 +54009,7 @@ superlative
 
 
 
+α
 
 
 
@@ -44565,9 +54017,11 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -44576,13 +54030,16 @@ superlative
 
 
 
+irregular
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -44591,6 +54048,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -44603,6 +54061,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -44610,15 +54069,18 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -44628,13 +54090,16 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -44652,18 +54117,21 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -44677,22 +54145,28 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
+irregular
 
 
+ο
 
 
 
@@ -44702,16 +54176,19 @@ superlative
 
 
 
+τ
 
 
 
 
 
 
+irregular
 
 
 
 
+α
 
 
 
@@ -44723,14 +54200,17 @@ superlative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -44742,6 +54222,7 @@ superlative
 
 
 
+α
 
 
 
@@ -44749,6 +54230,7 @@ superlative
 
 
 
+α
 
 
 
@@ -44756,82 +54238,106 @@ superlative
 
 
 
+α
 
 
 
 
 
+υ
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
 
+υ
 
 
 
+α
 
 
 
 
+υ
 
 
 
 
+ρ
 
 
+ο
 
+ο
 
+α
 
+ο
 
+ο
 
 
 
 
+ο
+υ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ι
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
 
@@ -44840,6 +54346,7 @@ superlative
 
 
 
+α
 
 
 
@@ -44850,11 +54357,12 @@ superlative
 
 
 
-superlative
+ντ
 
 
 
 
+ο
 
 
 
@@ -44862,6 +54370,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -44872,8 +54381,10 @@ superlative
 
 
 
+ο
 
 
+irregular
 
 
 
@@ -44917,13 +54428,16 @@ superlative
 
 
 
+ρ
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -44932,17 +54446,21 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -44950,15 +54468,20 @@ superlative
 
 
 
+ευ
 
 
+ο
+α
 
 
 
 
 
 
+irregular
 
+ο
 
 
 
@@ -44995,21 +54518,24 @@ superlative
 
 
 
-superlative
 
 
 
 
 
+α
 
+ν
 
 
 
 
 
+ν
 
 
 
+ο
 
 
 
@@ -45030,12 +54556,14 @@ superlative
 
 
 
+α
 
 
 
+α
 
-comparative
 
+irregular
 
 
 
@@ -45054,16 +54582,21 @@ comparative
 
 
 
+α
+ο
 
 
+α
 
 
+ρ
 
 
 
 
 
 
+τ
 
 
 
@@ -45074,25 +54607,31 @@ comparative
 
 
 
+τ
 
+irregular
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -45100,28 +54639,36 @@ comparative
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
+ο
+τ
 
 
 
 
+ο
 
 
 
@@ -45137,12 +54684,16 @@ comparative
 
 
 
+ρ
 
 
 
+α
 
 
+ευ
 
+ο
 
 
 
@@ -45154,17 +54705,21 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -45173,22 +54728,27 @@ comparative
 
 
 
+ντ
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -45202,9 +54762,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -45224,6 +54786,7 @@ comparative
 
 
 
+α
 
 
 
@@ -45231,6 +54794,8 @@ comparative
 
 
 
+α
+α
 
 
 
@@ -45238,20 +54803,27 @@ comparative
 
 
 
+ο
 
+irregular
 
 
 
 
+ς
 
+α
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -45262,11 +54834,15 @@ comparative
 
 
 
+ευ
 
 
+ο
 
 
+irregular
 
+α
 
 
 
@@ -45275,14 +54851,18 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
 
 
 
 
+ο
+υ
 
 
 
@@ -45303,12 +54883,15 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -45323,6 +54906,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -45333,12 +54917,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ι
 
 
 
@@ -45354,26 +54940,32 @@ comparative
 
 
 
+irregular
 
 
+irregular
 
 
 
 
 
 
+irregular
 
 
 
 
 
+irregular
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
@@ -45382,10 +54974,12 @@ comparative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -45399,11 +54993,14 @@ comparative
 
 
 
+irregular
 
 
 
 
+τ
 
+ο
 
 
 
@@ -45412,24 +55009,30 @@ comparative
 
 
 
+α
 
 
 
+τ
 
+α
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
@@ -45441,6 +55044,7 @@ comparative
 
 
 
+α
 
 
 
@@ -45461,6 +55065,7 @@ comparative
 
 
 
+κ
 
 
 
@@ -45472,12 +55077,12 @@ comparative
 
 
 
+ι
 
 
 
 
 
-superlative
 
 
 
@@ -45490,13 +55095,16 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -45512,36 +55120,44 @@ superlative
 
 
 
+ρ
 
 
 
 
 
 
+ρ
 
 
+irregular
 
 
 
 
 
+ρ
 
 
 
 
 
 
+ρ
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -45550,6 +55166,7 @@ superlative
 
 
 
+α
 
 
 
@@ -45563,6 +55180,7 @@ superlative
 
 
 
+α
 
 
 
@@ -45605,12 +55223,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -45619,6 +55239,7 @@ superlative
 
 
 
+α
 
 
 
@@ -45630,6 +55251,7 @@ superlative
 
 
 
+α
 
 
 
@@ -45640,7 +55262,9 @@ superlative
 
 
 
+irregular
 
+α
 
 
 
@@ -45668,36 +55292,40 @@ superlative
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
 
+irregular
 
 
 
+ο
 
+ο
 
 
 
 
 
 
-superlative
 
 
 
 
-superlative
 
 
 
 
 
+ρ
 
 
 
@@ -45708,7 +55336,6 @@ superlative
 
 
 
-comparative
 
 
 
@@ -45729,6 +55356,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -45739,22 +55367,26 @@ comparative
 
 
 
+ο
 
 
 
-comparative
+α
 
 
 
 
 
+α
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -45770,6 +55402,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -45779,23 +55412,32 @@ comparative
 
 
 
+α
+ο
 
 
+α
 
 
+ο
 
 
 
 
+α
 
 
+ν
 
+ο
 
 
 
+ν
 
 
 
+ο
 
 
 
@@ -45803,6 +55445,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -45811,6 +55454,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -45822,6 +55466,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -45830,40 +55475,47 @@ comparative
 
 
 
+ρ
 
 
 
 
 
 
+ρ
 
 
 
 
 
 
+irregular
 
+ο
 
 
 
 
+ο
 
 
-superlative
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -45871,22 +55523,30 @@ superlative
 
 
 
+ο
 
+ρ
 
 
 
 
 
+α
 
 
 
+ρ
 
 
+ο
 
 
 
+irregular
 
 
+ο
+ρ
 
 
 
@@ -45896,6 +55556,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -45911,6 +55572,7 @@ superlative
 
 
 
+α
 
 
 
@@ -45920,17 +55582,21 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
 
+α
 
+ρ
 
 
 
@@ -45938,32 +55604,39 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
@@ -45974,7 +55647,9 @@ superlative
 
 
 
+α
 
+α
 
 
 
@@ -45986,8 +55661,11 @@ superlative
 
 
 
+ο
 
+τ
 
+ο
 
 
 
@@ -45997,6 +55675,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -46010,17 +55689,22 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
+irregular
 
+ο
 
 
 
 
 
+ρ
 
 
 
@@ -46031,6 +55715,7 @@ superlative
 
 
 
+α
 
 
 
@@ -46045,12 +55730,15 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ν
 
 
 
@@ -46058,50 +55746,60 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ν
 
 
 
 
 
+ρ
 
 
 
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
 
 
+ρ
 
 
 
@@ -46110,6 +55808,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -46129,20 +55828,24 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
@@ -46156,6 +55859,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -46163,6 +55867,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -46174,25 +55879,31 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
@@ -46201,34 +55912,42 @@ superlative
 
 
 
+ευ
 
 
 
 
 
+irregular
 
 
 
 
 
+ευ
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
+irregular
 
 
 
@@ -46236,23 +55955,30 @@ superlative
 
 
 
+ο
 
+τ
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+τ
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -46260,6 +55986,7 @@ superlative
 
 
 
+α
 
 
 
@@ -46274,6 +56001,7 @@ superlative
 
 
 
+ν
 
 
 
@@ -46281,6 +56009,7 @@ superlative
 
 
 
+α
 
 
 
@@ -46315,16 +56044,21 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
+irregular
+ο
 
 
 
 
 
+ο
 
 
 
@@ -46353,36 +56087,45 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
+ο
 
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -46391,24 +56134,31 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
+τ
 
 
 
@@ -46426,10 +56176,12 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -46447,6 +56199,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -46457,6 +56210,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -46471,6 +56225,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -46479,6 +56234,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -46495,11 +56251,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -46508,6 +56266,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -46523,20 +56282,24 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ευ
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -46546,12 +56309,15 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -46579,6 +56345,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -46596,6 +56363,7 @@ superlative
 
 
 
+α
 
 
 
@@ -46603,17 +56371,22 @@ superlative
 
 
 
+α
 
 
 
 
 
+υ
 
+α
 
 
 
+υ
 
 
+ο
 
 
 
@@ -46622,6 +56395,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -46639,12 +56413,13 @@ superlative
 
 
 
-comparative
 
 
+ο
 
 
 
+ο
 
 
 
@@ -46655,29 +56430,30 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+ν
 
-comparative
 
 
 
 
+ο
 
-comparative
 
 
 
 
 
 
+ο
 
 
-comparative
 
 
 
@@ -46685,6 +56461,7 @@ comparative
 
 
 
+α
 
 
 
@@ -46697,6 +56474,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -46709,7 +56487,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -46717,6 +56497,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -46724,6 +56505,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -46738,16 +56520,20 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
+τ
 
 
 
+ο
 
 
 
@@ -46763,6 +56549,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -46779,18 +56566,21 @@ comparative
 
 
 
+irregular
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -46802,35 +56592,48 @@ comparative
 
 
 
+α
 
 
+α
 
+ο
 
 
 
 
+α
 
 
+α
 
 
 
 
 
+α
+ν
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
+τ
 
 
 
@@ -46844,11 +56647,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -46865,11 +56670,14 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
+irregular
 
 
 
@@ -46883,6 +56691,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -46891,22 +56700,28 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -46918,8 +56733,10 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
@@ -46933,6 +56750,7 @@ comparative
 
 
 
+α
 
 
 
@@ -46940,40 +56758,51 @@ comparative
 
 
 
+ν
 
 
 
+ν
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
+ν
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -46981,9 +56810,11 @@ comparative
 
 
 
+ο
 
 
 
+ν
 
 
 
@@ -46999,23 +56830,29 @@ comparative
 
 
 
+ρ
 
 
 
+ρ
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -47023,21 +56860,26 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
+ν
 
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
@@ -47054,20 +56896,25 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
+ρ
 
+τ
 
 
 
@@ -47075,15 +56922,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
-comparative
 
 
 
@@ -47092,27 +56940,37 @@ comparative
 
 
 
+τ
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
+τ
+ν
 
 
 
 
+irregular
 
 
+ο
 
 
+α
 
+ν
 
 
 
@@ -47124,29 +56982,36 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
 
 
+τ
 
+ρ
 
 
 
@@ -47161,12 +57026,15 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -47178,6 +57046,7 @@ comparative
 
 
 
+α
 
 
 
@@ -47185,6 +57054,7 @@ comparative
 
 
 
+ν
 
 
 
@@ -47192,8 +57062,10 @@ comparative
 
 
 
+ρ
 
 
+ρ
 
 
 
@@ -47207,14 +57079,18 @@ comparative
 
 
 
+ρ
 
+ρ
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -47223,15 +57099,19 @@ comparative
 
 
 
+irregular
 
+ο
 
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -47240,63 +57120,80 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
+ρ
 
 
 
@@ -47309,6 +57206,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -47318,9 +57216,11 @@ comparative
 
 
 
+ρ
 
 
 
+ρ
 
 
 
@@ -47330,16 +57230,20 @@ comparative
 
 
 
+ρ
 
 
 
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
@@ -47354,13 +57258,16 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -47375,32 +57282,47 @@ comparative
 
 
 
+ο
 
+α
 
 
+α
+α
 
+α
 
+α
 
 
 
+α
 
 
 
+ο
+ο
 
 
 
+δ
 
 
+χ
 
 
 
+ο
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -47408,31 +57330,42 @@ comparative
 
 
 
+irregular
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
 
+irregular
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -47444,19 +57377,24 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -47469,20 +57407,26 @@ comparative
 
 
 
+irregular
 
 
+α
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+τ
 
+ο
 
 
 
@@ -47491,9 +57435,11 @@ comparative
 
 
 
+irregular
 
 
 
+τ
 
 
 
@@ -47505,6 +57451,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -47517,15 +57464,19 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+irregular
 
 
+ο
 
 
 
@@ -47533,13 +57484,18 @@ comparative
 
 
 
+ι
 
+ο
 
 
 
 
 
 
+irregular
+α
+ο
 
 
 
@@ -47557,9 +57513,12 @@ comparative
 
 
 
+α
 
 
+ο
 
+α
 
 
 
@@ -47570,19 +57529,25 @@ comparative
 
 
 
+irregular
 
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
+τ
 
 
+ο
 
 
 
@@ -47592,28 +57557,38 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
 
+ο
 
 
+α
 
 
 
+irregular
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
+irregular
+ο
 
 
 
@@ -47621,6 +57596,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -47630,34 +57606,44 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+irregular
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
+α
 
 
 
+irregular
 
 
 
+ι
 
 
+α
 
 
 
@@ -47678,22 +57664,28 @@ comparative
 
 
 
+ν
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
+ο
 
 
 
@@ -47701,11 +57693,14 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
@@ -47724,17 +57719,21 @@ comparative
 
 
 
+irregular
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -47744,11 +57743,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -47761,23 +57762,28 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
 
 
 
+δ
 
 
+ο
 
 
 
@@ -47786,6 +57792,8 @@ comparative
 
 
 
+ο
+irregular
 
 
 
@@ -47799,6 +57807,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -47809,11 +57818,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
@@ -47833,6 +57844,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -47841,6 +57853,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -47849,21 +57862,29 @@ comparative
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
 
+irregular
 
 
+ο
 
 
 
+α
 
 
+α
+ο
 
 
 
@@ -47872,6 +57893,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -47880,17 +57902,23 @@ comparative
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
+irregular
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -47906,6 +57934,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -47918,8 +57947,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -47927,15 +57958,21 @@ comparative
 
 
 
+δ
 
 
+ρ
+α
 
 
+ι
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -47951,6 +57988,7 @@ comparative
 
 
 
+α
 
 
 
@@ -47965,16 +58003,21 @@ comparative
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
+ευ
 
 
+ο
+ο
 
 
 
@@ -47982,8 +58025,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -48001,15 +58046,20 @@ comparative
 
 
 
+ο
 
 
+ς
 
 
 
 
 
+α
+ευ
 
 
+ο
 
 
 
@@ -48024,13 +58074,16 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ς
 
 
 
@@ -48039,25 +58092,32 @@ comparative
 
 
 
+ευ
 
 
+ο
 
 
 
 
+irregular
 
 
 
+ς
 
 
 
 
+ς
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -48067,13 +58127,16 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+irregular
 
+α
 
 
 
@@ -48083,16 +58146,19 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ι
 
 
 
 
+α
 
 
 
@@ -48104,8 +58170,10 @@ comparative
 
 
 
+τ
 
 
+α
 
 
 
@@ -48115,12 +58183,14 @@ comparative
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
@@ -48131,11 +58201,15 @@ comparative
 
 
 
+α
 
 
 
+ευ
 
 
+ο
+α
 
 
 
@@ -48148,27 +58222,35 @@ comparative
 
 
 
+irregular
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
+irregular
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -48178,29 +58260,43 @@ comparative
 
 
 
+α
 
+α
+ο
+ο
 
 
 
 
+δ
 
+irregular
 
 
 
+χ
 
 
+δ
 
 
 
+α
 
 
 
+α
 
+ο
 
 
+α
 
+non-declinable
 
 
+α
 
 
 
@@ -48210,9 +58306,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -48228,9 +58326,11 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -48238,12 +58338,15 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -48262,6 +58365,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -48274,11 +58378,13 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
@@ -48287,9 +58393,11 @@ comparative
 
 
 
+ευ
 
 
 
+ο
 
 
 
@@ -48302,24 +58410,32 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+irregular
 
+τ
 
 
+ο
 
+κ
 
 
 
+ι
 
 
 
@@ -48328,13 +58444,18 @@ comparative
 
 
 
+τ
+ο
 
 
+ευ
 
 
 
 
 
+irregular
+ο
 
 
 
@@ -48343,23 +58464,29 @@ comparative
 
 
 
+ρ
 
 
 
+ευ
 
 
 
 
+ο
+ο
 
 
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
@@ -48375,15 +58502,18 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -48395,14 +58525,17 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -48413,11 +58546,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ν
 
 
 
@@ -48426,41 +58561,55 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
+irregular
 
 
 
+ο
 
 
 
+α
 
+α
 
+ο
 
 
 
+irregular
 
 
+irregular
 
 
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
@@ -48468,10 +58617,13 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
@@ -48480,10 +58632,12 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -48491,11 +58645,14 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
 
@@ -48512,6 +58669,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -48522,17 +58680,21 @@ comparative
 
 
 
+ρ
 
 
+α
 
 
 
 
 
+ρ
 
 
 
 
+α
 
 
 
@@ -48540,14 +58702,19 @@ comparative
 
 
 
+α
 
+ρ
 
 
 
+τ
 
 
+α
 
 
+ο
 
 
 
@@ -48555,35 +58722,44 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ι
 
 
+ο
 
 
 
+ντ
 
+ο
 
 
 
@@ -48592,6 +58768,7 @@ comparative
 
 
 
+α
 
 
 
@@ -48601,21 +58778,26 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
+ν
 
 
 
@@ -48624,28 +58806,37 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
+irregular
 
 
+ο
 
+τ
 
 
 
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -48653,20 +58844,26 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+τ
 
 
 
 
+τ
 
+ο
+τ
 
 
 
+irregular
 
 
 
@@ -48674,8 +58871,8 @@ comparative
 
 
 
-comparative
 
+ο
 
 
 
@@ -48685,16 +58882,23 @@ comparative
 
 
 
+ο
+α
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
+ν
+ο
 
 
 
@@ -48705,20 +58909,25 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -48726,9 +58935,11 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -48739,6 +58950,7 @@ comparative
 
 
 
+ντ
 
 
 
@@ -48746,6 +58958,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -48755,11 +58968,16 @@ comparative
 
 
 
+α
 
+ο
 
 
 
+α
 
+ο
+irregular
 
 
 
@@ -48786,8 +59004,10 @@ comparative
 
 
 
+τ
 
 
+ο
 
 
 
@@ -48797,6 +59017,7 @@ comparative
 
 
 
+α
 
 
 
@@ -48805,6 +59026,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -48818,10 +59040,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -48829,12 +59053,14 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
@@ -48843,6 +59069,7 @@ comparative
 
 
 
+α
 
 
 
@@ -48853,8 +59080,10 @@ comparative
 
 
 
+ρ
 
 
+α
 
 
 
@@ -48865,7 +59094,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -48876,36 +59107,45 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
+ς
 
 
 
+ο
 
 
 
@@ -48913,60 +59153,81 @@ comparative
 
 
 
+α
 
 
 
+α
+ν
+non-declinable
 
 
 
 
 
 
+ρ
 
 
+ρ
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ρ
 
 
+ρ
 
 
 
 
+δ
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ν
+ο
 
 
+ο
 
 
 
 
+δ
 
+irregular
 
 
 
@@ -48983,14 +59244,18 @@ comparative
 
 
 
+ο
 
 
 
 
 
+δ
 
 
+ν
 
+irregular
 
 
 
@@ -48998,28 +59263,38 @@ comparative
 
 
 
+ς
 
 
 
 
+ν
+ο
+ο
 
 
+δ
 
 
 
 
 
+ρ
 
 
+α
 
 
+irregular
 
 
 
 
+α
 
 
 
+δ
 
 
 
@@ -49049,10 +59324,12 @@ comparative
 
 
 
+δ
 
 
 
 
+ο
 
 
 
@@ -49067,8 +59344,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -49080,15 +59359,20 @@ comparative
 
 
 
+δ
 
+ο
 
 
+ο
 
 
 
 
 
 
+δ
+τ
 
 
 
@@ -49106,10 +59390,13 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
@@ -49134,15 +59421,18 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -49179,8 +59469,10 @@ comparative
 
 
 
+irregular
 
 
+τ
 
 
 
@@ -49199,6 +59491,7 @@ comparative
 
 
 
+α
 
 
 
@@ -49208,16 +59501,22 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+irregular
 
 
 
+irregular
 
 
 
+ν
+ο
 
 
 
@@ -49232,41 +59531,52 @@ comparative
 
 
 
+ς
 
+irregular
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
 
-superlative
 
 
+ο
 
 
 
+α
+ν
+non-declinable
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+irregular
 
 
 
@@ -49286,15 +59596,20 @@ superlative
 
 
 
+ο
 
+α
 
 
 
+irregular
 
 
+α
 
 
 
+α
 
 
 
@@ -49304,31 +59619,39 @@ superlative
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
+irregular
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -49337,6 +59660,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -49361,6 +59685,7 @@ superlative
 
 
 
+α
 
 
 
@@ -49381,16 +59706,22 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
 
 
+ν
+ο
+ο
 
 
 
+irregular
 
 
 
@@ -49403,6 +59734,8 @@ superlative
 
 
 
+ο
+ο
 
 
 
@@ -49411,12 +59744,15 @@ superlative
 
 
 
+α
 
 
 
 
 
+irregular
 
+α
 
 
 
@@ -49427,6 +59763,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -49437,17 +59774,22 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+α
 
+ρ
 
+α
 
 
 
@@ -49459,12 +59801,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -49486,9 +59830,11 @@ superlative
 
 
 
+ο
 
 
-superlative
+α
+ο
 
 
 
@@ -49496,19 +59842,25 @@ superlative
 
 
 
+ο
 
 
+irregular
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
 
+ρ
 
 
 
@@ -49518,6 +59870,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -49529,16 +59882,21 @@ superlative
 
 
 
+ο
+ο
 
 
 
+ρ
 
 
 
 
 
 
+irregular
 
+ο
 
 
 
@@ -49546,29 +59904,35 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
 
 
+ρ
 
 
 
 
 
 
+ρ
 
 
+ρ
 
 
 
 
+τ
 
 
 
@@ -49579,11 +59943,13 @@ superlative
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
@@ -49591,8 +59957,10 @@ superlative
 
 
 
+ρ
 
 
+ρ
 
 
 
@@ -49600,6 +59968,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -49611,6 +59980,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -49624,6 +59994,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -49632,20 +60003,24 @@ superlative
 
 
 
+τ
 
 
 
 
 
 
+ρ
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -49653,27 +60028,33 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ρ
 
 
+ο
 
 
 
 
-superlative
 
 
 
 
+ν
 
+τ
 
+α
 
 
+ο
 
 
 
@@ -49705,6 +60086,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -49721,12 +60103,14 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ρ
 
 
 
@@ -49738,6 +60122,7 @@ superlative
 
 
 
+α
 
 
 
@@ -49754,6 +60139,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -49764,8 +60150,11 @@ superlative
 
 
 
+α
 
 
+non-declinable
+ο
 
 
 
@@ -49777,7 +60166,9 @@ superlative
 
 
 
+ο
 
+irregular
 
 
 
@@ -49786,10 +60177,12 @@ superlative
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
@@ -49798,6 +60191,7 @@ superlative
 
 
 
+α
 
 
 
@@ -49806,11 +60200,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -49820,6 +60216,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -49828,14 +60225,18 @@ superlative
 
 
 
+ο
 
+τ
 
 
 
 
 
+ρ
 
 
+τ
 
 
 
@@ -49844,14 +60245,15 @@ superlative
 
 
 
-comparative
 
 
 
 
 
+α
 
 
+α
 
 
 
@@ -49859,6 +60261,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -49867,6 +60270,7 @@ comparative
 
 
 
+α
 
 
 
@@ -49888,8 +60292,10 @@ comparative
 
 
 
+ρ
 
 
+ρ
 
 
 
@@ -49912,6 +60318,8 @@ comparative
 
 
 
+ο
+ντ
 
 
 
@@ -49922,14 +60330,17 @@ comparative
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
 
+ρ
 
 
 
@@ -49938,27 +60349,34 @@ comparative
 
 
 
+ο
 
 
 
 
+ρ
 
 
+ο
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -49967,6 +60385,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -49978,8 +60397,10 @@ comparative
 
 
 
+τ
 
 
+ο
 
 
 
@@ -49988,6 +60409,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -49999,8 +60421,10 @@ comparative
 
 
 
+ο
 
 
+τ
 
 
 
@@ -50010,13 +60434,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
-superlative
 
 
 
@@ -50025,11 +60449,11 @@ superlative
 
 
 
-comparative
 
 
 
 
+τ
 
 
 
@@ -50038,6 +60462,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -50047,6 +60472,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -50062,49 +60488,60 @@ comparative
 
 
 
+ρ
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+ρ
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ρ
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -50112,11 +60549,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -50127,11 +60566,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -50151,14 +60592,17 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -50169,6 +60613,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -50187,9 +60632,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -50198,8 +60645,10 @@ comparative
 
 
 
+ρ
 
 
+τ
 
 
 
@@ -50211,6 +60660,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -50222,8 +60672,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -50232,6 +60684,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -50240,21 +60693,26 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -50264,6 +60722,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -50278,6 +60737,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -50291,24 +60751,29 @@ comparative
 
 
 
+α
 
 
 
 
+ι
 
 
 
 
+α
 
 
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -50317,6 +60782,7 @@ comparative
 
 
 
+α
 
 
 
@@ -50329,14 +60795,17 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -50346,17 +60815,22 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ρ
 
+τ
 
+α
 
 
 
+ρ
 
 
 
@@ -50368,6 +60842,7 @@ comparative
 
 
 
+α
 
 
 
@@ -50382,14 +60857,17 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -50397,6 +60875,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -50407,6 +60886,7 @@ comparative
 
 
 
+α
 
 
 
@@ -50418,6 +60898,7 @@ comparative
 
 
 
+α
 
 
 
@@ -50445,12 +60926,15 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
@@ -50463,6 +60947,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -50480,12 +60965,17 @@ comparative
 
 
 
+ο
 
+α
 
 
+α
 
 
+ι
 
+α
 
 
 
@@ -50493,10 +60983,12 @@ comparative
 
 
 
+α
 
 
 
 
+ρ
 
 
 
@@ -50504,9 +60996,12 @@ comparative
 
 
 
+ι
 
 
+ντ
 
+ο
 
 
 
@@ -50524,11 +61019,14 @@ comparative
 
 
 
+τ
 
+α
 
 
 
 
+α
 
 
 
@@ -50559,6 +61057,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -50587,6 +61086,7 @@ comparative
 
 
 
+α
 
 
 
@@ -50612,6 +61112,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -50626,6 +61127,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -50662,40 +61164,52 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
+α
 
 
+irregular
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ι
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -50705,8 +61219,10 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
@@ -50716,6 +61232,7 @@ comparative
 
 
 
+α
 
 
 
@@ -50728,10 +61245,12 @@ comparative
 
 
 
+ρ
 
 
 
 
+τ
 
 
 
@@ -50740,35 +61259,44 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
+ρ
 
 
 
 
 
+α
 
 
+τ
 
 
 
@@ -50779,11 +61307,13 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+ρ
 
 
 
@@ -50796,29 +61326,37 @@ comparative
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ρ
 
 
+α
 
 
 
 
+α
 
 
+α
 
 
 
@@ -50828,6 +61366,7 @@ comparative
 
 
 
+α
 
 
 
@@ -50838,13 +61377,16 @@ comparative
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
+α
 
 
 
@@ -50862,6 +61404,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -50871,37 +61414,50 @@ comparative
 
 
 
+α
 
 
 
+ο
+ι
 
 
 
 
 
 
+ο
 
 
+irregular
 
 
 
+ο
 
 
 
+ο
 
+ρ
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
+κ
 
 
 
@@ -50909,27 +61465,34 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+irregular
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -50941,34 +61504,40 @@ comparative
 
 
 
+ρ
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
 
 
-comparative
 
 
 
+ο
 
 
 
@@ -50983,6 +61552,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -51011,6 +61581,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -51039,20 +61610,24 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
 
+τ
 
 
 
@@ -51071,6 +61646,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -51085,9 +61661,12 @@ comparative
 
 
 
+ο
 
+α
 
 
+α
 
 
 
@@ -51099,9 +61678,11 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -51111,9 +61692,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -51121,12 +61704,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -51134,8 +61719,8 @@ comparative
 
 
 
+ο
 
-comparative
 
 
 
@@ -51144,6 +61729,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -51152,24 +61738,30 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -51182,6 +61774,7 @@ comparative
 
 
 
+α
 
 
 
@@ -51195,6 +61788,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -51204,6 +61798,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -51217,6 +61812,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -51224,6 +61820,7 @@ comparative
 
 
 
+α
 
 
 
@@ -51250,6 +61847,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -51260,6 +61858,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -51275,6 +61874,7 @@ comparative
 
 
 
+α
 
 
 
@@ -51284,9 +61884,13 @@ comparative
 
 
 
+α
+ο
+ρ
 
 
 
+ο
 
 
 
@@ -51305,11 +61909,13 @@ comparative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
@@ -51321,52 +61927,70 @@ comparative
 
 
 
+irregular
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
+α
 
 
 
+α
 
 
+α
 
 
 
+ευ
 
 
 
+ο
+α
 
 
 
+ο
 
+δ
 
+ο
+irregular
 
 
 
@@ -51382,7 +62006,9 @@ comparative
 
 
 
+irregular
 
+ο
 
 
 
@@ -51390,6 +62016,7 @@ comparative
 
 
 
+α
 
 
 
@@ -51417,8 +62044,11 @@ comparative
 
 
 
+irregular
 
+ο
 
+irregular
 
 
 
@@ -51434,6 +62064,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -51445,66 +62076,91 @@ comparative
 
 
 
+ν
 
+ο
 
+α
 
 
 
 
 
 
+ευ
+ο
 
 
 
 
+ο
 
 
 
 
+τ
 
+ο
+ο
 
 
 
+irregular
 
+ο
 
 
+α
 
 
+α
 
+ο
 
 
 
 
+ρ
 
 
 
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
+irregular
 
 
 
 
 
 
+α
 
 
 
+ο
 
+α
 
 
+ευ
 
+ο
 
 
 
+α
 
 
 
@@ -51512,58 +62168,80 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+irregular
+ν
+ο
 
 
+α
 
 
+α
 
 
 
 
+ευ
 
 
 
+irregular
 
 
+α
 
+ευ
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ευ
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
+α
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -51572,10 +62250,14 @@ comparative
 
 
 
+ο
 
 
+α
+α
 
 
+ς
 
 
 
@@ -51583,6 +62265,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -51590,27 +62273,36 @@ comparative
 
 
 
+ευ
 
 
+irregular
 
 
+α
 
 
 
 
+α
 
 
 
+irregular
 
+α
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -51632,7 +62324,6 @@ comparative
 
 
 
-comparative
 
 
 
@@ -51644,14 +62335,19 @@ comparative
 
 
 
+α
 
+τ
 
+irregular
 
 
 
 
+ευ
 
 
+irregular
 
 
 
@@ -51669,11 +62365,16 @@ comparative
 
 
 
+α
 
 
+α
 
+ευ
 
 
+ν
+ο
 
 
 
@@ -51685,6 +62386,7 @@ comparative
 
 
 
+α
 
 
 
@@ -51697,33 +62399,43 @@ comparative
 
 
 
+ο
 
+ευ
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ρ
 
 
 
 
+irregular
 
 
+α
 
 
+ο
 
 
 
@@ -51733,6 +62445,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -51743,14 +62456,17 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -51771,12 +62487,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -51791,12 +62509,15 @@ comparative
 
 
 
+ο
 
+irregular
 
 
 
 
 
+ο
 
 
 
@@ -51804,19 +62525,24 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+irregular
 
 
 
 
 
 
+ευ
 
 
 
+irregular
 
 
 
@@ -51830,39 +62556,47 @@ comparative
 
 
 
-comparative
+ο
 
 
 
 
 
+ς
 
 
 
 
+ευ
 
 
 
 
 
 
+irregular
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
@@ -51875,6 +62609,7 @@ comparative
 
 
 
+α
 
 
 
@@ -51884,14 +62619,18 @@ comparative
 
 
 
+ο
 
+ευ
 
 
 
 
+irregular
 
 
 
+ευ
 
 
 
@@ -51903,22 +62642,28 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
 
@@ -51935,11 +62680,12 @@ comparative
 
 
 
+α
 
 
+α
 
 
-superlative
 
 
 
@@ -51951,6 +62697,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -51961,24 +62708,34 @@ superlative
 
 
 
+α
 
 
 
+α
+α
 
 
 
 
+ο
 
+irregular
 
 
 
 
+α
 
+ο
 
+α
 
 
 
+α
 
+ο
 
 
 
@@ -51990,16 +62747,19 @@ superlative
 
 
 
+ευ
 
 
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -52012,31 +62772,38 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ευ
 
 
+α
 
 
 
@@ -52044,6 +62811,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -52055,41 +62823,52 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
 
+irregular
+ι
 
 
 
@@ -52097,22 +62876,27 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+irregular
 
 
+α
 
 
 
@@ -52129,10 +62913,12 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -52148,24 +62934,32 @@ superlative
 
 
 
+ρ
 
 
+ευ
 
 
 
 
+ρ
 
 
+ο
 
 
+ο
 
 
 
 
+irregular
 
 
 
+τ
 
+ο
 
 
 
@@ -52173,8 +62967,10 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
@@ -52184,6 +62980,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -52195,15 +62992,20 @@ superlative
 
 
 
+ο
 
+ευ
 
 
 
 
+ευ
 
 
+ευ
 
 
+ρ
 
 
 
@@ -52214,17 +63016,22 @@ superlative
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
 
+ο
+ο
 
 
 
+irregular
 
 
 
@@ -52239,25 +63046,32 @@ superlative
 
 
 
+irregular
 
 
-comparative
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
+irregular
 
+ο
 
+ευ
 
 
 
 
 
+ο
 
 
 
@@ -52266,10 +63080,13 @@ comparative
 
 
 
+ο
 
+ι
 
 
 
+irregular
 
 
 
@@ -52279,43 +63096,56 @@ comparative
 
 
 
+ο
 
+ευ
 
 
 
 
 
+ευ
 
 
 
 
 
 
+ευ
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+irregular
 
 
+ο
 
 
 
 
+ς
 
+α
+ς
 
 
+ν
 
 
 
+ν
 
 
 
@@ -52338,61 +63168,85 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+ο
 
+irregular
 
+ρ
 
 
 
+α
 
+ρ
 
+α
 
 
+α
 
+α
 
+α
+irregular
 
 
 
+ρ
 
 
+α
 
 
 
 
 
+ρ
+irregular
 
 
+ο
 
 
 
 
+α
 
 
+ρ
 
 
 
 
 
+α
 
 
+α
 
 
 
@@ -52401,6 +63255,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -52408,65 +63263,86 @@ comparative
 
 
 
+α
 
 
+ς
 
+ς
 
+ο
 
 
 
+ς
+ο
 
 
 
 
+τ
 
 
 
 
+ς
 
+irregular
 
 
 
 
 
+α
 
 
+τ
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
+τ
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
 
+ς
 
 
 
 
 
+α
 
 
 
 
 
 
+ς
 
 
 
@@ -52476,6 +63352,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -52486,16 +63363,22 @@ comparative
 
 
 
+ς
 
 
 
+α
+α
 
 
+α
 
 
 
 
+τ
 
+ρ
 
 
 
@@ -52505,6 +63388,7 @@ comparative
 
 
 
+α
 
 
 
@@ -52517,17 +63401,19 @@ comparative
 
 
 
-comparative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -52538,52 +63424,72 @@ comparative
 
 
 
+ο
 
 
+α
 
+α
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
+τ
 
+irregular
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
+τ
+α
 
+α
 
+α
 
 
 
 
+τ
 
+irregular
 
 
 
+ο
 
 
+τ
 
+ς
 
 
 
@@ -52592,11 +63498,15 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
+ο
 
 
 
@@ -52608,50 +63518,66 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+irregular
 
 
 
 
+ο
+α
 
+α
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ν
+ο
 
 
 
 
+α
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -52661,13 +63587,16 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -52676,62 +63605,76 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ν
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -52740,6 +63683,7 @@ comparative
 
 
 
+α
 
 
 
@@ -52752,10 +63696,13 @@ comparative
 
 
 
+α
+α
 
 
 
 
+ο
 
 
 
@@ -52764,27 +63711,34 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+δ
 
 
 
+τ
 
+irregular
 
 
 
 
+irregular
 
 
 
@@ -52792,6 +63746,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -52808,14 +63763,18 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+irregular
 
 
 
+irregular
+irregular
 
 
 
@@ -52824,9 +63783,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -52841,6 +63802,8 @@ comparative
 
 
 
+irregular
+α
 
 
 
@@ -52849,8 +63812,10 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
 
@@ -52859,10 +63824,12 @@ comparative
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -52870,20 +63837,28 @@ comparative
 
 
 
+ρ
 
 
+ρ
 
 
+ο
 
 
+ο
 
 
+α
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -52892,21 +63867,27 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -52915,6 +63896,7 @@ comparative
 
 
 
+α
 
 
 
@@ -52922,24 +63904,31 @@ comparative
 
 
 
+ρ
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
+irregular
 
+α
 
 
 
 
 
+ρ
 
 
 
@@ -52951,17 +63940,20 @@ comparative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -52969,19 +63961,23 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -52991,40 +63987,53 @@ comparative
 
 
 
+ρ
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
+ρ
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
+α
 
 
 
 
+irregular
 
+α
 
 
 
@@ -53033,26 +64042,32 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
@@ -53061,17 +64076,21 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -53087,16 +64106,20 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -53104,51 +64127,70 @@ comparative
 
 
 
+irregular
 
 
+ο
 
+ο
 
+ο
 
 
 
+α
 
 
 
+τ
 
 
 
 
 
 
+irregular
 
+α
 
 
+α
 
+δ
 
 
 
 
 
+ν
+ο
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ν
+ο
 
 
 
@@ -53163,29 +64205,39 @@ comparative
 
 
 
+ο
 
 
 
 
+irregular
 
 
+α
 
 
 
 
+irregular
 
 
+ο
 
 
 
 
+α
 
+irregular
 
 
 
 
+irregular
+ο
 
 
+ο
 
 
 
@@ -53198,8 +64250,11 @@ comparative
 
 
 
+ς
 
+ο
 
+ο
 
 
 
@@ -53211,23 +64266,33 @@ comparative
 
 
 
+ς
 
+υ
 
 
 
+α
 
 
 
 
+irregular
 
+ο
 
+ο
 
+ν
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
@@ -53237,10 +64302,13 @@ comparative
 
 
 
+α
 
 
 
+α
 
+ο
 
 
 
@@ -53248,39 +64316,54 @@ comparative
 
 
 
+α
 
 
 
+υ
 
 
 
+ο
 
+υ
 
 
 
 
 
+α
 
+α
 
 
+ο
 
 
+ο
 
 
 
+irregular
 
 
 
+ο
 
 
 
 
+ν
+ο
 
 
 
+ο
 
 
+α
 
+υ
 
 
 
@@ -53291,14 +64374,17 @@ comparative
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
@@ -53307,22 +64393,28 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
+α
 
 
 
@@ -53331,7 +64423,12 @@ comparative
 
 
 
+ν
+ο
 
+irregular
+ν
+α
 
 
 
@@ -53339,6 +64436,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -53348,16 +64446,20 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ν
+α
 
 
 
 
 
+ο
 
 
 
@@ -53367,15 +64469,19 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ν
+α
 
 
 
 
+ο
 
 
 
@@ -53385,8 +64491,8 @@ comparative
 
 
 
-superlative
 
+ο
 
 
 
@@ -53397,8 +64503,10 @@ superlative
 
 
 
+irregular
 
 
+ο
 
 
 
@@ -53414,11 +64522,11 @@ superlative
 
 
 
-superlative
 
 
 
 
+ρ
 
 
 
@@ -53434,8 +64542,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -53445,22 +64555,28 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
+ς
 
 
 
+ο
 
 
 
@@ -53470,14 +64586,18 @@ superlative
 
 
 
+ο
 
 
+irregular
+ο
 
 
 
 
 
 
+irregular
 
 
 
@@ -53486,7 +64606,6 @@ superlative
 
 
 
-superlative
 
 
 
@@ -53495,10 +64614,13 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
 
@@ -53507,6 +64629,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -53523,6 +64646,7 @@ superlative
 
 
 
+α
 
 
 
@@ -53537,6 +64661,7 @@ superlative
 
 
 
+α
 
 
 
@@ -53546,6 +64671,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -53555,28 +64681,36 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
 
 
+α
 
 
+ο
 
+τ
 
 
 
@@ -53592,7 +64726,9 @@ superlative
 
 
 
+ο
 
+α
 
 
 
@@ -53601,33 +64737,42 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
+τ
 
 
 
 
 
+α
 
+ρ
 
 
 
 
+α
 
 
+ρ
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
@@ -53635,12 +64780,15 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -53650,35 +64798,45 @@ superlative
 
 
 
+ο
 
+ο
 
 
+ρ
 
 
 
 
+α
 
 
+ι
 
 
 
+τ
 
 
 
 
 
-superlative
+ρ
 
 
+τ
 
 
 
 
+α
 
+α
 
 
 
 
+α
 
 
 
@@ -53686,10 +64844,12 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -53697,115 +64857,164 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
+τ
 
 
 
 
+irregular
+ο
 
 
 
 
 
+ο
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+τ
 
+ς
 
 
+ν
 
 
 
+τ
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
+ο
 
+α
+ο
 
+α
+ο
 
+ο
+ο
+ο
 
+ν
 
+α
 
+α
+ο
 
 
 
 
 
 
+α
 
+irregular
 
+α
 
+ρ
 
+irregular
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
+ο
+τ
 
 
 
 
 
 
+irregular
+ο
 
 
 
+α
 
 
-comparative
 
+τ
 
 
 
+τ
 
 
+α
 
 
+ο
 
 
+irregular
 
 
 
@@ -53814,14 +65023,19 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
+ο
 
+α
 
 
 
@@ -53831,6 +65045,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -53838,21 +65053,29 @@ comparative
 
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
+τ
 
 
 
+ο
+ο
 
 
+ι
 
 
 
@@ -53864,6 +65087,7 @@ comparative
 
 
 
+α
 
 
 
@@ -53872,8 +65096,10 @@ comparative
 
 
 
+irregular
 
 
+ο
 
 
 
@@ -53881,16 +65107,23 @@ comparative
 
 
 
+ο
+irregular
 
 
 
+τ
+α
 
 
+α
 
 
 
 
+ρ
 
+ι
 
 
 
@@ -53903,13 +65136,18 @@ comparative
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
 
+ο
+α
 
 
 
@@ -53921,35 +65159,46 @@ comparative
 
 
 
+ο
 
+α
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
+α
 
 
 
@@ -53961,13 +65210,17 @@ comparative
 
 
 
+ο
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -53975,7 +65228,9 @@ comparative
 
 
 
+α
 
+ρ
 
 
 
@@ -53985,33 +65240,42 @@ comparative
 
 
 
+τ
 
 
 
 
 
+α
 
 
+τ
 
 
 
 
 
 
+τ
 
 
+irregular
 
 
 
+ς
 
 
 
+ο
 
 
 
+α
 
 
 
+ς
 
 
 
@@ -54020,6 +65284,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -54034,6 +65299,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -54041,27 +65307,42 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
+α
 
 
 
 
+α
+α
 
 
+α
+ο
 
 
+α
+α
 
 
+α
+ο
 
 
+ς
 
+α
 
 
+α
 
 
 
@@ -54069,15 +65350,20 @@ comparative
 
 
 
+ο
+τ
 
+β
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -54096,24 +65382,29 @@ comparative
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
 
+τ
 
 
 
@@ -54122,6 +65413,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -54132,8 +65424,10 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
@@ -54141,72 +65435,100 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
+τ
 
 
 
+κ
 
 
 
+ο
 
 
 
+ρ
 
 
 
+ο
 
+ι
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
 
+τ
 
 
+ο
 
 
+ο
 
 
+α
 
+τ
 
+ρ
 
+δ
+ο
 
+ο
 
 
+ς
 
 
+α
 
+τ
 
 
+α
+ο
 
 
 
@@ -54218,23 +65540,36 @@ comparative
 
 
 
+τ
+ο
 
+irregular
+α
 
 
+ο
 
+irregular
 
+ο
+irregular
 
 
 
+ο
 
 
+ι
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -54244,19 +65579,26 @@ comparative
 
 
 
+α
 
+ι
 
+ο
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
+ν
 
+ο
 
 
 
@@ -54272,6 +65614,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -54289,43 +65632,58 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+κ
 
 
 
+δ
 
 
 
 
+α
 
 
+α
 
 
 
 
 
 
+α
 
 
+ο
+α
 
 
+α
 
 
+ο
 
+irregular
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -54334,62 +65692,82 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+α
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
+υ
 
 
 
 
+ο
 
 
 
 
 
+ι
 
+ο
 
 
 
 
+α
 
 
+κ
 
 
+α
 
 
+irregular
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
+α
 
+τ
 
 
 
 
 
+ρ
 
 
 
@@ -54404,11 +65782,14 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
@@ -54420,21 +65801,28 @@ comparative
 
 
 
+ο
 
+δ
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
+irregular
 
 
 
@@ -54442,16 +65830,21 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
-comparative
 
+irregular
+ο
+ο
 
 
 
@@ -54462,20 +65855,29 @@ comparative
 
 
 
+τ
+irregular
+ο
 
+ι
 
+α
 
 
 
 
+α
 
 
+τ
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -54485,10 +65887,13 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
@@ -54498,6 +65903,7 @@ comparative
 
 
 
+α
 
 
 
@@ -54506,34 +65912,48 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
+α
 
+ι
 
+ο
 
 
+α
 
 
 
+α
+ο
 
 
+τ
 
+ο
 
 
+ο
 
 
 
@@ -54547,94 +65967,128 @@ comparative
 
 
 
+τ
 
 
+ι
 
 
 
 
 
 
-superlative
 
 
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
+ο
 
+α
 
+ι
 
+τ
+α
 
 
+ο
 
 
+ι
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
+α
 
+α
 
 
 
 
+irregular
 
 
+α
+ρ
 
 
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
+α
 
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -54650,7 +66104,10 @@ superlative
 
 
 
+ο
+ο
 
+ο
 
 
 
@@ -54662,22 +66119,29 @@ superlative
 
 
 
+τ
+irregular
+ο
 
+ο
 
 
 
 
 
 
+ρ
 
 
 
 
 
 
+ι
 
 
 
+ο
 
 
 
@@ -54689,21 +66153,25 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -54713,14 +66181,19 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
+ο
 
 
+ς
 
+ι
 
 
 
@@ -54729,24 +66202,33 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
+ν
 
 
 
 
+ο
 
 
 
+ο
+irregular
+α
 
 
 
@@ -54755,27 +66237,32 @@ superlative
 
 
 
-comparative
 
 
+ι
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
-superlative
+ο
 
+ρ
 
 
 
+δ
 
+irregular
 
 
 
@@ -54783,6 +66270,8 @@ superlative
 
 
 
+ο
+ο
 
 
 
@@ -54795,24 +66284,32 @@ superlative
 
 
 
+irregular
+ευ
 
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
+ι
 
+τ
 
 
 
@@ -54821,38 +66318,48 @@ superlative
 
 
 
+τ
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ντ
 
 
 
+ο
 
 
 
+τ
 
 
+α
 
 
+ο
 
 
 
@@ -54865,38 +66372,57 @@ superlative
 
 
 
+α
 
 
 
+ο
+ι
 
+ο
 
+ο
 
 
 
 
 
+ο
+irregular
 
 
+ο
 
 
 
+ο
+ι
 
 
 
 
+ο
 
+τ
 
 
 
+ν
 
+α
+υ
 
 
 
+α
 
 
+ο
 
+ο
 
 
+ο
 
 
 
@@ -54904,7 +66430,6 @@ superlative
 
 
 
-superlative
 
 
 
@@ -54913,43 +66438,51 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
-comparative
 
 
-superlative
 
 
+α
 
 
 
 
+ο
 
+α
 
 
+α
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -54957,16 +66490,21 @@ superlative
 
 
 
+τ
 
 
 
 
+α
 
+α
 
 
 
 
+ο
 
+δ
 
 
 
@@ -54978,31 +66516,40 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+ευ
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+irregular
 
+ι
 
 
 
@@ -55010,25 +66557,32 @@ superlative
 
 
 
+ρ
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+ο
 
+irregular
 
+δ
 
 
 
@@ -55038,21 +66592,30 @@ superlative
 
 
 
+ντ
 
 
 
 
 
+ευ
 
+τ
 
+α
 
+ευ
 
+α
 
+α
 
+ο
 
 
 
 
+ς
 
 
 
@@ -55063,19 +66626,25 @@ superlative
 
 
 
+ι
 
 
 
+τ
 
 
 
 
+ο
 
+τ
 
 
 
 
+ντ
 
+ο
 
 
 
@@ -55083,6 +66652,8 @@ superlative
 
 
 
+α
+ο
 
 
 
@@ -55095,16 +66666,22 @@ superlative
 
 
 
+ο
 
 
 
 
+τ
+irregular
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -55118,14 +66695,18 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+α
+α
 
 
 
@@ -55133,15 +66714,19 @@ superlative
 
 
 
+α
 
 
+τ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -55151,13 +66736,18 @@ superlative
 
 
 
+ο
+α
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -55165,9 +66755,11 @@ superlative
 
 
 
+irregular
 
 
 
+ο
 
 
 
@@ -55182,6 +66774,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -55190,17 +66783,20 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -55214,14 +66810,17 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
+ο
 
 
 
@@ -55233,10 +66832,14 @@ superlative
 
 
 
+τ
 
+irregular
 
 
+ο
 
+α
 
 
 
@@ -55246,11 +66849,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -55275,24 +66880,30 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ι
 
 
 
@@ -55305,6 +66916,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -55314,18 +66926,24 @@ superlative
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
@@ -55333,93 +66951,128 @@ superlative
 
 
 
+ρ
 
 
+τ
 
+τ
 
+δ
 
 
 
 
 
+ς
 
+ο
 
 
 
 
+ευ
 
+α
 
 
+ντ
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
+ι
 
 
 
 
+δ
 
+irregular
 
 
+α
 
 
+ο
+ο
 
+ς
 
+ο
 
 
 
 
+ρ
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
+ι
 
+ο
 
+τ
 
 
 
+τ
 
 
+δ
 
+irregular
 
 
 
 
 
+ο
 
 
 
@@ -55429,17 +67082,24 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
+ο
 
+α
 
 
+ς
 
 
 
+α
 
+α
 
 
 
@@ -55457,12 +67117,19 @@ superlative
 
 
 
+ι
 
 
 
+ο
 
+ο
 
+ο
+irregular
 
+ι
+ι
 
 
 
@@ -55478,84 +67145,120 @@ superlative
 
 
 
+ρ
+ο
 
+α
 
 
 
 
+α
 
 
 
 
 
 
+δ
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
+ι
+α
+ο
 
+ς
 
 
+ο
 
 
 
+τ
 
 
 
 
+δ
 
+ο
+irregular
 
 
+α
+τ
 
+α
 
+irregular
 
 
+τ
 
 
 
 
+α
 
 
 
+irregular
 
 
+ς
 
 
 
+δ
 
+ο
 
 
 
 
+ο
+α
 
 
 
 
+α
 
+α
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -55565,28 +67268,36 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+τ
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -55604,9 +67315,12 @@ superlative
 
 
 
+α
 
+τ
 
 
+irregular
 
 
 
@@ -55617,11 +67331,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -55630,6 +67346,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -55638,14 +67355,19 @@ superlative
 
 
 
+τ
+ο
 
 
+δ
 
 
 
+irregular
 
 
 
+α
 
 
 
@@ -55654,12 +67376,14 @@ superlative
 
 
 
+δ
 
 
 
 
 
 
+ο
 
 
 
@@ -55668,13 +67392,16 @@ superlative
 
 
 
+irregular
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -55684,18 +67411,25 @@ superlative
 
 
 
+ρ
 
+ο
 
+ο
 
+τ
 
 
 
+ο
 
 
 
 
 
 
+α
+ν
 
 
 
@@ -55707,28 +67441,38 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
+ς
+irregular
 
 
+irregular
 
 
 
 
+υ
 
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
+α
 
 
 
@@ -55736,13 +67480,17 @@ superlative
 
 
 
+ς
 
 
+ι
+τ
 
 
 
 
 
+τ
 
 
 
@@ -55750,6 +67498,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -55757,24 +67506,34 @@ superlative
 
 
 
+ι
 
+ο
 
+ο
 
 
 
+ρ
 
 
+ο
 
 
 
 
+ι
 
+ο
 
+ο
 
-comparative
+irregular
 
 
+α
 
+α
 
 
 
@@ -55785,63 +67544,80 @@ comparative
 
 
 
+ο
 
+ο
 
 
+τ
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ευ
 
 
 
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
+κ
 
 
 
+α
 
 
 
@@ -55851,12 +67627,16 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
+ευ
 
 
 
@@ -55872,29 +67652,37 @@ comparative
 
 
 
+irregular
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -55903,23 +67691,29 @@ comparative
 
 
 
+ο
 
 
 
 
+ευ
 
+α
 
 
 
 
 
 
+τ
 
 
 
 
 
+τ
 
+α
 
 
 
@@ -55927,50 +67721,70 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+ο
 
+ο
 
+ρ
 
 
+irregular
 
 
 
 
 
+ο
 
 
+ο
+ο
 
+ρ
 
 
 
 
 
 
+α
 
 
 
+ι
+α
 
 
 
+ρ
 
+τ
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -55987,39 +67801,51 @@ comparative
 
 
 
+ο
+ο
+τ
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+irregular
+α
 
 
 
 
+ο
 
 
 
-comparative
 
 
 
 
 
+α
 
+α
 
 
 
 
 
 
+irregular
+ο
 
 
 
@@ -56037,12 +67863,17 @@ comparative
 
 
 
+α
 
+ο
 
 
+α
 
+α
 
 
+ο
 
 
 
@@ -56061,6 +67892,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -56069,15 +67901,19 @@ comparative
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -56094,13 +67930,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+τ
 
+irregular
 
 
 
@@ -56109,32 +67948,44 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+τ
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
+irregular
 
 
 
+α
 
 
 
+α
 
+ο
 
+α
 
 
 
@@ -56142,16 +67993,20 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ς
 
+α
 
 
 
@@ -56159,121 +68014,177 @@ comparative
 
 
 
+ο
 
+ο
 
+α
 
 
+ο
+irregular
 
 
 
 
 
+τ
 
+α
 
 
 
 
+α
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
+ς
 
 
+ο
+irregular
 
+ι
 
+τ
 
 
+ο
 
+ο
 
+ρ
 
+ν
 
+α
 
+ο
+ο
+ευ
 
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
+ο
 
+ο
 
 
 
 
+ο
 
+α
 
+τ
 
 
 
+ο
 
+ευ
 
 
+ι
+ο
 
 
+ι
 
+ι
 
+τ
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
+ο
 
+ευ
 
 
 
+α
 
+α
 
 
+ο
 
 
 
 
 
+α
 
 
+τ
 
 
 
 
+irregular
 
 
 
 
 
+τ
 
 
+υ
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ευ
 
 
 
@@ -56282,37 +68193,48 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
+ο
 
 
 
 
+τ
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
+ο
 
 
 
+ο
 
 
 
 
+ς
 
 
 
+υ
 
 
 
@@ -56322,13 +68244,18 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+ο
+ο
 
 
 
+ευ
 
 
 
@@ -56336,17 +68263,24 @@ comparative
 
 
 
+irregular
+ο
 
+ρ
 
 
+ο
 
+α
 
 
+ρ
 
 
 
 
 
+α
 
 
 
@@ -56360,14 +68294,17 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -56375,6 +68312,8 @@ comparative
 
 
 
+α
+ο
 
 
 
@@ -56383,11 +68322,13 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
@@ -56398,48 +68339,60 @@ comparative
 
 
 
+α
 
 
 
+τ
+δ
 
 
 
 
 
+ι
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+τ
 
 
 
+α
 
 
 
 
 
 
+ς
 
 
 
+ς
 
 
 
 
 
 
+ο
 
 
 
@@ -56450,10 +68403,13 @@ comparative
 
 
 
+ο
 
 
 
 
+α
+α
 
 
 
@@ -56463,6 +68419,7 @@ comparative
 
 
 
+α
 
 
 
@@ -56473,16 +68430,20 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -56491,43 +68452,58 @@ comparative
 
 
 
+ι
 
 
 
 
+ι
 
+α
 
 
+ευ
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+ι
 
 
 
 
+τ
 
+ρ
 
 
 
 
 
+ο
 
+ο
 
 
+ρ
 
 
 
@@ -56537,6 +68513,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -56544,6 +68521,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -56551,22 +68529,27 @@ comparative
 
 
 
+ρ
 
 
 
 
+α
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
@@ -56576,11 +68559,15 @@ comparative
 
 
 
+τ
 
 
 
+α
+ο
 
 
+ο
 
 
 
@@ -56588,22 +68575,29 @@ comparative
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ευ
 
 
+ο
 
 
 
@@ -56612,12 +68606,15 @@ comparative
 
 
 
+ς
 
 
 
+ρ
 
 
 
+ς
 
 
 
@@ -56626,52 +68623,68 @@ comparative
 
 
 
+ο
 
+υ
 
 
 
 
+ο
 
 
+ν
 
 
 
+ο
 
+ρ
 
 
 
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
 
+υ
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
@@ -56680,6 +68693,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -56689,11 +68703,15 @@ comparative
 
 
 
+ο
 
 
+ο
 
+ρ
 
 
+α
 
 
 
@@ -56702,6 +68720,7 @@ comparative
 
 
 
+α
 
 
 
@@ -56709,7 +68728,10 @@ comparative
 
 
 
+α
 
+irregular
+ο
 
 
 
@@ -56726,7 +68748,9 @@ comparative
 
 
 
+ντ
 
+α
 
 
 
@@ -56735,25 +68759,31 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+υ
 
 
+ο
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ς
 
 
 
@@ -56761,23 +68791,35 @@ comparative
 
 
 
+ς
 
+ο
 
+γ
+ρ
+ο
 
 
+υ
 
 
 
+τ
 
 
 
 
 
+α
+ο
 
 
+ο
 
+ρ
 
 
+ο
 
 
 
@@ -56786,6 +68828,7 @@ comparative
 
 
 
+υ
 
 
 
@@ -56793,26 +68836,35 @@ comparative
 
 
 
+ο
 
 
+τ
 
+δ
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ι
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
@@ -56825,52 +68877,73 @@ comparative
 
 
 
+ο
 
 
+υ
 
 
 
 
 
 
+ντ
 
+α
 
 
+ο
 
+ντ
 
+α
 
 
+ρ
+ο
 
 
 
 
 
+ο
 
 
 
 
+τ
 
+ο
 
+α
+ο
 
 
 
+α
 
 
 
 
+ς
 
 
 
 
+υ
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
@@ -56880,22 +68953,27 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ς
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -56905,6 +68983,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -56912,23 +68991,29 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+υ
 
 
 
 
 
+α
+ο
 
 
 
@@ -56938,48 +69023,66 @@ comparative
 
 
 
+α
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
+ρ
 
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
+ο
 
+α
 
+ο
 
+α
 
 
+ς
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
@@ -56988,10 +69091,14 @@ comparative
 
 
 
+ν
 
+α
 
+ο
 
 
+ρ
 
 
 
@@ -57001,10 +69108,12 @@ comparative
 
 
 
+υ
 
 
 
 
+ο
 
 
 
@@ -57012,32 +69121,46 @@ comparative
 
 
 
+ρ
 
 
+irregular
 
 
+ι
 
+ς
 
 
 
+ο
 
+ο
 
+ρ
 
 
 
+α
 
 
 
+ι
 
 
+ο
 
 
 
+τ
 
+ο
 
+ν
 
 
 
+ο
 
 
 
@@ -57047,23 +69170,34 @@ comparative
 
 
 
+α
 
 
+ο
 
+ο
 
 
+α
+ο
 
+δ
 
 
+ο
 
 
 
+ο
 
 
+ο
 
+ι
 
 
 
+ρ
 
 
 
@@ -57071,25 +69205,30 @@ comparative
 
 
 
-comparative
+α
 
 
+τ
 
 
 
+τ
 
 
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
+ρ
 
 
 
@@ -57097,17 +69236,23 @@ comparative
 
 
 
+ι
 
 
 
 
 
+α
 
+ευ
 
 
 
 
+ο
 
+α
+ο
 
 
 
@@ -57116,43 +69261,57 @@ comparative
 
 
 
+α
 
 
 
 
+ντ
 
 
 
 
 
+τ
 
 
 
 
+ο
 
+α
+ο
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
+τ
 
 
 
@@ -57163,105 +69322,144 @@ comparative
 
 
 
+ι
 
 
 
+ρ
 
 
+ο
 
 
 
+δ
+α
 
+ο
 
 
 
+ο
 
 
 
+ο
+irregular
 
 
+τ
 
 
 
 
+τ
 
+α
 
+ο
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
 
+α
+ο
 
 
 
+α
 
 
+τ
 
 
 
 
 
+α
 
+α
 
+α
 
 
+ο
 
 
 
+ο
+irregular
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
+irregular
 
+irregular
 
 
+α
 
 
 
 
 
 
-superlative
 
+ο
+ο
 
 
 
 
+ι
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -57270,14 +69468,17 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
+α
 
 
 
@@ -57289,19 +69490,27 @@ superlative
 
 
 
+α
 
 
+ι
 
+irregular
 
 
+τ
+ν
 
 
 
+ι
 
 
 
 
+ς
 
+α
 
 
 
@@ -57318,7 +69527,9 @@ superlative
 
 
 
+ι
 
+ο
 
 
 
@@ -57328,24 +69539,35 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
+τ
+irregular
+ο
 
+irregular
 
 
+irregular
 
 
+ν
 
 
 
@@ -57354,9 +69576,12 @@ superlative
 
 
 
+ο
 
 
+ο
 
+ι
 
 
 
@@ -57364,15 +69589,22 @@ superlative
 
 
 
+τ
+ο
 
 
 
+α
 
+ο
 
+ο
 
 
 
+ο
 
+α
 
 
 
@@ -57380,6 +69612,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -57394,95 +69627,129 @@ superlative
 
 
 
+τ
 
+ο
+irregular
 
 
 
+ρ
 
 
 
 
+τ
 
 
 
 
+ν
 
 
 
+ι
 
+ρ
 
+ο
 
 
+τ
 
 
+τ
 
 
 
 
+α
 
 
 
 
 
 
+ρ
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
+α
 
+ο
 
 
+τ
 
 
 
 
+δ
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
+α
 
 
 
+α
+α
 
+α
+α
 
 
 
 
 
 
+ν
 
 
 
@@ -57490,6 +69757,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -57504,27 +69772,39 @@ superlative
 
 
 
+ο
 
+ο
 
 
+τ
 
 
+α
 
+α
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
 
+τ
 
+α
 
 
 
@@ -57533,16 +69813,25 @@ superlative
 
 
 
+irregular
+π
+ο
+α
+α
+α
+π
 
 
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -57550,26 +69839,35 @@ superlative
 
 
 
+τ
 
 
 
 
+α
+α
 
 
 
+τ
 
+ο
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+α
 
+α
 
 
 
@@ -57592,22 +69890,28 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
@@ -57617,13 +69921,17 @@ superlative
 
 
 
+τ
 
 
 
+ι
 
+ι
 
 
 
+α
 
 
 
@@ -57631,19 +69939,23 @@ superlative
 
 
 
-superlative
+α
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -57655,28 +69967,36 @@ superlative
 
 
 
+ο
 
+τ
 
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
+ο
 
+ρ
 
 
 
@@ -57685,15 +70005,19 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ρ
 
 
+ο
 
 
+ο
 
 
 
@@ -57702,59 +70026,82 @@ superlative
 
 
 
+ρ
+τ
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
+ο
 
 
+α
 
+ο
 
 
+α
 
+ο
 
 
+ευ
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
+irregular
 
 
+irregular
 
 
 
+τ
 
 
 
@@ -57763,17 +70110,22 @@ superlative
 
 
 
+ο
 
 
 
 
+τ
 
 
+ο
 
 
 
 
+α
 
+α
 
 
 
@@ -57785,10 +70137,12 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -57798,6 +70152,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -57808,6 +70163,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -57816,16 +70172,20 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
@@ -57834,8 +70194,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -57847,50 +70209,72 @@ superlative
 
 
 
+α
 
+ο
+τ
+α
 
 
 
 
 
+τ
 
+ο
+α
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
+α
+ο
+τ
+ευ
 
 
 
 
 
+irregular
+α
+τ
 
 
 
 
+ρ
 
 
 
 
+α
+ο
 
 
 
 
 
+irregular
 
 
 
@@ -57899,34 +70283,45 @@ superlative
 
 
 
+τ
 
 
 
+α
 
 
+ευ
 
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
+ς
+α
 
 
 
 
 
 
+τ
 
 
+ς
 
 
+ευ
+ο
 
 
 
@@ -57938,35 +70333,44 @@ superlative
 
 
 
+τ
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ρ
 
 
+ο
 
+ο
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -57974,7 +70378,9 @@ superlative
 
 
 
+ο
 
+δ
 
 
 
@@ -57982,24 +70388,32 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
+α
+α
 
 
 
 
 
+α
 
 
+irregular
 
 
 
 
+ο
 
+ο
 
 
 
@@ -58013,9 +70427,11 @@ superlative
 
 
 
+τ
 
 
 
+τ
 
 
 
@@ -58028,6 +70444,8 @@ superlative
 
 
 
+ευ
+ο
 
 
 
@@ -58037,14 +70455,17 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -58054,33 +70475,44 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
 
+α
+α
 
 
+irregular
 
 
 
 
 
 
+α
 
+irregular
 
 
+ς
 
 
 
 
+δ
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -58089,20 +70521,25 @@ superlative
 
 
 
+α
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -58110,9 +70547,12 @@ superlative
 
 
 
+ο
 
 
 
+τ
+irregular
 
 
 
@@ -58121,16 +70561,20 @@ superlative
 
 
 
+τ
 
 
 
+τ
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -58139,34 +70583,47 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
+α
 
+α
 
+α
 
 
 
 
+ο
 
+ο
 
 
+ι
 
 
+τ
 
 
 
+ο
 
 
 
@@ -58177,14 +70634,20 @@ superlative
 
 
 
+α
 
 
 
+ο
 
+τ
+α
 
+ς
 
 
 
+ο
 
 
 
@@ -58192,8 +70655,12 @@ superlative
 
 
 
+ο
+α
 
 
+irregular
+ο
 
 
 
@@ -58207,31 +70674,41 @@ superlative
 
 
 
+α
 
 
+ν
 
 
 
 
+ο
 
+α
 
 
 
+α
+τ
 
 
 
 
+δ
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -58240,18 +70717,24 @@ superlative
 
 
 
+ο
 
 
 
+α
 
+α
 
+α
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
@@ -58262,6 +70745,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -58269,34 +70753,42 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ν
 
+ο
 
 
 
 
 
 
+δ
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
@@ -58304,14 +70796,17 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
@@ -58320,6 +70815,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -58329,22 +70825,34 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
+α
 
 
 
+α
 
 
+ν
+ευ
+irregular
 
 
 
+α
+τ
+ο
+α
 
+α
 
 
 
@@ -58352,32 +70860,43 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+α
 
 
+α
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -58388,45 +70907,61 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
+irregular
 
+α
 
 
+ν
 
 
 
+ο
 
 
 
 
+ν
+ευ
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
 
@@ -58439,6 +70974,7 @@ superlative
 
 
 
+α
 
 
 
@@ -58446,12 +70982,16 @@ superlative
 
 
 
+ι
 
 
+ο
 
 
+τ
 
 
+α
 
 
 
@@ -58465,42 +71005,55 @@ superlative
 
 
 
+ι
 
 
 
+ο
 
 
 
+ς
 
 
+α
 
 
+α
 
 
 
+α
 
 
 
 
-superlative
 
 
 
+ο
 
+α
 
+ο
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -58509,6 +71062,7 @@ superlative
 
 
 
+α
 
 
 
@@ -58516,6 +71070,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -58529,48 +71084,63 @@ superlative
 
 
 
+ς
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
+irregular
 
 
 
 
+ο
 
 
+α
 
+ν
 
 
 
+ν
 
 
 
 
+ν
 
 
+ο
 
 
 
 
+ο
 
 
 
+τ
 
 
+τ
 
+irregular
 
 
 
@@ -58589,8 +71159,10 @@ superlative
 
 
 
+ο
 
 
+irregular
 
 
 
@@ -58599,33 +71171,42 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
+α
+irregular
 
 
 
 
+ο
 
 
 
 
 
+ς
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -58642,8 +71223,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -58652,8 +71235,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -58671,15 +71256,19 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
+δ
 
 
 
+ο
 
 
 
@@ -58687,6 +71276,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -58705,6 +71295,7 @@ superlative
 
 
 
+irregular
 
 
 
@@ -58712,12 +71303,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -58726,52 +71319,70 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
+τ
 
 
 
+ο
 
 
 
+α
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
 
+ν
 
 
+ο
 
 
 
+α
+ν
+ευ
 
+α
 
 
 
@@ -58788,6 +71399,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -58796,51 +71408,71 @@ superlative
 
 
 
+ο
 
 
+ο
 
+τ
 
 
+α
 
 
 
 
+α
 
+ο
 
 
 
+ς
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
+irregular
+ο
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+α
 
 
 
+α
 
 
+τ
 
 
+α
+irregular
 
 
 
@@ -58848,8 +71480,11 @@ superlative
 
 
 
+ο
+τ
 
 
+ι
 
 
 
@@ -58863,31 +71498,38 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
 
 
+α
 
 
 
+τ
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -58896,11 +71538,14 @@ superlative
 
 
 
+ο
 
+ρ
 
 
 
 
+ο
 
 
 
@@ -58918,6 +71563,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -58927,16 +71573,22 @@ superlative
 
 
 
+ο
+α
 
 
 
 
 
 
+α
 
+ι
+α
 
 
 
+τ
 
 
 
@@ -58946,10 +71598,13 @@ superlative
 
 
 
+ο
 
+τ
 
 
 
+τ
 
 
 
@@ -58957,33 +71612,43 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ς
 
+α
 
 
+τ
 
 
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
+ρ
 
 
 
@@ -58993,6 +71658,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -59004,46 +71670,62 @@ superlative
 
 
 
+τ
+irregular
+ο
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
+ς
 
 
+ο
 
+ο
 
 
 
+ο
 
+τ
 
 
 
 
 
+α
 
 
 
 
+irregular
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -59051,24 +71733,31 @@ superlative
 
 
 
+ι
+α
 
 
 
 
+ι
+τ
 
+ς
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
 
 
-superlative
 
 
 
@@ -59077,25 +71766,33 @@ superlative
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -59104,15 +71801,19 @@ superlative
 
 
 
+τ
 
 
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
@@ -59128,23 +71829,28 @@ superlative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -59157,32 +71863,41 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
+irregular
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ν
 
 
+ο
 
 
+τ
 
 
 
@@ -59192,6 +71907,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -59201,6 +71917,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -59210,38 +71927,50 @@ superlative
 
 
 
+α
 
 
 
+τ
 
+ο
 
 
+α
 
 
+ρ
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
+irregular
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -59249,13 +71978,18 @@ superlative
 
 
 
+ο
 
 
 
 
+ς
 
+ο
 
+α
 
+α
 
 
 
@@ -59263,16 +71997,22 @@ superlative
 
 
 
+ι
 
 
 
+ο
 
 
+α
 
+ο
 
+α
 
 
 
+ο
 
 
 
@@ -59282,131 +72022,179 @@ superlative
 
 
 
+irregular
+ο
 
+ο
 
 
 
+α
 
 
 
 
+ν
 
 
+ο
+irregular
 
 
+ρ
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+τ
 
+α
 
 
 
+τ
 
 
 
 
+α
 
+α
 
 
 
 
 
+ι
 
 
+ο
 
 
 
 
 
+ι
 
+α
 
 
+ο
 
 
+irregular
 
 
 
+τ
 
 
+ι
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+α
 
+α
+ο
 
 
 
 
+α
 
 
+τ
+α
 
+α
 
 
 
 
 
+τ
+ο
 
 
 
+τ
+ο
 
 
 
 
 
 
+α
 
 
 
-comparative
+ο
 
 
+α
 
 
 
-comparative
 
 
 
 
+α
 
 
 
 
 
+α
+ο
 
 
 
@@ -59415,22 +72203,34 @@ comparative
 
 
 
+ρ
+α
 
+ο
 
 
 
 
+ο
 
+α
 
+ευ
 
+ρ
 
 
 
 
 
+α
 
 
+ο
 
+ο
+α
+α
 
 
 
@@ -59441,8 +72241,10 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
@@ -59450,8 +72252,11 @@ comparative
 
 
 
+α
 
 
+ο
+α
 
 
 
@@ -59461,20 +72266,26 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
+α
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -59483,51 +72294,70 @@ comparative
 
 
 
+α
 
+irregular
 
 
 
+ο
 
 
 
+α
 
+ι
 
+κ
 
 
 
+α
 
 
+α
 
 
+ο
+ο
 
 
+τ
 
 
 
+τ
 
 
 
+α
 
+ο
 
 
 
 
 
+ς
 
 
 
 
+ι
 
 
+ρ
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -59537,6 +72367,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -59554,23 +72385,28 @@ comparative
 
 
 
+ο
 
 
+τ
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+ι
 
 
 
@@ -59578,16 +72414,18 @@ comparative
 
 
 
+α
 
 
-comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -59598,16 +72436,22 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ρ
+α
 
 
 
+α
 
+ο
 
 
 
@@ -59615,10 +72459,15 @@ comparative
 
 
 
+α
 
+α
 
+ρ
+α
 
 
+ο
 
 
 
@@ -59629,25 +72478,36 @@ comparative
 
 
 
+α
 
+ν
 
+α
 
+τ
+α
 
 
 
+α
 
+ο
 
 
+α
 
 
 
+ν
 
 
 
 
 
+ο
 
 
+ν
 
 
 
@@ -59663,10 +72523,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -59679,37 +72541,48 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
+α
 
 
 
@@ -59718,17 +72591,21 @@ comparative
 
 
 
+κ
 
 
 
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
@@ -59738,102 +72615,142 @@ comparative
 
 
 
+ο
 
 
 
+ν
 
+ευ
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
+α
 
+τ
 
 
 
 
+τ
 
 
 
 
 
+ο
 
+ο
+α
 
 
+ο
 
 
 
 
+ο
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
+ο
 
 
+τ
 
 
+α
 
+α
 
 
+ο
 
 
 
+α
 
 
 
+α
+α
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
+α
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
@@ -59844,6 +72761,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -59853,64 +72771,96 @@ comparative
 
 
 
+τ
 
 
+α
 
 
 
 
+ο
 
 
 
+ν
 
 
+ο
 
+ο
 
 
+α
 
 
 
 
 
+α
+α
 
 
 
 
+ο
 
+ο
 
+irregular
 
+ο
+α
 
 
+τ
+irregular
 
 
 
 
+ο
+ο
+ο
+irregular
 
 
 
+α
 
+ο
 
 
 
+ο
 
+ο
 
 
 
+α
 
+ο
 
 
 
 
+τ
 
 
 
 
+ο
 
 
+ι
+ο
 
 
 
+ο
 
+τ
 
 
 
@@ -59919,21 +72869,29 @@ comparative
 
 
 
+ο
 
 
+α
+ο
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ρ
+ο
 
 
 
@@ -59942,103 +72900,143 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+υ
 
+ς
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
+α
 
+α
+α
 
 
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
+α
 
 
 
-comparative
 
 
 
+α
 
+α
 
+ο
 
 
 
 
+ι
 
+ο
 
 
+α
 
 
+ο
 
 
 
+irregular
+ο
 
 
 
 
 
+ο
+ι
 
 
+ο
 
 
 
+ο
 
 
 
+ρ
 
+irregular
+α
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
+α
 
+α
+ο
 
 
+ν
 
 
 
@@ -60047,6 +73045,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -60054,13 +73053,17 @@ comparative
 
 
 
+ς
 
 
+α
 
 
 
+α
 
 
+ς
 
 
 
@@ -60068,19 +73071,27 @@ comparative
 
 
 
+α
 
 
+α
 
 
+ευ
 
 
 
 
+ο
 
 
+ο
 
+irregular
 
+α
 
+ς
 
 
 
@@ -60090,6 +73101,7 @@ comparative
 
 
 
+ευ
 
 
 
@@ -60099,33 +73111,49 @@ comparative
 
 
 
+irregular
 
 
+α
 
 
 
 
 
+τ
 
 
 
+ο
 
 
+τ
 
+α
 
 
 
+ρ
+irregular
 
+α
 
+ο
 
+ο
 
+τ
+α
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
@@ -60144,8 +73172,14 @@ comparative
 
 
 
+τ
 
+δ
 
+irregular
+ο
+ο
+ς
 
 
 
@@ -60153,33 +73187,44 @@ comparative
 
 
 
+ο
 
 
+ο
 
+α
 
 
 
 
 
 
+τ
 
 
+ντ
 
 
 
 
 
+α
 
+α
 
 
 
+ο
 
 
 
 
 
+α
+ο
 
 
+ο
 
 
 
@@ -60193,10 +73238,13 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
@@ -60204,19 +73252,24 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
+τ
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -60224,21 +73277,28 @@ comparative
 
 
 
+ρ
+α
 
 
 
 
+ο
 
 
+ο
 
 
+irregular
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -60256,6 +73316,7 @@ comparative
 
 
 
+α
 
 
 
@@ -60277,36 +73338,47 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
+ο
+α
 
 
 
 
 
+ρ
 
 
 
+α
 
 
 
+ο
 
-comparative
 
 
+α
 
 
 
 
+irregular
+ο
 
 
 
 
+ι
+α
 
 
 
@@ -60315,6 +73387,8 @@ comparative
 
 
 
+ο
+υ
 
 
 
@@ -60330,18 +73404,23 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
@@ -60357,13 +73436,16 @@ comparative
 
 
 
+ο
 
 
 
+τ
 
 
 
 
+α
 
 
 
@@ -60371,45 +73453,58 @@ comparative
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
-comparative
 
 
 
 
+ι
 
+ο
 
 
 
+ο
 
 
 
+ι
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -60417,7 +73512,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -60428,87 +73525,114 @@ comparative
 
 
 
+α
 
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
+τ
+ς
 
 
 
 
+α
 
 
 
+α
 
 
 
+ς
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
 
 
 
+ι
 
 
+ο
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+δ
 
 
 
 
+ο
 
 
+α
 
+α
 
+τ
 
 
 
 
+ο
 
 
 
@@ -60516,6 +73640,7 @@ comparative
 
 
 
+α
 
 
 
@@ -60526,7 +73651,9 @@ comparative
 
 
 
+ν
 
+ς
 
 
 
@@ -60535,36 +73662,47 @@ comparative
 
 
 
+α
 
+ς
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
+ι
 
 
+ο
 
+τ
 
 
 
+ρ
 
 
 
 
+ς
 
+ι
 
 
 
-comparative
 
 
 
@@ -60573,15 +73711,19 @@ comparative
 
 
 
+ο
 
 
 
+α
 
+ς
 
 
 
 
 
+ντ
 
 
 
@@ -60591,8 +73733,12 @@ comparative
 
 
 
+ι
 
+α
+α
 
+α
 
 
 
@@ -60601,12 +73747,17 @@ comparative
 
 
 
+irregular
 
 
+α
 
+δ
 
 
 
+α
+ρ
 
 
 
@@ -60614,6 +73765,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -60622,13 +73774,16 @@ comparative
 
 
 
+ι
 
 
 
 
+α
 
 
 
+δ
 
 
 
@@ -60637,59 +73792,81 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
+irregular
 
 
+ο
+α
 
 
 
 
 
 
+ο
 
 
+ευ
 
+irregular
 
 
-superlative
 
 
+ι
+ο
 
+τ
 
 
+ν
 
 
 
+ο
 
 
 
 
 
+ο
+α
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
@@ -60698,6 +73875,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -60706,15 +73884,18 @@ superlative
 
 
 
+ο
 
 
 
 
-comparative
+ο
 
 
+α
 
 
+α
 
 
 
@@ -60724,11 +73905,14 @@ comparative
 
 
 
+α
 
 
 
+ς
 
 
+ο
 
 
 
@@ -60738,12 +73922,17 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+α
 
+α
 
+α
 
 
 
@@ -60751,6 +73940,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -60758,38 +73948,48 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
 
 
 
+α
 
+α
 
 
 
+ι
 
 
 
@@ -60797,61 +73997,82 @@ comparative
 
 
 
+α
 
 
+ο
 
 
+α
 
 
+α
 
+α
 
 
 
+ι
 
 
 
 
+ι
 
 
 
 
 
+α
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
+ο
 
 
+α
 
 
 
+α
 
 
 
 
+ι
 
+ο
 
 
+ο
 
 
 
@@ -60859,51 +74080,68 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ς
+α
+ι
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ς
 
+υ
 
 
 
 
 
+ι
 
+ι
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
+α
 
 
 
@@ -60911,11 +74149,14 @@ comparative
 
 
 
+ο
 
 
 
+τ
 
 
+τ
 
 
 
@@ -60923,26 +74164,36 @@ comparative
 
 
 
+α
 
 
 
+α
 
+α
 
 
+α
 
+ς
 
 
+α
 
 
 
+ο
 
 
 
+τ
 
 
 
+α
 
 
+ο
 
 
 
@@ -60950,6 +74201,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -60959,7 +74211,9 @@ comparative
 
 
 
+ι
 
+ο
 
 
 
@@ -60970,47 +74224,64 @@ comparative
 
 
 
+ο
+υ
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ι
 
 
+ο
 
 
 
+irregular
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
+τ
 
 
 
+ς
 
+ο
 
+ο
 
 
 
 
+α
+ο
 
 
 
 
+τ
 
 
 
@@ -61025,21 +74296,28 @@ comparative
 
 
 
+ι
 
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
+α
 
 
 
+ρ
 
 
 
@@ -61048,26 +74326,37 @@ comparative
 
 
 
+ι
 
+ο
+irregular
 
 
 
 
+ο
 
 
 
 
 
+ς
 
 
+α
 
+ο
 
 
 
 
+ο
+ο
 
+τ
 
 
+ς
 
 
 
@@ -61076,7 +74365,10 @@ comparative
 
 
 
+ο
 
+irregular
+ο
 
 
 
@@ -61084,16 +74376,22 @@ comparative
 
 
 
+ο
 
 
 
+ς
+ο
 
+τ
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -61102,6 +74400,7 @@ comparative
 
 
 
+α
 
 
 
@@ -61119,22 +74418,28 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+ς
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+ν
 
 
 
@@ -61143,72 +74448,102 @@ comparative
 
 
 
+ς
 
 
 
+ο
 
 
 
 
 
 
+τ
 
+ο
 
 
+α
 
 
 
 
+τ
+υ
 
 
+α
 
 
+ι
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
+irregular
 
 
 
 
+α
 
 
+ο
 
+α
+α
 
 
+α
 
+α
+irregular
 
 
 
+ο
 
 
+ρ
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
+α
 
+α
+ο
 
 
+ς
 
 
 
@@ -61218,8 +74553,10 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
@@ -61229,6 +74566,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -61236,26 +74574,38 @@ comparative
 
 
 
+α
 
+ο
+ο
 
 
+α
 
 
 
+τ
 
+ο
 
+irregular
+ο
 
 
+α
 
+α
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -61264,6 +74614,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -61271,9 +74622,11 @@ comparative
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -61287,41 +74640,56 @@ comparative
 
 
 
+α
 
 
 
+ς
 
 
+α
 
 
 
 
 
+ι
+α
 
 
+α
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
@@ -61330,32 +74698,45 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
+α
+ο
 
 
 
 
+ο
 
+ι
 
 
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
+ο
+ο
 
 
 
@@ -61363,17 +74744,20 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -61381,47 +74765,71 @@ comparative
 
 
 
+α
 
 
+ο
 
 
+ο
+ο
 
 
+α
 
 
 
+ι
 
+ο
 
 
+ο
 
 
 
+α
 
+α
 
 
+α
 
 
 
 
+α
 
 
+α
 
 
+α
 
 
 
+τ
+ο
+ο
+irregular
 
 
+ρ
 
+ν
 
 
 
 
 
+α
 
+ο
+ο
 
 
 
+ο
 
 
 
@@ -61436,74 +74844,101 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ν
 
+ρ
 
 
 
 
 
 
+ι
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+α
 
 
+ι
 
 
 
+ο
 
+α
 
 
 
+α
 
 
+α
 
 
 
 
+τ
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+τ
+irregular
 
 
 
+α
 
 
+δ
 
+τ
 
+irregular
 
+ο
 
+irregular
+ν
 
 
 
@@ -61514,79 +74949,110 @@ comparative
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+δ
 
 
+α
 
 
 
 
 
+ι
 
 
+ο
 
 
 
 
+δ
+α
+ι
+α
 
 
 
 
 
+ι
 
+α
 
 
 
+α
 
+ο
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
 
 
+irregular
 
 
+irregular
+τ
+α
+ι
+ι
+α
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -61595,10 +75061,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -61610,46 +75078,64 @@ comparative
 
 
 
+α
+α
 
 
+τ
+ν
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
+ο
 
+ο
 
 
 
 
 
 
+ο
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
+τ
 
 
 
 
+τ
+irregular
+ο
 
 
 
@@ -61657,38 +75143,50 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
+δ
 
+α
 
 
 
+ο
 
 
+α
 
 
 
+α
 
 
+ντ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ι
 
 
 
 
+ς
 
 
 
@@ -61701,27 +75199,34 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+α
 
 
+κ
 
 
 
 
+α
 
 
 
@@ -61729,60 +75234,80 @@ comparative
 
 
 
+α
 
 
+δ
 
 
 
 
+ο
 
 
 
+ο
+ο
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+κ
 
 
 
 
+α
 
+α
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
+α
 
 
 
@@ -61794,18 +75319,22 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -61818,22 +75347,28 @@ comparative
 
 
 
+ο
+irregular
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -61841,10 +75376,13 @@ comparative
 
 
 
+α
 
+irregular
 
 
 
+α
 
 
 
@@ -61858,31 +75396,42 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
+α
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
+κ
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -61890,8 +75439,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -61899,10 +75450,12 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -61918,8 +75471,11 @@ comparative
 
 
 
+ο
 
+ο
 
+τ
 
 
 
@@ -61937,28 +75493,36 @@ comparative
 
 
 
+ι
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ι
 
 
+α
 
 
+α
 
 
+α
 
 
 
@@ -61966,21 +75530,25 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -61992,7 +75560,9 @@ comparative
 
 
 
+ο
 
+irregular
 
 
 
@@ -62005,12 +75575,17 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
+ν
+ς
 
+irregular
 
 
 
@@ -62024,33 +75599,42 @@ comparative
 
 
 
+irregular
 
 
 
 
 
 
+ι
 
 
 
+α
+ν
 
 
 
 
 
+ο
 
 
 
 
 
+ν
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
@@ -62058,20 +75642,27 @@ comparative
 
 
 
+ν
 
 
 
 
 
+τ
+ρ
 
+ευ
 
 
 
+irregular
 
 
 
+ο
 
 
+α
 
 
 
@@ -62080,6 +75671,7 @@ comparative
 
 
 
+ν
 
 
 
@@ -62087,18 +75679,24 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
 
+ο
 
 
+α
 
+α
 
 
 
 
+α
 
 
 
@@ -62108,15 +75706,20 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
+α
 
 
+α
 
 
 
@@ -62129,9 +75732,12 @@ comparative
 
 
 
+δ
+irregular
 
 
 
+irregular
 
 
 
@@ -62140,52 +75746,67 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
-superlative
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
+α
 
 
+α
 
 
+ο
 
 
 
@@ -62196,11 +75817,14 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
+τ
 
 
 
@@ -62208,11 +75832,13 @@ superlative
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
@@ -62221,8 +75847,10 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
@@ -62230,8 +75858,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -62247,18 +75877,24 @@ superlative
 
 
 
+ο
 
+ευ
 
 
 
+irregular
 
 
+ι
 
 
 
 
 
 
+ο
+ο
 
 
 
@@ -62271,12 +75907,14 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -62305,10 +75943,14 @@ superlative
 
 
 
+ο
 
 
 
+ο
+ο
 
+irregular
 
 
 
@@ -62321,13 +75963,16 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -62337,23 +75982,30 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
+ο
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -62361,7 +76013,9 @@ superlative
 
 
 
+α
 
+α
 
 
 
@@ -62370,18 +76024,26 @@ superlative
 
 
 
+ς
+ο
 
 
 
+ο
 
+α
 
 
+ο
 
 
+α
 
+α
 
 
 
+ο
 
 
 
@@ -62412,20 +76074,31 @@ superlative
 
 
 
+α
 
 
 
 
+ς
 
+ς
 
 
 
+ο
 
 
 
+ο
 
+ο
 
+ο
+τ
+α
 
+ι
+ο
 
 
 
@@ -62433,27 +76106,36 @@ superlative
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+α
 
+α
 
+irregular
 
 
+ι
 
 
 
@@ -62462,6 +76144,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -62477,20 +76160,27 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
+α
 
+irregular
+τ
+ι
 
 
 
@@ -62500,29 +76190,39 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
 
+τ
+α
 
 
+ς
 
 
 
 
+α
 
+α
+irregular
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -62537,34 +76237,46 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
+ν
 
 
 
 
 
+α
 
 
+α
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
 
+ο
+irregular
 
 
 
@@ -62572,13 +76284,16 @@ superlative
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -62587,27 +76302,39 @@ superlative
 
 
 
+ς
 
 
 
 
 
 
+α
 
+τ
+ο
+ο
 
 
+ο
 
 
+α
 
 
 
+α
+ο
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
@@ -62620,9 +76347,13 @@ superlative
 
 
 
+ο
 
+irregular
 
+τ
 
+ο
 
 
 
@@ -62643,76 +76374,101 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
+ο
 
+ν
 
 
 
 
 
+ο
 
+ο
+ν
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+τ
 
 
+ν
 
 
 
 
 
 
+τ
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
+τ
 
 
+ο
 
+τ
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -62723,40 +76479,55 @@ superlative
 
 
 
+τ
 
 
 
+ς
 
+ο
 
 
 
+τ
 
 
 
 
+ν
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
+α
 
 
+α
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -62765,6 +76536,7 @@ superlative
 
 
 
+α
 
 
 
@@ -62773,6 +76545,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -62785,50 +76558,69 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
 
+α
 
 
 
+ο
+τ
+ευ
 
+ς
+irregular
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
+τ
 
 
 
@@ -62836,19 +76628,25 @@ superlative
 
 
 
+irregular
 
 
 
+τ
+α
 
 
 
 
 
 
+α
 
 
 
+α
 
+α
 
 
 
@@ -62856,17 +76654,22 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
@@ -62877,6 +76680,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -62886,39 +76690,49 @@ superlative
 
 
 
+α
 
 
+ο
+irregular
 
 
 
 
 
+ο
 
 
+ο
+ο
 
 
 
+ς
 
 
+ο
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
 
-comparative
 
 
 
 
 
 
+τ
 
 
 
@@ -62933,10 +76747,17 @@ comparative
 
 
 
+α
+τ
 
 
+ο
+α
 
+τ
+α
 
+ο
 
 
 
@@ -62949,45 +76770,58 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+τ
 
+ο
+irregular
 
 
 
 
+ο
+ρ
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
 
 
 
+α
 
 
+ν
 
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -62996,41 +76830,56 @@ comparative
 
 
 
+ο
 
 
+ς
 
 
 
 
 
+α
 
+α
 
 
 
+α
+ο
 
 
 
 
+ς
 
 
 
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
+ν
+ι
 
 
 
 
 
+ο
 
 
 
+ρ
+ο
 
 
 
@@ -63039,15 +76888,20 @@ comparative
 
 
 
+τ
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+τ
 
 
 
@@ -63058,39 +76912,52 @@ comparative
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
+τ
 
+ο
+irregular
 
 
 
 
+irregular
 
+ο
 
 
 
 
+α
 
+ευ
 
+ο
 
 
 
 
 
+τ
 
 
 
 
 
+irregular
 
 
 
+ο
 
 
 
@@ -63099,12 +76966,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -63119,6 +76988,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -63128,18 +76998,24 @@ comparative
 
 
 
+ν
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+τ
 
+ο
+irregular
 
 
 
@@ -63149,6 +77025,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -63158,20 +77035,27 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
+δ
 
 
 
+ς
 
+ο
 
+ο
 
 
 
@@ -63181,13 +77065,18 @@ comparative
 
 
 
+ο
 
 
+τ
 
 
+α
 
+α
 
 
+τ
 
 
 
@@ -63198,37 +77087,53 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
+ο
 
 
+τ
+ο
 
+ο
 
+δ
 
 
+α
 
 
+α
 
 
 
@@ -63236,13 +77141,17 @@ comparative
 
 
 
+α
 
+irregular
 
 
 
 
 
+α
 
+α
 
 
 
@@ -63252,21 +77161,27 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ρ
 
 
 
@@ -63275,13 +77190,18 @@ comparative
 
 
 
+ς
 
+ο
 
 
 
 
 
 
+α
+δ
+ο
 
 
 
@@ -63290,47 +77210,64 @@ comparative
 
 
 
+τ
 
 
 
 
+α
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+δ
 
 
 
 
+ι
 
+ι
 
 
 
 
 
+ο
 
+ο
 
+ο
+ν
+ο
+ο
+ο
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -63339,11 +77276,11 @@ comparative
 
 
 
-superlative
 
 
 
 
+ο
 
 
 
@@ -63353,6 +77290,7 @@ superlative
 
 
 
+α
 
 
 
@@ -63365,51 +77303,66 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
+ρ
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+δ
 
 
 
 
+ευ
 
+ο
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
+ι
+ο
 
 
 
+δ
 
 
 
@@ -63429,26 +77382,32 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -63460,13 +77419,14 @@ superlative
 
 
 
+α
 
 
 
 
 
+ι
 
-superlative
 
 
 
@@ -63477,43 +77437,55 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
+α
 
 
 
 
 
 
+α
 
 
 
+ς
 
 
 
 
+ο
 
 
 
 
+δ
 
 
+ν
 
 
+α
 
 
 
@@ -63522,55 +77494,77 @@ superlative
 
 
 
+α
 
+α
 
 
 
+α
 
 
 
+ο
+ο
 
+ευ
 
+ο
 
+ο
 
+ο
 
 
+ο
+ο
 
+ο
 
+ο
 
 
 
 
 
 
+δ
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+δ
 
+α
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
@@ -63580,41 +77574,52 @@ superlative
 
 
 
+ο
 
+ο
 
 
+δ
 
 
 
+ο
 
 
 
 
 
 
+α
+τ
+ο
 
 
+δ
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
-comparative
 
 
 
 
-superlative
 
 
+ο
 
 
 
@@ -63624,6 +77629,7 @@ superlative
 
 
 
+α
 
 
 
@@ -63633,6 +77639,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -63640,11 +77647,13 @@ superlative
 
 
 
+α
 
 
 
 
 
+δ
 
 
 
@@ -63655,6 +77664,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -63663,6 +77673,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -63671,7 +77682,6 @@ superlative
 
 
 
-superlative
 
 
 
@@ -63682,27 +77692,33 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
@@ -63710,6 +77726,7 @@ superlative
 
 
 
+α
 
 
 
@@ -63717,18 +77734,24 @@ superlative
 
 
 
+α
 
+α
 
 
+τ
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -63740,28 +77763,36 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -63779,24 +77810,33 @@ superlative
 
 
 
+ο
 
 
 
 
+ν
 
 
+ο
+α
 
+ι
 
 
+ο
 
+irregular
 
 
 
 
 
 
+τ
 
 
+τ
 
 
 
@@ -63807,36 +77847,49 @@ superlative
 
 
 
+τ
 
 
 
+ι
 
 
 
 
+ο
 
+ι
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
+irregular
 
 
+ο
 
+ι
 
+ο
 
 
 
@@ -63846,6 +77899,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -63854,17 +77908,20 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -63874,27 +77931,35 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
 
+τ
 
 
 
@@ -63903,33 +77968,42 @@ superlative
 
 
 
+ι
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
 
 
 
+α
+irregular
 
+α
 
 
 
+ο
 
 
 
@@ -63939,9 +78013,12 @@ superlative
 
 
 
+ο
 
 
+ο
 
+ι
 
 
 
@@ -63949,18 +78026,23 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -63969,6 +78051,7 @@ superlative
 
 
 
+ρ
 
 
 
@@ -63983,7 +78066,10 @@ superlative
 
 
 
+ο
 
+ο
+irregular
 
 
 
@@ -63998,6 +78084,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -64005,25 +78092,30 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -64031,6 +78123,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -64043,72 +78136,93 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
+τ
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
+ο
 
 
 
+ι
 
 
 
+τ
 
 
+ο
 
 
 
@@ -64116,6 +78230,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -64125,14 +78240,19 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+δ
 
 
 
+ο
 
+α
 
 
 
@@ -64142,11 +78262,15 @@ superlative
 
 
 
+α
 
 
 
 
+ο
+ο
 
+α
 
 
 
@@ -64157,15 +78281,22 @@ superlative
 
 
 
+ρ
 
+ο
 
 
 
+α
 
 
 
 
 
+α
+α
+τ
+ο
 
 
 
@@ -64173,31 +78304,41 @@ superlative
 
 
 
+α
 
+ο
 
 
 
+δ
 
 
+ρ
 
 
 
 
+τ
 
 
 
+irregular
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
 
+ρ
+ς
 
 
 
@@ -64213,9 +78354,11 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
 
 
@@ -64223,6 +78366,7 @@ superlative
 
 
 
+α
 
 
 
@@ -64232,11 +78376,15 @@ superlative
 
 
 
+τ
 
 
 
 
+τ
 
+ο
+irregular
 
 
 
@@ -64244,44 +78392,57 @@ superlative
 
 
 
+ο
 
+τ
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
+α
 
+α
 
 
 
 
 
 
+ν
 
+ο
 
+α
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -64297,21 +78458,27 @@ superlative
 
 
 
+ο
 
 
+ς
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
+δ
 
 
 
@@ -64320,18 +78487,23 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+α
 
 
+υ
 
 
 
+ς
 
 
 
@@ -64339,8 +78511,10 @@ superlative
 
 
 
+ο
 
 
+ς
 
 
 
@@ -64357,7 +78531,9 @@ superlative
 
 
 
+irregular
 
+α
 
 
 
@@ -64373,6 +78549,7 @@ superlative
 
 
 
+α
 
 
 
@@ -64389,10 +78566,12 @@ superlative
 
 
 
+ο
 
 
 
 
+ς
 
 
 
@@ -64402,25 +78581,34 @@ superlative
 
 
 
+τ
 
 
 
+α
 
 
+ο
 
 
+irregular
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ι
 
+α
 
+ο
 
 
 
@@ -64429,41 +78617,52 @@ superlative
 
 
 
+α
 
 
-comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ρ
 
+irregular
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
@@ -64471,21 +78670,26 @@ comparative
 
 
 
+ν
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ι
 
 
 
@@ -64493,41 +78697,54 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
+ι
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
-comparative
 
 
 
 
+ι
 
+ο
 
+α
 
 
 
+τ
 
 
 
+α
 
+α
 
 
 
@@ -64535,19 +78752,24 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
@@ -64564,6 +78786,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -64573,28 +78796,36 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
+α
 
+ο
 
 
 
+ς
 
+ο
 
 
 
@@ -64603,9 +78834,12 @@ comparative
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
@@ -64628,6 +78862,7 @@ comparative
 
 
 
+α
 
 
 
@@ -64636,17 +78871,25 @@ comparative
 
 
 
+irregular
 
+ο
 
 
 
+ο
 
+ο
 
 
 
+ευ
 
+α
 
 
+ι
+α
 
 
 
@@ -64655,60 +78898,83 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
+ρ
 
+ο
 
 
+α
 
 
 
+δ
+ο
 
+irregular
+ο
 
+ρ
 
 
 
 
 
 
+α
 
 
 
 
+δ
+ο
 
 
 
 
+α
 
 
-superlative
 
 
+irregular
 
 
 
+ο
 
+α
 
 
 
 
+ι
 
 
 
+δ
 
 
 
+α
 
 
+ο
+α
 
 
+ο
 
 
 
@@ -64717,29 +78983,39 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
+irregular
 
 
+irregular
 
 
 
+ευ
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
@@ -64748,6 +79024,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -64757,11 +79034,15 @@ superlative
 
 
 
+ο
 
+α
 
 
 
+ο
 
+τ
 
 
 
@@ -64769,8 +79050,10 @@ superlative
 
 
 
+ς
 
 
+α
 
 
 
@@ -64783,13 +79066,16 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
+ο
 
 
 
@@ -64800,9 +79086,11 @@ superlative
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -64812,14 +79100,17 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -64834,9 +79125,10 @@ superlative
 
 
 
-superlative
 
+α
 
+τ
 
 
 
@@ -64845,11 +79137,15 @@ superlative
 
 
 
+ο
+α
 
 
+irregular
 
 
 
+ο
 
 
 
@@ -64864,10 +79160,12 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -64875,12 +79173,15 @@ superlative
 
 
 
+ο
 
+ρ
 
 
 
 
 
+τ
 
 
 
@@ -64888,14 +79189,18 @@ superlative
 
 
 
+α
 
 
+τ
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -64909,23 +79214,28 @@ superlative
 
 
 
+α
 
 
 
+τ
 
 
 
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
+ι
 
 
 
@@ -64935,15 +79245,19 @@ superlative
 
 
 
+ς
 
+τ
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -64954,6 +79268,7 @@ superlative
 
 
 
+α
 
 
 
@@ -64962,7 +79277,10 @@ superlative
 
 
 
+τ
+ο
 
+ρ
 
 
 
@@ -64973,6 +79291,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -64984,6 +79303,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -64993,14 +79313,17 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -65014,23 +79337,30 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+ρ
 
 
+ο
 
 
 
 
+α
 
+γ
 
 
 
 
 
 
+α
 
 
 
@@ -65039,12 +79369,16 @@ superlative
 
 
 
+ντ
 
 
 
 
+α
 
+ο
 
+ο
 
 
 
@@ -65054,8 +79388,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -65063,12 +79399,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -65083,13 +79421,17 @@ superlative
 
 
 
+ο
 
 
+ο
 
+α
 
 
 
 
+ο
 
 
 
@@ -65106,6 +79448,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -65136,30 +79479,42 @@ superlative
 
 
 
+ευ
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
+irregular
+ο
 
 
+ι
 
 
 
+ο
 
 
 
+α
 
 
+ευ
+α
 
 
 
@@ -65167,8 +79522,10 @@ superlative
 
 
 
+τ
 
 
+ο
 
 
 
@@ -65176,6 +79533,8 @@ superlative
 
 
 
+ο
+ο
 
 
 
@@ -65184,6 +79543,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -65194,19 +79554,26 @@ superlative
 
 
 
+ευ
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
+ευ
 
 
 
+ντ
 
+ο
 
 
 
@@ -65214,20 +79581,32 @@ superlative
 
 
 
+ο
 
 
 
+ς
 
+ο
 
 
 
+ο
 
 
 
+ο
+irregular
+ο
 
+ο
 
+ο
+ο
 
+δ
 
+ι
 
 
 
@@ -65235,30 +79614,43 @@ superlative
 
 
 
+ι
 
+ο
 
+ο
 
 
 
+ς
+ο
 
 
 
 
+ι
 
+ο
 
+τ
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ευ
 
+ς
 
+ο
 
 
 
@@ -65266,24 +79658,31 @@ superlative
 
 
 
+ο
 
 
 
+τ
 
 
 
+ο
 
 
 
+ι
 
 
+ο
 
 
 
+ο
 
 
 
 
+τ
 
 
 
@@ -65294,12 +79693,15 @@ superlative
 
 
 
+α
 
 
 
+irregular
 
 
 
+ο
 
 
 
@@ -65309,15 +79711,19 @@ superlative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
+α
 
+α
 
 
 
@@ -65331,6 +79737,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -65338,14 +79745,17 @@ superlative
 
 
 
+α
 
 
 
 
+ευ
 
 
 
 
+τ
 
 
 
@@ -65354,13 +79764,16 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -65387,26 +79800,36 @@ superlative
 
 
 
+ο
 
+α
+ο
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -65420,14 +79843,18 @@ superlative
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
 
 
+ο
 
 
 
@@ -65438,10 +79865,11 @@ superlative
 
 
 
+ρ
 
 
+ο
 
-superlative
 
 
 
@@ -65464,14 +79892,15 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
-comparative
 
 
 
@@ -65485,6 +79914,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -65506,11 +79936,14 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
@@ -65524,35 +79957,53 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
 
+α
 
+ευ
 
 
+ο
 
 
 
+α
 
+irregular
+ς
 
 
 
 
 
+ο
 
 
+κ
 
+ν
 
+α
 
 
+ο
 
+ο
+ο
 
 
+ν
+κ
 
 
+irregular
 
 
 
@@ -65566,6 +80017,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -65575,6 +80027,7 @@ comparative
 
 
 
+α
 
 
 
@@ -65582,23 +80035,31 @@ comparative
 
 
 
+ο
 
 
 
 
 
+τ
 
+ο
 
 
 
 
+ο
 
+ο
 
+τ
 
 
 
+α
 
 
+irregular
 
 
 
@@ -65607,6 +80068,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -65615,38 +80077,48 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+irregular
 
 
+δ
 
 
 
 
 
+ευ
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
+ν
 
 
 
+ο
 
 
 
@@ -65654,66 +80126,85 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+α
 
 
 
 
 
+α
 
 
+ευ
+α
 
 
 
 
+ρ
+ο
 
 
 
 
+ν
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
+τ
 
 
+ς
 
 
 
 
+α
 
 
 
 
 
 
+κ
 
 
+α
 
 
 
@@ -65728,24 +80219,33 @@ comparative
 
 
 
+α
 
 
 
+irregular
 
+ο
 
 
+ι
 
 
 
 
 
 
+α
+α
 
 
 
+ο
+ι
 
 
 
+ο
 
 
 
@@ -65776,15 +80276,20 @@ comparative
 
 
 
+ο
 
 
 
+ν
 
 
 
+ς
 
 
+α
 
+ς
 
 
 
@@ -65800,29 +80305,36 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
 
+ι
 
+ο
 
 
 
+α
 
 
 
+ι
 
 
 
@@ -65839,30 +80351,38 @@ comparative
 
 
 
+ο
 
 
+ι
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+α
 
+δ
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
@@ -65875,38 +80395,48 @@ comparative
 
 
 
+ι
 
 
 
+ο
 
 
+ο
 
 
 
+ς
 
 
+α
 
 
 
+ς
 
 
 
+α
 
 
 
-comparative
 
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -65926,14 +80456,17 @@ comparative
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -65941,6 +80474,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -65951,14 +80485,18 @@ comparative
 
 
 
+κ
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -65966,10 +80504,12 @@ comparative
 
 
 
+α
 
 
 
 
+ι
 
 
 
@@ -65980,39 +80520,52 @@ comparative
 
 
 
+α
 
 
 
+κ
 
+α
 
 
+irregular
 
 
 
 
+ο
 
 
 
 
 
 
+ο
+irregular
+ι
 
 
 
 
+α
 
+α
 
 
+τ
 
 
 
 
 
+κ
 
 
 
 
 
+ο
 
 
 
@@ -66021,10 +80574,12 @@ comparative
 
 
 
+τ
 
 
 
 
+ο
 
 
 
@@ -66032,32 +80587,45 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+κ
+ο
+ο
 
 
+ι
 
 
 
 
+κ
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
+τ
 
+α
 
 
 
 
+ευ
 
 
 
@@ -66065,32 +80633,41 @@ comparative
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
 
+τ
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
 
+ς
 
 
 
@@ -66104,6 +80681,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -66111,6 +80689,7 @@ comparative
 
 
 
+α
 
 
 
@@ -66118,13 +80697,16 @@ comparative
 
 
 
+α
 
 
 
 
 
+τ
 
 
+ο
 
 
 
@@ -66133,42 +80715,52 @@ comparative
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ρ
 
 
 
+ο
 
 
 
 
+ι
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -66179,9 +80771,12 @@ comparative
 
 
 
+ο
 
 
 
+τ
+ρ
 
 
 
@@ -66201,6 +80796,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -66220,48 +80816,68 @@ comparative
 
 
 
+ρ
 
 
 
+ο
 
 
 
+ο
 
+ρ
 
 
+ρ
 
+α
 
 
 
+α
 
+ευ
 
+α
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
+ευ
 
 
 
 
+ο
 
+irregular
 
 
 
 
+κ
+ο
 
 
 
 
 
+τ
 
 
+ευ
 
 
 
@@ -66270,29 +80886,38 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ς
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
+ο
 
+α
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -66300,34 +80925,42 @@ comparative
 
 
 
+τ
 
 
 
+irregular
 
 
 
 
+ο
 
+α
 
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
@@ -66335,17 +80968,20 @@ comparative
 
 
 
+ι
 
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
@@ -66353,6 +80989,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -66361,13 +80998,17 @@ comparative
 
 
 
+ρ
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -66378,45 +81019,61 @@ comparative
 
 
 
+α
 
 
+α
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
+irregular
 
 
+α
 
+ι
 
 
 
+ο
 
 
+ο
 
 
 
+ο
+α
+ευ
 
 
 
 
 
+irregular
 
 
 
 
 
 
+ς
 
 
 
 
 
 
+τ
 
 
 
@@ -66431,6 +81088,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -66446,6 +81104,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -66457,8 +81116,11 @@ comparative
 
 
 
+ευ
+α
 
 
+ι
 
 
 
@@ -66468,15 +81130,19 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
+α
 
 
 
+ο
 
 
 
@@ -66485,8 +81151,10 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
@@ -66494,24 +81162,28 @@ comparative
 
 
 
+ευ
+α
 
 
 
 
 
-superlative
 
 
 
 
+α
 
 
 
 
 
 
+ς
 
 
+τ
 
 
 
@@ -66520,16 +81192,21 @@ superlative
 
 
 
+ι
 
 
+τ
 
 
+α
 
 
 
+ς
 
 
 
+τ
 
 
 
@@ -66543,35 +81220,48 @@ superlative
 
 
 
+ι
 
 
+α
 
+ο
 
 
 
+δ
 
 
 
+ρ
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
+irregular
 
+α
 
 
 
 
 
+δ
 
 
 
+ευ
 
 
 
@@ -66579,6 +81269,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -66588,16 +81279,19 @@ superlative
 
 
 
+τ
+irregular
 
+ο
 
 
 
 
 
 
-comparative
 
 
+τ
 
 
 
@@ -66605,19 +81299,24 @@ comparative
 
 
 
+α
 
 
 
 
+ευ
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -66633,26 +81332,36 @@ comparative
 
 
 
+ι
 
 
 
 
 
+ο
 
+α
 
+α
 
 
+ευ
+α
 
 
 
+ο
 
-comparative
+ευ
 
 
 
+τ
 
+ο
 
 
+τ
 
 
 
@@ -66664,11 +81373,15 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
+δ
+ο
 
 
 
@@ -66677,17 +81390,21 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+irregular
 
 
 
@@ -66697,6 +81414,7 @@ comparative
 
 
 
+δ
 
 
 
@@ -66705,7 +81423,9 @@ comparative
 
 
 
+α
 
+ρ
 
 
 
@@ -66718,61 +81438,84 @@ comparative
 
 
 
+ο
 
 
 
+ς
 
 
 
 
 
 
+ο
 
 
 
 
+ς
 
+τ
 
 
+α
 
+α
 
 
+ο
 
 
 
+ι
+α
 
+ο
 
 
 
+ι
 
 
 
 
+ευ
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+τ
 
 
 
+α
 
+α
 
 
+ς
 
 
 
 
 
 
+ο
 
 
+α
+ο
 
 
 
@@ -66781,15 +81524,19 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -66803,52 +81550,69 @@ comparative
 
 
 
+α
 
 
 
-comparative
 
+υ
 
 
 
+ο
 
 
 
+ι
 
+τ
 
 
 
 
+ο
 
 
+ς
 
 
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
+τ
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
+α
 
+α
+τ
 
 
 
 
 
 
+ευ
 
 
 
@@ -66865,34 +81629,42 @@ comparative
 
 
 
+α
 
 
 
+ευ
+α
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
-comparative
 
 
 
@@ -66911,15 +81683,18 @@ comparative
 
 
 
+ο
 
 
 
 
+ευ
 
 
+ν
 
 
-comparative
+α
 
 
 
@@ -66932,21 +81707,28 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
@@ -66955,15 +81737,23 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
+α
+α
+τ
+ο
+α
 
 
 
+ο
 
 
 
@@ -66971,52 +81761,71 @@ comparative
 
 
 
+α
+ο
 
 
 
 
+ο
+ν
+ευ
 
 
 
 
 
+ν
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ς
 
 
 
+α
 
+α
 
 
 
+α
 
+α
 
 
 
+α
+ο
 
 
 
 
+α
 
 
 
@@ -67024,85 +81833,112 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
+α
 
 
 
 
 
 
+ο
 
 
 
+ν
 
 
 
+ι
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
+irregular
 
 
 
+ι
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ν
 
 
+α
 
 
 
+α
 
 
 
@@ -67110,21 +81946,29 @@ comparative
 
 
 
+κ
 
+ν
 
+α
 
 
+β
 
 
+ο
 
 
+ο
 
 
+ι
 
 
 
 
 
+α
 
 
 
@@ -67132,19 +81976,24 @@ comparative
 
 
 
+ο
 
 
 
+ν
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -67155,19 +82004,24 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
+ς
 
 
 
@@ -67176,36 +82030,46 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
 
+ο
 
+ο
 
 
 
+α
+ν
 
 
 
 
 
 
+δ
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -67213,45 +82077,57 @@ comparative
 
 
 
+irregular
 
 
 
 
 
 
+α
 
 
 
+ι
 
 
 
+α
 
 
 
 
 
 
+α
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
+ρ
 
 
 
@@ -67260,6 +82136,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -67267,17 +82144,21 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -67286,31 +82167,37 @@ comparative
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
+irregular
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
 
-comparative
 
 
 
 
+α
 
 
 
@@ -67318,38 +82205,53 @@ comparative
 
 
 
+ο
 
 
+α
 
+α
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
 
+α
+ι
 
 
+α
+α
 
 
 
 
+ο
 
+α
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -67357,8 +82259,11 @@ comparative
 
 
 
+α
 
+ο
 
+α
 
 
 
@@ -67366,15 +82271,19 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
+α
 
 
 
@@ -67384,25 +82293,31 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+χ
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -67416,33 +82331,44 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
+α
 
 
+α
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -67450,46 +82376,61 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
+ο
 
 
 
+ν
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+irregular
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+α
 
 
+α
+α
 
 
 
+α
 
 
 
@@ -67497,12 +82438,15 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -67512,6 +82456,7 @@ comparative
 
 
 
+α
 
 
 
@@ -67519,6 +82464,7 @@ comparative
 
 
 
+δ
 
 
 
@@ -67526,6 +82472,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -67533,12 +82480,15 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -67547,32 +82497,43 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ς
 
 
 
+ο
+ο
 
+ς
 
 
 
 
+α
+α
 
 
+α
 
 
 
+ρ
 
 
 
@@ -67581,21 +82542,27 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
 
 
+ευ
 
 
+ο
 
 
 
 
 
+α
 
+α
 
 
 
@@ -67604,8 +82571,10 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
@@ -67635,37 +82604,50 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
+τ
+ο
 
 
 
+α
 
 
 
 
 
 
+ρ
 
+ο
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
@@ -67678,13 +82660,16 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -67693,67 +82678,92 @@ comparative
 
 
 
+α
 
 
 
+ν
 
 
+ο
 
 
 
+ο
 
+ο
+ο
 
 
 
+α
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
+ο
+ο
 
 
+α
 
 
 
+ο
 
 
+ο
 
+ς
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -67761,9 +82771,11 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -67779,18 +82791,25 @@ comparative
 
 
 
+irregular
+ο
 
 
 
 
+ο
 
 
+ς
 
 
+ο
 
+τ
 
 
 
+ρ
 
 
 
@@ -67801,6 +82820,8 @@ comparative
 
 
 
+α
+ο
 
 
 
@@ -67810,9 +82831,11 @@ comparative
 
 
 
+ρ
 
 
 
+ς
 
 
 
@@ -67821,6 +82844,7 @@ comparative
 
 
 
+α
 
 
 
@@ -67829,9 +82853,11 @@ comparative
 
 
 
+δ
 
 
 
+ι
 
 
 
@@ -67841,15 +82867,18 @@ comparative
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -67868,6 +82897,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -67878,30 +82908,39 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
+ο
 
 
 
 
 
+irregular
 
 
 
+ο
+υ
 
 
+α
 
 
 
+α
 
 
 
@@ -67919,25 +82958,33 @@ comparative
 
 
 
+ο
+τ
 
 
 
 
+τ
 
 
 
 
+α
 
+α
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -67953,25 +83000,32 @@ comparative
 
 
 
+α
 
+ο
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+τ
 
 
 
+α
 
 
 
@@ -67984,19 +83038,23 @@ comparative
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+τ
 
 
 
@@ -68006,51 +83064,84 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
+ο
+irregular
+ο
 
 
+α
 
+ο
+ο
+ο
+irregular
 
+ο
 
 
+ο
+ο
 
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
 
+τ
 
 
+κ
 
 
+ο
+ο
 
+ι
 
+τ
+α
 
+ι
 
+irregular
+ο
 
+ο
 
 
 
 
+ι
 
+α
 
+α
+ι
 
 
 
+ς
 
 
+τ
 
 
 
@@ -68058,54 +83149,77 @@ comparative
 
 
 
+irregular
+ο
 
 
 
 
+α
 
+ο
 
 
+ι
 
 
+α
 
+ο
+ρ
 
 
+ο
+irregular
+ο
 
 
 
 
+ο
 
 
+irregular
+ο
 
 
 
 
 
+ι
 
 
 
 
 
+ο
+ρ
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -68115,7 +83229,9 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
@@ -68126,6 +83242,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -68142,6 +83259,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -68151,6 +83269,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -68164,6 +83283,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -68173,6 +83293,8 @@ comparative
 
 
 
+ς
+ν
 
 
 
@@ -68180,8 +83302,8 @@ comparative
 
 
 
+α
 
-comparative
 
 
 
@@ -68191,14 +83313,19 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
+ι
 
+ο
 
 
+α
 
 
 
@@ -68206,38 +83333,54 @@ comparative
 
 
 
+ν
+α
 
+ο
 
 
 
 
+ι
 
+ι
 
 
 
 
 
 
+ι
 
 
 
+α
+ο
 
+ο
 
 
+α
 
+α
+ο
 
 
+α
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -68246,14 +83389,19 @@ comparative
 
 
 
+ι
+ο
 
+τ
 
 
 
 
 
 
+ι
 
+τ
 
 
 
@@ -68262,8 +83410,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -68271,12 +83421,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -68284,40 +83436,56 @@ comparative
 
 
 
+α
 
 
+ο
 
+τ
+ν
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
+α
 
 
+α
 
 
 
+τ
 
 
 
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
 
 
+ι
 
 
 
@@ -68326,13 +83494,17 @@ comparative
 
 
 
+ν
 
 
 
 
 
 
+ο
 
+ς
+α
 
 
 
@@ -68341,9 +83513,11 @@ comparative
 
 
 
+ι
 
 
 
+ι
 
 
 
@@ -68352,11 +83526,13 @@ comparative
 
 
 
+ι
 
 
 
 
 
+ι
 
 
 
@@ -68364,12 +83540,15 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
@@ -68379,24 +83558,42 @@ comparative
 
 
 
+ο
 
 
+ι
 
 
 
+ο
 
 
+ου
 
 
 
 
 
 
+α
+α
+α
+α
 
+ο
+ο
+δ
+ο
+α
+α
 
 
+α
 
+ν
+α
 
+ευ
 
 
 
@@ -68404,7 +83601,9 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
@@ -68412,6 +83611,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -68426,6 +83626,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -68447,9 +83648,12 @@ comparative
 
 
 
+τ
 
+ο
 
 
+α
 
 
 
@@ -68459,6 +83663,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -68472,63 +83677,94 @@ comparative
 
 
 
+τ
 
+ο
 
 
+ο
 
+τ
 
 
 
+α
 
 
+α
 
 
 
 
 
 
+ο
 
+α
 
 
 
 
 
+τ
 
 
 
+α
 
 
+α
 
+α
+α
 
+ι
+α
 
+ο
 
 
 
 
-superlative
 
+ο
 
 
 
 
+α
+ο
 
+α
 
+α
 
+α
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
 
+α
+α
 
+ο
+ι
 
+α
 
 
+α
+ο
 
 
 
@@ -68537,9 +83773,13 @@ superlative
 
 
 
+ν
+α
 
 
+α
 
+α
 
 
 
@@ -68549,11 +83789,14 @@ superlative
 
 
 
+ν
 
 
 
+α
 
 
+ο
 
 
 
@@ -68564,61 +83807,85 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
+ο
 
 
 
+ο
 
 
+α
+ο
 
 
 
+ς
 
 
+ο
 
+ι
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
+ι
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+ο
+irregular
 
 
 
@@ -68626,12 +83893,15 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -68639,22 +83909,32 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
+τ
 
 
+ς
+α
 
+ο
 
 
 
+ι
 
+ι
 
 
+α
 
 
+ο
 
 
 
@@ -68675,57 +83955,83 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ι
 
+ο
 
+ο
 
 
 
+τ
 
+ο
 
 
 
 
 
+ς
 
 
+α
 
 
 
 
+ο
 
 
 
+α
+ο
 
 
+α
 
+α
 
 
 
 
+α
 
+τ
 
+ο
 
 
 
+α
 
 
+α
 
 
 
 
 
+ι
+α
 
+ο
 
 
 
 
+τ
 
+α
+α
+ο
 
 
 
@@ -68740,6 +84046,8 @@ superlative
 
 
 
+κ
+α
 
 
 
@@ -68747,15 +84055,22 @@ superlative
 
 
 
+α
+α
 
+τ
 
+τ
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
@@ -68765,17 +84080,22 @@ superlative
 
 
 
+α
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -68783,18 +84103,24 @@ superlative
 
 
 
+α
 
 
+ι
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
+α
 
 
 
@@ -68802,6 +84128,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -68812,17 +84139,23 @@ superlative
 
 
 
+α
 
+ο
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
@@ -68830,17 +84163,23 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+α
 
+ο
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -68868,6 +84207,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -68880,8 +84220,10 @@ superlative
 
 
 
+ν
 
 
+α
 
 
 
@@ -68900,6 +84242,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -68908,78 +84251,119 @@ superlative
 
 
 
+τ
 
 
 
 
+ο
 
 
+γ
 
 
+α
 
 
+ο
+δ
 
 
+ς
 
 
 
+τ
+α
 
+α
 
 
 
+δ
 
 
+τ
+τ
 
+α
 
 
+ο
 
 
+ο
+α
 
 
 
 
+ο
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+τ
 
 
 
 
 
 
+ο
 
+ο
 
 
+ο
+ο
 
 
 
+κ
 
 
 
 
+ο
+ι
+α
 
 
 
+ο
+α
+ο
 
 
 
 
+ο
 
 
+α
+α
 
+ο
 
+ι
+irregular
+ο
 
 
 
@@ -68987,45 +84371,65 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
 
 
+ι
 
 
+ι
 
 
+ο
+irregular
 
 
 
+ο
+ο
 
+ι
 
 
 
+τ
 
+ι
 
+α
 
 
 
+ι
 
 
+τ
 
 
+α
 
+ο
 
 
+ι
 
+α
 
 
 
 
+ο
 
 
 
@@ -69035,44 +84439,66 @@ superlative
 
 
 
+ι
+irregular
 
 
 
+ι
 
 
 
+ο
 
+ο
 
 
 
+ο
+ι
 
 
 
+ι
+ο
 
+ο
+ο
 
 
 
+ο
 
 
 
+ς
 
 
+ς
 
 
 
+ο
 
 
+α
 
+ι
 
+α
 
 
+ι
+ο
 
 
 
 
+ι
 
 
 
+ο
 
 
 
@@ -69080,38 +84506,49 @@ superlative
 
 
 
+ρ
 
 
+κ
 
 
 
 
+ο
 
 
+τ
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ι
 
 
+τ
 
 
 
@@ -69125,160 +84562,221 @@ superlative
 
 
 
+ι
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
+α
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
+irregular
 
 
 
 
+ο
+α
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
-superlative
 
+ι
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
+α
 
 
+α
 
+ο
 
+α
+δ
 
+α
 
+ι
 
 
 
+α
 
 
 
 
+ρ
 
 
 
 
+α
 
 
 
 
 
+α
 
+ρ
+α
 
 
 
+α
 
 
 
 
 
 
+ς
 
 
+α
+ι
 
+ρ
 
 
 
 
 
+ο
 
+α
 
 
 
 
+τ
 
 
+ο
 
 
+ο
 
 
+α
+ι
 
 
 
 
+ο
+ο
 
 
+ι
 
 
 
+α
 
 
+ο
+α
 
 
 
 
 
+ο
 
+ι
 
 
 
+ι
 
 
+ι
 
 
 
 
 
+α
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
+ρ
 
 
 
 
 
+ρ
 
+ς
 
 
 
 
 
+ο
 
 
 
@@ -69292,46 +84790,62 @@ superlative
 
 
 
+δ
 
+δ
 
 
 
 
 
+ρ
 
+ς
 
 
 
 
 
 
+τ
 
 
 
 
 
+ι
 
 
 
+τ
 
 
 
 
 
 
+ι
 
+α
+α
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
+ι
 
+α
 
+ο
 
 
 
@@ -69346,6 +84860,7 @@ superlative
 
 
 
+α
 
 
 
@@ -69367,7 +84882,9 @@ superlative
 
 
 
+irregular
 
+ο
 
 
 
@@ -69375,29 +84892,40 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ι
 
 
 
 
+ι
+α
 
 
 
+ο
 
 
+ο
 
+irregular
+ο
 
 
 
 
+α
 
 
+ι
 
 
+ι
 
 
 
@@ -69405,8 +84933,11 @@ superlative
 
 
 
+δ
 
+α
 
+ο
 
 
 
@@ -69415,37 +84946,51 @@ superlative
 
 
 
+ι
 
 
 
+ι
+α
 
 
 
+α
+α
 
 
+α
+δ
 
 
+δ
 
 
 
 
+α
 
+ο
 
 
 
+α
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -69468,14 +85013,17 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -69486,21 +85034,26 @@ superlative
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -69508,6 +85061,7 @@ superlative
 
 
 
+α
 
 
 
@@ -69517,32 +85071,44 @@ superlative
 
 
 
+ο
 
 
+ο
 
+irregular
+ο
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
@@ -69550,19 +85116,26 @@ superlative
 
 
 
+ο
+α
 
 
+ο
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+υ
 
 
 
@@ -69570,37 +85143,50 @@ superlative
 
 
 
+τ
 
+ι
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
 
 
 
+ι
 
+ο
 
 
+α
 
+ι
 
 
 
+ο
+irregular
+ο
 
 
 
@@ -69612,23 +85198,31 @@ superlative
 
 
 
+τ
 
 
 
+τ
 
 
 
+τ
 
 
+τ
 
 
+τ
 
+τ
 
 
 
 
 
+τ
 
+ο
 
 
 
@@ -69637,37 +85231,53 @@ superlative
 
 
 
+α
 
+ι
 
 
+α
 
+α
 
 
+α
 
 
 
 
+irregular
+ο
 
 
 
 
 
+τ
 
 
+ο
 
+τ
 
 
 
 
+τ
 
 
+ο
 
+ι
+α
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -69676,52 +85286,68 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+α
 
 
+ι
 
 
 
 
+α
 
 
+ο
 
 
 
+ι
 
 
+α
 
+α
 
 
+irregular
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
+ι
 
 
 
 
 
 
+α
 
 
 
@@ -69733,8 +85359,11 @@ superlative
 
 
 
+ο
+irregular
 
 
+ο
 
 
 
@@ -69742,31 +85371,41 @@ superlative
 
 
 
+τ
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
+ρ
 
 
 
 
+τ
+α
 
 
 
 
 
 
+τ
 
+ο
 
 
 
 
+ι
 
 
 
@@ -69774,26 +85413,32 @@ superlative
 
 
 
+ο
 
 
 
 
+τ
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -69801,11 +85446,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -69813,6 +85460,7 @@ superlative
 
 
 
+α
 
 
 
@@ -69820,6 +85468,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -69829,40 +85478,57 @@ superlative
 
 
 
+α
 
 
 
+ο
 
+ο
+irregular
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
+α
 
 
 
 
+ς
 
+ο
+α
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ς
 
+ο
+α
 
+ο
+α
 
 
 
@@ -69871,8 +85537,10 @@ superlative
 
 
 
+ο
 
 
+ι
 
 
 
@@ -69880,8 +85548,10 @@ superlative
 
 
 
+ο
 
 
+ι
 
 
 
@@ -69890,65 +85560,94 @@ superlative
 
 
 
+ο
 
+α
+ο
 
 
 
 
+α
 
+ο
 
+α
 
+α
+ι
 
 
+ο
 
 
+ο
 
+α
 
 
 
+α
 
 
 
+ο
+α
 
 
 
 
+α
 
 
+α
 
 
 
 
+α
 
+κ
 
 
 
 
 
+ς
 
 
 
+α
 
 
+α
 
 
+α
 
 
 
 
+ς
 
 
 
+α
 
+ο
 
 
+ο
 
 
+α
 
 
 
+α
 
 
+ο
 
 
 
@@ -69957,89 +85656,128 @@ superlative
 
 
 
+ς
 
+ο
 
 
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
+ς
+α
 
 
 
+ο
 
+α
+ο
 
 
+τ
 
+ο
+α
 
 
+ο
+irregular
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
 
+irregular
 
 
+irregular
 
+ο
 
 
 
 
+irregular
 
 
 
+ο
 
+irregular
 
 
 
 
+irregular
+δ
 
 
 
+irregular
 
 
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
 
+δ
 
+irregular
 
 
+ο
 
 
 
 
 
+ο
 
 
+τ
 
+ο
 
 
 
@@ -70052,29 +85790,37 @@ superlative
 
 
 
+ο
 
 
 
 
 
+κ
 
+τ
 
+α
 
 
 
+ο
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -70083,53 +85829,72 @@ superlative
 
 
 
+τ
+τ
 
 
+τ
+τ
 
 
 
 
+ο
+α
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
+α
 
 
 
 
+α
 
 
+ο
+α
 
 
 
 
 
+ο
 
 
 
 
+α
 
+α
 
 
 
@@ -70138,15 +85903,21 @@ superlative
 
 
 
+α
 
 
+α
 
 
+ο
 
 
+α
+α
 
 
 
+α
 
 
 
@@ -70156,9 +85927,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -70169,28 +85942,36 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
 
+α
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -70200,6 +85981,7 @@ superlative
 
 
 
+α
 
 
 
@@ -70225,6 +86007,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -70238,6 +86021,7 @@ superlative
 
 
 
+α
 
 
 
@@ -70249,6 +86033,7 @@ superlative
 
 
 
+κ
 
 
 
@@ -70292,9 +86077,11 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -70309,43 +86096,61 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
+ς
 
 
 
+ο
 
+ου
 
 
 
 
 
 
+ο
 
+α
 
 
 
 
+ς
 
 
 
+ο
 
 
 
 
 
+τ
 
+ο
 
+ι
 
+ο
 
+irregular
+ο
 
+ο
 
 
 
@@ -70353,84 +86158,132 @@ superlative
 
 
 
+ου
 
+ο
+ο
 
 
+κ
+ο
+α
 
 
 
+τ
 
 
+ο
+irregular
 
 
+ο
 
+τ
 
+α
 
+ο
+irregular
 
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+κ
 
+ο
 
 
+ο
 
 
+τ
+κ
+α
 
 
+α
 
 
+α
 
 
+κ
 
 
+τ
 
+ο
 
 
 
 
 
 
+κ
 
 
 
+τ
 
 
 
+κ
 
 
 
+κ
 
 
 
 
+τ
 
 
+τ
 
 
+τ
 
+κ
+ο
 
 
+τ
 
+τ
+α
 
+α
 
 
+τ
 
+κ
+α
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -70439,7 +86292,9 @@ superlative
 
 
 
+κ
 
+ο
 
 
 
@@ -70448,15 +86303,21 @@ superlative
 
 
 
+κ
 
 
+τ
 
+τ
+ο
 
 
 
 
 
 
+τ
+ο
 
 
 
@@ -70465,21 +86326,29 @@ superlative
 
 
 
+ο
 
 
 
 
+τ
 
 
+α
 
 
+τ
+α
 
+α
 
 
 
+τ
 
 
 
+irregular
 
 
 
@@ -70489,67 +86358,98 @@ superlative
 
 
 
+ο
+irregular
 
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
 
+ο
+α
 
 
 
+κ
 
 
+κ
 
 
 
 
+κ
 
 
 
 
 
+τ
 
+ι
 
+τ
 
 
 
 
+τ
+ο
 
 
+ο
 
+ο
 
 
 
+τ
+α
 
 
+ο
 
 
+τ
+α
 
 
 
 
 
+ρ
 
 
+τ
 
 
+τ
 
 
 
+ο
+ο
 
 
+ο
 
+ο
+ο
 
+ο
 
 
+ο
 
 
 
@@ -70561,24 +86461,34 @@ superlative
 
 
 
+τ
 
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
+ι
 
+ι
 
+ο
 
+ο
 
 
 
+τ
 
+ι
 
 
 
@@ -70587,24 +86497,33 @@ superlative
 
 
 
+δ
 
 
 
 
+ι
 
 
 
+α
 
+α
 
 
+α
 
+α
 
+ο
 
+ο
 
 
 
 
 
+ι
 
 
 
@@ -70618,7 +86537,9 @@ superlative
 
 
 
+α
 
+τ
 
 
 
@@ -70626,17 +86547,23 @@ superlative
 
 
 
+α
 
 
+ι
 
+τ
 
 
 
+δ
 
+δ
 
 
 
 
+δ
 
 
 
@@ -70650,13 +86577,16 @@ superlative
 
 
 
+α
 
 
 
 
 
+τ
 
 
+α
 
 
 
@@ -70669,18 +86599,24 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
 
 
+α
 
 
 
+τ
 
+τ
 
 
+ο
 
 
 
@@ -70690,12 +86626,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
@@ -70705,7 +86643,9 @@ superlative
 
 
 
+ν
 
+ο
 
 
 
@@ -70714,6 +86654,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -70739,6 +86680,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -70748,6 +86690,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -70769,11 +86712,15 @@ superlative
 
 
 
+ο
+ο
 
 
 
 
 
+ο
+irregular
 
 
 
@@ -70784,6 +86731,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -70794,13 +86742,22 @@ superlative
 
 
 
+α
 
+ο
+ι
 
+α
 
+ο
 
+ο
 
+τ
 
+ο
 
+α
 
 
 
@@ -70809,8 +86766,11 @@ superlative
 
 
 
+α
 
 
+ο
+α
 
 
 
@@ -70824,90 +86784,126 @@ superlative
 
 
 
+ο
 
+α
 
+ο
 
+α
 
 
 
 
 
+ι
 
+τ
 
+ο
 
 
+ι
 
 
 
 
 
 
+α
 
+ο
 
 
+ο
+irregular
 
+ο
 
+α
 
 
+ο
 
 
 
 
 
+ι
 
 
+τ
 
 
+α
 
 
 
 
 
+α
 
+α
 
 
 
+τ
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+κ
 
 
+α
 
 
+α
 
 
+α
 
 
+α
 
 
+α
 
 
+α
 
 
+α
 
 
+ρ
 
 
 
 
+ο
 
 
+κ
 
 
 
 
+ο
 
 
 
+ν
 
 
 
@@ -70915,7 +86911,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -70927,45 +86925,63 @@ superlative
 
 
 
+τ
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+ο
 
+κ
 
+ο
 
+ο
 
 
+ο
 
+α
 
 
+τ
+α
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+α
+ο
 
 
 
 
 
+α
 
 
+α
 
 
 
+ρ
 
 
 
@@ -70979,10 +86995,14 @@ superlative
 
 
 
+α
+ι
 
+ο
 
 
 
+ο
 
 
 
@@ -71008,11 +87028,14 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
+υ
 
 
 
@@ -71035,9 +87058,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -71051,15 +87076,18 @@ superlative
 
 
 
+ι
 
 
 
 
 
+τ
 
 
 
 
+α
 
 
 
@@ -71077,10 +87105,12 @@ superlative
 
 
 
+τ
 
 
 
 
+ο
 
 
 
@@ -71088,9 +87118,11 @@ superlative
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -71100,24 +87132,33 @@ superlative
 
 
 
+α
 
+ευ
 
+ο
 
 
 
+τ
 
 
 
 
+α
+ς
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -71126,18 +87167,27 @@ superlative
 
 
 
+α
+ς
+α
 
 
+α
 
 
 
 
+ο
 
+α
 
 
+ς
+ς
 
 
 
+α
 
 
 
@@ -71149,6 +87199,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -71158,7 +87209,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -71169,15 +87222,20 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
+ο
 
+α
 
 
 
@@ -71186,50 +87244,71 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+ο
 
+α
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
+α
 
 
+ο
 
 
 
+τ
 
+τ
 
 
 
 
+α
 
 
 
 
 
 
+ς
 
 
 
+α
 
+α
+α
 
 
 
+ι
 
 
 
+ο
+α
 
+ο
 
 
 
@@ -71237,19 +87316,27 @@ superlative
 
 
 
+ι
 
 
 
+ο
 
 
+ο
 
+τ
 
 
 
 
 
 
+ο
+τ
 
+α
+ο
 
 
 
@@ -71257,78 +87344,106 @@ superlative
 
 
 
+ο
 
 
+α
 
 
+α
 
 
+ι
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
+ο
 
 
 
 
+ι
 
 
 
 
+ο
+α
 
 
 
 
 
 
+α
 
+ο
 
 
+ς
 
+ο
+ο
 
+α
 
 
 
+υ
 
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ι
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -71338,18 +87453,23 @@ superlative
 
 
 
+τ
 
 
 
+τ
 
 
 
 
+α
 
 
 
 
+τ
 
+ι
 
 
 
@@ -71357,28 +87477,38 @@ superlative
 
 
 
+τ
 
+ο
+irregular
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
+τ
 
 
 
+α
 
 
 
+α
 
 
 
@@ -71389,12 +87519,15 @@ superlative
 
 
 
+α
 
 
 
+ν
 
 
 
+ο
 
 
 
@@ -71408,6 +87541,8 @@ superlative
 
 
 
+τ
+ο
 
 
 
@@ -71438,6 +87573,7 @@ superlative
 
 
 
+δ
 
 
 
@@ -71446,18 +87582,27 @@ superlative
 
 
 
+ο
+α
 
 
+ο
 
 
 
+α
 
 
 
+ι
 
+α
 
 
+α
 
+τ
+ο
 
 
 
@@ -71467,14 +87612,19 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
 
+τ
 
+α
 
+τ
 
 
 
@@ -71483,16 +87633,20 @@ superlative
 
 
 
+υ
 
 
 
 
 
 
+ς
 
+ς
 
 
 
+α
 
 
 
@@ -71515,10 +87669,13 @@ superlative
 
 
 
+α
 
 
+ρ
 
 
+ο
 
 
 
@@ -71527,21 +87684,28 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
+τ
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
@@ -71549,19 +87713,25 @@ superlative
 
 
 
+δ
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
@@ -71570,18 +87740,22 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
+τ
 
 
 
@@ -71590,16 +87764,24 @@ superlative
 
 
 
+ο
+τ
 
+α
+ι
 
 
 
+ι
 
 
+ο
 
 
+ι
 
 
+ι
 
 
 
@@ -71610,6 +87792,7 @@ superlative
 
 
 
+α
 
 
 
@@ -71620,38 +87803,51 @@ superlative
 
 
 
+ο
+τ
+ι
+ο
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
+δ
 
 
+α
 
 
+ο
 
 
+τ
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -71667,8 +87863,11 @@ superlative
 
 
 
+τ
 
+α
 
+ς
 
 
 
@@ -71676,25 +87875,36 @@ superlative
 
 
 
+τ
 
+ο
+ο
 
 
+τ
 
+ο
+ς
 
 
 
+τ
 
 
 
 
 
+ς
 
 
 
 
 
 
+ς
+ο
 
+α
 
 
 
@@ -71702,6 +87912,7 @@ superlative
 
 
 
+κ
 
 
 
@@ -71710,66 +87921,87 @@ superlative
 
 
 
+α
 
+α
+ο
 
 
+ι
 
 
+α
 
 
 
 
 
+α
 
 
 
+τ
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
+α
 
+τ
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+ι
 
 
 
@@ -71779,8 +88011,11 @@ superlative
 
 
 
+ο
 
 
+ι
+ο
 
 
 
@@ -71788,17 +88023,24 @@ superlative
 
 
 
+τ
 
+α
+ο
 
 
 
 
+α
 
 
 
+τ
+ο
 
 
 
+τ
 
 
 
@@ -71809,11 +88051,13 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -71823,25 +88067,33 @@ superlative
 
 
 
+ι
 
+ο
 
 
+ι
 
 
+ο
 
 
 
 
 
+ι
 
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -71850,14 +88102,18 @@ superlative
 
 
 
+ι
 
+ς
 
 
 
 
 
 
+τ
 
+ς
 
 
 
@@ -71872,6 +88128,7 @@ superlative
 
 
 
+α
 
 
 
@@ -71880,39 +88137,49 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ρ
 
 
 
+τ
 
 
+ι
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -71920,6 +88187,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -71928,29 +88196,41 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
+ο
 
+α
 
+ι
+ο
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+ου
+ο
 
 
+ο
 
 
 
@@ -71973,41 +88253,55 @@ superlative
 
 
 
+α
 
 
+ν
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
+τ
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ν
 
 
 
 
+ι
 
+ου
 
 
 
 
 
 
+τ
 
+ο
 
 
 
@@ -72018,6 +88312,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -72040,66 +88335,89 @@ superlative
 
 
 
+ο
 
+ο
+ι
 
 
 
 
+τ
 
+ς
 
 
 
+ς
 
 
 
 
 
+ι
 
 
 
 
+τ
 
 
+ο
 
 
 
 
 
+ς
 
 
+τ
 
 
+ι
 
 
 
 
 
+α
 
 
+α
 
+ι
 
+α
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
+τ
 
 
 
+α
 
 
 
+τ
 
+α
 
 
 
@@ -72108,36 +88426,45 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
 
+τ
 
 
+ο
 
 
+δ
 
 
+ι
 
 
+α
 
 
+α
 
 
 
 
+α
 
 
 
 
 
-superlative
 
 
 
@@ -72174,6 +88501,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -72181,6 +88509,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -72188,20 +88517,23 @@ superlative
 
 
 
+ο
 
+α
 
 
 
+ι
 
 
 
+ο
 
 
 
 
 
 
-comparative
 
 
 
@@ -72211,9 +88543,12 @@ comparative
 
 
 
+κ
+ρ
 
 
 
+α
 
 
 
@@ -72228,38 +88563,50 @@ comparative
 
 
 
+α
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
+α
 
 
 
 
 
+τ
 
 
 
+ντ
 
 
+ο
 
 
+ο
 
 
 
@@ -72268,14 +88615,18 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -72291,31 +88642,41 @@ comparative
 
 
 
+α
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ι
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
@@ -72324,18 +88685,27 @@ comparative
 
 
 
+α
 
 
+ο
 
+ο
 
 
+ς
 
+ς
 
 
+ο
 
+ο
 
 
+α
 
+α
 
 
 
@@ -72349,6 +88719,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -72364,8 +88735,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -72377,69 +88750,98 @@ comparative
 
 
 
+α
 
 
 
 
 
+τ
 
+ο
 
+α
 
 
 
 
+ο
 
+α
 
 
 
-superlative
+ο
 
 
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
+α
 
 
 
 
+ο
 
+ς
 
 
 
+ο
 
+τ
 
 
+α
 
 
 
+ο
 
+α
 
+α
 
+α
 
+δ
 
+ο
 
 
 
+ο
+irregular
+ο
 
 
+κ
+α
 
 
 
+α
 
 
 
 
+ι
 
 
 
+ι
+ο
 
 
 
@@ -72448,6 +88850,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -72465,6 +88868,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -72474,8 +88878,10 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -72484,42 +88890,53 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
 
 
+α
 
 
 
 
+ου
 
 
 
 
+α
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -72534,11 +88951,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -72548,10 +88967,12 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -72566,6 +88987,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -72573,33 +88995,42 @@ superlative
 
 
 
+ο
 
 
 
 
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+τ
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -72611,12 +89042,17 @@ superlative
 
 
 
+τ
 
+ο
 
+ο
 
 
 
 
+ο
+irregular
 
 
 
@@ -72634,19 +89070,24 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
 
+α
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -72658,12 +89099,20 @@ superlative
 
 
 
+α
 
+ο
+ι
 
+ι
 
+α
 
+α
 
+α
 
+τ
 
 
 
@@ -72671,49 +89120,63 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+τ
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
+τ
 
 
 
 
 
+ς
 
 
+ο
 
 
 
 
+ο
 
 
 
+ι
 
 
 
@@ -72721,6 +89184,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -72738,11 +89202,14 @@ superlative
 
 
 
+ι
 
 
 
 
 
+ι
+α
 
 
 
@@ -72750,6 +89217,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -72766,9 +89234,11 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -72776,6 +89246,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -72788,21 +89259,29 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
+ι
 
+α
 
+δ
 
 
 
+ο
 
+α
 
 
+ι
 
 
 
@@ -72811,39 +89290,60 @@ superlative
 
 
 
+ο
+irregular
 
 
 
 
+τ
 
 
+ο
 
+ρ
 
+ο
 
+irregular
+ο
 
 
 
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
+ο
+ο
 
+α
 
+α
+ο
 
 
 
 
+α
 
+ρ
 
 
+ς
 
+ς
 
 
+ο
 
 
 
@@ -72851,49 +89351,64 @@ superlative
 
 
 
+ς
 
 
+τ
 
 
 
 
 
 
+ς
 
 
+ο
 
 
 
 
 
 
+ς
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+ς
 
 
+ς
 
 
 
+ο
 
+δ
 
 
 
+α
 
+α
 
 
 
@@ -72903,10 +89418,14 @@ superlative
 
 
 
+δ
 
+ι
+τ
 
 
 
+ο
 
 
 
@@ -72918,9 +89437,11 @@ superlative
 
 
 
+α
 
 
 
+ι
 
 
 
@@ -72930,40 +89451,56 @@ superlative
 
 
 
+ς
 
 
 
 
 
+ι
 
 
 
 
 
+ο
 
 
 
 
+ο
+ο
+irregular
 
 
+ς
 
 
+ο
 
+ο
 
 
 
+α
 
+ς
 
 
 
+τ
 
 
 
 
+ι
 
+ο
+irregular
 
 
 
+ο
 
 
 
@@ -72972,23 +89509,38 @@ superlative
 
 
 
+ο
 
 
 
+α
+ς
+ο
 
+ο
 
+ι
+ο
 
+τ
 
+ι
+τ
 
 
 
 
+τ
 
+non-declinable
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -72996,10 +89548,12 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -73027,10 +89581,13 @@ superlative
 
 
 
+ο
 
 
 
+τ
 
+α
 
 
 
@@ -73039,11 +89596,13 @@ superlative
 
 
 
+ς
 
 
 
 
 
+α
 
 
 
@@ -73058,17 +89617,22 @@ superlative
 
 
 
+ς
 
 
 
 
 
+τ
 
 
 
 
 
+α
 
+α
+α
 
 
 
@@ -73078,9 +89642,11 @@ superlative
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -73090,6 +89656,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -73104,11 +89671,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -73116,25 +89685,36 @@ superlative
 
 
 
+τ
+α
+ο
 
 
 
 
+ο
 
 
+ο
 
+irregular
+ο
 
 
 
+α
 
+τ
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -73142,26 +89722,34 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
+τ
+ο
 
 
 
 
+ο
 
+α
 
 
 
@@ -73169,16 +89757,22 @@ superlative
 
 
 
+α
 
+α
 
 
+ο
 
+α
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -73190,26 +89784,34 @@ superlative
 
 
 
+τ
 
 
 
+ι
 
 
 
 
 
 
+α
 
+α
 
 
 
 
+ο
+irregular
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -73220,27 +89822,38 @@ superlative
 
 
 
+α
 
+ς
 
 
 
+ο
 
+α
 
+ο
 
 
 
 
 
+α
 
+α
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -73252,36 +89865,46 @@ superlative
 
 
 
+ο
 
-comparative
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
+υ
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
+ν
 
 
 
@@ -73289,41 +89912,62 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
+α
 
+α
 
 
 
+ο
 
+δ
 
 
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
+ρ
 
 
 
 
+ο
+ντ
+α
+α
+α
 
 
 
 
+ο
 
+ο
 
+α
+ευ
 
 
+α
 
 
+α
 
 
 
@@ -73333,22 +89977,29 @@ comparative
 
 
 
+τ
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
@@ -73361,23 +90012,30 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
+α
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -73400,50 +90058,72 @@ comparative
 
 
 
+ο
 
+α
 
 
+α
 
 
+δ
 
 
+ς
 
+ι
 
+ο
 
+irregular
 
 
 
 
+ο
 
 
 
 
+ο
 
+ν
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
+ο
 
+ι
 
+ο
 
+ο
 
 
 
@@ -73451,10 +90131,17 @@ comparative
 
 
 
+ο
 
 
 
+τ
+irregular
+ο
 
+ι
+ο
+ο
 
 
 
@@ -73462,35 +90149,60 @@ comparative
 
 
 
+α
 
 
+α
 
 
+ο
 
+α
+ι
 
 
 
+ς
 
 
 
+ο
 
+irregular
+ο
 
 
+α
 
 
+ν
 
+ν
 
+ο
 
+ο
+ο
+irregular
 
+τ
+ο
 
+ς
 
+ο
 
+α
 
+ο
 
 
 
+ο
 
 
+ο
+irregular
 
 
 
@@ -73498,31 +90210,47 @@ comparative
 
 
 
+τ
 
+ο
 
+irregular
+ο
 
 
+ο
 
 
 
+ι
 
 
+α
 
+ο
+ρ
 
-superlative
 
+ο
+irregular
+ο
 
 
+ο
 
 
 
 
 
+ι
 
+ο
 
 
 
 
+ο
+irregular
 
 
 
@@ -73531,11 +90259,15 @@ superlative
 
 
 
+ο
 
 
+ι
 
 
+ο
 
+ο
 
 
 
@@ -73545,38 +90277,58 @@ superlative
 
 
 
+τ
 
 
+ι
 
-superlative
+ο
 
+irregular
+ο
 
 
 
 
 
+ς
 
 
 
+α
 
+ο
 
+irregular
+ο
 
 
+ο
 
 
 
 
+α
 
+ο
 
+irregular
+ο
 
+ο
 
 
 
 
+ο
 
 
+τ
 
+ο
 
+irregular
+ο
 
 
 
@@ -73587,26 +90339,31 @@ superlative
 
 
 
+τ
 
 
 
 
-superlative
 
 
+ου
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+α
 
+δ
 
 
 
@@ -73620,21 +90377,29 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
 
 
+τ
+ο
 
 
 
@@ -73643,7 +90408,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -73652,11 +90419,14 @@ superlative
 
 
 
+τ
 
 
 
 
 
+α
+ο
 
 
 
@@ -73668,83 +90438,116 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
+ο
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ι
+ο
 
 
 
 
 
+α
 
 
 
 
+ι
 
 
 
 
 
 
+ευ
 
+α
 
+ν
 
 
 
 
+ο
 
+α
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
+α
 
+ο
 
 
+ο
 
 
+α
 
+τ
 
 
 
 
 
 
+ο
 
 
+ν
+α
 
 
 
 
+ο
 
 
 
+ο
+ς
 
+α
 
 
 
@@ -73752,29 +90555,42 @@ superlative
 
 
 
+ν
+ο
+ο
+ι
 
+ο
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ι
 
+ο
 
 
 
 
 
+κ
 
 
 
@@ -73785,8 +90601,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -73795,8 +90613,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -73805,11 +90625,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -73821,40 +90643,56 @@ superlative
 
 
 
+κ
 
 
+ο
 
 
 
 
 
 
+ο
+irregular
 
 
+α
 
 
+ο
+α
 
 
+ο
 
+ι
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+α
+ο
 
+α
 
 
 
+ο
 
+ο
 
 
 
@@ -73864,70 +90702,100 @@ superlative
 
 
 
+irregular
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
 
+α
+ο
 
 
+ι
+τ
 
+ι
 
 
+ι
 
 
 
 
+α
+ο
 
 
+ι
+ο
+α
 
 
 
 
 
+α
 
 
 
+ν
 
 
 
+ντ
 
+ν
 
 
 
 
 
+ο
+α
 
+ο
 
 
 
 
 
+ο
 
 
+ν
 
+α
 
 
 
 
+ντ
 
+ν
 
 
 
@@ -73936,24 +90804,31 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
 
+α
+ο
 
 
 
 
 
+ο
 
 
 
@@ -73961,24 +90836,33 @@ superlative
 
 
 
+ο
 
 
+τ
 
 
+τ
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+τ
 
+ο
 
 
 
@@ -73986,28 +90870,36 @@ superlative
 
 
 
+ο
 
 
 
 
 
+τ
 
+ο
 
 
 
 
+τ
 
+ο
 
 
 
+τ
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -74017,21 +90909,27 @@ superlative
 
 
 
+α
+ο
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
 
+τ
 
+ο
+α
 
-comparative
 
 
 
@@ -74055,13 +90953,18 @@ comparative
 
 
 
+ου
+ο
 
 
 
 
 
+ου
+ο
 
 
+ο
 
 
 
@@ -74074,9 +90977,12 @@ comparative
 
 
 
+ο
+κτ
 
 
 
+τ
 
 
 
@@ -74093,12 +90999,15 @@ comparative
 
 
 
+ο
 
+δ
 
 
 
 
 
+ο
 
 
 
@@ -74107,17 +91016,23 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
@@ -74125,12 +91040,15 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -74144,6 +91062,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -74151,28 +91070,38 @@ comparative
 
 
 
-comparative
 
 
 
 
 
+ο
 
 
 
 
+ο
+ο
 
 
 
+ο
+ο
+ο
+α
 
 
 
+ι
 
+ο
 
 
 
 
 
+ν
+ο
 
 
 
@@ -74182,6 +91111,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -74192,73 +91122,98 @@ comparative
 
 
 
+irregular
+ο
 
 
 
 
-comparative
 
 
+ο
+ο
+ο
+ο
 
+ο
+ο
+α
 
 
+ο
 
 
 
 
+α
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
-comparative
 
 
 
 
 
+ρ
 
 
 
+ο
+ο
 
 
 
+τ
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -74276,6 +91231,7 @@ comparative
 
 
 
+ν
 
 
 
@@ -74284,10 +91240,14 @@ comparative
 
 
 
+α
 
+ο
 
+α
 
 
+ο
 
 
 
@@ -74297,11 +91257,14 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
@@ -74311,16 +91274,23 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
+α
 
+ο
 
+α
 
+ο
 
 
 
@@ -74329,17 +91299,27 @@ comparative
 
 
 
+ο
+ο
 
+ο
 
 
 
+ο
 
+α
+ο
 
+ο
+ο
+ο
 
 
 
 
 
+ο
 
 
 
@@ -74356,6 +91336,7 @@ comparative
 
 
 
+α
 
 
 
@@ -74373,40 +91354,49 @@ comparative
 
 
 
+ο
 
-superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ς
 
 
 
+α
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -74467,24 +91457,32 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -74494,11 +91492,11 @@ superlative
 
 
 
-comparative
 
 
 
 
+α
 
 
 
@@ -74514,6 +91512,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -74521,40 +91520,50 @@ comparative
 
 
 
+τ
 
+ο
 
 
+τ
 
 
 
 
 
 
-comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ρ
 
 
+ο
+irregular
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -74562,24 +91571,31 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
+irregular
 
 
 
 
+α
 
 
 
@@ -74597,45 +91613,60 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ι
 
 
 
+ο
 
+α
 
-comparative
+ο
 
 
+ι
 
 
 
+ο
 
 
 
 
 
+α
+τ
 
+τ
 
 
 
 
+α
 
 
+α
 
 
 
 
+ς
 
+irregular
 
 
+ρ
 
 
 
@@ -74652,6 +91683,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -74659,9 +91691,11 @@ comparative
 
 
 
+τ
 
 
 
+τ
 
 
 
@@ -74672,45 +91706,63 @@ comparative
 
 
 
+τ
 
+ο
+irregular
 
 
 
 
 
+τ
 
 
+ι
 
+ο
 
+irregular
 
 
 
 
+α
 
+ο
 
+κ
 
 
+τ
 
 
 
+α
 
+ο
 
 
 
+τ
 
 
 
 
 
+α
 
 
+τ
 
 
 
 
+α
 
 
 
+τ
 
 
 
@@ -74720,39 +91772,53 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
+α
 
+α
 
 
 
+α
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -74762,13 +91828,18 @@ comparative
 
 
 
+ο
 
 
+ο
 
+α
 
+ο
 
 
 
+ο
 
 
 
@@ -74790,6 +91861,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -74800,6 +91872,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -74820,6 +91893,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -74827,27 +91901,33 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -74863,22 +91943,26 @@ comparative
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
 
-comparative
 
 
 
 
+τ
 
 
 
+τ
 
 
 
@@ -74899,28 +91983,40 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
+α
 
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
+ο
 
+α
 
+α
 
+ο
 
 
 
 
+α
+ο
 
 
 
@@ -74934,11 +92030,17 @@ comparative
 
 
 
+τ
 
+ο
+irregular
+ο
 
 
 
+τ
 
+ο
 
 
 
@@ -74957,12 +92059,17 @@ comparative
 
 
 
+τ
 
+α
 
 
+α
 
+τ
 
 
+ο
 
 
 
@@ -74970,36 +92077,50 @@ comparative
 
 
 
+τ
 
 
+α
 
 
+ο
 
 
+ο
 
+τ
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ι
 
-superlative
 
 
 
 
+τ
 
+ς
+ο
 
 
 
 
+ς
 
+ο
 
+α
+ς
 
 
 
@@ -75009,7 +92130,9 @@ superlative
 
 
 
+α
 
+τ
 
 
 
@@ -75017,21 +92140,28 @@ superlative
 
 
 
+κ
 
 
 
 
 
+ο
 
+τ
 
 
 
+α
 
+τ
 
 
 
+ο
 
 
+τ
 
 
 
@@ -75039,79 +92169,102 @@ superlative
 
 
 
+τ
 
 
 
 
 
 
+τ
 
+ο
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
+τ
 
 
 
 
 
 
+ο
+irregular
 
 
 
 
 
+α
 
 
 
+irregular
 
 
 
 
 
+irregular
 
 
+irregular
 
+irregular
 
+α
 
 
 
 
 
+irregular
 
+irregular
 
+irregular
 
 
+τ
 
 
 
 
+irregular
 
 
 
 
+irregular
 
 
+τ
 
 
-superlative
 
 
+irregular
 
 
 
@@ -75121,9 +92274,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -75135,18 +92290,23 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -75155,7 +92315,9 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
@@ -75165,8 +92327,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -75192,7 +92356,10 @@ superlative
 
 
 
+ο
+irregular
 
+irregular
 
 
 
@@ -75200,10 +92367,14 @@ superlative
 
 
 
+ο
 
 
+irregular
 
 
+irregular
+irregular
 
 
 
@@ -75213,8 +92384,11 @@ superlative
 
 
 
+ο
 
 
+ο
+irregular
 
 
 
@@ -75227,36 +92401,43 @@ superlative
 
 
 
+irregular
 
 
+irregular
 
 
 
 
-comparative
 
 
 
 
 
 
+irregular
 
 
 
+irregular
 
 
 
 
+irregular
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -75273,27 +92454,35 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+irregular
 
 
+irregular
 
 
 
 
+irregular
 
 
+irregular
 
 
 
@@ -75301,16 +92490,19 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -75319,26 +92511,34 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
+ι
+α
+ο
 
 
 
+ι
 
 
 
 
 
+ο
 
 
 
@@ -75354,34 +92554,50 @@ comparative
 
 
 
+ο
 
+ο
+ο
+ο
 
 
 
 
 
+ο
 
+ο
+α
 
 
 
+ο
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
+α
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -75392,18 +92608,24 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
 
+irregular
 
 
+ι
 
 
+irregular
 
 
+irregular
 
 
 
@@ -75414,10 +92636,13 @@ comparative
 
 
 
+ο
 
 
+ι
 
 
+κ
 
 
 
@@ -75428,7 +92653,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -75437,6 +92664,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -75463,13 +92691,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+τ
 
+ο
 
 
 
@@ -75477,47 +92708,60 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
 
+irregular
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+τ
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
+irregular
 
 
 
@@ -75528,6 +92772,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -75537,6 +92782,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -75544,6 +92790,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -75564,33 +92811,39 @@ comparative
 
 
 
+α
 
 
 
 
+α
+α
 
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
-superlative
 
 
+ο
 
 
 
@@ -75599,16 +92852,20 @@ superlative
 
 
 
+irregular
 
 
 
+ο
 
 
+irregular
 
 
 
 
 
+irregular
 
 
 
@@ -75616,6 +92873,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -75625,9 +92883,12 @@ superlative
 
 
 
+α
 
 
 
+τ
+ο
 
 
 
@@ -75636,11 +92897,14 @@ superlative
 
 
 
+ι
 
 
+ι
 
 
 
+α
 
 
 
@@ -75657,22 +92921,27 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
@@ -75681,19 +92950,26 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
+ρ
 
 
 
@@ -75703,8 +92979,10 @@ superlative
 
 
 
-comparative
 
+ο
+irregular
+ο
 
 
 
@@ -75718,26 +92996,32 @@ comparative
 
 
 
+ι
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -75752,8 +93036,10 @@ comparative
 
 
 
+α
 
 
+τ
 
 
 
@@ -75764,10 +93050,13 @@ comparative
 
 
 
+ι
 
+ο
 
 
 
+ι
 
 
 
@@ -75784,36 +93073,46 @@ comparative
 
 
 
+ι
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ι
 
 
+ο
 
 
 
+τ
 
 
+ο
 
 
 
 
+ς
 
-superlative
 
+ν
 
 
 
+ο
 
 
 
@@ -75821,33 +93120,43 @@ superlative
 
 
 
+ο
 
+irregular
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+δ
 
 
+α
 
 
 
+ο
 
 
+α
 
 
 
@@ -75856,70 +93165,93 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
+α
+irregular
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
+α
 
 
 
 
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ν
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+κτ
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+υ
+ο
 
 
 
+ου
 
 
 
+ου
 
 
+ο
 
 
 
@@ -75932,6 +93264,7 @@ superlative
 
 
 
+δ
 
 
 
@@ -75939,8 +93272,8 @@ superlative
 
 
 
+δ
 
-comparative
 
 
 
@@ -75955,11 +93288,11 @@ comparative
 
 
 
-comparative
 
 
 
 
+α
 
 
 
@@ -75968,6 +93301,7 @@ comparative
 
 
 
+α
 
 
 
@@ -75975,9 +93309,12 @@ comparative
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
@@ -75988,21 +93325,27 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -76026,6 +93369,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -76035,6 +93379,8 @@ comparative
 
 
 
+τ
+α
 
 
 
@@ -76050,29 +93396,35 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -76096,15 +93448,19 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -76113,8 +93469,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -76140,7 +93498,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -76148,6 +93508,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -76156,6 +93517,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -76171,6 +93533,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -76186,11 +93549,13 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+τ
 
 
 
@@ -76205,33 +93570,41 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+υ
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -76239,15 +93612,19 @@ comparative
 
 
 
+τ
 
 
 
 
 
+α
 
+α
 
 
 
+ο
 
 
 
@@ -76256,6 +93633,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -76263,6 +93641,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -76270,11 +93649,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -76283,6 +93664,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -76298,10 +93680,13 @@ comparative
 
 
 
+α
 
+δ
 
 
 
+ο
 
 
 
@@ -76309,6 +93694,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -76320,6 +93706,7 @@ comparative
 
 
 
+α
 
 
 
@@ -76328,11 +93715,14 @@ comparative
 
 
 
+α
 
 
 
 
+ς
 
+ν
 
 
 
@@ -76341,6 +93731,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -76350,6 +93741,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -76362,8 +93754,10 @@ comparative
 
 
 
+ο
 
 
+ι
 
 
 
@@ -76373,6 +93767,7 @@ comparative
 
 
 
+α
 
 
 
@@ -76381,23 +93776,34 @@ comparative
 
 
 
+ο
 
+α
 
 
 
+α
 
 
+τ
 
+ο
 
+ο
 
 
 
+α
 
+τ
 
+ο
 
 
 
+ο
 
+τ
 
 
 
@@ -76407,16 +93813,21 @@ comparative
 
 
 
+ο
 
 
 
 
 
+κ
 
 
 
 
+α
+ο
 
+ο
 
 
 
@@ -76427,32 +93838,46 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
+ο
+ο
 
 
+ο
+ο
 
 
+α
+ο
 
 
+α
+ο
 
 
 
+ο
 
 
 
@@ -76480,17 +93905,22 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ι
 
+ο
 
 
+α
 
 
+τ
 
 
 
@@ -76510,6 +93940,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -76526,6 +93957,8 @@ comparative
 
 
 
+ι
+ι
 
 
 
@@ -76539,13 +93972,15 @@ comparative
 
 
 
+α
 
 
 
 
+ι
 
-comparative
 
+ι
 
 
 
@@ -76563,15 +93998,20 @@ comparative
 
 
 
+α
+ο
 
 
 
 
 
 
+ν
 
 
+α
 
+ο
 
 
 
@@ -76588,10 +94028,12 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -76604,6 +94046,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -76611,32 +94054,47 @@ comparative
 
 
 
+irregular
 
+α
 
+ο
 
+α
 
+irregular
 
+irregular
+α
 
 
+ο
 
+ο
 
+irregular
 
 
 
 
+α
 
 
 
+α
 
 
 
+irregular
 
 
 
 
 
+α
 
 
+α
 
 
 
@@ -76650,102 +94108,141 @@ comparative
 
 
 
-comparative
+irregular
 
 
 
 
 
+irregular
 
 
 
 
 
+irregular
 
 
 
 
 
 
+α
+ν
 
+α
+ο
 
 
+irregular
 
+α
+irregular
 
 
 
 
+irregular
 
+irregular
 
+irregular
 
+irregular
 
 
 
 
+irregular
 
 
+irregular
 
+irregular
 
 
+irregular
 
 
 
 
+irregular
+α
 
 
 
+α
 
 
+ο
 
 
+irregular
 
+irregular
 
+irregular
 
+irregular
 
+ο
 
 
 
+irregular
 
 
-comparative
+irregular
 
 
 
+irregular
 
 
+irregular
 
 
 
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
+ο
 
 
 
+ι
 
 
 
 
+irregular
 
 
 
+α
 
 
+irregular
 
 
 
+α
 
 
 
 
+α
 
+ο
 
 
 
@@ -76756,11 +94253,14 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
+ο
 
 
 
@@ -76782,16 +94282,20 @@ comparative
 
 
 
+α
 
+τ
 
 
 
 
+ς
 
 
 
 
 
+ι
 
 
 
@@ -76812,11 +94316,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -76830,6 +94336,7 @@ comparative
 
 
 
+α
 
 
 
@@ -76839,7 +94346,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -76860,17 +94369,22 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
+irregular
 
 
+irregular
 
 
 
+ο
 
 
 
@@ -76880,6 +94394,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -76888,21 +94403,26 @@ comparative
 
 
 
+ι
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
+τ
 
 
 
@@ -76911,17 +94431,22 @@ comparative
 
 
 
+ι
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -76931,34 +94456,44 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
+τ
 
 
+τ
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -76966,6 +94501,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -76988,13 +94524,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -77006,10 +94545,12 @@ comparative
 
 
 
+ο
 
 
 
 
+τ
 
 
 
@@ -77022,6 +94563,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -77029,9 +94571,11 @@ comparative
 
 
 
+ς
 
 
 
+ο
 
 
 
@@ -77044,31 +94588,47 @@ comparative
 
 
 
+τ
+ο
 
 
+τ
+irregular
 
 
 
 
+ο
+irregular
 
 
 
+τ
 
+ι
 
+τ
 
 
 
 
+τ
 
+ι
+α
 
 
 
 
+ο
 
+ι
+τ
 
 
 
 
+ο
 
 
 
@@ -77079,7 +94639,9 @@ comparative
 
 
 
+ι
 
+τ
 
 
 
@@ -77088,30 +94650,50 @@ comparative
 
 
 
+τ
 
+ο
+α
 
 
+ο
+ι
 
 
 
+τ
 
+ι
 
 
 
+τ
 
 
+τ
+τ
 
 
 
+τ
 
 
+τ
+ι
 
 
+α
 
 
+ι
+τ
 
+ς
+α
 
 
+α
+α
 
 
 
@@ -77121,6 +94703,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -77129,59 +94712,75 @@ comparative
 
 
 
+τ
 
 
 
+ς
 
 
 
 
 
+ς
 
+τ
 
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
+τ
 
 
 
 
+ν
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+τ
 
 
 
+ς
 
 
 
 
 
+δ
 
 
 
+ρ
 
 
 
 
+τ
 
 
 
@@ -77189,17 +94788,21 @@ comparative
 
 
 
+τ
 
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+τ
 
 
 
@@ -77207,25 +94810,34 @@ comparative
 
 
 
+τ
 
 
 
+τ
+ο
 
 
+α
 
 
+α
 
 
+ι
 
 
 
+ο
 
 
+ς
 
 
 
 
 
+τ
 
 
 
@@ -77234,27 +94846,37 @@ comparative
 
 
 
+ς
 
 
+τ
 
 
 
 
+ς
 
 
+τ
 
 
 
 
+ο
 
 
+ρ
+α
 
 
 
 
 
 
+α
 
+δ
+α
 
 
 
@@ -77263,7 +94885,9 @@ comparative
 
 
 
+ς
 
+τ
 
 
 
@@ -77274,13 +94898,16 @@ comparative
 
 
 
+τ
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -77288,21 +94915,26 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
+τ
 
-comparative
 
 
 
+α
 
 
 
+τ
 
 
+τ
 
 
 
@@ -77310,48 +94942,76 @@ comparative
 
 
 
+ς
 
 
 
 
+ς
 
 
 
+ς
 
 
+ς
 
 
 
+ς
 
 
 
+τ
+ο
 
+ς
 
+ς
 
 
 
 
 
+ο
 
 
+α
 
+ο
 
+α
 
+ο
 
+ι
 
+τ
+τ
+ι
+ι
+ς
+α
 
 
+ο
 
 
+α
 
 
+ο
 
 
+ι
 
 
+τ
 
+τ
 
 
+α
 
 
 
@@ -77359,43 +95019,58 @@ comparative
 
 
 
+τ
 
 
 
 
 
+α
+ο
 
 
 
 
+α
 
+ο
 
 
 
+ο
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
+ι
 
+ς
 
+α
 
 
 
@@ -77412,22 +95087,26 @@ comparative
 
 
 
+τ
 
 
-comparative
 
+α
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
@@ -77448,9 +95127,11 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -77460,20 +95141,26 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
+α
 
 
+ι
 
 
+ς
 
 
 
 
+ς
 
 
 
@@ -77482,6 +95169,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -77497,6 +95185,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -77505,13 +95194,18 @@ comparative
 
 
 
+ο
 
+τ
 
 
+ο
 
+ο
 
 
 
+ς
 
 
 
@@ -77521,6 +95215,9 @@ comparative
 
 
 
+ι
+δ
+α
 
 
 
@@ -77528,8 +95225,10 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
@@ -77541,33 +95240,45 @@ comparative
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
+τ
 
 
+ο
 
 
 
+ο
 
+α
 
+ι
 
+α
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -77579,19 +95290,24 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -77602,20 +95318,28 @@ comparative
 
 
 
+ι
 
-comparative
 
+ι
 
 
+α
 
+α
 
 
 
+α
 
 
+ο
 
+α
 
+α
 
+ο
 
 
 
@@ -77629,18 +95353,23 @@ comparative
 
 
 
+γ
+α
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -77649,12 +95378,16 @@ comparative
 
 
 
+ρ
 
 
 
 
+ς
+α
 
 
+ο
 
 
 
@@ -77663,12 +95396,13 @@ comparative
 
 
 
+ι
 
+α
 
 
 
 
-comparative
 
 
 
@@ -77679,28 +95413,35 @@ comparative
 
 
 
+α
 
+τ
 
 
+α
 
+α
 
 
 
 
-comparative
 
 
+α
 
 
 
 
 
 
+α
 
+τ
 
 
 
 
+ου
 
 
 
@@ -77709,23 +95450,30 @@ comparative
 
 
 
+τ
 
 
 
 
+ου
 
 
+τ
 
 
 
 
+ου
 
 
 
+τ
 
 
 
+ο
 
+α
 
 
 
@@ -77733,6 +95481,7 @@ comparative
 
 
 
+α
 
 
 
@@ -77749,48 +95498,61 @@ comparative
 
 
 
-comparative
 
+ο
 
 
 
+α
 
 
 
+α
 
 
+ο
 
+ου
 
 
-superlative
 
 
 
 
 
 
+ο
 
+α
+ο
 
+ο
 
 
+ν
 
 
+α
 
 
 
+ν
 
 
 
 
+ο
 
 
 
 
 
 
+ς
 
 
 
+ο
 
 
 
@@ -77798,9 +95560,12 @@ superlative
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
@@ -77810,6 +95575,7 @@ superlative
 
 
 
+α
 
 
 
@@ -77820,6 +95586,7 @@ superlative
 
 
 
+α
 
 
 
@@ -77827,8 +95594,10 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
@@ -77844,6 +95613,7 @@ superlative
 
 
 
+α
 
 
 
@@ -77853,6 +95623,7 @@ superlative
 
 
 
+α
 
 
 
@@ -77860,30 +95631,41 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
+α
 
+ι
 
+α
 
+α
 
 
 
+α
 
 
+α
 
 
 
@@ -77894,6 +95676,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -77901,13 +95684,17 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
 
 
+ο
+α
 
 
 
@@ -77938,21 +95725,30 @@ superlative
 
 
 
+τ
+α
+α
 
 
 
 
+α
 
+ο
 
+α
 
 
 
 
+α
 
 
 
+irregular
 
 
+α
 
 
 
@@ -77964,6 +95760,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -77971,19 +95768,25 @@ superlative
 
 
 
+ο
 
 
+irregular
 
 
 
 
+irregular
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
@@ -77993,6 +95796,7 @@ superlative
 
 
 
+α
 
 
 
@@ -78001,13 +95805,16 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -78017,16 +95824,20 @@ superlative
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
 
+ο
 
+ο
 
 
 
@@ -78042,6 +95853,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -78060,12 +95872,15 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
@@ -78073,13 +95888,16 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -78087,6 +95905,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -78100,15 +95919,17 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
-superlative
 
 
 
+τ
 
 
 
@@ -78117,21 +95938,28 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+α
 
+ο
+ι
 
+ο
 
 
 
 
 
+ι
 
 
 
@@ -78149,7 +95977,9 @@ superlative
 
 
 
+ι
 
+ο
 
 
 
@@ -78164,6 +95994,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -78175,39 +96006,49 @@ superlative
 
 
 
+ι
 
 
 
 
 
+ι
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+ι
 
 
 
 
+ρ
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -78222,48 +96063,62 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
+ο
 
 
+ο
+ι
 
 
 
@@ -78276,6 +96131,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -78283,26 +96139,37 @@ superlative
 
 
 
+τ
+α
+ο
 
 
 
+ο
 
 
-comparative
+α
 
 
 
+ς
 
 
 
+α
 
+ο
 
+ρ
 
 
 
+α
 
 
+α
 
+ι
 
 
 
@@ -78315,16 +96182,19 @@ comparative
 
 
 
+δ
 
 
 
 
 
+ο
 
 
 
 
 
+δ
 
 
 
@@ -78350,6 +96220,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -78359,6 +96230,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -78385,23 +96257,33 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
+ι
+ο
 
 
 
+ο
+irregular
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+ς
 
 
 
@@ -78415,17 +96297,22 @@ comparative
 
 
 
+ς
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
@@ -78437,6 +96324,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -78447,50 +96335,65 @@ comparative
 
 
 
-comparative
 
 
 
 
 
+τ
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+τ
 
 
 
 
 
+τ
 
+τ
 
 
+κ
 
 
+κ
 
 
 
+ο
 
 
+κ
+ς
 
 
+κ
 
 
 
+υ
 
+τ
 
 
+τ
 
 
 
@@ -78498,42 +96401,62 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
+ο
 
 
+α
+α
 
 
+α
+ρ
+ρ
 
+ρ
 
 
+α
 
 
 
+ι
 
 
 
 
+α
 
 
+α
 
 
+α
 
 
+α
 
 
+α
 
 
+ι
 
+τ
 
 
+τ
 
 
 
+τ
 
 
 
@@ -78544,13 +96467,16 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -78565,11 +96491,15 @@ comparative
 
 
 
+ο
 
+α
 
 
 
+ο
 
+ο
 
 
 
@@ -78589,26 +96519,36 @@ comparative
 
 
 
+ν
 
 
 
 
 
+ν
 
 
 
 
 
+ο
 
+κ
 
+τ
+α
+ο
 
 
 
 
 
+α
 
+α
 
 
+ο
 
 
 
@@ -78620,9 +96560,12 @@ comparative
 
 
 
+α
+ο
 
 
 
+γ
 
 
 
@@ -78639,54 +96582,78 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
+ς
 
 
+ο
 
+ς
 
 
+ο
 
+ο
 
 
+ο
 
+ο
 
+α
 
 
+ι
 
+α
 
+ο
 
 
+ο
+ι
 
 
 
 
+ς
 
 
+ο
 
+irregular
+ο
 
+ο
 
 
 
@@ -78695,19 +96662,24 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -78715,13 +96687,16 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -78737,6 +96712,7 @@ comparative
 
 
 
+α
 
 
 
@@ -78745,12 +96721,15 @@ comparative
 
 
 
+α
 
 
 
 
+ι
 
 
+τ
 
 
 
@@ -78766,7 +96745,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -78790,21 +96771,27 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
+α
 
 
 
@@ -78817,6 +96804,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -78825,6 +96813,8 @@ comparative
 
 
 
+ο
+ο
 
 
 
@@ -78837,6 +96827,7 @@ comparative
 
 
 
+α
 
 
 
@@ -78846,9 +96837,12 @@ comparative
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -78858,10 +96852,12 @@ comparative
 
 
 
+ο
 
 
 
 
+τ
 
 
 
@@ -78873,22 +96869,30 @@ comparative
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
+α
+α
 
 
+α
 
+α
 
 
+α
 
 
 
@@ -78909,17 +96913,23 @@ comparative
 
 
 
+α
+α
 
+ο
 
+ο
 
 
 
+τ
 
 
 
 
 
 
+τ
 
 
 
@@ -78930,53 +96940,84 @@ comparative
 
 
 
+α
 
+α
 
 
 
+ο
 
+α
 
+α
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
 
+τ
 
 
+ο
 
 
+ρ
+ο
 
 
 
 
 
+ο
 
+τ
 
 
 
+ι
 
+ο
+irregular
 
 
 
+α
 
 
 
 
 
+ο
+irregular
+ο
+ο
+ο
+irregular
 
+τ
+ο
 
+ο
 
+ο
 
+α
 
+ο
 
 
 
+ο
 
 
 
@@ -78986,26 +97027,44 @@ comparative
 
 
 
+α
+ι
 
 
+α
 
+ο
+ρ
 
 
+ο
+irregular
+ο
 
 
+ο
 
+ρ
 
+ο
 
+irregular
+ο
 
+ρ
 
+ο
 
+ο
 
+ι
 
 
 
 
 
 
+ι
 
 
 
@@ -79015,26 +97074,33 @@ comparative
 
 
 
+ι
 
 
+ι
 
 
 
 
 
+ο
 
 
 
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
 
+ι
 
 
 
@@ -79042,23 +97108,29 @@ comparative
 
 
 
+ι
 
+α
 
 
 
 
 
+ι
 
 
 
+α
 
 
+τ
 
 
 
 
 
 
+δ
 
 
 
@@ -79066,26 +97138,34 @@ comparative
 
 
 
+ο
 
 
+τ
 
 
 
+ι
 
 
 
 
 
+ο
 
 
+ι
 
 
 
 
 
+α
 
 
+α
 
+ι
 
 
 
@@ -79098,7 +97178,9 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
@@ -79109,6 +97191,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -79116,6 +97199,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -79133,12 +97217,15 @@ comparative
 
 
 
+ι
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -79146,24 +97233,34 @@ comparative
 
 
 
+ι
 
 
 
 
+ο
 
+ι
 
 
 
+τ
 
+α
 
+ο
 
 
+α
 
 
 
+ι
+ο
 
 
 
+ο
 
 
 
@@ -79184,13 +97281,16 @@ comparative
 
 
 
+ς
 
 
 
 
 
 
+ς
 
+τ
 
 
 
@@ -79199,11 +97299,15 @@ comparative
 
 
 
+α
 
+ο
 
+irregular
 
 
 
+ι
 
 
 
@@ -79211,15 +97315,18 @@ comparative
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -79229,17 +97336,20 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+κ
 
 
 
@@ -79255,8 +97365,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -79268,7 +97380,11 @@ comparative
 
 
 
+ο
 
+ο
+ο
+irregular
 
 
 
@@ -79278,7 +97394,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -79291,6 +97409,8 @@ comparative
 
 
 
+α
+ο
 
 
 
@@ -79302,7 +97422,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -79312,9 +97434,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -79322,35 +97446,45 @@ comparative
 
 
 
+ν
 
+τ
 
 
+α
 
 
 
+ρ
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
+α
 
 
 
+ι
 
 
 
@@ -79360,6 +97494,7 @@ comparative
 
 
 
+α
 
 
 
@@ -79386,6 +97521,7 @@ comparative
 
 
 
+α
 
 
 
@@ -79399,22 +97535,28 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ι
 
+α
+α
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -79431,6 +97573,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -79440,6 +97583,7 @@ comparative
 
 
 
+α
 
 
 
@@ -79456,6 +97600,7 @@ comparative
 
 
 
+α
 
 
 
@@ -79465,6 +97610,7 @@ comparative
 
 
 
+α
 
 
 
@@ -79473,6 +97619,7 @@ comparative
 
 
 
+α
 
 
 
@@ -79495,62 +97642,85 @@ comparative
 
 
 
+ο
+ο
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
 
+δ
 
 
+ο
 
+ο
 
+α
 
 
 
+ο
 
 
+ι
 
+τ
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
+ι
 
 
 
 
 
 
+ο
 
 
+α
 
+ι
 
 
 
 
 
 
+ο
 
+ο
+α
 
 
+ο
 
 
 
@@ -79560,12 +97730,18 @@ comparative
 
 
 
+α
 
+ο
 
+ο
 
 
+α
 
+α
 
+α
 
 
 
@@ -79579,15 +97755,21 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
+ο
 
+ο
 
+ο
 
 
 
@@ -79599,27 +97781,33 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+α
+ο
 
 
 
@@ -79627,20 +97815,28 @@ comparative
 
 
 
+τ
+ο
 
 
 
+κ
 
 
 
+κ
+α
 
+ι
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -79654,41 +97850,59 @@ comparative
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+ο
 
+α
 
+τ
 
+τ
 
 
+τ
 
 
 
+τ
 
 
 
 
+α
 
+ο
 
+τ
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
+υ
 
 
+α
 
+ο
 
 
 
@@ -79696,18 +97910,27 @@ comparative
 
 
 
+α
 
+τ
 
 
+α
 
 
 
+α
 
+ι
+α
 
 
 
 
+α
 
+α
+α
 
 
 
@@ -79717,62 +97940,77 @@ comparative
 
 
 
+ς
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+δ
 
+α
 
 
 
 
+υ
 
+τ
 
-comparative
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ς
 
 
-comparative
 
 
 
+τ
 
 
 
 
 
+α
 
 
+τ
 
 
+ι
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -79780,9 +98018,11 @@ comparative
 
 
 
+υ
+τ
 
 
-comparative
+α
 
 
 
@@ -79790,32 +98030,48 @@ comparative
 
 
 
+ο
 
 
+τ
 
 
+ο
 
+τ
 
 
 
 
+τ
+ο
+α
 
 
 
 
+ο
 
+α
+ο
 
 
 
+ν
 
 
+α
 
+α
 
 
+ο
+τ
 
 
 
 
+α
 
 
 
@@ -79826,28 +98082,38 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
+ι
 
+α
 
 
 
 
+ι
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -79857,10 +98123,13 @@ comparative
 
 
 
+ο
 
+ν
 
 
 
+τ
 
 
 
@@ -79868,54 +98137,78 @@ comparative
 
 
 
+ο
 
+ο
 
+α
 
+ο
 
 
+ν
 
+ο
 
 
 
 
 
+ο
+irregular
+ο
 
 
+ο
 
 
+irregular
 
 
+ο
 
 
 
+ς
+τ
 
 
 
 
 
+α
 
 
+ο
 
+ι
 
+α
 
+ο
 
+ο
+ο
 
-comparative
 
 
+ο
 
 
 
+ς
 
 
+α
 
+ι
 
 
+ο
 
 
 
 
-comparative
 
 
 
@@ -79936,16 +98229,22 @@ comparative
 
 
 
+ι
 
+irregular
 
 
+τ
 
 
 
 
+α
 
+irregular
 
 
+τ
 
 
 
@@ -79954,31 +98253,40 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
 
+α
 
+irregular
 
 
 
 
+κ
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+τ
 
+ι
 
 
 
@@ -79996,10 +98304,12 @@ comparative
 
 
 
+ο
+irregular
 
 
-superlative
 
+irregular
 
 
 
@@ -80012,15 +98322,19 @@ superlative
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
+α
 
+ο
 
 
 
@@ -80030,21 +98344,29 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
 
 
 
+ι
 
+α
 
+α
 
+ς
+α
 
 
 
@@ -80072,23 +98394,31 @@ superlative
 
 
 
+α
 
+ς
 
+α
 
+ο
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -80104,6 +98434,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -80119,6 +98450,7 @@ superlative
 
 
 
+α
 
 
 
@@ -80126,11 +98458,14 @@ superlative
 
 
 
+ο
 
 
 
 
+ν
 
+τ
 
 
 
@@ -80140,14 +98475,18 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
+ι
 
 
 
 
+ς
 
 
 
@@ -80156,11 +98495,12 @@ superlative
 
 
 
+τ
 
 
 
-comparative
 
+ο
 
 
 
@@ -80179,13 +98519,16 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -80196,27 +98539,32 @@ comparative
 
 
 
+ο
 
+ο
+ο
 
+ο
 
 
-superlative
 
 
 
 
 
+ι
 
 
 
-comparative
 
 
 
 
 
+α
 
 
+τ
 
 
 
@@ -80224,20 +98572,24 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
-superlative
+α
 
+ο
 
 
 
@@ -80276,10 +98628,13 @@ superlative
 
 
 
+κ
 
 
 
 
+κ
+ο
 
 
 
@@ -80288,7 +98643,9 @@ superlative
 
 
 
+ο
 
+ι
 
 
 
@@ -80300,55 +98657,72 @@ superlative
 
 
 
+ο
 
 
-comparative
 
 
 
+ο
 
 
 
 
+α
 
+α
 
 
+ο
 
 
+ο
+ο
 
 
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
+α
 
 
 
 
+α
+ο
 
 
 
@@ -80359,70 +98733,107 @@ comparative
 
 
 
+ι
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
+α
 
 
 
 
+ο
 
 
 
+α
+α
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
 
+ο
+ο
 
+α
 
 
+ι
 
+α
 
+α
 
+α
 
+α
 
+α
 
+ο
 
+α
 
+α
 
+τ
 
+ι
 
+α
 
+τ
 
+τ
 
 
-comparative
+α
 
 
+ο
+α
 
+ι
+ο
 
 
+ο
 
+α
 
 
 
 
 
+α
 
+α
 
+α
 
+α
 
 
 
@@ -80458,12 +98869,14 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
@@ -80474,11 +98887,14 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
@@ -80486,33 +98902,48 @@ comparative
 
 
 
-comparative
 
 
 
+α
+α
 
+α
 
 
+α
+τ
 
+ς
 
 
+ι
+ο
 
 
 
 
+δ
 
 
 
 
 
+ι
+ο
+ο
 
+ο
 
 
+ο
+ο
 
 
 
 
 
+ο
 
 
 
@@ -80522,10 +98953,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -80534,6 +98967,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -80545,25 +98979,37 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+ο
 
+ρ
 
+ο
+ρ
 
 
 
 
+α
 
 
 
 
 
+ο
+κ
 
+τ
 
+α
 
+ο
+ο
 
 
 
@@ -80573,6 +99019,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -80580,9 +99027,9 @@ comparative
 
 
 
+α
 
 
-comparative
 
 
 
@@ -80590,35 +99037,45 @@ comparative
 
 
 
+α
 
 
 
 
+ι
 
 
 
 
+ι
 
 
+α
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
+ι
 
+κ
 
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -80627,19 +99084,23 @@ comparative
 
 
 
+ο
 
-superlative
 
+α
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
@@ -80648,10 +99109,13 @@ superlative
 
 
 
+ι
 
 
+ο
 
 
+ο
 
 
 
@@ -80665,6 +99129,7 @@ superlative
 
 
 
+α
 
 
 
@@ -80673,10 +99138,12 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -80688,10 +99155,11 @@ superlative
 
 
 
+α
 
 
 
-comparative
+ο
 
 
 
@@ -80701,12 +99169,19 @@ comparative
 
 
 
+ο
+α
+α
 
+α
 
 
 
 
 
+ο
+α
+ο
 
 
 
@@ -80714,16 +99189,24 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+α
 
+ι
 
+ο
 
+ι
 
+ο
 
+ι
 
 
 
@@ -80731,6 +99214,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -80749,6 +99233,7 @@ comparative
 
 
 
+α
 
 
 
@@ -80757,21 +99242,26 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
 
 
 
+α
+ο
 
 
 
+τ
 
 
 
@@ -80788,18 +99278,22 @@ comparative
 
 
 
-comparative
 
+α
 
 
 
 
 
+ι
 
 
+ο
+α
 
 
 
+ο
 
 
 
@@ -80809,9 +99303,12 @@ comparative
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
@@ -80824,43 +99321,61 @@ comparative
 
 
 
+ο
 
+ι
 
+ο
 
 
 
 
+α
 
+α
 
 
 
+α
+ι
 
+α
 
+α
 
 
 
 
+ο
+α
 
 
 
 
+ο
 
+τ
 
 
 
-comparative
+ι
 
 
 
+ι
 
 
 
+ι
 
 
 
+ι
 
 
+α
 
+α
 
 
 
@@ -80874,14 +99389,17 @@ comparative
 
 
 
+ο
 
 
 
+τ
+ο
 
 
 
-comparative
 
+ο
 
 
 
@@ -80892,46 +99410,60 @@ comparative
 
 
 
+ι
 
 
 
 
 
 
+ι
 
+ο
 
+ι
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ι
 
+ο
 
+irregular
+ο
 
 
 
@@ -80942,8 +99474,10 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
@@ -80972,6 +99506,7 @@ comparative
 
 
 
+α
 
 
 
@@ -80984,6 +99519,7 @@ comparative
 
 
 
+α
 
 
 
@@ -80997,27 +99533,36 @@ comparative
 
 
 
+ι
 
+ι
 
 
+τ
 
 
 
+ο
 
 
+τ
 
 
 
+τ
 
 
 
 
+τ
 
 
 
 
+τ
 
 
+τ
 
 
 
@@ -81031,19 +99576,25 @@ comparative
 
 
 
+ι
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
+ο
 
 
 
+ι
 
 
 
@@ -81057,13 +99608,17 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
@@ -81072,9 +99627,12 @@ comparative
 
 
 
+α
+ο
 
 
 
+ι
 
 
 
@@ -81084,7 +99642,10 @@ comparative
 
 
 
+ο
+α
 
+α
 
 
 
@@ -81094,6 +99655,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -81105,15 +99667,17 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
-superlative
 
 
 
@@ -81125,36 +99689,50 @@ superlative
 
 
 
+ι
 
 
 
 
 
 
+ο
+ο
 
 
 
 
 
 
+ο
 
+ο
+α
+α
+ο
 
 
+ι
 
+α
 
 
 
+ι
 
 
 
 
 
 
+ο
 
+α
 
 
 
 
+α
 
 
 
@@ -81168,28 +99746,33 @@ superlative
 
 
 
+α
 
 
 
 
-superlative
 
+ν
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -81197,6 +99780,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -81209,6 +99793,7 @@ superlative
 
 
 
+ν
 
 
 
@@ -81219,15 +99804,16 @@ superlative
 
 
 
-superlative
 
 
+ι
 
 
 
 
 
 
+ο
 
 
 
@@ -81236,15 +99822,18 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -81257,25 +99846,34 @@ superlative
 
 
 
+α
 
+α
 
 
 
 
 
 
+α
 
 
+α
 
 
+α
 
 
+α
 
 
+ο
 
 
 
+ο
 
+ι
 
 
 
@@ -81284,57 +99882,74 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+τ
 
+α
 
 
 
 
+ν
 
 
 
+τ
 
 
 
+ο
 
+ι
 
 
 
 
+ο
 
 
 
 
+τ
 
+α
 
 
 
 
 
 
+τ
 
 
 
 
+α
 
+ο
 
 
+α
 
+α
 
 
 
 
 
 
+τ
 
 
 
@@ -81342,22 +99957,33 @@ superlative
 
 
 
+α
 
+ο
 
 
+α
 
+α
 
 
 
+ο
 
 
+α
 
+α
 
 
 
+ο
 
+ο
 
+τ
 
+α
 
 
 
@@ -81365,6 +99991,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -81372,25 +99999,35 @@ superlative
 
 
 
+ι
 
+ο
 
 
+ι
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+τ
 
+α
 
+ο
 
 
+ο
 
 
 
@@ -81407,6 +100044,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -81417,53 +100055,72 @@ superlative
 
 
 
+κ
 
 
+κ
 
 
 
 
+κ
 
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
+ι
+τ
+ο
 
 
 
+τ
 
 
 
+ι
 
+ο
 
 
 
+τ
 
 
+α
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -81473,6 +100130,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -81484,15 +100142,18 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
+α
 
 
 
-superlative
+ι
 
 
 
@@ -81505,8 +100166,10 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
@@ -81514,10 +100177,13 @@ superlative
 
 
 
+α
 
+τ
 
 
 
+ο
 
 
 
@@ -81527,12 +100193,15 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -81561,17 +100230,20 @@ superlative
 
 
 
-superlative
 
 
 
 
 
+ο
 
+ν
 
 
 
 
+ο
+ο
 
 
 
@@ -81592,27 +100264,33 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
 
-superlative
 
+ο
+δ
 
 
 
 
+ι
 
 
 
 
 
 
+ν
 
 
+α
 
 
 
@@ -81621,6 +100299,7 @@ superlative
 
 
 
+ν
 
 
 
@@ -81629,6 +100308,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -81641,12 +100321,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -81654,49 +100336,64 @@ superlative
 
 
 
+ο
+ο
 
 
 
 
+irregular
+ο
 
 
 
+ο
 
 
 
 
 
 
+ι
 
+α
 
 
+α
 
 
 
+τ
 
 
 
+τ
 
 
+τ
 
 
+ο
 
 
 
 
 
 
+irregular
 
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
@@ -81709,13 +100406,17 @@ superlative
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
+ι
 
 
 
@@ -81725,6 +100426,7 @@ superlative
 
 
 
+α
 
 
 
@@ -81735,14 +100437,19 @@ superlative
 
 
 
+ο
+ο
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
@@ -81754,11 +100461,14 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
 
+α
 
 
 
@@ -81769,10 +100479,13 @@ superlative
 
 
 
+α
+ο
 
 
 
 
+ι
 
 
 
@@ -81780,7 +100493,9 @@ superlative
 
 
 
+τ
 
+α
 
 
 
@@ -81788,6 +100503,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -81797,8 +100513,10 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
@@ -81810,30 +100528,43 @@ superlative
 
 
 
+ο
+α
 
 
 
+ο
+ο
 
 
+τ
 
 
 
+α
 
 
+ο
+τ
 
 
 
 
 
 
+ο
 
 
 
+ο
+α
 
 
+ς
 
 
 
+ο
 
 
 
@@ -81860,19 +100591,24 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ι
 
+ι
 
 
 
 
 
+κ
 
 
 
@@ -81900,9 +100636,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -81915,30 +100653,38 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+τ
 
 
 
+ο
+ο
 
 
 
 
 
 
+ο
 
 
+α
 
 
-comparative
+α
 
 
+ο
 
 
 
@@ -81953,36 +100699,66 @@ comparative
 
 
 
+ο
 
 
+ο
 
+α
 
+ο
+ο
+ο
+α
+ο
 
+ς
+ο
 
+ς
+ο
 
+ι
+ο
 
+α
+ο
 
+α
+ο
 
+ο
+ο
 
+ο
 
-comparative
+α
 
 
+ο
 
+ς
 
+α
 
 
+ς
 
+τ
 
 
 
 
+ι
 
 
 
+α
 
+α
 
 
+α
 
 
 
@@ -81999,37 +100775,52 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+ρ
 
+ο
+irregular
 
 
 
 
 
 
+ν
 
 
 
 
+ο
 
+α
+α
 
+ευ
 
 
+ι
 
 
 
 
 
+δ
 
+α
 
 
 
+ς
 
 
 
+ρ
 
 
 
@@ -82039,51 +100830,67 @@ comparative
 
 
 
+α
 
+ι
+ο
 
+ο
 
+ο
 
+ς
 
 
 
+τ
 
 
-comparative
 
 
 
+τ
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+τ
 
 
 
+τ
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
+ο
 
 
 
@@ -82098,6 +100905,7 @@ comparative
 
 
 
+α
 
 
 
@@ -82105,6 +100913,7 @@ comparative
 
 
 
+α
 
 
 
@@ -82124,14 +100933,20 @@ comparative
 
 
 
+α
 
+ι
 
 
 
 
 
 
+π
 
+κ
+ο
+α
 
 
 
@@ -82142,6 +100957,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -82153,10 +100969,13 @@ comparative
 
 
 
+ι
 
 
 
+ι
 
+α
 
 
 
@@ -82164,20 +100983,29 @@ comparative
 
 
 
+α
 
 
 
 
 
+ι
 
+ο
 
 
 
+α
 
+ι
 
+α
 
+ο
 
+α
 
+ο
 
 
 
@@ -82200,21 +101028,28 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
+ο
 
 
+τ
 
+ι
 
 
 
@@ -82223,6 +101058,7 @@ comparative
 
 
 
+α
 
 
 
@@ -82234,6 +101070,7 @@ comparative
 
 
 
+α
 
 
 
@@ -82257,11 +101094,15 @@ comparative
 
 
 
+ο
 
+ευ
 
 
 
+ευ
 
+ο
 
 
 
@@ -82270,6 +101111,7 @@ comparative
 
 
 
+α
 
 
 
@@ -82285,6 +101127,8 @@ comparative
 
 
 
+ο
+ο
 
 
 
@@ -82298,26 +101142,33 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+τ
 
 
 
 
+ς
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -82326,6 +101177,7 @@ comparative
 
 
 
+α
 
 
 
@@ -82344,6 +101196,14 @@ comparative
 
 
 
+δ
+ο
+ο
+α
+α
+ο
+ι
+α
 
 
 
@@ -82351,6 +101211,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -82364,8 +101225,11 @@ comparative
 
 
 
+α
 
+α
 
+α
 
 
 
@@ -82374,11 +101238,14 @@ comparative
 
 
 
+τ
 
+ρ
 
 
 
 
+τ
 
 
 
@@ -82404,11 +101271,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -82422,9 +101291,12 @@ comparative
 
 
 
+α
 
 
 
+ι
+ο
 
 
 
@@ -82436,6 +101308,8 @@ comparative
 
 
 
+ι
+ο
 
 
 
@@ -82444,6 +101318,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -82451,9 +101326,10 @@ comparative
 
 
 
+irregular
+ο
 
 
-superlative
 
 
 
@@ -82471,6 +101347,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -82498,9 +101375,11 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -82515,6 +101394,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -82527,15 +101407,20 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
+ι
 
+ο
 
 
 
@@ -82545,8 +101430,11 @@ superlative
 
 
 
+ο
 
+α
 
+α
 
 
 
@@ -82554,30 +101442,47 @@ superlative
 
 
 
+τ
 
 
 
 
 
 
+ι
 
+ο
+irregular
+ο
 
 
+α
 
+ο
 
 
+α
 
 
+τ
 
 
 
+ο
+ο
 
 
+ο
 
 
+ο
 
 
+irregular
+ο
 
+ο
+ρ
 
 
 
@@ -82588,38 +101493,55 @@ superlative
 
 
 
+ο
 
+α
 
+α
+ι
 
 
+α
 
+ο
+ρ
 
 
+ο
+irregular
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+ν
 
 
 
 
 
+τ
 
+ο
 
+ρ
 
 
-superlative
 
+α
 
 
+ν
 
+ν
 
 
 
@@ -82631,8 +101553,11 @@ superlative
 
 
 
+ι
+ο
 
 
+ο
 
 
 
@@ -82648,19 +101573,24 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+τ
 
 
 
@@ -82675,25 +101605,34 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -82702,28 +101641,38 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ι
+irregular
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
+α
 
+ο
 
 
 
@@ -82731,16 +101680,21 @@ superlative
 
 
 
+ο
 
 
+α
 
 
+ς
 
 
+α
 
 
 
 
+ι
 
 
 
@@ -82748,14 +101702,18 @@ superlative
 
 
 
+α
+ρ
 
 
 
 
 
+ι
 
 
 
+ο
 
 
 
@@ -82764,45 +101722,59 @@ superlative
 
 
 
+ς
 
 
 
+κ
 
+τ
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
-superlative
 
 
+ς
 
 
+τ
 
+α
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
@@ -82810,6 +101782,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -82817,17 +101790,24 @@ superlative
 
 
 
+τ
 
+α
 
 
+α
 
 
 
 
+ο
 
+α
 
+α
 
 
+ο
 
 
 
@@ -82840,6 +101820,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -82848,26 +101829,34 @@ superlative
 
 
 
+ο
 
 
 
+ς
 
 
 
+τ
 
+α
 
 
+ο
 
 
 
+ι
 
 
 
 
+ο
 
 
 
 
+ς
 
 
 
@@ -82882,9 +101871,11 @@ superlative
 
 
 
+ο
 
 
 
+ν
 
 
 
@@ -82892,30 +101883,37 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
+irregular
 
 
 
 
 
 
+α
 
 
+α
 
 
+α
 
+ο
 
 
 
 
-comparative
 
 
 
@@ -82927,7 +101925,10 @@ comparative
 
 
 
+ο
 
+ο
+ο
 
 
 
@@ -82942,42 +101943,59 @@ comparative
 
 
 
+ο
 
+α
 
+ο
 
+α
 
 
 
+ο
 
+α
 
+α
 
 
 
 
 
+ς
 
 
 
+ι
 
 
 
+ο
 
+α
 
+α
 
 
+ο
 
 
 
 
 
+α
+α
 
 
 
 
+ς
 
 
 
 
+α
 
 
 
@@ -82992,8 +102010,11 @@ comparative
 
 
 
+α
 
+α
 
+ο
 
 
 
@@ -83005,8 +102026,10 @@ comparative
 
 
 
+ο
 
 
+ς
 
 
 
@@ -83018,6 +102041,7 @@ comparative
 
 
 
+α
 
 
 
@@ -83027,9 +102051,11 @@ comparative
 
 
 
+α
 
 
 
+ι
 
 
 
@@ -83038,9 +102064,12 @@ comparative
 
 
 
+α
 
+ο
 
 
+α
 
 
 
@@ -83054,48 +102083,70 @@ comparative
 
 
 
+ς
 
 
 
+ι
 
 
 
 
+ς
 
 
 
 
 
 
+ο
 
+ο
+ο
 
 
 
+ι
+ο
+irregular
 
 
 
+ο
+irregular
 
 
 
 
+ι
+ο
 
 
 
+ο
+ο
 
 
+ο
+ο
 
 
 
+κ
 
 
 
 
 
+ο
 
 
 
 
 
+ο
+α
+ο
 
 
 
@@ -83105,14 +102156,19 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
+ο
 
 
+ο
 
+ο
 
 
 
@@ -83122,16 +102178,21 @@ comparative
 
 
 
+ο
 
 
 
 
 
+κ
 
+ι
 
 
 
+ο
 
+ο
 
 
 
@@ -83143,20 +102204,29 @@ comparative
 
 
 
+ι
 
+ο
 
 
 
+ο
+α
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
+irregular
+ο
 
 
 
@@ -83166,16 +102236,22 @@ comparative
 
 
 
+ο
+ο
 
+τ
 
 
 
+α
+ι
 
 
-superlative
 
 
+τ
 
+κ
 
 
 
@@ -83189,37 +102265,51 @@ superlative
 
 
 
+τ
 
 
+ι
 
 
 
+ο
+ο
 
 
+α
+ι
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ι
 
+ο
 
 
 
 
 
+α
 
 
+ι
 
 
+ς
 
+ο
 
 
 
@@ -83229,9 +102319,11 @@ superlative
 
 
 
+ς
 
 
 
+ι
 
 
 
@@ -83240,8 +102332,11 @@ superlative
 
 
 
+ο
+ο
 
 
+α
 
 
 
@@ -83256,28 +102351,35 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
+ο
 
 
 
+ι
 
 
 
@@ -83285,14 +102387,18 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
@@ -83300,24 +102406,36 @@ superlative
 
 
 
+ο
 
 
 
+ς
 
+α
 
 
 
 
+irregular
+ο
 
 
+α
 
+τ
 
 
 
+ι
+ο
 
+ο
 
 
+ο
 
+α
 
 
 
@@ -83327,14 +102445,16 @@ superlative
 
 
 
+α
 
 
+τ
 
 
-superlative
 
 
 
+τ
 
 
 
@@ -83344,90 +102464,122 @@ superlative
 
 
 
+τ
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ς
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
+α
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
+ι
 
 
 
 
 
 
+τ
 
 
 
 
+ο
 
+ρ
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
+α
 
+ι
+irregular
+ο
 
 
 
@@ -83436,44 +102588,62 @@ superlative
 
 
 
+ι
 
+ο
 
 
 
 
 
+ι
 
 
 
+ο
+ο
 
 
 
+ο
 
 
+ι
 
 
 
 
+ι
 
 
+ο
 
 
 
+ο
+ο
 
 
 
+ι
 
+ο
+irregular
 
 
 
+ο
 
+ο
 
 
 
 
 
+ν
 
 
+ο
 
 
 
@@ -83487,32 +102657,46 @@ superlative
 
 
 
+ο
+irregular
 
 
 
+ο
 
 
 
+τ
 
 
+α
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
+ο
 
 
 
 
+ο
 
 
+ο
 
 
+α
 
+ρ
 
 
 
@@ -83521,67 +102705,93 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+τ
 
+ο
 
 
+ο
 
+ο
 
 
 
+irregular
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
+τ
 
+ο
 
 
 
+α
 
 
 
 
+ρ
 
 
 
+ο
 
+ο
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+ι
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -83590,15 +102800,20 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
+ν
 
+ο
 
+ο
 
 
 
@@ -83614,6 +102829,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -83623,16 +102839,20 @@ superlative
 
 
 
+α
 
+κ
 
 
 
 
 
 
+ο
 
 
 
+κ
 
 
 
@@ -83640,12 +102860,17 @@ superlative
 
 
 
+ο
+ο
 
 
 
+ο
+irregular
 
 
 
+ο
 
 
 
@@ -83654,6 +102879,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -83690,6 +102916,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -83697,6 +102924,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -83708,6 +102936,7 @@ superlative
 
 
 
+α
 
 
 
@@ -83717,9 +102946,11 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -83727,10 +102958,12 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -83741,7 +102974,9 @@ superlative
 
 
 
+α
 
+κ
 
 
 
@@ -83750,6 +102985,7 @@ superlative
 
 
 
+α
 
 
 
@@ -83757,11 +102993,14 @@ superlative
 
 
 
+α
 
 
 
+ς
 
 
+α
 
 
 
@@ -83770,31 +103009,36 @@ superlative
 
 
 
+ς
 
-superlative
 
 
+α
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+τ
 
-superlative
 
 
 
+ρ
 
 
 
 
+α
 
 
 
@@ -83807,6 +103051,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -83814,20 +103059,26 @@ superlative
 
 
 
+irregular
 
 
+ο
 
 
+α
+ο
 
 
 
 
 
 
+κ
 
 
 
 
+τ
 
 
 
@@ -83835,43 +103086,58 @@ superlative
 
 
 
+α
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
+ο
 
 
+α
+ο
 
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -83879,54 +103145,75 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+ι
 
 
 
+τ
 
+ι
+δ
+α
 
 
 
+ο
+irregular
 
+α
 
 
 
+α
 
+ι
 
+α
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
@@ -83937,12 +103224,15 @@ superlative
 
 
 
+τ
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -83951,7 +103241,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -83961,22 +103253,30 @@ superlative
 
 
 
+α
 
+ο
 
 
 
+α
 
+α
 
+κ
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -83999,20 +103299,27 @@ superlative
 
 
 
+τ
 
 
+α
+κ
 
 
 
 
 
+κ
 
 
 
+τ
 
 
+τ
 
 
+κ
 
 
 
@@ -84026,17 +103333,36 @@ superlative
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+ο
 
+κ
 
 
+α
+α
+α
+α
+α
+α
+δ
+ο
+ο
+α
+α
+ι
+ο
+α
+ο
 
 
 
@@ -84051,28 +103377,49 @@ superlative
 
 
 
+α
+ο
 
 
 
 
+ο
 
+τ
 
+α
+α
+α
+α
+τ
+α
+ι
+τ
+α
 
 
 
 
 
+ο
 
 
 
+ο
+irregular
 
+κ
 
 
 
+τ
 
 
+α
 
 
+τ
+τ
 
 
 
@@ -84082,12 +103429,14 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
-superlative
+τ
 
 
 
@@ -84095,6 +103444,8 @@ superlative
 
 
 
+τ
+τ
 
 
 
@@ -84103,12 +103454,15 @@ superlative
 
 
 
+ς
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -84121,6 +103475,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -84130,6 +103485,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -84140,12 +103496,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -84153,12 +103511,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -84167,18 +103527,24 @@ superlative
 
 
 
+κ
 
 
 
+κ
 
+α
 
 
 
 
 
+τ
 
 
+τ
 
+α
 
 
 
@@ -84186,6 +103552,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -84194,6 +103561,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -84206,16 +103574,20 @@ superlative
 
 
 
+ι
 
 
 
+τ
 
 
 
+ρ
 
 
 
 
+κ
 
 
 
@@ -84223,7 +103595,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -84231,6 +103605,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -84240,6 +103615,7 @@ superlative
 
 
 
+κ
 
 
 
@@ -84250,88 +103626,136 @@ superlative
 
 
 
+ο
 
+ο
 
+irregular
+ο
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
 
+α
 
 
+ι
 
 
 
+ν
 
 
+α
 
 
 
+ς
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+τ
 
+irregular
 
 
+τ
 
 
 
+ι
 
+ο
 
+irregular
+ο
 
 
+τ
 
+ο
 
+ο
+ο
+ο
+irregular
 
+τ
+ο
 
 
 
 
 
+ο
 
 
 
+ο
+irregular
+ι
 
 
+α
 
+ο
+ρ
 
 
+ο
+irregular
+ο
 
 
+ο
 
+ρ
 
+ο
 
+irregular
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
+ο
 
 
 
@@ -84340,18 +103764,27 @@ superlative
 
 
 
+α
 
 
 
+α
 
+irregular
+ο
 
 
 
 
+α
 
+τ
 
 
+ο
+α
 
+ι
 
 
 
@@ -84363,14 +103796,20 @@ superlative
 
 
 
+ι
 
 
+τ
 
 
+ι
 
+τ
 
 
+ο
 
+ι
 
 
 
@@ -84378,34 +103817,45 @@ superlative
 
 
 
+α
 
+ι
 
 
 
+ο
 
+τ
 
 
 
+α
 
 
 
 
 
 
+α
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -84414,33 +103864,43 @@ superlative
 
 
 
+ι
 
 
 
 
 
 
+α
 
+τ
 
 
 
 
 
 
+ο
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
+ο
 
+α
 
 
 
@@ -84448,17 +103908,25 @@ superlative
 
 
 
+τ
 
+α
 
 
 
 
+ν
 
+α
 
 
+ι
 
+ι
 
+ο
 
+α
 
 
 
@@ -84467,10 +103935,14 @@ superlative
 
 
 
+ι
 
 
+ο
+irregular
 
 
+α
 
 
 
@@ -84481,24 +103953,38 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
+ο
 
+irregular
+ο
 
+ρ
 
+α
 
 
+τ
+α
 
+ι
 
+ι
 
 
 
+ο
 
+α
 
 
 
@@ -84507,12 +103993,17 @@ superlative
 
 
 
+δ
 
+ι
 
 
 
+ο
 
+α
 
+α
 
 
 
@@ -84521,7 +104012,9 @@ superlative
 
 
 
+ς
 
+ι
 
 
 
@@ -84529,13 +104022,17 @@ superlative
 
 
 
+α
 
+ς
 
+υ
 
 
 
 
 
+ο
 
 
 
@@ -84550,16 +104047,22 @@ superlative
 
 
 
+α
 
+α
 
+ι
 
+τ
 
 
+τ
 
 
 
 
 
+ν
 
 
 
@@ -84571,18 +104074,23 @@ superlative
 
 
 
+δ
 
 
 
 
+α
 
 
 
+α
 
 
 
+τ
 
 
+τ
 
 
 
@@ -84594,8 +104102,10 @@ superlative
 
 
 
+τ
 
 
+α
 
 
 
@@ -84603,19 +104113,27 @@ superlative
 
 
 
+ν
 
+ο
 
 
 
+ντ
 
+α
 
+ρ
 
+τ
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -84625,27 +104143,38 @@ superlative
 
 
 
+α
 
+κ
 
 
 
+τ
 
+κ
 
 
+α
 
 
+ο
+ι
+α
 
 
 
 
 
 
+ο
 
 
 
+ς
 
 
 
+α
 
 
 
@@ -84655,8 +104184,11 @@ superlative
 
 
 
+τ
 
 
+ο
+ι
 
 
 
@@ -84667,33 +104199,46 @@ superlative
 
 
 
+ο
+irregular
 
 
 
 
+ν
 
 
 
 
+ο
 
+ι
 
 
+τ
 
 
 
+ο
+irregular
 
 
+ι
 
 
 
+ι
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
@@ -84701,13 +104246,18 @@ superlative
 
 
 
+τ
 
 
+ο
+irregular
 
+ο
 
 
 
 
+ο
 
 
 
@@ -84718,36 +104268,50 @@ superlative
 
 
 
+ς
 
+κ
 
 
+α
 
 
 
+α
 
+κ
 
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
+α
+δ
 
 
 
 
 
 
+ο
 
 
 
+ο
+irregular
 
 
 
@@ -84757,11 +104321,14 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
 
+α
 
 
 
@@ -84770,15 +104337,22 @@ superlative
 
 
 
+ο
 
+ο
 
 
+α
 
 
+κ
 
 
+ο
 
+α
 
+τ
 
 
 
@@ -84789,27 +104363,35 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
 
 
+τ
 
+ο
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -84817,12 +104399,15 @@ superlative
 
 
 
+α
 
 
 
 
+τ
 
 
+ρ
 
 
 
@@ -84832,49 +104417,70 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
+α
 
 
 
+ο
+irregular
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
+τ
 
 
 
+ο
 
+ο
 
+ο
+irregular
 
 
 
+ς
 
 
 
 
+α
 
+ι
 
+ο
 
 
 
@@ -84882,9 +104488,11 @@ superlative
 
 
 
+ι
 
 
 
+ο
 
 
 
@@ -84895,47 +104503,67 @@ superlative
 
 
 
+ι
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
+τ
 
 
+ς
 
 
 
 
 
 
+α
 
+ο
+irregular
 
 
+ο
 
 
+ο
 
 
+α
 
+ι
 
+ο
 
 
 
 
 
+α
 
+ι
 
 
 
@@ -84944,23 +104572,31 @@ superlative
 
 
 
+ι
 
 
+ς
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
 
+ν
 
 
+ο
 
 
 
@@ -84969,32 +104605,46 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
 
 
+α
 
 
+α
 
+ο
 
+ι
 
+ν
 
 
 
 
+ο
+irregular
 
+ο
 
 
 
 
 
+α
 
+α
 
+ι
 
 
+ι
 
 
 
@@ -85002,48 +104652,64 @@ superlative
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
+ρ
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
+α
 
+ι
 
 
 
+τ
 
 
 
 
+ο
 
 
+ο
 
 
+ι
 
 
+α
 
 
+α
 
 
 
@@ -85056,21 +104722,30 @@ superlative
 
 
 
+ς
 
+ς
 
+ς
 
+ο
 
 
 
 
 
+ι
+α
 
+ο
 
 
 
 
 
+τ
 
+ο
 
 
 
@@ -85084,62 +104759,90 @@ superlative
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
+α
 
 
+ο
+irregular
 
 
 
+α
 
+ν
 
+ν
 
 
 
 
 
 
+ο
 
+ο
 
 
 
+ι
 
 
 
 
+α
 
+τ
 
+α
 
 
 
+α
 
 
 
+τ
 
+τ
 
 
+α
 
+α
 
+τ
 
 
+τ
 
 
 
 
 
+δ
 
+ι
 
 
+ο
 
+ι
 
+τ
 
+ο
 
+ρ
 
 
 
@@ -85156,17 +104859,25 @@ superlative
 
 
 
+ι
 
 
+ο
 
+α
 
+ο
 
 
 
 
+ς
 
+α
 
+τ
 
+ο
 
 
 
@@ -85180,7 +104891,9 @@ superlative
 
 
 
+ς
 
+α
 
 
 
@@ -85191,6 +104904,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -85200,37 +104914,58 @@ superlative
 
 
 
+ο
 
 
+α
 
 
+α
 
 
+ν
 
+ο
 
 
+ο
 
 
 
+ο
+α
 
+α
 
+τ
 
+ο
 
 
 
 
 
 
+τ
 
+ι
 
 
+ι
 
+ο
 
+ο
 
+irregular
 
 
+ο
+α
 
+τ
 
+ο
 
 
 
@@ -85239,17 +104974,25 @@ superlative
 
 
 
+ο
 
+α
 
 
+α
 
+ο
 
+α
 
 
+α
 
+α
 
 
 
+α
 
 
 
@@ -85258,72 +105001,99 @@ superlative
 
 
 
+α
+ο
 
 
 
 
+τ
 
 
 
 
 
+α
 
+α
 
+α
 
+ο
 
 
+ς
 
+ι
 
+τ
 
 
+α
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ς
 
 
+τ
 
+ου
 
 
 
+α
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
 
 
+ι
 
+α
 
 
 
 
 
 
+α
 
+α
+α
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -85334,39 +105104,54 @@ superlative
 
 
 
+α
 
 
+irregular
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
+α
 
+α
 
 
 
+τ
 
+ου
 
 
 
 
 
+ο
 
 
+ο
 
 
+α
 
+τ
 
+α
 
 
 
+ο
 
+α
 
 
 
@@ -85375,17 +105160,21 @@ superlative
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -85398,17 +105187,21 @@ superlative
 
 
 
+ρ
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
+τ
 
 
 
@@ -85417,32 +105210,45 @@ superlative
 
 
 
+α
 
+α
 
 
+ι
 
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+α
+ι
 
+α
 
+ο
 
+α
 
+α
 
+α
 
 
 
 
 
+α
 
 
 
@@ -85454,20 +105260,27 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -85475,13 +105288,21 @@ superlative
 
 
 
+α
 
+α
 
+ο
 
+α
+α
+α
 
 
+α
 
 
+α
 
 
 
@@ -85490,43 +105311,59 @@ superlative
 
 
 
+τ
 
+α
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
+α
 
 
+α
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
+ο
 
+α
 
 
 
@@ -85535,30 +105372,43 @@ superlative
 
 
 
+ς
 
 
+τ
 
+ο
 
+ο
+τ
 
 
 
+ο
 
+τ
 
 
+α
 
+α
 
+α
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ς
 
 
 
@@ -85579,11 +105429,13 @@ superlative
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
@@ -85599,6 +105451,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -85612,8 +105465,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -85625,72 +105480,109 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
+τ
 
 
+ο
 
+ο
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+τ
 
+ο
 
+irregular
+ο
 
+ο
 
+ρ
 
 
 
+ο
+ο
 
+irregular
 
 
+irregular
 
 
+ο
 
+irregular
 
+α
 
+irregular
 
 
 
+ο
+α
 
+α
 
+ρ
 
+τ
 
 
 
+α
 
 
+ο
 
 
 
+irregular
 
+irregular
 
 
 
+irregular
 
 
+irregular
 
 
 
+ο
 
 
+α
 
 
 
@@ -85701,17 +105593,23 @@ superlative
 
 
 
+ο
 
+ρ
 
+τ
 
 
 
 
 
 
+α
 
 
+ο
 
+ι
 
 
 
@@ -85726,16 +105624,20 @@ superlative
 
 
 
+irregular
 
 
 
+irregular
 
 
 
+τ
 
 
 
 
+irregular
 
 
 
@@ -85743,6 +105645,7 @@ superlative
 
 
 
+κ
 
 
 
@@ -85752,29 +105655,39 @@ superlative
 
 
 
+ο
 
+α
 
+ς
 
 
+τ
 
 
 
 
+ο
 
+ρ
 
 
+ρ
 
 
 
 
+irregular
 
 
 
 
 
 
+κ
 
 
+ο
 
 
 
@@ -85782,9 +105695,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -85794,33 +105709,43 @@ superlative
 
 
 
+irregular
 
 
 
 
 
 
+irregular
 
 
 
+irregular
 
+ο
 
 
+ευ
 
 
+ο
 
 
 
 
 
 
+ρ
 
 
 
+ρ
 
 
+α
 
 
+α
 
 
 
@@ -85830,44 +105755,67 @@ superlative
 
 
 
+α
 
 
+ρ
 
 
 
+ο
 
 
 
 
 
+α
 
+α
+ο
 
+ο
 
 
 
+κ
+ο
 
+ο
 
+ο
 
+τ
 
+α
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
+ο
 
 
+τ
 
+ο
 
+α
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
@@ -85878,11 +105826,14 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
@@ -85890,6 +105841,7 @@ superlative
 
 
 
+α
 
 
 
@@ -85897,9 +105849,12 @@ superlative
 
 
 
+ο
 
 
+ο
 
+α
 
 
 
@@ -85908,14 +105863,19 @@ superlative
 
 
 
+ο
 
 
 
+ς
 
+υ
 
 
 
+α
 
+ο
 
 
 
@@ -85923,6 +105883,7 @@ superlative
 
 
 
+α
 
 
 
@@ -85930,21 +105891,29 @@ superlative
 
 
 
+α
 
+τ
 
+κ
 
 
 
+α
 
 
+α
 
 
+ρ
 
+ς
 
 
 
 
 
+α
 
 
 
@@ -85952,12 +105921,15 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -85968,28 +105940,39 @@ superlative
 
 
 
+υ
 
 
+α
 
 
 
+κ
 
+α
 
 
 
+δ
 
+α
 
+ο
 
+α
 
 
 
 
+ο
 
+ι
 
 
 
 
 
+ς
 
 
 
@@ -85997,28 +105980,39 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
+τ
 
 
+τ
+ο
 
 
+α
 
+ι
 
 
 
+ο
 
+τ
 
 
 
 
 
 
+ι
 
+ι
 
 
 
@@ -86029,17 +106023,24 @@ superlative
 
 
 
+ο
 
+ι
 
+τ
 
 
+α
 
 
+ο
 
+ο
 
 
 
 
+ι
 
 
 
@@ -86061,11 +106062,15 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -86081,60 +106086,100 @@ superlative
 
 
 
+α
 
+α
 
+ο
 
+α
 
+ι
 
+ο
+ρ
 
+ο
+irregular
+ο
 
+ι
 
 
 
 
 
+ο
 
+irregular
+ο
 
+α
+ο
 
+ο
+ο
+ο
+irregular
 
 
 
 
+ο
+irregular
 
 
 
+ο
 
+ο
 
+ο
+ι
 
 
+α
 
+ο
+ρ
 
 
+ο
+irregular
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ι
 
 
 
 
 
+α
 
+ι
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -86146,9 +106191,13 @@ superlative
 
 
 
+ο
 
 
 
+α
+ο
+irregular
 
 
 
@@ -86164,34 +106213,47 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+α
 
+ι
 
+ο
+ο
 
 
+ι
 
 
 
+ρ
 
 
 
+ο
 
 
 
 
 
+ο
+ο
+irregular
 
 
 
 
 
+α
 
 
 
@@ -86199,8 +106261,10 @@ superlative
 
 
 
+ι
 
 
+ι
 
 
 
@@ -86213,32 +106277,47 @@ superlative
 
 
 
+α
+ο
 
+ο
+α
 
 
+irregular
+ο
 
+α
 
+ο
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -86247,53 +106326,73 @@ superlative
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
+δ
 
 
 
 
+α
 
+ο
 
 
 
 
+α
 
 
 
+α
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
 
+ι
 
 
+ο
 
 
 
 
 
 
+ο
 
+ι
 
+α
+ο
 
 
 
@@ -86309,14 +106408,22 @@ superlative
 
 
 
+α
 
 
 
+ι
 
+α
 
+τ
+irregular
+ο
 
 
+α
 
+δ
 
 
 
@@ -86325,32 +106432,42 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
+τ
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
+ς
 
 
 
 
 
+κ
 
 
+ο
+ο
 
 
 
@@ -86362,12 +106479,14 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -86377,6 +106496,7 @@ superlative
 
 
 
+κ
 
 
 
@@ -86393,25 +106513,34 @@ superlative
 
 
 
+α
 
+α
 
+ι
 
 
+τ
 
 
 
+ο
+irregular
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -86429,10 +106558,14 @@ superlative
 
 
 
+τ
 
+α
 
 
+ι
 
+ο
 
 
 
@@ -86444,16 +106577,21 @@ superlative
 
 
 
+ι
+α
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -86468,6 +106606,7 @@ superlative
 
 
 
+ν
 
 
 
@@ -86481,23 +106620,33 @@ superlative
 
 
 
+ι
 
+ο
 
 
+ο
+α
 
 
+α
+τ
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -86505,10 +106654,13 @@ superlative
 
 
 
+α
 
 
+α
 
 
+α
 
 
 
@@ -86530,45 +106682,66 @@ superlative
 
 
 
+ο
+irregular
 
 
+α
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
+ο
 
 
+τ
+ο
 
 
+τ
 
 
+ο
 
 
 
 
 
+ο
+ο
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
+τ
 
 
 
+τ
+irregular
 
+τ
 
 
 
@@ -86577,9 +106750,16 @@ superlative
 
 
 
+α
 
 
+ο
+irregular
+ο
 
+α
+ο
+ρ
 
 
 
@@ -86590,6 +106770,7 @@ superlative
 
 
 
+α
 
 
 
@@ -86598,12 +106779,17 @@ superlative
 
 
 
+α
 
 
+ο
 
+ο
 
 
+α
 
+ο
 
 
 
@@ -86618,17 +106804,23 @@ superlative
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
+ο
 
 
+α
 
 
 
@@ -86636,11 +106828,18 @@ superlative
 
 
 
+ρ
 
+ο
+ο
+α
 
 
+τ
 
 
+α
+ο
 
 
 
@@ -86651,14 +106850,16 @@ superlative
 
 
 
-superlative
 
 
 
 
 
+α
 
+α
 
+ι
 
 
 
@@ -86677,6 +106878,9 @@ superlative
 
 
 
+ο
+irregular
+ο
 
 
 
@@ -86705,17 +106909,23 @@ superlative
 
 
 
+ο
+irregular
 
 
+α
 
 
 
 
+ρ
+ο
 
 
 
 
 
+ο
 
 
 
@@ -86731,6 +106941,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -86739,15 +106950,21 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
+ο
 
+ο
 
+α
 
 
 
@@ -86767,8 +106984,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -86780,7 +106999,9 @@ superlative
 
 
 
+α
 
+α
 
 
 
@@ -86798,8 +107019,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -86808,22 +107031,30 @@ superlative
 
 
 
+ο
+ο
 
+ο
 
 
 
+α
 
 
 
 
+τ
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
@@ -86837,61 +107068,85 @@ superlative
 
 
 
+ν
 
 
 
+α
 
 
+α
 
 
 
 
+α
 
+τ
+ο
 
 
 
 
+ο
+irregular
 
 
 
+κ
 
 
 
 
+ι
 
 
+κ
 
 
 
 
 
 
+κ
 
 
+α
 
 
+ς
 
+α
 
 
 
 
 
+ο
+ο
 
+ο
 
 
+α
 
+α
 
 
+ο
 
 
 
 
 
 
+ς
 
 
 
 
+ο
+α
 
 
 
@@ -86899,12 +107154,17 @@ superlative
 
 
 
+α
 
 
 
 
 
+ι
+ο
+irregular
 
+ο
 
 
 
@@ -86913,7 +107173,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -86922,32 +107184,45 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
+ι
+ο
 
 
+ο
+α
 
 
+ι
 
 
 
 
 
+ι
 
+ι
 
 
+α
+τ
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
@@ -86968,6 +107243,9 @@ superlative
 
 
 
+ο
+irregular
+ο
 
 
 
@@ -86984,13 +107262,19 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
+ι
 
+ο
 
+ο
+irregular
 
 
 
@@ -87004,6 +107288,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -87011,11 +107296,12 @@ superlative
 
 
 
-comparative
 
 
+α
 
 
+ο
 
 
 
@@ -87023,6 +107309,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -87039,16 +107326,24 @@ comparative
 
 
 
+ο
 
+ο
 
 
+ς
+α
 
 
+ο
 
+α
 
 
+α
 
 
+α
 
 
 
@@ -87057,23 +107352,34 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
 
+ρ
 
+ο
+irregular
+ο
 
 
 
+τ
 
+ι
 
 
 
+τ
 
+α
 
 
 
+α
 
 
 
@@ -87083,23 +107389,30 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -87111,10 +107424,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ντ
 
 
 
@@ -87122,9 +107437,13 @@ comparative
 
 
 
+τ
 
+ο
+α
 
 
+ο
 
 
 
@@ -87134,7 +107453,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -87142,29 +107463,42 @@ comparative
 
 
 
+α
 
 
+ι
 
+α
 
+τ
 
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
+ου
 
 
+α
 
 
 
+τ
 
 
+ο
+irregular
 
 
+ο
 
 
 
@@ -87180,9 +107514,11 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -87200,13 +107536,16 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -87225,6 +107564,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -87266,21 +107606,30 @@ comparative
 
 
 
+ι
 
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
+α
 
 
+α
 
 
+ο
+ι
 
+ι
 
 
 
@@ -87288,24 +107637,29 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -87315,41 +107669,60 @@ comparative
 
 
 
+ο
 
 
 
+α
+α
+α
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
+α
 
+ο
+irregular
 
 
+ο
 
+ρ
 
 
+α
 
 
+ν
 
+ν
 
 
 
 
 
+ο
+irregular
 
 
 
 
 
+ο
 
 
 
@@ -87360,38 +107733,69 @@ comparative
 
 
 
+ρ
+α
 
+ι
 
+ο
+irregular
+ο
 
 
+τ
 
+ο
+ο
+ο
+irregular
 
+τ
+ο
 
+ο
 
+ο
 
 
+α
 
 
 
+ο
 
+ο
+ι
 
 
+α
 
+ο
+ρ
 
 
 
+ο
+ρ
 
+ο
 
+irregular
+ο
 
 
 
 
 
 
+ι
 
 
+ο
+irregular
 
 
+α
 
 
 
@@ -87400,17 +107804,22 @@ comparative
 
 
 
+δ
 
 
 
 
 
+ο
 
 
 
 
+ο
 
+α
 
+ο
 
 
 
@@ -87420,6 +107829,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -87430,37 +107840,48 @@ comparative
 
 
 
+α
 
 
 
 
+ι
 
+ο
 
+α
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
+τ
 
 
 
 
 
 
+α
 
 
 
@@ -87472,74 +107893,104 @@ comparative
 
 
 
+ι
 
+τ
 
 
 
+α
 
+ι
 
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
 
+ι
 
+ο
 
 
+ι
 
 
 
+ς
 
+α
 
 
 
+α
 
+α
 
+α
 
 
+ρ
 
 
 
 
 
+δ
 
+ο
 
 
 
 
+τ
 
 
 
 
 
+α
 
+ς
 
 
 
 
+α
 
+ο
 
+α
 
 
 
 
 
+ι
 
+ι
 
+α
 
 
+ν
 
+ο
 
 
 
 
+ι
 
 
 
@@ -87548,18 +107999,24 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+ο
 
+τ
 
+α
 
+α
 
 
 
@@ -87583,10 +108040,14 @@ comparative
 
 
 
+α
 
+τ
 
+α
 
 
+α
 
 
 
@@ -87603,6 +108064,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -87615,7 +108077,9 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
@@ -87623,21 +108087,24 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
-superlative
 
 
 
+α
 
 
+ο
 
 
 
@@ -87645,10 +108112,13 @@ superlative
 
 
 
+τ
 
+κ
 
 
 
+ο
 
 
 
@@ -87662,6 +108132,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -87670,45 +108141,61 @@ superlative
 
 
 
+δ
 
+ο
 
 
 
 
 
 
+ι
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
 
+τ
 
 
 
 
 
+τ
 
+ι
 
+ο
 
 
+κ
 
 
 
+τ
 
 
 
 
+α
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
@@ -87716,15 +108203,20 @@ superlative
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
+ν
 
 
 
+α
 
 
 
@@ -87734,35 +108226,48 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
+α
 
+ο
 
 
 
+ς
 
 
+ο
 
 
 
+δ
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
@@ -87770,51 +108275,69 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ι
 
 
 
 
 
+ν
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
+κ
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
+α
 
+ι
 
+ι
 
+ο
 
+ο
+ο
 
 
 
 
 
+ο
 
+α
 
+ι
 
 
 
@@ -87823,13 +108346,16 @@ superlative
 
 
 
+α
 
 
 
 
+κ
 
 
 
+τ
 
 
 
@@ -87838,16 +108364,23 @@ superlative
 
 
 
+ι
 
 
+τ
 
 
+ο
+ι
 
 
 
 
 
+ο
+irregular
 
+ο
 
 
 
@@ -87859,10 +108392,12 @@ superlative
 
 
 
+ι
 
 
 
 
+α
 
 
 
@@ -87872,24 +108407,33 @@ superlative
 
 
 
+α
 
 
+α
 
 
+ι
 
+ο
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+τ
 
+τ
 
 
 
@@ -87899,32 +108443,45 @@ superlative
 
 
 
+α
 
+α
 
+α
 
 
 
 
+α
 
 
 
+ι
 
+τ
 
+κ
 
 
+α
 
+ο
 
 
 
 
+τ
 
 
 
 
 
 
+ι
 
+α
 
+ο
 
 
 
@@ -87935,9 +108492,12 @@ superlative
 
 
 
+τ
 
 
+α
 
+κ
 
 
 
@@ -87947,11 +108507,14 @@ superlative
 
 
 
+τ
 
 
 
 
+ο
 
+τ
 
 
 
@@ -87965,12 +108528,16 @@ superlative
 
 
 
+ο
 
 
+α
 
 
+α
 
 
+α
 
 
 
@@ -87981,26 +108548,38 @@ superlative
 
 
 
+ι
 
 
+ι
 
 
+ς
+α
 
+α
 
+ο
 
 
+α
 
 
 
 
+τ
 
+ο
 
 
 
 
 
+α
 
+α
 
+ο
 
 
 
@@ -88008,35 +108587,47 @@ superlative
 
 
 
+ου
 
+κ
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
+α
 
+α
 
 
 
 
 
+ι
 
+ο
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
@@ -88048,36 +108639,53 @@ superlative
 
 
 
+α
 
+ι
 
 
+τ
 
+α
 
+ο
 
 
+ο
 
 
+α
 
+α
 
+α
 
+α
+τ
 
 
+α
 
 
+α
 
+κ
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -88086,20 +108694,26 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
+α
 
 
 
@@ -88108,22 +108722,33 @@ superlative
 
 
 
+α
 
 
 
+ς
 
 
 
+α
+α
+α
+ς
+α
 
 
 
+α
 
 
+α
 
 
 
 
+α
 
+ο
 
 
 
@@ -88141,8 +108766,14 @@ superlative
 
 
 
+α
+ο
+α
+α
+α
 
 
+τ
 
 
 
@@ -88151,8 +108782,10 @@ superlative
 
 
 
+ο
 
 
+ι
 
 
 
@@ -88161,31 +108794,46 @@ superlative
 
 
 
+ι
 
+ν
 
 
 
 
 
 
+ν
 
 
+α
 
+α
 
+α
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
+ο
+τ
+α
+τ
+α
 
 
 
@@ -88196,9 +108844,11 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -88209,15 +108859,21 @@ superlative
 
 
 
+α
 
 
+α
 
+τ
 
 
+α
 
+ο
 
 
 
+α
 
 
 
@@ -88225,29 +108881,39 @@ superlative
 
 
 
+τ
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
+ο
+α
 
 
 
+ι
 
 
 
+α
 
 
+ο
 
 
 
@@ -88255,31 +108921,45 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+τ
+ο
+irregular
 
 
+ο
+ρ
 
 
 
+irregular
 
 
+irregular
 
 
 
+ο
 
+irregular
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
+ευ
 
 
 
@@ -88287,44 +108967,62 @@ superlative
 
 
 
+ο
 
+ρ
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+κ
+ο
 
 
+α
 
 
 
 
+τ
+α
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+ι
 
+α
 
+ο
+ο
 
 
 
@@ -88335,25 +109033,33 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
+τ
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
+α
 
 
 
 
 
+α
 
 
 
@@ -88361,12 +109067,17 @@ superlative
 
 
 
+ο
 
 
+α
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -88379,16 +109090,21 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ι
+τ
 
 
 
@@ -88403,12 +109119,17 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
+ο
 
+ο
 
 
 
@@ -88424,12 +109145,15 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -88441,14 +109165,19 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
+α
 
 
 
+α
 
 
 
@@ -88456,31 +109185,42 @@ superlative
 
 
 
+irregular
 
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
+ο
 
 
 
+α
 
 
+α
 
 
 
+ο
+ο
+irregular
 
 
 
 
 
 
+α
 
 
 
@@ -88488,129 +109228,188 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+ι
 
 
+α
 
+ο
 
 
 
+α
 
 
 
+α
+ο
 
+α
 
 
 
+ο
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+ευ
+α
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
+ρ
+ο
 
 
 
+ο
 
+ι
 
 
+ο
 
+ο
 
+ο
 
+α
+ευ
 
+ο
+ρ
 
+ο
+irregular
+ο
+ι
 
 
+α
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
+ι
 
 
+ο
 
+α
 
 
+α
 
+δ
 
+ο
 
+irregular
+ο
 
 
+ο
 
+ρ
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ι
 
 
+τ
 
 
+α
 
 
 
@@ -88622,49 +109421,66 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
+ι
 
 
+α
+τ
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
+α
 
 
 
+ο
 
+ι
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -88675,6 +109491,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -88683,34 +109500,43 @@ superlative
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -88726,56 +109552,77 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
+ν
 
 
+ι
 
 
 
+α
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
+α
 
 
 
 
 
+ι
+α
+ο
+ρ
 
 
 
-comparative
+ο
+α
 
 
 
@@ -88784,8 +109631,11 @@ comparative
 
 
 
+ς
 
 
+ο
+ο
 
 
 
@@ -88794,9 +109644,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -88806,22 +109658,30 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
 
+ο
+irregular
 
+α
 
 
 
@@ -88833,10 +109693,14 @@ comparative
 
 
 
+ο
 
+ο
 
+ρ
 
 
+ο
 
 
 
@@ -88854,6 +109718,8 @@ comparative
 
 
 
+ρ
+ο
 
 
 
@@ -88867,13 +109733,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
 
@@ -88881,18 +109750,26 @@ comparative
 
 
 
+ο
 
 
 
+ο
+α
 
 
 
+ο
 
 
+ο
+ο
 
 
 
 
+ο
+ο
 
 
 
@@ -88902,14 +109779,21 @@ comparative
 
 
 
+α
 
+ο
 
+α
 
+ο
 
 
 
 
+α
 
+ο
+irregular
 
 
 
@@ -88919,6 +109803,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -88928,21 +109813,27 @@ comparative
 
 
 
+ο
 
+irregular
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ς
 
 
 
@@ -88951,27 +109842,37 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
+ς
 
 
+ο
 
 
 
 
+ο
+α
+ο
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -88979,6 +109880,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -88987,44 +109889,61 @@ comparative
 
 
 
+α
 
 
 
+δ
 
+α
 
+ο
+ι
 
 
 
 
 
 
+ο
 
+irregular
 
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
+ο
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -89033,12 +109952,14 @@ comparative
 
 
 
+ι
 
 
 
 
 
 
+ι
 
 
 
@@ -89073,6 +109994,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -89085,10 +110007,12 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -89097,12 +110021,15 @@ comparative
 
 
 
+ι
 
 
+α
 
 
 
 
+α
 
 
 
@@ -89116,16 +110043,20 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
+ι
 
 
 
 
+ι
 
 
 
@@ -89133,24 +110064,31 @@ comparative
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
+irregular
 
+α
 
 
 
@@ -89158,31 +110096,41 @@ comparative
 
 
 
+ο
 
 
 
+τ
 
+ι
 
 
 
 
+ο
 
+ρ
 
 
 
+ο
 
+irregular
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -89198,16 +110146,23 @@ comparative
 
 
 
+α
 
 
+α
 
 
+ο
 
+ρ
 
 
 
+α
 
+ο
 
+irregular
 
 
 
@@ -89215,11 +110170,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
+irregular
 
 
 
@@ -89232,6 +110190,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -89241,37 +110200,51 @@ comparative
 
 
 
+α
 
 
 
 
+ο
+irregular
 
 
 
+τ
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ς
 
 
+ο
 
+α
 
 
+ς
+α
 
 
 
+ς
 
 
 
 
+ο
 
 
 
@@ -89279,10 +110252,13 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
+ο
 
 
 
@@ -89297,20 +110273,26 @@ comparative
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+τ
 
 
 
@@ -89319,7 +110301,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -89339,12 +110323,15 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -89357,6 +110344,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -89369,12 +110357,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -89388,20 +110378,24 @@ comparative
 
 
 
+δ
 
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
@@ -89410,6 +110404,8 @@ comparative
 
 
 
+ο
+ο
 
 
 
@@ -89418,7 +110414,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -89427,16 +110425,24 @@ comparative
 
 
 
+ο
 
+τ
 
+α
+ο
 
 
+γ
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -89446,31 +110452,40 @@ comparative
 
 
 
-comparative
 
 
 
 
+α
 
+ι
 
+ο
 
+ρ
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
+ο
 
+α
 
 
 
@@ -89479,21 +110494,30 @@ comparative
 
 
 
+α
+ο
 
+α
 
+irregular
 
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
+ν
 
 
+ρ
 
 
 
@@ -89501,22 +110525,32 @@ comparative
 
 
 
+ο
 
 
 
+ς
 
 
+α
 
 
+α
 
 
 
 
+ο
+τ
 
 
+ο
+α
 
 
+irregular
 
+ς
 
 
 
@@ -89531,29 +110565,45 @@ comparative
 
 
 
+irregular
 
 
 
 
+irregular
 
 
 
+α
 
 
 
+κ
+ι
 
+α
 
+α
+δ
+α
 
 
 
 
 
+ο
 
+α
 
 
+ι
+α
 
 
+ο
 
+irregular
+ο
 
 
 
@@ -89581,6 +110631,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -89590,6 +110641,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -89598,8 +110650,10 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
@@ -89607,6 +110661,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -89615,7 +110670,6 @@ comparative
 
 
 
-superlative
 
 
 
@@ -89647,12 +110701,18 @@ superlative
 
 
 
+τ
+ο
 
+ο
+irregular
 
 
 
+τ
 
 
+α
 
 
 
@@ -89663,12 +110723,15 @@ superlative
 
 
 
+ς
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -89676,15 +110739,22 @@ superlative
 
 
 
+τ
 
 
+α
 
 
+τ
 
 
 
+α
 
+ο
 
+irregular
+ο
 
 
 
@@ -89693,52 +110763,83 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+τ
 
 
 
 
+ο
 
 
+α
 
 
+ο
 
+ι
 
+ο
 
+irregular
+ο
 
 
+ο
 
+ο
 
+ο
 
+α
+ευ
 
+ο
+ρ
 
 
+ο
+irregular
+ο
+ι
 
 
+α
 
+ο
+ρ
 
+ο
+irregular
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
 
+α
 
 
 
@@ -89753,28 +110854,39 @@ superlative
 
 
 
+α
 
+ο
 
 
+α
 
 
+ι
 
 
 
+ο
 
 
 
+ι
 
 
+τ
 
 
+ι
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -89782,43 +110894,65 @@ superlative
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
+ι
 
 
 
 
+ι
 
+ο
+irregular
 
+ο
 
+ο
+ι
 
 
+ρ
+γ
 
+ι
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
+irregular
 
+α
 
+ο
 
 
+ο
 
+ο
 
 
 
+α
 
+υ
 
 
 
@@ -89836,11 +110970,13 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -89853,18 +110989,28 @@ superlative
 
 
 
+ι
 
+ο
 
 
 
 
+α
+α
 
+ο
+ι
 
+ι
 
 
 
+τ
 
+ο
 
+irregular
 
 
 
@@ -89873,18 +111019,29 @@ superlative
 
 
 
+ι
 
+ο
 
 
+ο
+irregular
+ο
 
 
 
+ο
 
 
+α
 
+ο
 
+irregular
+ο
 
 
+α
 
 
 
@@ -89895,14 +111052,18 @@ superlative
 
 
 
+ου
 
 
 
 
+τ
 
 
+ο
 
 
+α
 
 
 
@@ -89910,25 +111071,33 @@ superlative
 
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+ο
 
+α
 
+ο
 
+α
 
 
 
@@ -89936,17 +111105,22 @@ superlative
 
 
 
+ο
 
+τ
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -89969,11 +111143,14 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
@@ -89989,33 +111166,50 @@ superlative
 
 
 
+ο
+irregular
 
 
+τ
 
+τ
 
 
 
 
+α
 
+α
 
 
 
 
+α
 
+α
 
+α
 
 
+ι
 
+ο
 
+τ
+ο
 
 
 
+α
+α
 
 
 
 
 
+α
 
+α
 
 
 
@@ -90028,11 +111222,15 @@ superlative
 
 
 
+ο
+α
+α
 
 
 
 
 
+ο
 
 
 
@@ -90040,27 +111238,39 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
+α
 
+α
 
+ο
+τ
 
+ι
+α
 
 
 
@@ -90068,57 +111278,81 @@ superlative
 
 
 
+ο
 
 
+ι
+α
 
+ο
 
+irregular
+ο
 
 
+ο
 
 
 
 
+ι
 
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
+irregular
+ο
 
 
+ο
 
+ρ
 
 
 
 
 
 
+ι
 
 
+δ
 
 
+ι
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
@@ -90134,14 +111368,17 @@ superlative
 
 
 
+ο
 
 
 
 
+ι
 
 
 
 
+ο
 
 
 
@@ -90153,6 +111390,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -90164,31 +111402,44 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
+α
 
+ο
 
 
 
+α
 
+ο
 
 
 
+ο
 
+τ
 
+ο
+irregular
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
@@ -90207,13 +111458,18 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
+irregular
 
+α
 
 
 
@@ -90225,9 +111481,11 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -90269,14 +111527,20 @@ superlative
 
 
 
+ο
+irregular
+ο
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -90286,9 +111550,11 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -90304,54 +111570,92 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ρ
+ο
 
 
+ο
 
 
+α
 
 
 
+ι
 
+ο
 
+irregular
+ο
 
 
 
+ο
+ο
+ο
+irregular
 
+α
+ο
+ρ
 
 
+ο
+irregular
 
+δ
 
+ο
 
+ο
 
+ι
+ι
+ς
+α
 
+ο
+ρ
 
+ο
+irregular
 
+ο
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -90359,31 +111663,45 @@ superlative
 
 
 
+ο
 
+α
 
 
+ι
 
 
 
+α
+ο
 
 
+ι
 
 
+ς
 
+α
 
+α
 
 
+α
 
+ι
 
 
+ι
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -90398,6 +111716,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -90407,6 +111726,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -90419,7 +111739,14 @@ superlative
 
 
 
+α
 
+α
+ο
+ο
+ο
+α
+α
 
 
 
@@ -90427,20 +111754,28 @@ superlative
 
 
 
+α
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
+ι
 
 
 
 
+ο
+irregular
 
+ο
 
 
 
@@ -90448,36 +111783,51 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
+α
 
 
 
 
 
 
+α
 
 
 
+ι
 
+ο
 
 
+ι
 
+α
 
 
+ο
+irregular
 
 
+ο
 
 
+α
 
 
+ο
+irregular
 
 
 
+ο
 
 
 
@@ -90493,57 +111843,80 @@ superlative
 
 
 
+irregular
+ο
 
 
+α
 
+ι
 
 
 
 
 
 
+α
 
 
 
+ευ
 
+ν
 
 
 
+ο
+α
 
+α
 
 
+ν
 
+ν
 
 
 
+α
 
 
+ο
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
+ι
 
 
+ι
 
 
 
 
 
+ι
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
@@ -90553,139 +111926,205 @@ superlative
 
 
 
+ι
+α
+ι
+α
 
 
+ο
 
+ευ
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
-comparative
 
+α
 
+τ
 
 
 
 
 
 
-comparative
+ρ
 
+ο
 
 
+ο
 
 
 
 
+ι
+α
 
 
 
+ο
 
 
+α
+ο
 
+ο
+ο
+ο
+irregular
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
 
 
+κ
 
+ο
+α
 
 
 
+ο
+ς
 
+ι
 
+α
 
 
 
 
+irregular
 
 
+ο
 
 
+ρ
 
+α
 
+ο
 
+irregular
 
+α
 
 
+ω
 
+α
 
 
 
 
+τ
 
+ο
 
+α
 
+ο
 
 
 
 
+irregular
 
+α
 
+ο
 
+irregular
 
+α
 
 
 
+α
 
 
+irregular
 
 
 
 
+irregular
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+irregular
 
 
+ι
 
 
 
 
 
+α
 
 
 
+ι
 
+α
 
+ο
 
+α
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
+irregular
+irregular
 
 
 
@@ -90694,27 +112133,35 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
+τ
 
 
 
 
 
+ο
 
 
 
 
+α
+ο
 
 
 
@@ -90722,12 +112169,14 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
@@ -90736,24 +112185,31 @@ comparative
 
 
 
+ο
 
 
+δ
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ι
 
 
+ι
 
 
 
@@ -90763,6 +112219,7 @@ comparative
 
 
 
+irregular
 
 
 
@@ -90771,25 +112228,35 @@ comparative
 
 
 
+ο
 
 
+irregular
+irregular
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+α
 
+ι
 
 
+ο
+irregular
 
 
 
@@ -90806,84 +112273,125 @@ comparative
 
 
 
+ο
+ο
 
 
 
+α
+ο
 
+ο
 
+τ
 
+α
 
 
 
 
 
 
+α
+ο
 
 
 
+κ
 
 
+τ
 
+ο
 
 
+ς
 
 
+ο
 
 
+α
 
 
+τ
 
 
 
 
 
+ο
 
 
 
+ι
 
+τ
 
 
+α
+ο
 
+ι
 
 
 
 
+ι
 
 
 
+τ
 
 
+ο
 
 
+ι
 
+α
 
 
 
 
 
+α
 
 
+τ
+ο
 
 
 
 
 
+α
 
 
 
 
+ο
+ο
 
+ι
 
 
 
+ο
 
 
+ο
+ο
+irregular
 
 
+ο
 
+ι
 
 
 
+α
 
 
 
@@ -90891,25 +112399,31 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+α
 
+α
 
 
 
@@ -90917,8 +112431,10 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
@@ -90929,10 +112445,13 @@ comparative
 
 
 
+ο
 
 
 
+ρ
 
+ο
 
 
 
@@ -90942,34 +112461,49 @@ comparative
 
 
 
+τ
 
 
+ο
 
 
 
 
+ο
 
+α
 
+α
 
+ι
 
+α
 
 
 
 
+ι
 
+ι
 
+α
 
 
 
 
 
+τ
 
 
 
 
+α
 
+ι
 
+ρ
 
+ο
 
 
 
@@ -90978,6 +112512,7 @@ comparative
 
 
 
+α
 
 
 
@@ -90985,6 +112520,7 @@ comparative
 
 
 
+α
 
 
 
@@ -91003,20 +112539,29 @@ comparative
 
 
 
+ρ
 
 
+ο
 
 
+ρ
 
 
+α
 
 
+α
+ο
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
@@ -91024,29 +112569,39 @@ comparative
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ι
 
 
+α
+irregular
 
+α
 
 
 
@@ -91069,18 +112624,24 @@ comparative
 
 
 
+ι
 
 
 
 
 
+ο
 
 
 
+ς
 
 
 
+irregular
+irregular
 
+ο
 
 
 
@@ -91089,27 +112650,33 @@ comparative
 
 
 
+δ
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
+ι
 
 
 
@@ -91118,6 +112685,7 @@ comparative
 
 
 
+α
 
 
 
@@ -91138,9 +112706,11 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -91148,44 +112718,56 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
+α
 
 
 
+α
+ου
 
 
 
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
@@ -91195,6 +112777,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -91204,26 +112787,35 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
+irregular
 
 
 
+ο
 
 
 
 
+τ
 
 
 
+ι
+ρ
 
 
 
 
 
+α
 
 
 
@@ -91231,20 +112823,26 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
+α
 
 
 
 
+ι
 
 
 
@@ -91252,6 +112850,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -91265,25 +112864,34 @@ comparative
 
 
 
+ο
+ο
 
 
+α
 
+α
 
 
 
 
 
+τ
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -91295,6 +112903,7 @@ comparative
 
 
 
+α
 
 
 
@@ -91307,42 +112916,63 @@ comparative
 
 
 
+ο
 
 
+ο
 
+irregular
+ο
 
 
 
+α
+α
 
 
 
 
 
 
+ι
 
+α
 
 
 
+ο
+δ
+α
+α
 
+α
 
+ο
 
+ου
 
-superlative
 
 
+α
 
+ο
 
 
+α
 
 
+ο
 
 
+α
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -91350,7 +112980,9 @@ superlative
 
 
 
+α
 
+τ
 
 
 
@@ -91359,8 +112991,11 @@ superlative
 
 
 
+ο
 
+δ
 
+α
 
 
 
@@ -91368,38 +113003,56 @@ superlative
 
 
 
+ο
 
+ο
 
+α
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ι
 
 
 
+α
 
 
 
 
+ο
+ο
 
 
 
 
+α
+α
+ι
+α
+α
+α
 
 
 
+ν
 
+ι
 
 
 
+α
 
 
 
@@ -91407,87 +113060,115 @@ superlative
 
 
 
+α
 
 
+ρ
 
 
 
+ο
 
 
 
 
 
+ο
+irregular
 
 
 
+ο
+ο
 
 
+α
 
 
 
+α
 
 
 
 
+α
 
+ο
 
+irregular
+ο
 
+ο
 
 
 
 
 
 
+α
 
+ευ
 
 
 
+ο
 
 
 
 
 
+α
+τ
 
 
 
 
 
+ο
 
 
 
 
+α
 
+ς
 
 
 
 
-superlative
 
 
 
+ν
 
 
 
 
 
 
+ο
+τ
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -91496,72 +113177,116 @@ superlative
 
 
 
+α
 
+ο
 
+α
 
 
 
 
+α
 
+ι
 
 
+ι
 
 
 
 
 
+ι
 
 
+ι
 
 
+ο
+ο
+ο
+irregular
 
+τ
+ο
 
+α
+α
 
 
+ο
+irregular
+ο
 
+ο
+ι
+ς
+α
 
+ο
+ρ
 
+ο
+irregular
 
+ο
 
+ι
 
 
+ο
 
 
 
+ο
 
 
+ι
 
 
 
 
 
 
+α
 
 
+ι
 
+irregular
 
+α
 
 
 
 
 
 
+ο
 
+α
 
+ι
 
 
 
 
 
+ι
 
 
 
 
 
+α
 
+δ
 
 
+ρ
 
+α
 
 
 
@@ -91570,84 +113295,120 @@ superlative
 
 
 
+α
 
 
 
 
+τ
 
+ο
 
 
 
 
 
 
+ι
 
+ρ
 
 
 
 
 
 
+ο
+τ
+α
 
+ι
 
+α
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
+ι
+ο
 
 
 
 
 
+ι
 
 
 
 
+ο
 
 
 
 
+ι
 
+ι
 
 
 
 
+ο
+irregular
 
+ο
 
 
 
 
 
 
+α
 
+ρ
 
+ο
+irregular
 
 
 
+ο
 
 
+α
 
+α
 
 
+ο
 
 
 
 
+κ
 
+ο
 
+ο
 
 
+α
 
 
 
@@ -91664,25 +113425,35 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
+ι
 
 
+ο
 
 
 
 
 
+ι
 
+α
 
 
+ο
+irregular
 
 
+α
 
 
+τ
 
 
 
@@ -91697,24 +113468,33 @@ superlative
 
 
 
+α
 
 
+ο
 
+ς
 
+ς
 
+ο
 
+ο
+ο
 
 
 
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
 
@@ -91723,26 +113503,35 @@ superlative
 
 
 
+ο
 
+ς
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ι
 
 
+ο
+irregular
 
 
 
@@ -91750,9 +113539,11 @@ superlative
 
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -91762,11 +113553,16 @@ superlative
 
 
 
+α
+ο
+irregular
 
 
 
 
 
+ο
+α
 
 
 
@@ -91784,9 +113580,11 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -91795,26 +113593,35 @@ superlative
 
 
 
+ο
+ι
 
 
 
+irregular
+ο
 
 
 
 
+τ
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
@@ -91827,13 +113634,18 @@ superlative
 
 
 
+α
 
 
 
+ο
+irregular
 
+α
 
 
 
+ο
 
 
 
@@ -91863,12 +113675,14 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -91876,63 +113690,85 @@ superlative
 
 
 
+ο
+α
 
 
 
+ο
 
+α
 
 
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
+α
+α
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
+ι
 
 
 
 
-superlative
 
 
+ι
 
 
 
+ο
 
+ο
 
 
 
+δ
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+τ
+ο
 
 
 
+α
 
 
 
+ς
 
 
 
@@ -91945,9 +113781,11 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -91956,36 +113794,51 @@ superlative
 
 
 
+ς
 
+α
 
 
 
+α
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
+ι
+α
+α
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
+ι
 
 
 
 
+α
+ο
 
+ο
 
 
 
@@ -91997,6 +113850,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -92005,34 +113859,45 @@ superlative
 
 
 
+ο
+α
 
+ι
+α
 
 
 
 
 
 
+δ
 
 
 
 
 
 
+τ
 
 
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
+ν
 
 
+ευ
 
 
 
@@ -92042,6 +113907,7 @@ superlative
 
 
 
+α
 
 
 
@@ -92049,8 +113915,11 @@ superlative
 
 
 
+ι
+α
 
 
+ι
 
 
 
@@ -92064,32 +113933,46 @@ superlative
 
 
 
+α
 
 
+ο
 
+α
 
+α
 
 
 
 
 
 
+ι
+α
 
 
 
+ο
 
+α
 
+α
 
+υ
 
 
 
 
 
+α
+ο
 
 
+ου
 
 
 
+ι
 
 
 
@@ -92097,6 +113980,7 @@ superlative
 
 
 
+α
 
 
 
@@ -92111,21 +113995,34 @@ superlative
 
 
 
+α
 
+α
 
+ι
 
+ι
 
+α
 
+α
 
+α
 
+ο
 
+τ
 
 
 
 
+α
 
+ο
 
+α
 
+ο
 
 
 
@@ -92133,6 +114030,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -92141,10 +114039,14 @@ superlative
 
 
 
+ο
+irregular
 
 
 
+ο
 
+τ
 
 
 
@@ -92167,39 +114069,57 @@ superlative
 
 
 
+ς
 
+τ
 
 
 
 
 
 
+α
 
+ι
 
 
+ο
+irregular
 
+α
 
 
 
 
+α
 
+ο
 
+ι
 
+α
 
 
+α
 
 
 
 
 
+ο
+ο
 
 
+ο
 
 
 
 
 
+ο
 
+ο
+irregular
 
 
 
@@ -92208,12 +114128,15 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -92222,31 +114145,41 @@ superlative
 
 
 
+α
 
+α
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+ο
 
 
+α
 
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
@@ -92254,8 +114187,11 @@ superlative
 
 
 
+ο
 
+α
 
+α
 
 
 
@@ -92264,30 +114200,40 @@ superlative
 
 
 
+ο
 
+ι
 
 
 
 
+ν
 
 
+ο
 
 
+ι
 
 
 
 
 
 
+α
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
+α
 
 
 
@@ -92298,27 +114244,37 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ν
 
 
 
+α
+ντ
 
+α
+ο
 
+α
+α
 
 
 
 
+ο
 
 
 
@@ -92328,22 +114284,31 @@ superlative
 
 
 
+α
+ο
 
 
 
+ο
 
+α
 
 
 
+δ
 
+ο
 
 
 
 
+ο
 
 
-comparative
+α
+ο
 
+ευ
 
 
 
@@ -92351,8 +114316,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -92363,10 +114330,12 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -92379,6 +114348,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -92388,100 +114358,159 @@ comparative
 
 
 
+τ
 
 
 
 
 
+ς
 
 
 
+τ
+ντ
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
+ν
 
+ν
 
 
+α
 
+α
 
 
+ο
+ο
+ο
 
 
+ο
+ο
 
 
 
+ο
 
 
 
+ν
 
 
 
+ο
 
+ντ
 
+ο
 
+α
 
 
+ο
 
 
+ο
 
 
+τ
 
 
+ι
 
 
+ο
+ο
+ο
+ο
 
+irregular
+ο
 
+ι
 
+ο
 
+ι
+α
 
 
+α
 
+δ
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+τ
 
 
 
 
+α
 
+ρ
 
+ο
+ο
 
+ο
 
 
+ι
+ι
 
+α
 
+ο
+ρ
 
+ο
+irregular
 
+ρ
 
 
 
 
 
 
+α
 
 
 
@@ -92489,6 +114518,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -92499,18 +114529,26 @@ comparative
 
 
 
+irregular
+irregular
+ο
 
 
 
 
+α
+α
 
 
 
 
 
+ο
 
 
 
+ο
+ο
 
 
 
@@ -92518,6 +114556,7 @@ comparative
 
 
 
+α
 
 
 
@@ -92531,7 +114570,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -92539,6 +114580,7 @@ comparative
 
 
 
+α
 
 
 
@@ -92551,21 +114593,25 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+ς
 
 
 
@@ -92573,15 +114619,22 @@ comparative
 
 
 
+α
+τ
 
+α
 
+ο
+ρ
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -92589,12 +114642,17 @@ comparative
 
 
 
+ι
 
 
 
+ο
 
+α
+ο
 
 
+α
 
 
 
@@ -92611,12 +114669,16 @@ comparative
 
 
 
+ου
 
 
+ι
+ο
 
 
 
 
+ο
 
 
 
@@ -92625,6 +114687,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -92634,20 +114697,28 @@ comparative
 
 
 
+α
+α
 
 
 
 
 
 
+ι
 
+α
 
+α
+ι
 
 
+τ
 
 
 
 
+ο
 
 
 
@@ -92665,10 +114736,13 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
+ο
 
 
 
@@ -92679,9 +114753,15 @@ comparative
 
 
 
+ο
 
+ο
 
 
+α
+α
+τ
+ο
 
 
 
@@ -92695,7 +114775,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -92707,30 +114789,39 @@ comparative
 
 
 
+ι
 
 
 
 
+α
 
 
+ρ
 
+ο
 
 
 
 
 
 
+ι
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -92740,15 +114831,23 @@ comparative
 
 
 
+ν
 
 
 
+δ
 
+α
 
+α
 
 
+ο
 
+ρ
 
+ο
+irregular
 
 
 
@@ -92759,11 +114858,15 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+α
 
+ο
 
 
 
@@ -92772,15 +114875,19 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
+α
 
 
 
 
+ο
 
 
 
@@ -92791,8 +114898,10 @@ comparative
 
 
 
+τ
 
 
+ο
 
 
 
@@ -92802,10 +114911,14 @@ comparative
 
 
 
+α
 
+α
 
 
+α
 
+ο
 
 
 
@@ -92813,15 +114926,21 @@ comparative
 
 
 
+τ
 
 
+α
 
 
+ρ
 
+ο
 
 
+ο
 
 
+α
 
 
 
@@ -92829,10 +114948,15 @@ comparative
 
 
 
+ς
 
 
 
+ο
+α
 
+ι
+τ
 
 
 
@@ -92840,18 +114964,25 @@ comparative
 
 
 
+irregular
+ο
 
+ρ
 
 
 
 
 
+ι
+ο
 
 
+δ
+α
 
 
-comparative
 
+ο
 
 
 
@@ -92861,21 +114992,27 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ι
 
+α
 
-comparative
+δ
 
+α
 
 
 
@@ -92884,10 +115021,12 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -92900,21 +115039,26 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -92927,10 +115071,12 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -92946,49 +115092,78 @@ comparative
 
 
 
+ι
 
+ι
 
 
 
+ο
+ο
+ο
+irregular
 
+ο
 
+ο
+ν
 
 
 
 
 
 
+α
 
+α
 
+ο
 
+α
 
 
 
 
+ο
 
+α
+ι
 
 
+α
 
+ο
+ρ
 
 
+ο
+irregular
+ο
 
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
 
+α
 
 
+ι
 
 
 
 
+ο
+irregular
 
 
 
@@ -92996,34 +115171,45 @@ comparative
 
 
 
+α
 
+ι
 
 
 
 
+ι
 
 
 
 
 
 
+ο
+α
 
 
 
 
+ι
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
+α
 
 
 
@@ -93031,23 +115217,32 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
+α
 
 
 
+ο
+ο
+irregular
 
 
 
 
 
+ο
 
 
 
 
+ο
+ο
 
 
 
@@ -93067,6 +115262,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -93080,11 +115276,14 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
@@ -93092,6 +115291,7 @@ comparative
 
 
 
+α
 
 
 
@@ -93105,14 +115305,18 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
+ο
 
 
 
@@ -93122,12 +115326,15 @@ comparative
 
 
 
+κ
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -93143,9 +115350,11 @@ comparative
 
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -93158,16 +115367,21 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
@@ -93183,87 +115397,121 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
+irregular
+ο
+ο
+α
+α
 
 
 
 
+ι
 
+ο
+irregular
+ο
 
 
+τ
 
 
 
 
 
 
+ο
 
 
+ρ
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ν
 
 
+τ
 
+α
 
+ρ
 
+ι
 
 
 
 
 
 
+τ
 
+ι
 
+ο
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
 
+ο
+ο
 
 
 
@@ -93277,11 +115525,13 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
@@ -93290,47 +115540,71 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
+τ
 
 
+ο
 
+ρ
+γ
 
 
 
+ο
 
+ο
 
 
+ο
 
 
+ν
 
+ν
 
 
+ο
 
+τ
+ο
 
+α
 
 
+α
 
 
+α
 
 
 
 
 
+ο
 
+ο
 
+ο
+ι
 
 
 
@@ -93338,13 +115612,19 @@ comparative
 
 
 
+α
+ο
 
+α
 
 
+ο
 
+ρ
 
 
 
+ο
 
 
 
@@ -93353,12 +115633,15 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -93368,6 +115651,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -93375,6 +115659,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -93387,18 +115672,23 @@ comparative
 
 
 
+ο
 
+δ
 
 
 
 
 
+τ
 
+α
 
 
 
 
 
+α
 
 
 
@@ -93414,46 +115704,62 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+ι
 
+α
 
 
+α
 
 
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
-comparative
 
 
 
 
 
+ο
+ο
 
 
+τ
 
 
+ι
 
+τ
 
+ο
 
 
 
+ι
 
 
+ο
 
 
+α
 
 
 
@@ -93466,10 +115772,13 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
+ο
 
 
 
@@ -93478,13 +115787,17 @@ comparative
 
 
 
+ο
+α
 
+α
 
 
 
 
 
 
+δ
 
 
 
@@ -93510,17 +115823,26 @@ comparative
 
 
 
+ο
 
 
+irregular
 
 
+τ
 
+ο
+α
 
+α
 
 
+ι
+ο
 
 
 
+ο
 
 
 
@@ -93534,12 +115856,17 @@ comparative
 
 
 
+ο
 
+α
 
 
+ο
 
+α
 
 
+τ
 
 
 
@@ -93553,18 +115880,23 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
 
 
+τ
 
 
+ο
 
 
 
+α
 
 
 
@@ -93580,15 +115912,20 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
+τ
 
+κ
 
 
 
@@ -93598,11 +115935,14 @@ comparative
 
 
 
+ο
 
 
 
+ς
 
 
+ο
 
 
 
@@ -93611,17 +115951,22 @@ comparative
 
 
 
+ο
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
+τ
 
 
 
@@ -93629,21 +115974,25 @@ comparative
 
 
 
-comparative
+ο
 
 
 
 
 
 
+ευ
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
@@ -93655,14 +116004,20 @@ comparative
 
 
 
+ο
 
+ι
 
 
 
 
+ο
 
+ευ
 
+α
 
+irregular
 
 
 
@@ -93670,25 +116025,32 @@ comparative
 
 
 
+υ
 
 
 
+ο
 
 
 
 
+α
 
+υ
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -93696,110 +116058,143 @@ comparative
 
 
 
+ο
 
+υ
 
 
 
 
 
+ο
 
 
+ντ
 
+ο
 
 
+ο
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
+τ
 
+δ
 
+ς
 
 
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
 
 
 
+ρ
 
 
+α
 
 
 
+ο
 
 
+ς
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
+ο
 
 
 
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -93811,15 +116206,21 @@ comparative
 
 
 
+α
 
+α
 
 
 
+ο
 
 
 
+α
 
+ι
 
+ς
 
 
 
@@ -93828,15 +116229,18 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -93847,16 +116251,20 @@ comparative
 
 
 
+ο
 
+υ
 
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
@@ -93868,6 +116276,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -93879,16 +116288,18 @@ comparative
 
 
 
-comparative
 
+α
 
 
 
 
 
+α
 
 
 
+ι
 
 
 
@@ -93905,17 +116316,21 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
+ι
 
 
 
 
 
 
+ι
 
 
 
@@ -93924,15 +116339,20 @@ comparative
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
+ο
 
+α
+ο
 
 
 
@@ -93944,13 +116364,16 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -93960,6 +116383,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -93975,29 +116399,35 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+irregular
 
 
 
@@ -94006,64 +116436,86 @@ comparative
 
 
 
+α
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+ι
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
 
 
 
+τ
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
+α
 
+τ
+ο
 
 
+ο
 
 
+ι
 
+α
+α
 
 
 
+ι
 
 
 
@@ -94073,59 +116525,84 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ευ
 
 
 
+ο
+irregular
 
+ο
 
+ο
 
 
+α
 
 
 
+ευ
 
 
 
 
+α
 
 
 
 
 
 
+τ
 
+α
 
 
 
+α
 
+ο
 
+ι
 
 
+ς
 
+ι
 
 
 
+α
 
 
+ευ
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
+α
 
+α
 
 
 
@@ -94136,6 +116613,7 @@ comparative
 
 
 
+α
 
 
 
@@ -94143,37 +116621,44 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ευ
 
 
 
 
 
+ο
 
 
 
@@ -94187,39 +116672,52 @@ comparative
 
 
 
+ευ
 
 
+ν
 
 
+ι
 
 
 
 
+α
 
+κ
 
+ι
 
 
+α
 
 
 
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -94228,18 +116726,23 @@ comparative
 
 
 
+α
 
 
 
 
+ο
+ευ
 
 
+ι
 
 
 
 
 
 
+ο
 
 
 
@@ -94247,36 +116750,47 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
+α
 
+ο
 
+ο
 
 
+α
 
+κτ
 
 
+α
 
 
-comparative
 
 
+κτ
 
-comparative
+ο
+α
 
-superlative
 
 
 
@@ -94284,13 +116798,17 @@ superlative
 
 
 
+α
 
 
 
+ι
 
+ο
 
 
 
+ι
 
 
 
@@ -94299,20 +116817,35 @@ superlative
 
 
 
+α
 
+ο
+ο
 
 
+τ
 
 
 
+ο
 
+α
 
 
+ο
 
+ι
 
+ο
+ο
+α
+ι
 
+ρ
+ι
 
 
+τ
 
 
 
@@ -94320,6 +116853,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -94328,28 +116862,38 @@ superlative
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
 
+ο
+τ
+ι
 
 
+ν
 
 
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
@@ -94358,8 +116902,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -94367,17 +116913,24 @@ superlative
 
 
 
+α
 
 
+ο
 
 
+α
 
+ο
 
 
+α
 
 
 
+ς
 
+ι
 
 
 
@@ -94387,6 +116940,7 @@ superlative
 
 
 
+α
 
 
 
@@ -94395,15 +116949,19 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
+τ
 
 
 
@@ -94417,25 +116975,34 @@ superlative
 
 
 
+α
 
 
+α
 
+δ
 
+ς
 
 
 
 
+α
 
 
 
+ι
 
+α
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -94460,6 +117027,8 @@ superlative
 
 
 
+α
+ο
 
 
 
@@ -94468,40 +117037,55 @@ superlative
 
 
 
+α
+τ
 
+ι
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
+α
 
 
 
+α
 
 
+ο
 
 
 
+τ
 
 
 
 
 
+ο
 
+ι
 
 
 
 
 
 
+δ
 
 
+α
 
 
+α
 
 
 
@@ -94512,23 +117096,31 @@ superlative
 
 
 
+τ
 
 
 
 
 
+irregular
 
 
+ι
 
+ευ
 
 
 
+ν
 
 
 
 
+ευ
 
+ευ
 
+ο
 
 
 
@@ -94537,7 +117129,9 @@ superlative
 
 
 
+α
 
+ευ
 
 
 
@@ -94551,23 +117145,35 @@ superlative
 
 
 
+ευ
+α
 
 
 
+ευ
 
 
 
+ευ
+α
 
 
 
 
+α
+α
 
+α
+ς
 
 
 
 
+ο
 
+ο
 
+ευ
 
 
 
@@ -94581,27 +117187,37 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
+non-declinable
 
+α
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+υ
 
 
 
@@ -94615,10 +117231,12 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -94630,6 +117248,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -94638,10 +117257,12 @@ superlative
 
 
 
+ς
 
 
 
 
+non-declinable
 
 
 
@@ -94650,7 +117271,9 @@ superlative
 
 
 
+υ
 
+ρ
 
 
 
@@ -94659,39 +117282,51 @@ superlative
 
 
 
+ι
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ι
 
 
 
+ευ
 
 
 
 
+ι
 
 
 
 
 
+α
 
+α
 
+ο
+ι
 
 
 
 
 
 
+α
 
 
 
@@ -94699,17 +117334,23 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
+α
 
+ευ
 
+υ
 
 
 
@@ -94719,30 +117360,41 @@ superlative
 
 
 
+τ
 
 
+ευ
 
 
 
 
+ο
+α
 
 
 
 
+ι
+α
 
 
 
 
 
+ευ
 
 
+ν
 
 
+ι
 
+ι
 
 
 
 
+α
 
 
 
@@ -94753,52 +117405,67 @@ superlative
 
 
 
+ο
+α
 
 
+δ
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
+α
 
+ευ
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+ευ
 
 
+ν
 
 
 
 
+α
 
 
+irregular
 
 
 
 
 
 
+ευ
 
 
+ο
 
 
 
@@ -94809,9 +117476,11 @@ superlative
 
 
 
+ν
 
 
 
+α
 
 
 
@@ -94824,6 +117493,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -94836,6 +117506,7 @@ superlative
 
 
 
+ευ
 
 
 
@@ -94846,21 +117517,28 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
+α
 
 
+ευ
 
 
 
 
+α
+α
 
 
 
 
+ο
 
 
 
@@ -94868,53 +117546,70 @@ superlative
 
 
 
+ο
 
+ο
 
+ευ
 
+α
 
+ο
 
 
+α
 
 
 
+ο
+ο
 
 
+ν
 
+ο
 
 
 
 
 
 
+ευ
 
 
-comparative
 
 
 
+ο
 
+α
 
 
-comparative
+ο
 
 
+ο
 
 
+α
 
-comparative
 
 
 
 
+ο
 
+ο
 
-comparative
 
+ευ
 
 
 
+ο
 
 
+α
 
 
 
@@ -94925,29 +117620,36 @@ comparative
 
 
 
-comparative
 
 
 
 
+α
 
 
 
+ευ
 
 
 
 
+ο
 
+ο
 
+τ
 
+α
 
 
 
 
 
+υ
 
 
 
+α
 
 
 
@@ -94955,96 +117657,122 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ς
 
 
 
 
+α
 
 
 
 
+α
+α
 
 
 
+α
 
 
 
 
 
 
-superlative
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
+α
+α
 
 
 
 
+α
 
 
 
+ρ
 
 
+α
 
 
 
+ρ
 
 
 
 
+α
+ο
 
 
 
 
 
 
-comparative
+α
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
@@ -95052,25 +117780,30 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -95084,9 +117817,11 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
@@ -95105,16 +117840,20 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+τ
+α
 
 
 
 
+α
 
 
 
@@ -95123,11 +117862,15 @@ comparative
 
 
 
+α
 
 
+α
 
 
+ι
 
+ο
 
 
 
@@ -95135,37 +117878,49 @@ comparative
 
 
 
+τ
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
+α
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+κ
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -95173,6 +117928,7 @@ comparative
 
 
 
+ς
 
 
 
@@ -95181,11 +117937,14 @@ comparative
 
 
 
+α
 
 
 
 
+ευ
 
+α
 
 
 
@@ -95193,10 +117952,13 @@ comparative
 
 
 
+ο
 
 
+ευ
 
 
+τ
 
 
 
@@ -95204,9 +117966,12 @@ comparative
 
 
 
+ο
+τ
 
 
 
+τ
 
 
 
@@ -95214,36 +117979,52 @@ comparative
 
 
 
+ο
 
 
 
+α
 
+ι
 
+α
 
 
-comparative
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
 
+ι
 
 
 
 
 
+τ
 
+τ
 
 
+ο
+τ
+κ
 
+ο
+ι
 
+ο
 
 
+ευ
 
 
 
@@ -95252,6 +118033,7 @@ comparative
 
 
 
+α
 
 
 
@@ -95259,76 +118041,107 @@ comparative
 
 
 
+ι
 
 
+τ
+ο
 
+ο
 
 
 
 
+τ
 
 
 
 
 
 
+ι
 
 
 
 
+τ
+ο
 
+ο
 
+ο
+ι
 
 
 
 
 
-comparative
 
 
+κ
+τ
 
 
 
+τ
 
+ο
 
 
+τ
 
 
 
 
 
+ο
 
 
+ι
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
+α
 
 
+ο
 
 
+ι
 
 
 
 
+α
+ι
 
+α
 
 
 
 
 
+α
 
 
+α
+ο
+α
 
 
 
+α
 
 
 
@@ -95346,67 +118159,94 @@ comparative
 
 
 
+τ
 
 
 
 
+α
 
 
+ο
 
+υ
 
 
+ο
 
 
+τ
 
+ο
 
 
+ο
 
+ρ
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+τ
 
+α
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
+ς
 
+α
 
+τ
 
 
 
 
 
+τ
 
 
 
 
+ο
 
 
+α
 
 
+ι
+α
 
 
 
+τ
 
 
 
+ο
 
 
 
@@ -95414,6 +118254,7 @@ comparative
 
 
 
+α
 
 
 
@@ -95422,6 +118263,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -95429,10 +118271,13 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
@@ -95442,12 +118287,15 @@ comparative
 
 
 
+ευ
 
 
 
 
 
+ο
 
+τ
 
 
 
@@ -95455,15 +118303,22 @@ comparative
 
 
 
+α
+ο
 
 
 
 
+α
 
+ν
 
+ι
 
+α
 
 
+α
 
 
 
@@ -95471,41 +118326,53 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+α
+α
 
 
 
+ο
 
 
 
 
 
 
+ν
 
+τ
 
+ο
 
 
+α
 
 
 
@@ -95526,6 +118393,8 @@ comparative
 
 
 
+ι
+α
 
 
 
@@ -95533,24 +118402,37 @@ comparative
 
 
 
+ι
+α
 
+ο
 
 
+τ
+ο
 
+ο
 
+α
 
 
 
 
+ο
 
+α
 
+α
 
 
+τ
 
 
 
+τ
 
 
+α
 
 
 
@@ -95558,27 +118440,36 @@ comparative
 
 
 
+δ
+ο
 
 
 
 
 
 
+ο
 
+τ
 
 
 
 
+α
 
+α
 
+τ
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -95587,6 +118478,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -95597,32 +118489,43 @@ comparative
 
 
 
+τ
 
 
 
 
+α
 
+τ
+irregular
+ο
 
 
 
 
+ευ
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+α
 
+α
 
 
 
@@ -95630,6 +118533,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -95638,10 +118542,13 @@ comparative
 
 
 
+ο
 
+δ
 
 
 
+α
 
 
 
@@ -95653,6 +118560,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -95661,30 +118569,37 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+ο
 
+ο
 
 
-superlative
+α
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -95692,50 +118607,72 @@ superlative
 
 
 
+ι
 
 
+α
 
+α
 
 
+ο
+α
 
 
+ο
 
 
 
 
+τ
+irregular
 
 
 
+ο
 
 
 
 
-superlative
 
+τ
 
 
 
+κ
 
 
+ευ
 
 
 
+ο
 
+ο
 
 
 
+α
 
+α
+ι
 
 
+α
 
+ι
 
 
 
 
+τ
+ρ
 
 
 
+α
 
+δ
 
 
 
@@ -95745,13 +118682,18 @@ superlative
 
 
 
+ο
+α
 
 
+ο
 
 
 
+α
 
 
+ς
 
 
 
@@ -95762,6 +118704,7 @@ superlative
 
 
 
+α
 
 
 
@@ -95770,37 +118713,54 @@ superlative
 
 
 
+ι
 
+α
 
 
+α
 
+α
 
 
 
+α
+ι
 
+ρ
+ο
 
 
 
 
 
 
+ο
+υ
 
+ο
 
 
 
 
+ρ
 
 
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
+τ
 
+α
 
 
 
@@ -95808,41 +118768,54 @@ superlative
 
 
 
+τ
 
+ι
 
 
 
 
 
 
+ι
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ρ
+ο
 
 
 
 
 
+α
 
 
 
 
+ι
 
+τ
 
 
+ο
 
 
+ι
 
 
 
+ο
 
 
 
@@ -95850,37 +118823,47 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
 
 
-superlative
 
+α
 
 
 
 
+α
+α
 
 
+α
 
 
+τ
 
+ο
 
 
 
+α
 
 
 
@@ -95897,6 +118880,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -95904,47 +118888,61 @@ superlative
 
 
 
+α
 
 
 
 
 
 
-comparative
 
+α
 
+α
 
+ι
 
+ι
+α
 
 
+ι
 
+ι
+τ
+ο
 
 
 
 
 
 
-superlative
 
 
+ι
 
 
 
+ν
+τ
+ο
 
 
 
 
 
 
-superlative
 
 
+ι
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -95953,35 +118951,42 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
 
 
+ο
 
 
-comparative
 
 
 
 
 
+ο
 
 
 
+ι
 
 
 
+ο
 
 
+ι
 
 
 
@@ -95990,13 +118995,16 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ι
 
 
 
@@ -96005,38 +119013,52 @@ comparative
 
 
 
+ο
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
 
+ι
+α
 
+ο
+ι
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
+ι
 
 
+α
 
+α
 
 
 
+α
 
 
 
@@ -96045,22 +119067,35 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ο
 
+ι
 
+α
 
+ο
 
+ο
+ι
 
 
+α
+ι
 
+α
+τ
 
 
 
+ο
+α
 
 
 
@@ -96076,28 +119111,35 @@ comparative
 
 
 
+ο
 
+ο
 
+ς
 
 
 
+ο
 
 
 
+ς
 
+α
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
 
-comparative
 
 
 
@@ -96110,12 +119152,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+δ
 
 
 
@@ -96127,6 +119171,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -96140,11 +119185,15 @@ comparative
 
 
 
+ο
+ο
 
 
 
 
 
+ι
+ι
 
 
 
@@ -96156,6 +119205,7 @@ comparative
 
 
 
+α
 
 
 
@@ -96165,6 +119215,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -96173,100 +119224,137 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+ι
 
 
 
 
 
 
-superlative
 
 
 
 
+ι
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
+ι
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+ι
+υ
 
 
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
 
+τ
 
+ευ
+ι
+υ
 
 
 
 
+ο
+ρ
 
 
 
 
 
+ο
 
+ο
 
 
 
+α
+ι
 
+ο
 
 
+ο
+ο
 
+ο
 
+ο
 
 
 
 
+α
+ι
 
+ο
 
 
 
+ο
 
+ευ
 
 
 
 
 
 
+ι
 
 
 
 
 
+ι
 
+τ
 
 
 
@@ -96275,32 +119363,43 @@ superlative
 
 
 
+ι
 
 
 
+α
 
 
 
+α
 
+α
 
 
 
 
+ι
 
+ς
 
 
 
 
 
+α
+ι
 
 
+α
 
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -96310,6 +119409,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -96321,23 +119421,39 @@ superlative
 
 
 
+α
 
 
+ι
 
+α
 
+α
 
+α
 
+τ
+ντ
 
+ι
+ρ
 
+τ
+α
 
 
+α
 
 
 
+ο
+α
 
 
 
+irregular
 
+ι
 
 
 
@@ -96347,25 +119463,36 @@ superlative
 
 
 
+ι
 
 
+ι
 
 
 
+ο
 
+γ
+α
 
 
 
+ο
 
+α
 
 
 
 
+ο
+α
 
 
 
+α
 
 
+τ
 
 
 
@@ -96374,23 +119501,32 @@ superlative
 
 
 
+ο
 
+α
 
 
+ς
 
+ο
 
 
+α
 
+α
 
 
 
 
 
 
+ι
 
 
 
+α
 
+ο
 
 
 
@@ -96408,33 +119544,48 @@ superlative
 
 
 
+ς
+ρ
+ο
 
 
 
 
 
+α
 
+α
 
 
 
 
+ν
 
 
 
 
+ι
+ο
 
+α
+irregular
 
 
 
 
 
+α
 
+ο
+α
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -96446,61 +119597,74 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
+α
 
 
 
 
+ι
 
 
 
+ο
 
+ο
 
-superlative
 
 
+α
+ο
 
 
 
 
-superlative
 
 
 
 
+ο
 
 
-superlative
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
-superlative
 
+ο
 
 
+ο
 
 
 
+ρ
 
 
 
 
+α
 
 
 
@@ -96509,13 +119673,17 @@ superlative
 
 
 
+ο
 
 
 
 
 
+κ
 
+ρ
 
+α
 
 
 
@@ -96523,7 +119691,9 @@ superlative
 
 
 
+ρ
 
+τ
 
 
 
@@ -96531,6 +119701,7 @@ superlative
 
 
 
+α
 
 
 
@@ -96545,37 +119716,46 @@ superlative
 
 
 
+τ
 
 
 
+α
 
 
 
 
 
 
+α
 
 
+α
 
 
+ο
 
 
 
 
 
 
-superlative
+α
 
 
 
+ρ
 
 
 
+τ
 
 
+α
 
 
 
+δ
 
 
 
@@ -96585,25 +119765,32 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ι
 
+ο
 
 
+α
+α
 
 
 
@@ -96615,15 +119802,18 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
 
+α
 
 
 
@@ -96633,12 +119823,16 @@ superlative
 
 
 
+α
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
@@ -96647,11 +119841,19 @@ superlative
 
 
 
+ρ
 
+ο
 
+ο
 
+α
 
+γ
+ο
 
+α
+τ
 
 
 
@@ -96659,14 +119861,17 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ς
 
 
 
@@ -96674,6 +119879,7 @@ superlative
 
 
 
+υ
 
 
 
@@ -96682,22 +119888,39 @@ superlative
 
 
 
+ς
 
+ι
+ο
 
+τ
 
 
+δ
+ο
+ι
 
+α
 
 
 
+ο
 
+α
+ο
 
 
+τ
 
 
 
+α
 
+α
+irregular
 
+τ
+ο
 
 
 
@@ -96714,6 +119937,7 @@ superlative
 
 
 
+α
 
 
 
@@ -96723,10 +119947,13 @@ superlative
 
 
 
+ο
 
 
 
+α
 
+α
 
 
 
@@ -96740,9 +119967,11 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -96751,6 +119980,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -96759,24 +119989,33 @@ superlative
 
 
 
+α
 
 
 
+ι
 
 
 
 
 
+ο
 
+α
 
+ς
 
 
 
+ο
 
+ρ
 
 
+α
 
 
+α
 
 
 
@@ -96785,8 +120024,10 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -96796,19 +120037,26 @@ superlative
 
 
 
+τ
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
@@ -96828,12 +120076,15 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -96842,13 +120093,20 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+ι
 
+α
 
 
+ι
+irregular
+ο
 
 
 
@@ -96857,6 +120115,8 @@ superlative
 
 
 
+ν
+α
 
 
 
@@ -96864,9 +120124,12 @@ superlative
 
 
 
+ι
 
 
+α
 
+τ
 
 
 
@@ -96874,39 +120137,52 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
+α
 
 
 
 
+ο
 
+τ
 
+α
 
 
 
 
 
+ευ
 
 
+τ
 
 
 
+α
 
 
+irregular
 
 
 
 
 
+τ
 
+ο
 
 
+α
 
 
 
@@ -96914,7 +120190,9 @@ superlative
 
 
 
+α
 
+ο
 
 
 
@@ -96922,6 +120200,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -96930,23 +120209,33 @@ superlative
 
 
 
+α
+ι
 
 
 
+ο
 
 
+ο
+ς
 
 
+τ
 
 
 
+α
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -96958,11 +120247,14 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
@@ -96979,6 +120271,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -96996,19 +120289,27 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
 
+ν
 
+ο
 
 
 
+τ
+α
 
 
+ο
 
+irregular
 
 
 
@@ -97018,6 +120319,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -97027,18 +120329,26 @@ superlative
 
 
 
+irregular
+ο
 
 
+α
 
 
+ν
 
+ν
 
 
 
 
+ο
 
 
+ο
 
+ι
 
 
 
@@ -97047,7 +120357,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -97070,31 +120382,49 @@ superlative
 
 
 
+α
 
+ι
 
 
 
+ο
+ο
 
+ο
+irregular
+ο
+ο
 
 
+α
 
 
 
+α
 
 
+α
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
+ι
 
+α
 
 
+α
+ο
 
 
 
@@ -97110,10 +120440,12 @@ superlative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -97125,12 +120457,15 @@ superlative
 
 
 
+ι
 
 
 
 
 
 
+ν
+α
 
 
 
@@ -97138,50 +120473,65 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ο
+irregular
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ς
 
 
 
 
 
 
+ι
 
 
 
+ς
+ο
 
 
 
 
+ο
 
 
+ν
 
 
 
+ο
 
 
+ς
 
 
 
 
+α
 
+ο
 
 
 
@@ -97190,17 +120540,22 @@ superlative
 
 
 
+α
 
 
 
+irregular
 
 
+ο
 
 
 
 
 
+ο
 
+α
 
 
 
@@ -97211,9 +120566,11 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -97227,54 +120584,72 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
+α
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
+ι
 
 
 
+τ
 
 
 
 
 
 
+ρ
 
+τ
 
 
 
 
+α
 
+α
+τ
 
 
 
-comparative
+ο
+α
 
 
 
 
+α
 
 
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -97285,43 +120660,63 @@ comparative
 
 
 
+α
+α
 
+irregular
+α
+ο
 
 
 
 
 
+α
 
+α
+α
 
+τ
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
+ο
 
 
+α
 
 
 
 
-comparative
 
 
+α
+ο
 
 
 
+α
 
 
+irregular
 
 
+ο
 
+ι
 
 
+ο
 
 
 
@@ -97336,18 +120731,25 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
+α
+α
 
 
+α
+ο
 
 
 
 
+ι
 
 
 
@@ -97357,47 +120759,66 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
+α
+α
 
 
 
 
 
+ο
 
+ρ
 
 
 
 
 
+ο
 
 
+ι
 
 
 
 
 
 
+ο
+ο
 
 
 
+α
 
 
+ι
 
+ο
 
+irregular
+ο
 
+α
 
 
 
 
+α
 
+irregular
 
 
+τ
 
 
 
@@ -97405,12 +120826,14 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+τ
 
 
 
@@ -97430,6 +120853,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -97437,20 +120861,28 @@ comparative
 
 
 
+α
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ι
 
+ο
 
+α
 
 
 
@@ -97471,21 +120903,25 @@ comparative
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -97497,15 +120933,19 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
+α
 
 
 
 
+ο
 
 
 
@@ -97530,6 +120970,8 @@ comparative
 
 
 
+α
+ο
 
 
 
@@ -97537,39 +120979,52 @@ comparative
 
 
 
+ο
+α
 
 
 
 
+ι
 
 
 
 
+ς
 
+ς
+ι
 
 
+ς
+ο
 
 
+ι
 
 
 
+ο
 
 
 
 
 
 
+ι
 
 
-comparative
 
+ο
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -97578,6 +121033,7 @@ comparative
 
 
 
+α
 
 
 
@@ -97588,50 +121044,60 @@ comparative
 
 
 
-comparative
+τ
 
 
+ς
 
 
 
+ι
 
 
 
+ο
 
 
-comparative
 
 
 
 
 
 
+ι
 
 
+ο
 
 
 
 
+ι
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ι
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -97639,92 +121105,121 @@ comparative
 
 
 
+ο
 
 
 
+ι
 
 
+ο
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ι
 
 
+ο
 
 
 
 
+ο
 
+ι
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+τ
 
+τ
 
 
 
 
 
+ι
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
+τ
 
 
 
@@ -97733,21 +121228,27 @@ comparative
 
 
 
+ο
 
 
 
 
+irregular
 
 
 
 
 
+τ
 
 
 
+ο
 
+ο
 
 
+τ
 
 
 
@@ -97757,62 +121258,85 @@ comparative
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
+ς
 
 
 
 
 
 
+ρ
 
+α
 
 
 
+α
+ρ
 
+ο
 
+α
 
+α
 
 
 
+ς
 
 
 
 
 
+τ
 
 
 
+ο
 
+ι
 
 
 
 
+α
 
 
+ι
+ο
 
 
+ο
+ο
 
 
 
@@ -97820,46 +121344,61 @@ comparative
 
 
 
+ι
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
+ρ
 
 
 
 
 
+ο
 
 
+ι
+ο
 
 
 
 
+τ
 
+α
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -97868,13 +121407,19 @@ comparative
 
 
 
+ο
 
+α
+α
 
 
+ο
+ο
 
 
 
 
+ρ
 
 
 
@@ -97885,16 +121430,23 @@ comparative
 
 
 
+α
 
+ο
 
 
+τ
+α
 
 
+ο
 
 
 
+α
 
 
+α
 
 
 
@@ -97902,10 +121454,12 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -97914,14 +121468,19 @@ comparative
 
 
 
+ο
 
+α
 
+α
 
 
 
+τ
 
 
 
+α
 
 
 
@@ -97931,29 +121490,39 @@ comparative
 
 
 
+ς
 
+ο
 
 
 
+ο
 
+α
 
+α
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+ς
 
 
 
@@ -97986,14 +121555,20 @@ comparative
 
 
 
+α
 
 
+δ
 
 
 
 
+α
 
+ο
+α
 
+ο
 
 
 
@@ -98002,18 +121577,23 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
 
+τ
 
 
 
@@ -98021,17 +121601,21 @@ comparative
 
 
 
+ι
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
+ο
 
 
 
@@ -98042,13 +121626,16 @@ comparative
 
 
 
+ο
 
 
 
 
+ρ
 
 
 
+α
 
 
 
@@ -98056,38 +121643,54 @@ comparative
 
 
 
+τ
 
 
+ς
 
 
 
+α
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+α
+ο
 
+α
 
 
+α
 
+α
 
 
 
@@ -98112,9 +121715,11 @@ comparative
 
 
 
+ι
 
 
 
+ο
 
 
 
@@ -98126,7 +121731,9 @@ comparative
 
 
 
+α
 
+δ
 
 
 
@@ -98142,6 +121749,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -98155,8 +121763,10 @@ comparative
 
 
 
+α
 
 
+ι
 
 
 
@@ -98167,6 +121777,7 @@ comparative
 
 
 
+α
 
 
 
@@ -98177,42 +121788,55 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+κ
 
 
+ρ
 
 
 
+α
 
 
+ο
 
+α
 
 
 
+α
 
 
 
@@ -98221,21 +121845,28 @@ comparative
 
 
 
+α
 
 
 
 
+τ
+ο
 
 
 
 
 
+α
 
 
 
 
+α
 
 
+α
+α
 
 
 
@@ -98245,15 +121876,21 @@ comparative
 
 
 
+ο
 
 
+α
 
+ο
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
@@ -98267,13 +121904,17 @@ comparative
 
 
 
+α
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
 
@@ -98281,52 +121922,68 @@ comparative
 
 
 
+α
 
 
+α
 
+τ
 
+ο
 
+α
 
 
+α
 
+α
 
 
 
 
+τ
+ο
 
 
 
 
 
+α
 
 
 
 
+ς
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
 
-comparative
 
 
 
@@ -98336,6 +121993,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -98353,17 +122011,23 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
+τ
 
+ο
 
 
+α
 
+ι
 
 
 
@@ -98371,7 +122035,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -98380,6 +122046,7 @@ comparative
 
 
 
+α
 
 
 
@@ -98388,12 +122055,16 @@ comparative
 
 
 
+ι
 
 
+δ
+ο
 
 
 
 
+α
 
 
 
@@ -98403,20 +122074,28 @@ comparative
 
 
 
+α
+ο
 
 
+ν
 
 
 
 
 
 
+ο
+ο
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
@@ -98425,6 +122104,7 @@ comparative
 
 
 
+α
 
 
 
@@ -98435,40 +122115,79 @@ comparative
 
 
 
+α
+ο
 
 
+α
 
 
+ο
 
 
+ς
+α
+ο
+ο
+irregular
+ο
 
 
+α
+ο
+α
+α
+α
 
+α
 
+ι
+ο
+ρ
 
+ο
+τ
 
+α
 
+ο
+τ
+irregular
+ο
+ι
 
 
+α
 
 
 
+ο
 
+ρ
 
+ο
 
+irregular
+ο
 
 
 
 
 
+ς
 
 
 
+δ
 
 
+ι
+irregular
+ο
 
 
 
+α
 
 
 
@@ -98476,16 +122195,22 @@ comparative
 
 
 
+ο
 
 
 
 
+ι
+ο
 
 
+ι
 
+α
 
 
 
+ο
 
 
 
@@ -98497,21 +122222,32 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+ι
 
+ο
 
 
 
+ρ
 
 
 
 
+ο
 
+α
 
+α
 
+ι
+irregular
+ο
 
 
 
@@ -98524,39 +122260,53 @@ comparative
 
 
 
+α
 
 
 
 
 
+ς
 
+ι
+α
+α
 
 
+α
 
 
 
+α
 
 
 
 
 
+ι
 
 
 
 
 
 
+ο
 
 
 
 
+τ
+ο
 
 
 
+ο
+τ
 
 
 
 
+α
 
 
 
@@ -98575,17 +122325,22 @@ comparative
 
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+υ
 
+α
 
 
 
@@ -98594,15 +122349,23 @@ comparative
 
 
 
+ι
 
+ι
+irregular
+ο
 
+ο
+α
 
 
 
 
 
 
+α
 
+α
 
 
 
@@ -98614,6 +122377,7 @@ comparative
 
 
 
+α
 
 
 
@@ -98624,6 +122388,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -98631,36 +122396,49 @@ comparative
 
 
 
+ο
 
+ο
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+α
 
 
 
+τ
 
+ο
 
 
 
+ο
 
 
 
+α
+ο
 
 
 
 
 
+ο
 
 
 
@@ -98668,63 +122446,87 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ι
 
 
+δ
 
 
+ο
 
+α
 
 
 
 
+α
 
+α
 
+α
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
 
+κ
 
+ο
 
 
+α
 
 
+ς
+ο
 
 
+ο
 
 
+ς
 
 
 
+τ
+ο
 
 
 
+ν
 
 
 
 
+τ
 
 
 
@@ -98732,59 +122534,79 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
+ς
 
 
 
+κτ
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
+τ
 
 
 
+α
 
+ο
 
+irregular
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -98799,10 +122621,12 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -98810,11 +122634,18 @@ comparative
 
 
 
+α
+α
 
+ο
+τ
 
+α
+ο
 
 
 
+ο
 
 
 
@@ -98822,26 +122653,37 @@ comparative
 
 
 
+ς
 
 
+τ
+ς
 
+ο
 
+ι
 
 
+α
 
 
 
+ς
 
 
 
 
 
 
+τ
 
 
 
+ο
 
 
+ο
+ο
 
 
 
@@ -98857,14 +122699,18 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
+α
 
 
 
+ς
 
 
 
@@ -98877,60 +122723,85 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
+α
+α
 
 
 
+ι
 
 
+ο
 
+ευ
 
 
 
+ν
 
 
 
 
 
+ι
 
+ο
 
 
 
 
 
 
+τ
 
+ο
 
 
 
 
 
+ο
+α
 
 
 
 
 
+τ
 
 
+α
 
+α
 
 
+ο
+ο
 
 
 
+τ
 
 
+ο
 
 
+ευ
 
 
+α
 
 
 
+ο
 
+α
 
 
 
@@ -98943,14 +122814,19 @@ comparative
 
 
 
+ι
 
 
+ι
+ο
 
 
+α
 
 
 
 
+ς
 
 
 
@@ -98963,29 +122839,37 @@ comparative
 
 
 
+ι
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ς
 
 
+α
 
 
 
 
+ο
 
 
+τ
 
 
 
@@ -99001,65 +122885,92 @@ comparative
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
+ο
 
 
+α
 
 
+α
 
 
 
+π
 
 
 
 
+ο
 
 
 
 
 
 
+ν
 
+ο
 
+α
 
 
+irregular
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
 
+irregular
+α
 
+ο
 
 
 
 
+ο
 
+α
 
 
 
 
 
 
+α
+χ
 
+ι
+ο
 
+ι
+ο
+ο
 
 
 
 
+α
+ο
 
 
 
@@ -99067,10 +122978,12 @@ comparative
 
 
 
+τ
 
 
 
 
+ο
 
 
 
@@ -99078,46 +122991,62 @@ comparative
 
 
 
+irregular
 
 
 
+ο
 
 
 
 
 
+irregular
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ι
 
+irregular
 
 
 
+ι
 
 
+ς
 
 
 
+α
 
 
+ο
+ι
+α
 
 
 
 
 
+α
 
 
 
+ς
 
 
 
@@ -99130,7 +123059,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -99139,22 +123070,28 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
+ς
 
 
 
+ο
 
 
 
@@ -99163,17 +123100,24 @@ comparative
 
 
 
+α
 
 
 
 
+ο
+ο
 
 
 
+τ
 
 
+ι
 
+ο
 
+ο
 
 
 
@@ -99185,40 +123129,52 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+δ
 
 
+τ
 
+ο
+ι
 
 
 
@@ -99232,38 +123188,48 @@ comparative
 
 
 
+ο
+α
 
 
 
 
 
 
+τ
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
 
-comparative
 
 
 
+ο
 
 
+κ
 
 
+τ
 
 
 
 
 
+α
+τ
 
 
 
@@ -99272,69 +123238,109 @@ comparative
 
 
 
+ο
+α
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ρ
 
 
 
 
 
 
+τ
 
+κ
+ι
+ο
 
+ι
 
+τ
 
+ο
 
+ι
+irregular
+ο
 
-comparative
 
 
 
+ο
 
 
+ο
 
 
+ο
 
+α
 
+ι
+ο
 
 
+κ
 
 
 
 
+α
 
 
 
 
+κ
 
+α
 
 
 
+ο
+α
 
+τ
+ο
 
 
 
+κ
 
+ο
 
 
 
 
+ο
 
+τ
 
+ς
 
 
 
+α
+α
+α
+ο
+ο
 
 
+α
 
 
 
@@ -99345,9 +123351,12 @@ comparative
 
 
 
+α
+ι
 
 
 
+ο
 
 
 
@@ -99365,68 +123374,93 @@ comparative
 
 
 
+ο
+κ
 
 
 
+ο
+τ
 
 
 
+ς
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+α
 
+ς
+α
 
-superlative
 
 
 
+ο
 
 
 
+τ
 
 
 
 
 
 
+ο
 
+ι
+ο
 
 
 
 
+ο
+ο
 
 
 
 
 
+υ
 
 
 
+ο
 
 
 
 
 
+ο
 
+irregular
+ο
 
 
 
+α
 
 
+ς
 
 
+ν
 
+ν
 
 
 
@@ -99434,7 +123468,9 @@ superlative
 
 
 
+ι
 
+ο
 
 
 
@@ -99446,25 +123482,34 @@ superlative
 
 
 
+ο
+τ
 
 
 
 
 
+ι
 
+α
 
 
 
 
 
 
+τ
+ο
 
 
 
 
+α
 
 
 
+ο
+τ
 
 
 
@@ -99474,30 +123519,40 @@ superlative
 
 
 
+ευ
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+τ
 
 
 
+ο
 
 
 
+τ
 
 
+ο
 
+ο
 
 
 
@@ -99505,10 +123560,13 @@ superlative
 
 
 
+ς
 
 
 
 
+ο
+ο
 
 
 
@@ -99527,36 +123585,50 @@ superlative
 
 
 
+τ
 
+ο
 
+α
 
 
+α
 
 
+α
 
 
 
 
 
 
+ο
 
+ρ
 
 
+ο
+τ
 
 
 
 
 
+α
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -99565,16 +123637,22 @@ superlative
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+ν
 
 
 
 
+α
+ο
 
 
 
@@ -99583,27 +123661,33 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ι
 
 
 
 
 
-comparative
+ρ
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -99616,9 +123700,11 @@ comparative
 
 
 
+ο
 
 
 
+ντ
 
 
 
@@ -99628,18 +123714,24 @@ comparative
 
 
 
+ι
 
 
 
 
+τ
 
 
 
+ο
 
+τ
 
 
 
+ο
 
+ι
 
 
 
@@ -99647,7 +123739,9 @@ comparative
 
 
 
+α
 
+ο
 
 
 
@@ -99657,14 +123751,19 @@ comparative
 
 
 
+ς
 
 
+ν
 
+ν
 
 
+ο
 
 
 
+ο
 
 
 
@@ -99676,7 +123775,9 @@ comparative
 
 
 
+ι
 
+ο
 
 
 
@@ -99684,35 +123785,58 @@ comparative
 
 
 
+ν
 
 
+ο
 
+ο
 
-comparative
 
 
 
+τ
+α
+α
 
 
 
 
+ο
 
+ο
+ο
 
+ο
+irregular
+ο
 
 
 
 
+ι
 
+α
 
+ο
 
 
+ρ
+irregular
+ο
+ι
 
 
+α
 
 
+ι
 
+ο
 
+irregular
 
+ο
 
 
 
@@ -99720,18 +123844,24 @@ comparative
 
 
 
+ι
 
 
 
+α
 
+α
 
 
 
+ι
 
 
 
 
+α
 
+α
 
 
 
@@ -99739,53 +123869,73 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+ο
+ι
 
 
 
 
+ο
 
+α
+α
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
+α
 
 
 
-comparative
+α
 
+ι
 
 
 
+ι
 
+α
 
 
 
+α
 
+α
 
 
 
+α
 
+α
 
 
 
+α
 
+α
 
 
 
+α
 
+α
 
 
 
@@ -99800,7 +123950,11 @@ comparative
 
 
 
+ο
 
+irregular
+ο
+ι
 
 
 
@@ -99809,18 +123963,24 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
 
+ι
 
+α
 
 
 
@@ -99835,12 +123995,18 @@ comparative
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
+ρ
+irregular
+ο
 
 
 
@@ -99855,6 +124021,7 @@ comparative
 
 
 
+α
 
 
 
@@ -99864,20 +124031,27 @@ comparative
 
 
 
+τ
 
 
 
+ι
 
 
 
 
 
+ι
 
+τ
 
 
 
 
+ο
 
+irregular
+ο
 
 
 
@@ -99889,34 +124063,51 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+irregular
+ο
+ι
 
+α
 
+α
 
 
 
+τ
 
 
 
+ο
+ρ
+α
 
+α
+α
 
 
 
 
 
 
+α
 
+ο
 
 
 
@@ -99930,9 +124121,11 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -99940,116 +124133,160 @@ comparative
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
+α
 
+ι
 
 
 
 
+τ
+ο
 
+α
 
 
 
+τ
 
 
 
 
+ο
+ο
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
+ι
+α
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
+α
 
 
 
+α
 
+ο
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
+ο
 
 
 
 
+ο
+ο
 
 
 
+ι
 
 
 
+ο
 
 
 
 
 
+α
+κ
 
+ο
+ο
 
 
 
+ι
+τ
 
+α
 
+α
 
+τ
 
 
 
@@ -100062,41 +124299,62 @@ comparative
 
 
 
+α
+α
 
+τ
 
 
+α
 
 
 
 
 
+α
 
+α
+α
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
 
+α
+ι
 
 
 
 
 
 
+κ
 
+α
+ο
 
 
+τ
 
+α
 
+α
 
 
 
 
+ο
+υ
 
+ι
 
 
 
@@ -100104,91 +124362,135 @@ comparative
 
 
 
+ο
 
+ι
 
 
 
 
+ο
 
 
 
+ι
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+ο
+α
+α
 
 
 
+α
+α
+ο
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
+δ
 
 
-comparative
+α
 
+α
 
+α
 
+α
 
+α
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
+α
 
+ι
 
 
 
+α
+ο
 
 
+ο
+α
 
 
 
 
+α
+α
 
 
+α
 
 
 
 
+π
 
 
 
+ο
 
+ς
 
 
 
+τ
 
 
 
+α
+κ
+α
 
 
 
 
 
+α
 
+α
 
 
 
+ο
 
 
+α
 
 
 
@@ -100199,10 +124501,17 @@ comparative
 
 
 
+τ
 
+ο
 
+ι
 
+ο
 
+ρ
+irregular
+ο
 
 
 
@@ -100222,7 +124531,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -100231,43 +124542,59 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
+ν
 
 
 
 
+τ
 
+υ
 
 
+ο
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+ι
 
 
+α
 
 
 
+τ
 
 
 
+α
 
 
 
+ο
 
+α
 
+ο
 
+ρ
 
 
 
@@ -100276,10 +124603,14 @@ comparative
 
 
 
+α
 
+α
+α
 
 
 
+α
 
 
 
@@ -100287,52 +124618,73 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
 
+ρ
 
 
 
 
 
+α
+ι
 
 
 
 
 
 
+ο
 
 
 
+α
 
+ρ
 
 
+ρ
 
 
 
+ο
+ο
 
 
 
 
+ο
+ρ
 
 
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
+ρ
 
 
+α
+ι
 
+α
 
 
+ο
 
 
 
@@ -100342,18 +124694,26 @@ comparative
 
 
 
+α
 
+ο
 
 
+ς
 
 
+ς
 
+α
 
 
 
+ο
 
+α
 
 
+τ
 
 
 
@@ -100366,23 +124726,31 @@ comparative
 
 
 
+α
 
 
 
+α
+ο
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -100394,30 +124762,41 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
+α
 
 
+ο
+α
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
+α
 
 
 
+τ
 
 
 
 
+α
 
 
 
@@ -100430,26 +124809,34 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+α
+α
 
 
 
 
 
 
+ο
+ο
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -100470,10 +124857,12 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -100484,43 +124873,60 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ι
 
+ι
 
+ο
 
 
+ρ
+irregular
+ο
 
 
+α
 
 
 
 
+α
+ν
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ρ
 
 
 
 
+ο
 
+α
 
 
+α
 
 
 
@@ -100530,12 +124936,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ρ
 
 
 
@@ -100549,26 +124957,33 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+ρ
 
 
 
+ο
 
+irregular
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -100576,6 +124991,7 @@ comparative
 
 
 
+α
 
 
 
@@ -100585,8 +125001,11 @@ comparative
 
 
 
+ο
+τ
 
 
+α
 
 
 
@@ -100595,48 +125014,60 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+ς
 
 
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
 
 
+τ
+α
 
 
 
 
 
+τ
+irregular
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -100644,6 +125075,7 @@ comparative
 
 
 
+α
 
 
 
@@ -100653,47 +125085,56 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
-comparative
 
 
-comparative
 
 
 
 
 
+ο
 
 
 
+ρ
+irregular
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -100706,6 +125147,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -100715,6 +125157,7 @@ comparative
 
 
 
+α
 
 
 
@@ -100724,14 +125167,17 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -100740,11 +125186,14 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
@@ -100768,22 +125217,28 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+α
 
+α
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -100797,9 +125252,11 @@ comparative
 
 
 
+α
 
 
 
+τ
 
 
 
@@ -100808,24 +125265,30 @@ comparative
 
 
 
+τ
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+τ
 
 
+ο
 
 
 
@@ -100834,13 +125297,16 @@ comparative
 
 
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -100849,49 +125315,64 @@ comparative
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
+τ
 
 
 
+ρ
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
+ρ
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -100902,18 +125383,23 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
+ρ
 
 
 
@@ -100921,51 +125407,70 @@ comparative
 
 
 
+ο
 
+α
 
+κ
 
 
+α
 
+ο
 
 
+α
 
+ο
 
 
 
 
+ρ
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+τ
 
+ο
 
 
 
+ν
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -100977,7 +125482,6 @@ comparative
 
 
 
-superlative
 
 
 
@@ -100996,6 +125500,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -101010,6 +125515,7 @@ superlative
 
 
 
+α
 
 
 
@@ -101017,46 +125523,59 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
+irregular
 
 
 
+ο
 
 
 
+ο
 
 
 
+ρ
 
 
+ο
 
 
 
 
+ο
 
 
+ρ
 
 
 
 
+ο
 
 
+ρ
 
 
 
 
 
+α
 
 
 
@@ -101066,24 +125585,29 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -101096,6 +125620,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -101105,7 +125630,7 @@ superlative
 
 
 
-superlative
+α
 
 
 
@@ -101114,10 +125639,9 @@ superlative
 
 
 
-comparative
 
+τ
 
-comparative
 
 
 
@@ -101127,6 +125651,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -101136,6 +125661,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -101143,6 +125669,7 @@ comparative
 
 
 
+α
 
 
 
@@ -101150,6 +125677,7 @@ comparative
 
 
 
+α
 
 
 
@@ -101163,21 +125691,27 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+ρ
 
+ο
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -101187,6 +125721,8 @@ comparative
 
 
 
+ο
+ο
 
 
 
@@ -101210,6 +125746,7 @@ comparative
 
 
 
+δ
 
 
 
@@ -101223,13 +125760,17 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
+α
 
 
+α
 
 
 
@@ -101237,8 +125778,10 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
@@ -101259,12 +125802,14 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -101274,12 +125819,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -101287,10 +125834,13 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
@@ -101298,9 +125848,12 @@ comparative
 
 
 
+ο
+α
 
 
 
+τ
 
 
 
@@ -101312,38 +125865,47 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
 
@@ -101357,6 +125919,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -101365,41 +125928,50 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -101410,6 +125982,7 @@ comparative
 
 
 
+α
 
 
 
@@ -101418,11 +125991,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -101430,61 +126005,80 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
+α
 
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
+ο
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
+α
 
 
 
@@ -101492,11 +126086,14 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -101506,6 +126103,7 @@ comparative
 
 
 
+α
 
 
 
@@ -101518,22 +126116,29 @@ comparative
 
 
 
+α
 
 
 
 
+τ
 
+ο
 
+irregular
+ο
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -101552,46 +126157,62 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+τ
 
 
 
 
+τ
 
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
+τ
 
+ο
 
+τ
 
 
+irregular
+ο
 
+κ
 
 
 
+ο
 
 
 
+τ
 
 
 
 
+irregular
 
 
+ο
 
 
 
@@ -101599,6 +126220,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -101607,12 +126229,15 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -101626,26 +126251,32 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -101653,6 +126284,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -101660,17 +126292,23 @@ comparative
 
 
 
+τ
 
+α
 
 
+τ
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
@@ -101678,36 +126316,45 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
-comparative
+ο
 
 
+ο
+α
 
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -101716,11 +126363,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -101729,14 +126378,18 @@ comparative
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
 
 
+ο
 
 
 
@@ -101744,6 +126397,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -101751,11 +126405,13 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -101775,6 +126431,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -101785,17 +126442,25 @@ comparative
 
 
 
+ρ
 
 
+ο
+ρ
 
+ο
 
 
 
 
+irregular
 
 
+ο
 
+ο
 
+ο
 
 
 
@@ -101803,29 +126468,37 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
+α
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
@@ -101833,13 +126506,17 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
+ι
 
 
 
@@ -101849,19 +126526,26 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
+ο
+ι
 
 
 
@@ -101870,6 +126554,7 @@ comparative
 
 
 
+α
 
 
 
@@ -101883,20 +126568,25 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -101906,6 +126596,7 @@ comparative
 
 
 
+α
 
 
 
@@ -101913,18 +126604,23 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
+ο
 
 
+ο
 
 
 
@@ -101943,25 +126639,33 @@ comparative
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
+α
 
 
 
 
+α
 
 
 
@@ -101972,65 +126676,87 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
+ι
 
 
 
 
 
 
+ο
 
 
 
 
 
+irregular
 
 
+ο
 
+ο
 
 
 
 
 
+ρ
 
+τ
+irregular
+ο
 
 
 
+ρ
 
 
 
 
+ρ
 
 
 
+τ
 
 
+τ
 
 
 
 
 
+τ
 
 
+α
 
 
 
 
 
 
+τ
 
 
+ρ
 
 
+τ
 
 
 
@@ -102040,35 +126766,47 @@ comparative
 
 
 
+α
 
+ο
 
 
+α
 
+ο
 
 
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
 
 
 
+ο
+α
 
 
 
@@ -102076,39 +126814,52 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+α
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
+ο
 
+α
 
 
 
@@ -102117,18 +126868,23 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+τ
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
@@ -102139,6 +126895,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -102155,6 +126912,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -102163,20 +126921,27 @@ comparative
 
 
 
+ο
 
 
+α
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ο
 
+α
 
+ο
 
 
 
@@ -102184,11 +126949,15 @@ comparative
 
 
 
+α
+α
 
 
 
+α
 
 
+ο
 
 
 
@@ -102196,6 +126965,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -102203,6 +126973,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -102215,9 +126986,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -102227,11 +127000,14 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
 
+α
 
 
 
@@ -102243,27 +127019,37 @@ comparative
 
 
 
+ο
 
+irregular
+ο
 
 
 
 
+ο
 
+α
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
 
 
+α
 
 
 
@@ -102274,8 +127060,10 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
@@ -102286,35 +127074,53 @@ comparative
 
 
 
+ν
 
 
 
+ι
+ς
+α
 
+ο
+ρ
 
 
+irregular
+ο
 
+ο
 
+ρ
 
+α
 
+α
 
 
 
 
 
 
+ο
 
 
 
+α
 
+α
 
 
 
+ρ
 
 
 
 
+α
 
 
+α
 
 
 
@@ -102322,6 +127128,7 @@ comparative
 
 
 
+α
 
 
 
@@ -102329,17 +127136,21 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -102350,17 +127161,22 @@ comparative
 
 
 
+ο
 
 
 
+irregular
+ο
 
 
+κ
 
 
 
 
 
 
+ο
 
 
 
@@ -102369,6 +127185,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -102379,18 +127196,24 @@ comparative
 
 
 
+α
 
+ο
+ο
 
 
 
 
 
 
+α
 
 
 
+ρ
 
 
+ο
 
 
 
@@ -102400,12 +127223,14 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -102418,6 +127243,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -102428,6 +127254,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -102436,28 +127263,35 @@ comparative
 
 
 
+τ
 
+τ
 
 
 
+α
 
 
 
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
@@ -102470,28 +127304,35 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
@@ -102501,6 +127342,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -102508,16 +127350,20 @@ comparative
 
 
 
+α
 
+α
 
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -102534,13 +127380,16 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
+ς
 
 
 
@@ -102551,8 +127400,10 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
 
@@ -102565,6 +127416,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -102572,6 +127424,7 @@ comparative
 
 
 
+α
 
 
 
@@ -102585,12 +127438,15 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
+ο
 
 
 
@@ -102598,6 +127454,7 @@ comparative
 
 
 
+α
 
 
 
@@ -102606,6 +127463,7 @@ comparative
 
 
 
+α
 
 
 
@@ -102619,6 +127477,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -102627,8 +127486,11 @@ comparative
 
 
 
+τ
 
+τ
 
+α
 
 
 
@@ -102638,19 +127500,34 @@ comparative
 
 
 
+τ
+α
+irregular
+ο
+ο
+ο
 
+ο
 
 
+ο
+ρ
 
 
+irregular
+ο
 
 
+ς
 
 
+α
 
+α
 
 
 
+α
 
 
 
@@ -102658,6 +127535,8 @@ comparative
 
 
 
+α
+α
 
 
 
@@ -102668,26 +127547,36 @@ comparative
 
 
 
+ι
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
+ο
 
+ι
 
 
+α
 
 
 
+α
 
+ο
 
+irregular
+ο
 
 
 
@@ -102697,7 +127586,11 @@ comparative
 
 
 
+ο
+ο
 
+α
+ο
 
 
 
@@ -102705,53 +127598,72 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
+ι
 
+α
+ο
 
 
+ο
 
 
+τ
 
+α
 
 
 
 
+ι
 
 
+ο
 
 
 
 
 
+κ
 
 
+τ
+ρ
 
+α
 
 
 
 
 
 
+κ
 
 
+τ
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -102759,13 +127671,18 @@ comparative
 
 
 
+υ
+τ
 
 
+ι
 
+α
 
 
 
 
+ο
 
 
 
@@ -102779,6 +127696,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -102787,16 +127705,20 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
 
@@ -102805,27 +127727,40 @@ comparative
 
 
 
+α
 
+δ
 
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
 
 
+τ
 
+α
 
 
 
+α
+ρ
+α
 
 
+ο
 
+ς
 
+ν
 
 
 
@@ -102838,14 +127773,16 @@ comparative
 
 
 
+ο
 
 
+δ
 
 
+ι
 
 
 
-comparative
 
 
 
@@ -102853,6 +127790,8 @@ comparative
 
 
 
+ο
+α
 
 
 
@@ -102869,46 +127808,61 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
+ο
+α
 
 
 
 
 
 
+τ
 
 
 
 
+ο
 
+ο
 
+irregular
+ο
 
 
 
 
 
 
+ο
 
+α
 
 
 
+α
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -102919,17 +127873,26 @@ comparative
 
 
 
+ι
 
+τ
 
 
 
 
+α
+ο
 
 
 
+ς
 
+ο
 
+irregular
+ο
 
+α
 
 
 
@@ -102938,17 +127901,21 @@ comparative
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
 
 
+κ
 
+ν
 
 
 
@@ -102959,50 +127926,77 @@ comparative
 
 
 
+α
 
 
 
+ι
 
+ο
+ρ
 
 
+irregular
+ο
 
+ο
 
+α
+α
+ς
 
+α
 
 
 
+ν
 
 
 
 
 
 
+ν
 
+ι
+irregular
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+ς
 
 
 
 
 
+ο
 
 
+ο
 
+α
 
 
 
+ο
 
+ο
 
 
+α
+irregular
+ο
 
 
 
@@ -103012,7 +128006,9 @@ comparative
 
 
 
+ο
 
+α
 
 
 
@@ -103021,14 +128017,20 @@ comparative
 
 
 
+ο
 
+α
 
 
+α
 
 
 
+α
+ι
 
 
+α
 
 
 
@@ -103042,13 +128044,18 @@ comparative
 
 
 
+τ
 
 
 
+ο
 
 
 
+irregular
+ο
 
+ρ
 
 
 
@@ -103057,8 +128064,11 @@ comparative
 
 
 
+ντ
 
+ευ
 
+α
 
 
 
@@ -103067,32 +128077,44 @@ comparative
 
 
 
+α
 
 
 
+τ
 
 
 
 
+α
+ευ
 
+ο
 
+ρ
 
 
 
+α
 
 
+ς
 
 
+ν
 
+ν
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -103103,7 +128125,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -103114,7 +128138,9 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
@@ -103124,62 +128150,90 @@ comparative
 
 
 
+ρ
 
+α
 
+ο
 
 
+ο
 
 
+ι
 
+α
 
+α
 
+irregular
 
 
 
+ο
 
 
+ο
 
 
+ο
 
+ο
 
 
+α
+irregular
 
 
+τ
 
 
 
+α
 
 
 
 
+α
 
 
+γ
 
 
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
+α
 
 
+ο
 
 
+α
 
 
+ι
 
 
+α
 
 
+α
 
 
 
 
+α
 
 
 
@@ -103188,66 +128242,92 @@ comparative
 
 
 
+α
 
 
 
 
 
+α
 
+ο
+ο
 
 
 
 
 
 
+ο
+α
 
 
 
+α
 
 
 
+χ
 
 
+ο
 
 
+ν
 
 
+ο
 
 
+γ
+ρ
 
 
+δ
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
+α
+ρ
 
 
 
 
 
 
+ρ
 
+ρ
 
 
 
 
+τ
 
+α
 
 
 
 
 
+ι
 
 
 
+ο
 
 
 
+ι
 
 
 
@@ -103256,6 +128336,7 @@ comparative
 
 
 
+δ
 
 
 
@@ -103288,13 +128369,18 @@ comparative
 
 
 
+ν
 
+ν
 
 
 
+δ
 
+ο
 
 
+α
 
 
 
@@ -103309,8 +128395,10 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
@@ -103320,22 +128408,31 @@ comparative
 
 
 
+α
 
 
 
 
+ρ
+ο
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
+ο
 
 
+ο
+α
 
 
 
@@ -103343,6 +128440,7 @@ comparative
 
 
 
+ρ
 
 
 
@@ -103353,15 +128451,19 @@ comparative
 
 
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
@@ -103374,6 +128476,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -103382,11 +128485,13 @@ comparative
 
 
 
+α
 
 
 
 
 
+τ
 
 
 
@@ -103397,6 +128502,7 @@ comparative
 
 
 
+α
 
 
 
@@ -103410,6 +128516,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -103419,9 +128526,11 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -103432,17 +128541,22 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
+τ
 
 
 
+τ
 
 
+α
 
 
 
@@ -103450,16 +128564,23 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
+α
+α
 
 
 
@@ -103476,13 +128597,16 @@ comparative
 
 
 
+ι
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -103493,7 +128617,9 @@ comparative
 
 
 
+α
 
+α
 
 
 
@@ -103507,26 +128633,35 @@ comparative
 
 
 
+α
 
 
 
 
+ι
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
+α
 
 
+τ
 
 
 
+τ
 
 
+α
 
 
 
@@ -103534,18 +128669,23 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
+α
 
 
 
 
 
 
+α
 
 
 
@@ -103555,21 +128695,27 @@ comparative
 
 
 
+ο
 
+α
 
 
 
+τ
 
 
 
 
 
+ι
 
 
 
 
-superlative
+α
+α
 
+ρ
 
 
 
@@ -103580,6 +128726,7 @@ superlative
 
 
 
+α
 
 
 
@@ -103591,14 +128738,17 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -103610,7 +128760,9 @@ superlative
 
 
 
+α
 
+α
 
 
 
@@ -103626,15 +128778,20 @@ superlative
 
 
 
+α
 
+τ
 
 
 
+τ
 
 
 
+τ
 
 
+α
 
 
 
@@ -103646,10 +128803,13 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
+τ
 
 
 
@@ -103661,36 +128821,52 @@ superlative
 
 
 
+ο
 
 
+α
+α
 
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
+γ
+ρ
 
 
+δ
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
+ι
 
 
+α
 
 
+α
 
 
 
+ο
 
 
 
@@ -103704,16 +128880,19 @@ superlative
 
 
 
+irregular
 
 
 
 
+ι
 
 
 
 
 
 
+ο
 
 
 
@@ -103721,6 +128900,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -103729,45 +128909,55 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+ι
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -103776,10 +128966,12 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -103787,6 +128979,7 @@ superlative
 
 
 
+α
 
 
 
@@ -103794,6 +128987,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -103809,19 +129003,25 @@ superlative
 
 
 
+ς
 
+ο
 
 
 
+α
 
 
+ς
 
 
 
 
+ο
 
 
 
+ς
 
 
 
@@ -103830,24 +129030,32 @@ superlative
 
 
 
+ρ
 
 
 
 
 
+ρ
 
 
 
 
+τ
 
 
 
+τ
 
 
+α
 
 
+ο
 
 
+ι
+α
 
 
 
@@ -103855,14 +129063,19 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
+ρ
 
 
 
+ο
 
+τ
 
 
 
@@ -103882,9 +129095,11 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -103902,22 +129117,27 @@ superlative
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
 
 
+τ
 
+ι
 
 
 
 
+ο
 
 
 
@@ -103933,38 +129153,51 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+τ
 
 
 
+ο
 
+α
 
 
 
+τ
 
 
 
+ρ
 
 
 
 
+ο
 
 
 
+τ
 
 
 
+τ
 
 
+α
 
 
+ο
 
 
+α
+α
 
 
 
@@ -103975,6 +129208,7 @@ superlative
 
 
 
+δ
 
 
 
@@ -103989,10 +129223,12 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -104002,20 +129238,25 @@ superlative
 
 
 
+ι
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
 
+α
 
+α
 
 
 
@@ -104035,6 +129276,7 @@ superlative
 
 
 
+δ
 
 
 
@@ -104045,25 +129287,31 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
@@ -104073,14 +129321,18 @@ superlative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
@@ -104093,54 +129345,74 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
+τ
 
+ι
 
+ο
 
 
 
+τ
 
 
 
 
+ο
 
 
+ο
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
+τ
 
 
+α
 
 
+ο
 
 
+α
+α
 
 
 
 
 
 
+ρ
 
 
 
 
 
+α
 
+ι
 
+ο
 
 
 
+ο
 
 
 
@@ -104166,6 +129438,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -104176,6 +129449,7 @@ superlative
 
 
 
+α
 
 
 
@@ -104198,11 +129472,14 @@ superlative
 
 
 
+ο
 
 
+ρ
 
 
 
+ο
 
 
 
@@ -104210,11 +129487,15 @@ superlative
 
 
 
+α
 
+τ
 
 
+ο
 
 
+ο
 
 
 
@@ -104233,16 +129514,19 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -104263,6 +129547,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -104271,32 +129556,41 @@ superlative
 
 
 
+ρ
 
 
 
+ο
 
 
 
+τ
 
 
 
+τ
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
 
 
 
+γ
 
 
 
@@ -104314,122 +129608,174 @@ superlative
 
 
 
+τ
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ι
+ο
+δ
 
+ο
 
+δ
 
 
+ο
 
+ι
 
 
 
 
+ο
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
+α
 
+α
 
+α
 
 
+δ
+ρ
 
 
 
+ο
 
 
 
 
+τ
 
+ο
 
 
 
+ο
 
+α
 
 
+ο
 
 
 
 
+ο
 
+non-declinable
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
 
+ντ
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
+ο
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+γ
 
 
 
 
 
+ο
 
+ι
 
 
+α
 
+irregular
 
 
 
 
+ο
 
+ο
 
+ρ
 
 
 
@@ -104442,17 +129788,24 @@ superlative
 
 
 
+ο
+α
 
+α
 
+α
 
 
 
 
+ο
 
 
 
 
+ν
 
+ν
 
 
 
@@ -104463,32 +129816,42 @@ superlative
 
 
 
+ο
 
 
 
 
 
 
+ν
 
+ν
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
+α
 
 
+α
 
 
+ι
 
 
 
@@ -104497,6 +129860,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -104510,39 +129874,50 @@ superlative
 
 
 
+ο
+ο
 
 
 
 
 
+δ
 
 
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+δ
 
 
 
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
+ο
 
 
 
@@ -104555,6 +129930,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -104567,50 +129943,63 @@ superlative
 
 
 
-comparative
 
 
 
+ντ
 
 
 
+α
+α
 
+α
 
 
 
+ο
 
 
 
+δ
 
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
+irregular
 
 
+ο
 
 
 
 
 
+τ
 
+ο
 
 
 
 
+α
 
 
 
@@ -104622,12 +130011,15 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -104636,96 +130028,138 @@ comparative
 
 
 
+ο
 
 
+α
 
+α
 
 
+τ
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+δ
 
 
 
 
 
 
+ο
 
 
+τ
 
 
 
+α
 
+α
 
+ο
 
+ς
 
 
 
 
+ο
 
+α
 
+ευ
 
 
 
 
+α
 
 
 
 
+α
+ο
 
+non-declinable
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
+δ
+δ
 
+δ
+δ
 
+α
 
 
 
 
+ο
 
 
 
 
+ι
 
+ο
 
+α
 
+υ
 
+α
 
+α
 
+α
 
 
+τ
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
@@ -104738,21 +130172,30 @@ comparative
 
 
 
+ο
 
 
+ο
 
+α
 
 
+α
 
 
+α
 
 
+ς
 
 
+ν
 
+ν
 
 
 
+ο
 
 
 
@@ -104766,23 +130209,29 @@ comparative
 
 
 
+ο
 
 
 
 
+δ
 
 
 
 
 
 
+ο
 
 
+α
+α
 
 
 
 
 
+ο
 
 
 
@@ -104790,9 +130239,11 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -104803,16 +130254,19 @@ comparative
 
 
 
+δ
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -104823,8 +130277,10 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
@@ -104832,22 +130288,26 @@ comparative
 
 
 
+α
 
 
 
 
 
+δ
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -104855,97 +130315,130 @@ comparative
 
 
 
+ο
 
 
+ρ
 
 
 
 
+α
 
 
 
 
+ο
 
+κ
+ο
+ο
 
 
+κ
+α
+ο
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+δ
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
-comparative
 
 
 
 
 
+τ
 
 
+ο
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
+α
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
 
 
+δ
 
 
 
+ο
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
@@ -104955,16 +130448,19 @@ comparative
 
 
 
+τ
 
 
 
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -104972,14 +130468,17 @@ comparative
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -104992,54 +130491,75 @@ comparative
 
 
 
+δ
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
+τ
 
 
+ρ
 
+ο
 
 
 
+α
 
+α
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
+ς
 
+ο
 
 
+ο
 
 
 
 
+ευ
 
+α
 
 
+ν
 
 
+ο
 
 
 
@@ -105048,21 +130568,27 @@ comparative
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+α
 
+ς
 
 
 
+ς
 
 
+α
 
 
 
@@ -105070,20 +130596,26 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
@@ -105093,114 +130625,169 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
+α
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
+α
 
 
 
+α
 
 
-comparative
 
+ο
 
 
 
+ο
 
 
+α
+ο
 
+δ
+ο
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+α
 
 
+α
 
 
 
 
+α
 
 
+α
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+δ
 
 
 
+α
+ο
 
 
+α
+α
 
+δ
 
 
+α
 
 
+δ
 
+α
 
 
+δ
 
+α
 
 
+δ
 
+α
 
 
+δ
 
+α
+irregular
 
+δ
 
+α
 
 
+δ
 
+α
+non-declinable
 
+δ
 
+α
 
 
+δ
 
+α
 
 
+δ
 
+α
 
 
+δ
 
+α
 
 
+δ
 
 
 
 
 
 
+ο
 
 
 
@@ -105209,75 +130796,106 @@ comparative
 
 
 
+ς
 
+α
 
+ο
 
+α
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
+κ
 
 
+ρ
 
 
 
+α
 
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+non-declinable
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
+α
 
 
+α
 
 
+α
 
 
+α
 
 
+α
 
 
+ι
 
 
+υ
 
+ο
 
 
 
+ν
 
+ν
 
 
 
@@ -105291,6 +130909,7 @@ comparative
 
 
 
+α
 
 
 
@@ -105301,6 +130920,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -105313,36 +130933,46 @@ comparative
 
 
 
+ι
 
 
 
 
 
+α
 
 
 
 
 
 
+τ
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
+α
 
+irregular
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -105358,112 +130988,153 @@ comparative
 
 
 
+ο
 
 
+τ
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+α
+α
+ρ
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
+δ
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+γ
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+τ
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
+τ
 
+α
 
 
 
+ρ
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
 
 
 
 
+ρ
 
+ο
 
 
 
 
+α
 
 
+α
 
+α
 
+α
 
+ο
 
 
 
+ο
 
 
 
 
+γ
 
 
 
@@ -105474,115 +131145,150 @@ comparative
 
 
 
+α
 
+ρ
 
 
+τ
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ς
 
+ρ
 
 
 
 
+α
 
 
 
 
 
+α
+τ
 
 
 
 
 
+τ
 
 
 
+α
 
 
+α
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ο
+ρ
 
 
 
+δ
 
 
 
 
 
 
+ο
 
 
 
+α
 
+ρ
 
 
+τ
 
+ρ
 
 
+ο
 
 
 
 
 
+ρ
 
+ο
 
 
 
+ο
 
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+ρ
 
 
 
@@ -105590,6 +131296,7 @@ comparative
 
 
 
+α
 
 
 
@@ -105597,15 +131304,19 @@ comparative
 
 
 
+irregular
 
 
 
 
 
 
+ο
 
 
+τ
 
+α
 
 
 
@@ -105614,63 +131325,91 @@ comparative
 
 
 
+α
 
 
 
+α
 
+γ
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+ρ
 
 
+ο
 
 
 
+α
 
 
 
 
+δ
 
+τ
 
+ο
 
 
 
+τ
 
+ο
 
 
+ο
 
 
+τ
 
+ο
+ο
 
 
 
 
+ο
 
 
+ρ
 
 
+ο
 
+τ
 
 
 
+ο
 
+δ
 
 
+α
 
 
 
+α
 
 
+α
 
+ο
 
+α
 
 
 
@@ -105678,22 +131417,29 @@ comparative
 
 
 
+ο
 
+α
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+δ
 
+ο
 
 
+ο
 
 
 
@@ -105704,20 +131450,28 @@ comparative
 
 
 
+ν
 
 
 
+ο
 
 
+ο
+ο
 
 
+ο
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
@@ -105729,63 +131483,97 @@ comparative
 
 
 
+ο
 
 
 
 
+τ
 
+δ
 
+ο
 
 
+ο
 
 
 
+α
 
 
+ο
 
-superlative
+ο
 
 
+ο
 
 
+ο
+ο
 
 
+χ
 
+χ
+irregular
 
 
+ντ
 
 
+ντ
 
 
 
+κ
 
+κ
 
 
 
+α
 
+γ
 
 
+α
+τ
+ο
 
 
 
+ο
 
 
+α
 
+ο
 
+ο
 
 
 
+α
 
 
+α
 
 
 
+ο
+ν
 
 
 
 
+ευ
 
+ο
 
+ο
+τ
 
 
 
@@ -105793,7 +131581,9 @@ superlative
 
 
 
+τ
 
+ν
 
 
 
@@ -105809,70 +131599,94 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
+irregular
 
+ο
 
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+γ
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
 
 
+α
 
+α
 
+ν
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
+τ
 
 
+δ
+δ
 
 
+ο
 
 
 
 
 
+ο
 
 
+ι
 
 
 
 
 
 
+κ
 
 
 
@@ -105880,50 +131694,71 @@ superlative
 
 
 
+α
 
+ο
 
+α
+ντ
 
 
 
+τ
 
 
+ρ
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ρ
 
 
+ο
 
 
+ο
 
 
 
 
+τ
 
 
 
+α
 
+ο
 
 
+τ
 
 
 
 
 
+α
 
 
 
+α
 
 
+ι
 
+α
 
 
 
@@ -105932,24 +131767,30 @@ superlative
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
+ρ
 
 
 
 
 
+ο
 
 
+ο
 
 
 
@@ -105977,64 +131818,85 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+ο
 
+α
 
 
+δ
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
+δ
 
 
+ο
+ρ
 
 
 
 
+ρ
 
+ο
 
 
 
 
+δ
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
+α
 
 
+ντ
 
 
 
@@ -106042,46 +131904,57 @@ superlative
 
 
 
+α
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
 
 
+α
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
@@ -106089,53 +131962,68 @@ superlative
 
 
 
+ν
 
+ν
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
+ο
 
+α
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -106145,27 +132033,34 @@ superlative
 
 
 
+ο
 
 
 
 
+ρ
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -106177,20 +132072,25 @@ superlative
 
 
 
+α
 
-superlative
 
 
+τ
 
 
 
 
+τ
 
 
 
+ο
 
 
+ρ
 
+ο
 
 
 
@@ -106198,8 +132098,10 @@ superlative
 
 
 
+τ
 
 
+τ
 
 
 
@@ -106207,6 +132109,7 @@ superlative
 
 
 
+α
 
 
 
@@ -106216,22 +132119,31 @@ superlative
 
 
 
+ο
 
+ς
 
+α
 
+ευ
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
@@ -106239,9 +132151,11 @@ superlative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -106251,35 +132165,45 @@ superlative
 
 
 
+ς
 
 
+ι
 
 
 
+ν
 
 
 
 
 
 
+ρ
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
+α
 
 
 
@@ -106287,9 +132211,11 @@ superlative
 
 
 
+ρ
 
 
 
+τ
 
 
 
@@ -106309,44 +132235,56 @@ superlative
 
 
 
+α
 
 
+ο
 
 
+ο
 
 
+α
 
+α
 
 
+α
 
 
 
+ρ
 
 
 
-comparative
+τ
 
 
 
+α
 
 
+α
 
 
 
-comparative
 
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -106355,70 +132293,92 @@ comparative
 
 
 
+τ
 
 
 
+υ
 
+ι
 
 
 
 
 
+τ
 
+ο
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
+α
 
+ς
 
+τ
 
+α
 
 
 
 
 
+τ
 
 
 
 
 
+τ
 
 
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+α
 
 
+τ
+α
 
 
+ο
 
 
 
@@ -106426,8 +132386,10 @@ comparative
 
 
 
+δ
 
 
+ο
 
 
 
@@ -106436,9 +132398,11 @@ comparative
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -106447,8 +132411,10 @@ comparative
 
 
 
+ο
 
 
+α
 
 
 
@@ -106459,17 +132425,24 @@ comparative
 
 
 
+α
 
+ο
 
 
 
 
 
+ι
 
 
 
 
 
+ο
+τ
+ο
+δ
 
 
 
@@ -106478,8 +132451,11 @@ comparative
 
 
 
+α
 
+ο
 
+ο
 
 
 
@@ -106491,32 +132467,39 @@ comparative
 
 
 
-comparative
 
 
 
 
+ο
 
-comparative
 
 
+α
 
 
 
+ο
 
 
 
+α
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
 
+ν
 
+ν
 
 
 
@@ -106525,22 +132508,29 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
+ρ
 
 
 
@@ -106549,6 +132539,7 @@ comparative
 
 
 
+ι
 
 
 
@@ -106556,22 +132547,28 @@ comparative
 
 
 
+ς
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
 
+α
 
 
 
@@ -106579,6 +132576,7 @@ comparative
 
 
 
+τ
 
 
 
@@ -106590,47 +132588,69 @@ comparative
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
+ο
 
 
 
+α
 
+α
 
+α
 
+ο
 
+α
 
 
+ο
 
 
 
 
+ο
+irregular
 
 
+ο
 
 
+α
 
 
+δ
 
 
 
 
+α
 
+ο
+ρ
 
 
 
+ρ
 
 
 
@@ -106641,39 +132661,52 @@ comparative
 
 
 
+ο
 
 
+ο
 
 
+ντ
 
 
 
+α
 
 
+irregular
 
 
 
 
+α
 
 
+τ
 
 
+α
 
 
 
 
 
+ρ
 
+ο
 
 
 
 
 
+α
 
 
+ντ
 
 
 
+irregular
 
 
 
@@ -106681,30 +132714,38 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
 
+ς
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+irregular
 
 
 
@@ -106712,50 +132753,63 @@ comparative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ντ
 
 
+ντ
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+ντ
 
 
 
+ι
 
 
 
@@ -106763,71 +132817,95 @@ comparative
 
 
 
+α
 
 
 
+α
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
+α
 
 
+ι
 
 
+α
 
+ο
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
+irregular
 
 
 
 
 
 
+τ
 
+ο
 
 
 
+ο
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
@@ -106835,8 +132913,10 @@ comparative
 
 
 
+α
 
 
+α
 
 
 
@@ -106844,21 +132924,26 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
 
+ντ
 
 
 
 
+α
 
 
+irregular
 
 
 
@@ -106866,9 +132951,12 @@ comparative
 
 
 
+irregular
 
 
+γ
 
+ο
 
 
 
@@ -106878,24 +132966,35 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
+ο
 
 
+ο
 
+ο
 
+ι
 
 
 
+ι
 
 
+τ
 
 
 
+irregular
+ρ
 
+ο
 
 
 
@@ -106903,124 +133002,170 @@ comparative
 
 
 
+α
 
+irregular
 
 
 
+α
 
+τ
 
 
 
 
+ο
 
 
 
+ντ
 
 
+τ
 
 
 
 
+ντ
 
 
+irregular
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
+α
 
+ο
 
 
 
+α
+irregular
 
 
 
 
+ο
 
+α
 
 
 
 
+α
+ο
 
 
+irregular
 
 
+α
 
 
 
 
+irregular
 
 
+τ
 
 
 
+α
 
+τ
+α
 
 
+ο
 
 
 
 
+ι
 
 
+δ
 
 
+ο
 
 
+τ
 
 
+τ
+ντ
 
 
 
 
+ντ
 
+ι
 
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
+α
 
+ο
 
 
 
 
 
 
-comparative
+α
 
 
+ο
 
 
 
+ντ
 
 
 
+α
 
-comparative
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -107030,36 +133175,47 @@ comparative
 
 
 
+τ
 
 
 
+α
 
 
 
+α
 
+ν
 
 
 
 
 
+τ
 
 
+α
 
 
+ο
 
 
+τ
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
@@ -107069,11 +133225,16 @@ comparative
 
 
 
+α
 
 
+α
 
+ο
 
+α
 
+ς
 
 
 
@@ -107082,59 +133243,80 @@ comparative
 
 
 
+α
 
 
 
 
+τ
 
 
 
+ο
 
+α
 
+ο
 
 
 
+α
+ο
 
 
 
+τ
 
 
 
 
+α
 
+α
 
 
 
 
+α
 
 
 
 
+α
 
 
 
 
+α
 
 
+ι
 
 
 
 
 
+ο
 
 
 
+α
 
 
+irregular
 
 
+ο
 
 
 
+ντ
 
 
+α
 
 
+ο
 
 
 
@@ -107142,6 +133324,7 @@ comparative
 
 
 
+α
 
 
 
@@ -107150,64 +133333,85 @@ comparative
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
 
+ρ
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+α
 
+ν
 
+ο
 
 
 
+α
 
+α
 
 
 
 
 
 
+τ
 
+ν
 
+ο
 
 
 
 
+ν
 
+ο
 
 
 
@@ -107216,7 +133420,9 @@ comparative
 
 
 
+ν
 
+ο
 
 
 
@@ -107237,17 +133443,21 @@ comparative
 
 
 
+ο
 
 
 
+τ
 
 
+ρ
 
 
 
 
 
 
+ο
 
 
 
@@ -107262,24 +133472,36 @@ comparative
 
 
 
+τ
 
+τ
 
+ο
 
 
+ο
 
+τ
 
 
 
+α
 
 
 
+ου
 
 
+ο
 
+ο
+ο
 
+ο
 
 
 
+ο
 
 
 
@@ -107289,9 +133511,11 @@ comparative
 
 
 
+ο
 
 
 
+ς
 
 
 
@@ -107299,44 +133523,61 @@ comparative
 
 
 
+δ
 
 
+τ
 
 
 
+τ
 
+ρ
 
 
 
 
+ο
 
 
 
+α
 
 
+ο
 
+α
+ρ
 
 
 
+α
+α
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
+ο
 
 
 
 
+ο
 
 
 
@@ -107345,28 +133586,34 @@ comparative
 
 
 
+α
 
 
 
 
 
 
+δ
 
 
 
 
+α
 
 
 
 
+irregular
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
@@ -107374,23 +133621,32 @@ comparative
 
 
 
+ο
+α
 
+ο
 
 
+ο
 
 
 
+τ
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+τ
 
+ο
 
 
 
@@ -107398,137 +133654,192 @@ comparative
 
 
 
+α
 
 
 
+ς
 
+α
 
+α
 
+ο
 
 
+α
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
+ι
 
 
 
 
 
 
+ο
 
 
+α
 
+α
 
+α
+ρ
 
 
+ο
 
 
 
 
 
+ν
 
 
 
 
 
+ο
 
+ο
 
+α
 
 
 
 
+ς
 
 
+ο
 
 
 
 
 
+α
 
 
 
 
 
+ο
 
 
+ν
 
 
 
+τ
 
 
+ο
 
 
 
 
+ρ
 
 
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+ο
 
+α
 
 
 
 
+ρ
 
+ο
 
+ο
 
 
 
 
+ο
 
 
+ο
 
+ο
 
 
+ν
+ν
 
 
 
 
+ι
+α
 
+irregular
 
 
 
+ο
 
 
+ν
 
 
 
 
 
 
+τ
 
+τ
 
 
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
+ι
+irregular
 
 
+α
 
 
+ο
 
 
 
@@ -107536,18 +133847,22 @@ comparative
 
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -107556,148 +133871,202 @@ comparative
 
 
 
+α
 
 
 
 
+α
 
 
+ο
+ο
 
 
 
+α
 
+ο
 
 
 
 
+ρ
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
+α
 
 
 
 
 
 
+α
 
+ο
 
 
 
+α
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
+ρ
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ς
 
+ο
 
+α
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
+ο
 
+α
 
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+ι
 
 
+τ
 
 
+ο
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
@@ -107706,64 +134075,89 @@ comparative
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
+ρ
 
 
 
 
 
+ο
 
 
 
+ν
 
 
 
 
+ο
 
+τ
 
 
 
-superlative
 
+α
 
 
 
+α
 
+ο
 
 
 
+α
+υ
 
+ο
 
+ο
 
 
+α
 
+ο
 
 
 
 
 
+ο
 
+ο
 
+ο
 
+ρ
 
 
 
 
+ο
 
 
+ευ
 
+ς
 
 
 
 
+ο
 
 
 
+τ
 
 
 
@@ -107771,6 +134165,7 @@ superlative
 
 
 
+ς
 
 
 
@@ -107778,6 +134173,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -107787,55 +134183,77 @@ superlative
 
 
 
+ο
 
+α
 
+ο
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
+ο
 
 
 
 
 
 
+ς
+α
 
 
 
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
+ο
 
+ο
 
 
 
 
+ν
 
+ν
 
 
 
+ο
+ο
 
 
+α
 
+ο
 
 
 
+ι
 
 
 
@@ -107843,29 +134261,39 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+α
 
+ο
 
+ο
 
 
+α
 
 
 
@@ -107873,60 +134301,80 @@ superlative
 
 
 
+α
 
 
 
+α
 
 
+ς
 
 
 
 
 
+ο
 
 
 
+τ
 
+ο
 
 
 
 
+ν
 
 
 
 
 
 
+α
 
 
 
+α
 
 
+τ
 
 
 
 
+α
+α
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
+α
 
+ρ
 
 
+τ
 
 
 
+ο
 
+ρ
 
 
 
@@ -107941,10 +134389,13 @@ superlative
 
 
 
+τ
 
 
+α
 
 
+τ
 
 
 
@@ -107953,150 +134404,202 @@ superlative
 
 
 
+ο
 
 
+ο
 
+ο
 
+ρ
 
 
 
 
+ι
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
 
 
+ο
 
+ρ
 
 
 
+ο
+τ
 
 
 
 
+τ
 
+ο
 
 
 
+α
 
-superlative
 
+α
 
 
 
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
+ο
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+ο
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
+ς
 
 
 
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+ο
 
 
+α
 
 
 
+ρ
 
 
-superlative
 
 
+ο
 
+ευ
 
 
+α
+ο
 
 
 
 
+τ
 
+ντ
 
 
 
+τ
 
+ο
 
 
 
+τ
 
+α
+τ
 
 
 
+ο
 
 
+τ
+ο
 
+ο
 
 
 
 
+ευ
 
+α
 
 
 
 
 
+ο
 
+α
 
 
 
+ο
 
+ρ
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -108105,12 +134608,14 @@ superlative
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
@@ -108120,23 +134625,32 @@ superlative
 
 
 
+α
 
 
 
+ρ
 
 
+α
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
+α
 
+α
 
+ο
 
 
 
@@ -108144,62 +134658,85 @@ superlative
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
 
 
 
+ι
 
 
 
 
+ς
 
 
+ι
 
+ς
 
 
+ν
 
 
 
 
 
+ο
 
 
 
+ο
 
+ο
 
+ο
 
+α
 
 
 
+ο
 
 
+ς
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+ο
 
 
+α
 
+α
 
 
 
 
+α
 
 
 
@@ -108208,10 +134745,12 @@ superlative
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -108221,26 +134760,34 @@ superlative
 
 
 
+τ
 
+α
 
 
 
 
 
+ρ
 
 
 
 
 
+ευ
 
+α
 
 
 
 
 
+α
 
 
+ο
 
+α
 
 
 
@@ -108248,18 +134795,26 @@ superlative
 
 
 
+τ
 
 
+irregular
 
 
+ο
 
 
+τ
+α
 
+α
 
 
+irregular
 
 
 
+irregular
 
 
 
@@ -108267,53 +134822,75 @@ superlative
 
 
 
+ο
 
+ο
 
 
+α
 
+ο
 
 
 
+ρ
 
 
+τ
 
 
 
 
+α
 
 
 
 
+ο
 
+τ
 
+ο
+ν
 
 
 
+ρ
 
+α
 
 
+τ
 
+α
 
 
 
+irregular
 
 
 
+τ
 
 
 
 
 
+τ
 
+ρ
+irregular
 
 
 
 
+τ
 
 
 
 
 
+ο
 
 
 
@@ -108321,9 +134898,12 @@ superlative
 
 
 
+ο
 
+irregular
 
 
+ο
 
 
 
@@ -108331,10 +134911,13 @@ superlative
 
 
 
+α
 
 
 
+irregular
 
+ο
 
 
 
@@ -108346,8 +134929,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -108355,16 +134940,23 @@ superlative
 
 
 
+α
 
 
 
 
+τ
 
 
+ο
 
+α
 
+α
+ο
 
 
+ο
 
 
 
@@ -108374,18 +134966,24 @@ superlative
 
 
 
+ου
 
 
+α
 
 
+α
 
+ς
 
 
 
+irregular
 
 
 
 
+ευ
 
 
 
@@ -108407,6 +135005,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -108423,43 +135022,61 @@ superlative
 
 
 
+α
 
 
 
 
+irregular
 
 
 
+ευ
 
 
+α
 
 
 
+α
 
+ευ
 
+α
 
 
 
+ο
 
 
+α
 
 
 
+ι
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
+ο
+ο
 
 
+ευ
+ευ
 
 
 
@@ -108473,25 +135090,34 @@ superlative
 
 
 
+ρ
 
 
 
 
+α
 
+ο
 
+ο
 
 
+ς
 
+α
 
 
 
+irregular
 
 
 
 
+ο
 
 
 
+α
 
 
 
@@ -108500,111 +135126,152 @@ superlative
 
 
 
+κ
 
 
 
 
 
 
+ρ
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
 
+α
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
+ο
 
 
+irregular
 
 
 
 
+ι
 
 
 
 
+α
 
 
+ευ
 
+α
 
 
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+α
 
 
 
+ν
 
 
 
 
+ο
+ο
 
+α
 
+τ
 
 
+α
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
+α
 
 
 
 
+ς
 
 
+ευ
 
+α
 
 
 
 
 
+ο
 
+α
 
 
+ι
 
+ς
 
 
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
@@ -108612,10 +135279,12 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -108624,12 +135293,16 @@ superlative
 
 
 
+α
 
 
+ο
 
 
 
+ο
 
+τ
 
 
 
@@ -108643,9 +135316,11 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -108659,18 +135334,24 @@ superlative
 
 
 
+ο
 
+ς
 
 
 
+α
 
 
 
 
+α
 
+ο
 
 
 
+ς
 
 
 
@@ -108678,17 +135359,25 @@ superlative
 
 
 
+α
 
 
+α
 
+ο
 
+ς
 
+ο
 
 
+ρ
 
 
 
+ο
 
+ο
 
 
 
@@ -108699,7 +135388,9 @@ superlative
 
 
 
+ευ
 
+α
 
 
 
@@ -108709,32 +135400,43 @@ superlative
 
 
 
+ο
 
+ι
 
 
 
 
 
 
+ο
 
+ο
 
 
 
 
 
+ι
 
 
+ν
 
+ι
 
 
 
 
+α
 
 
+ι
 
 
 
+ο
 
+α
 
 
 
@@ -108742,54 +135444,87 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
+ο
 
+ο
 
+ο
 
 
+α
 
 
 
+α
 
 
 
 
 
 
+ο
 
 
 
+ς
 
 
 
+ς
 
+ο
 
 
+ο
 
+ο
 
+ο
 
+ο
 
+ο
 
+τ
 
+ο
 
+ο
 
+ο
 
+ο
 
+ι
 
+ο
 
+ς
 
+ο
 
+ο
 
+α
 
+τ
 
+α
+ο
 
 
+α
 
 
+α
 
+α
 
 
 
@@ -108810,6 +135545,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -108820,7 +135556,9 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
@@ -108829,6 +135567,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -108841,25 +135580,34 @@ superlative
 
 
 
+ο
 
+ο
 
 
+α
 
 
+α
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
+α
 
 
 
+α
 
 
 
@@ -108868,18 +135616,23 @@ superlative
 
 
 
+ο
 
+ι
 
 
 
 
 
+ι
 
 
 
 
+ου
 
 
+α
 
 
 
@@ -108890,6 +135643,7 @@ superlative
 
 
 
+ι
 
 
 
@@ -108899,35 +135653,46 @@ superlative
 
 
 
+ο
 
 
+α
 
 
+τ
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
+α
 
 
 
+ο
 
+τ
 
 
 
 
 
 
+ο
 
+ο
 
 
 
@@ -108935,21 +135700,29 @@ superlative
 
 
 
+α
 
 
+τ
 
+ν
 
 
+ι
 
 
 
 
 
 
+α
+ο
 
 
 
+α
 
+α
 
 
 
@@ -108958,7 +135731,9 @@ superlative
 
 
 
+α
 
+α
 
 
 
@@ -108966,6 +135741,8 @@ superlative
 
 
 
+α
+ο
 
 
 
@@ -108973,6 +135750,8 @@ superlative
 
 
 
+τ
+ο
 
 
 
@@ -108980,7 +135759,10 @@ superlative
 
 
 
+α
+ο
 
+α
 
 
 
@@ -108989,20 +135771,27 @@ superlative
 
 
 
+ο
 
 
 
+ν
 
+α
 
 
 
+α
 
 
 
 
+ς
 
 
 
+τ
+α
 
 
 
@@ -109012,46 +135801,61 @@ superlative
 
 
 
+α
 
 
 
 
+α
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
+α
 
 
+ι
 
+ο
 
 
 
 
 
 
+ι
 
 
 
 
+α
 
 
 
 
 
+α
 
 
+α
 
 
 
 
+τ
 
+ο
 
 
+ρ
 
 
 
@@ -109059,11 +135863,14 @@ superlative
 
 
 
+ο
 
 
 
 
+ν
 
+ν
 
 
 
@@ -109074,26 +135881,33 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
 
 
+ο
 
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -109106,33 +135920,46 @@ superlative
 
 
 
+α
+ο
 
 
 
+α
+ρ
 
 
 
+α
+α
 
 
 
 
 
+ο
 
+ο
 
 
+ρ
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
+irregular
 
 
 
@@ -109148,6 +135975,7 @@ superlative
 
 
 
+τ
 
 
 
@@ -109159,21 +135987,27 @@ superlative
 
 
 
+ο
 
+ο
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+δ
 
 
 
@@ -109182,27 +136016,38 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
 
 
+α
+irregular
 
+ο
 
 
 
+α
+irregular
 
 
+τ
 
+α
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -109215,18 +136060,25 @@ superlative
 
 
 
+α
 
 
 
 
 
+ο
 
+γ
+ρ
 
 
 
+α
 
+τ
 
 
+τ
 
 
 
@@ -109236,21 +136088,29 @@ superlative
 
 
 
+ο
 
+τ
 
 
 
+τ
 
 
+ο
 
+ο
 
 
+τ
 
 
 
+ο
 
 
 
+ο
 
 
 
@@ -109259,78 +136119,111 @@ superlative
 
 
 
+τ
 
 
+α
 
 
 
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
+ο
 
+α
 
+ο
 
+ρ
 
 
 
 
+ο
 
 
 
+ο
 
+τ
 
+ευ
+ευ
 
+ο
+ο
 
 
 
+ο
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+ο
 
 
+κ
+ευ
 
+κ
+ο
 
+κ
 
 
+κ
+ο
 
 
 
 
 
 
+κ
 
 
 
 
+ο
 
 
 
@@ -109338,34 +136231,44 @@ superlative
 
 
 
+ο
 
 
+ευ
 
+α
 
 
+τ
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
 
+ο
 
 
 
 
+α
 
 
 
+ο
 
 
 
@@ -109374,11 +136277,14 @@ superlative
 
 
 
+τ
 
+ο
 
 
 
 
+ν
 
 
 
@@ -109386,49 +136292,65 @@ superlative
 
 
 
+α
 
+ρ
 
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
 
+ο
 
 
 
 
+τ
 
 
 
 
+ο
 
 
 
+κ
 
 
 
+ο
 
 
 
+ο
 
 
+δ
 
+ο
 
+ι
 
 
 
+ρ
 
 
 
 
+ντ
 
+ι
 
 
 
@@ -109436,15 +136358,18 @@ superlative
 
 
 
+α
 
 
 
 
+ς
 
 
 
 
 
+ο
 
 
 
@@ -109456,52 +136381,67 @@ superlative
 
 
 
+ς
 
 
 
 
+ς
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
 
 
+τ
 
 
 
 
+α
 
 
 
 
+α
+irregular
 
 
 
+ο
 
+ο
 
 
 
 
 
+ο
 
 
+ν
 
 
 
 
 
+τ
 
 
+ο
 
 
 
+ρ
 
 
 
@@ -109509,7 +136449,9 @@ superlative
 
 
 
+ο
 
+ς
 
 
 
@@ -109520,8 +136462,10 @@ superlative
 
 
 
+ς
 
 
+ι
 
 
 
@@ -109529,46 +136473,60 @@ superlative
 
 
 
+ς
 
 
+ι
 
 
 
 
 
 
+ο
 
 
+α
 
 
+ευ
 
+ο
 
 
+ο
 
 
 
 
 
 
+ς
 
 
 
 
 
+ς
 
 
+α
 
 
+α
 
 
 
 
 
+ς
 
 
 
 
+α
 
+α
 
 
 
@@ -109577,30 +136535,40 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
+α
 
 
 
 
+ς
 
+α
 
 
 
+α
 
 
 
 
+ι
 
 
 
 
+ρ
 
 
+ο
 
 
 
@@ -109613,21 +136581,31 @@ superlative
 
 
 
+α
 
+ρ
 
+ο
 
 
 
+ο
 
 
+α
 
 
+α
 
+irregular
 
 
+ν
 
+ν
 
 
+ο
 
 
 
@@ -109638,11 +136616,15 @@ superlative
 
 
 
+ο
 
 
+α
 
 
+ο
 
+ο
 
 
 
@@ -109658,14 +136640,18 @@ superlative
 
 
 
+ο
 
+ο
 
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -109675,12 +136661,15 @@ superlative
 
 
 
+ο
 
 
+ο
 
 
 
 
+α
 
 
 
@@ -109688,8 +136677,10 @@ superlative
 
 
 
+ο
 
 
+α
 
 
 
@@ -109701,22 +136692,30 @@ superlative
 
 
 
+ο
 
 
 
+ο
 
 
+α
 
 
 
+α
 
+ρ
 
 
+ο
 
 
 
 
+α
 
+ρ
 
 
 
@@ -109724,84 +136723,112 @@ superlative
 
 
 
+ο
 
+α
 
 
 
 
+α
 
+ρ
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
 
 
+α
 
 
 
+α
 
 
 
 
 
+ι
 
 
+τ
 
 
 
 
 
+ο
 
 
+ο
 
 
+α
 
 
+irregular
 
 
 
+α
 
 
 
+ο
 
 
 
+α
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
+ο
 
 
 
+ο
 
 
 
 
+ς
 
+α
 
+ο
 
 
 
@@ -109815,6 +136842,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -109825,6 +136853,7 @@ superlative
 
 
 
+ο
 
 
 
@@ -109840,16 +136869,21 @@ superlative
 
 
 
+α
 
 
+ς
 
 
 
 
 
 
+α
 
+ρ
 
+α
 
 
 
@@ -109858,36 +136892,46 @@ superlative
 
 
 
+ο
 
 
 
 
+ο
 
 
-comparative
 
 
 
 
 
 
+ευ
 
+ο
 
+ο
 
+ο
 
 
 
 
 
+ς
 
 
 
+α
 
 
+ρ
 
+ο
 
 
 
+ο
 
 
 
@@ -109896,14 +136940,17 @@ comparative
 
 
 
+ο
 
 
 
 
+α
 
 
 
 
+α
 
 
 
@@ -109915,13 +136962,18 @@ comparative
 
 
 
+α
 
+irregular
 
+ο
 
 
 
 
+τ
 
+ς
 
 
 
@@ -109929,219 +136981,323 @@ comparative
 
 
 
+ι
 
 
+τ
 
 
 
+ο
 
 
+ο
 
 
+α
 
+ο
 
+ρ
 
 
+ο
 
 
+ο
+δ
 
 
+ς
 
 
 
 
+ν
 
 
 
 
+ν
+ο
 
 
+τ
 
 
 
 
 
+α
+ο
 
 
+α
+ν
 
 
 
+α
+ν
 
 
 
+ο
+ν
 
 
 
+α
+ν
 
 
 
+ς
 
+ι
 
+ο
 
 
 
 
 
+τ
 
 
+ο
 
+ο
 
 
 
 
 
 
+ο
+ο
 
 
 
 
+ι
 
 
+ν
 
 
 
+ς
 
 
 
+ι
 
 
 
 
+ς
 
 
 
+ς
 
 
 
+ι
 
+ο
 
+ο
 
+δ
 
+ς
 
 
+ς
 
 
+ς
 
 
 
 
 
 
+ς
 
 
 
 
+υ
+ο
+ο
 
 
+ο
 
 
+ι
 
+ς
 
+δ
 
 
+ι
+ο
 
 
+ο
 
 
+ο
 
+ς
 
+ι
 
+ο
 
 
 
+ο
 
 
+δ
 
 
+ο
 
 
+ν
 
 
+ο
 
 
+χ
 
 
+ο
 
 
+ο
 
 
+ο
 
 
+ο
 
 
+ο
 
 
+ο
 
 
+ο
 
 
 
+ν
 
+α
 
 
 
 
+ν
 
 
 
+α
 
 
+υ
 
+ι
+ο
 
 
+ο
 
 
+ο
 
 
 
 
 
 
+ο
 
+ο
 
+ρ
+ο
 
 
 
 
+ο
 
 
+ι
 
+α
 
 
+ο
 
 
+α
 
 
 
 
 
+α
 
+ο
 
 
 
 
+ο
 
 
+ο
 
 
 
+ς
 
 
+τ
 
 
 
+ευ
 
+α
 
 
+α
 
 
 
 
 
+ν
 
 
 
 
+α
+irregular
 
 
 
@@ -110149,9 +137305,12 @@ comparative
 
 
 
+α
 
 
+α
 
+ς
 
 
 
@@ -110165,85 +137324,124 @@ comparative
 
 
 
+τ
 
+ο
 
 
 
 
 
 
+ο
 
+α
 
+ο
 
 
 
+ο
+ρ
+α
 
 
+ο
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
+υ
 
 
 
+ο
 
 
 
+ο
+α
 
+ο
 
 
+ν
 
 
 
+ο
 
 
 
+ο
 
+ο
 
+α
 
+ς
 
 
+τ
 
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
 
 
+ο
 
 
 
 
 
 
+ο
 
 
 
+τ
 
 
 
+ο
 
 
+irregular
 
 
 
 
 
 
+α
+τ
+ο
 
+τ
+ο
 
+ο
 
+ο
 
 
 
@@ -110251,30 +137449,40 @@ comparative
 
 
 
+ν
 
+ν
 
 
 
 
 
+ο
 
 
 
 
 
+ο
 
+ο
 
+τ
 
+α
 
 
+ο
 
 
 
+ο
 
 
 
 
 
+ς
 
 
 
@@ -110283,10 +137491,14 @@ comparative
 
 
 
+ο
 
+α
 
+ο
 
 
+α
 
 
 
@@ -110301,7 +137513,9 @@ comparative
 
 
 
+δ
 
+ο
 
 
 
@@ -110311,19 +137525,25 @@ comparative
 
 
 
+ο
 
 
 
 
+ο
 
 
+α
 
 
 
 
+ο
 
+ο
 
 
+ο
 
 
 
@@ -110331,10 +137551,14 @@ comparative
 
 
 
+ο
 
+α
 
+ο
 
 
+ο
 
 
 
@@ -110350,6 +137574,7 @@ comparative
 
 
 
+α
 
 
 
@@ -110362,6 +137587,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -110369,6 +137595,7 @@ comparative
 
 
 
+ο
 
 
 
@@ -110383,68 +137610,89 @@ comparative
 
 
 
+α
 
 
+ς
 
 
 
 
+α
 
 
 
 
+α
 
 
 
+ο
 
+α
 
 
+ν
 
 
 
+ι
 
 
+ν
 
 
+ο
 
 
+ο
 
 
+ευ
 
 
+ο
 
 
 
 
 
+ο
 
+irregular
 
 
+ο
 
 
 
 
 
 
+α
 
 
 
+α
 
 
+ς
 
 
+ρ
 
 
 
 
 
 
+τ
 
 
+α
 
 
 
-superlative
 
 
 
@@ -110456,6 +137704,8 @@ superlative
 
 
 
+ρ
+α
 
 
 
@@ -110463,8 +137713,11 @@ superlative
 
 
 
+ο
 
+α
 
+ο
 
 
 
@@ -110473,13 +137726,16 @@ superlative
 
 
 
+ο
 
 
 
+α
 
 
 
 
+ο
 
 
 
@@ -110487,25 +137743,34 @@ superlative
 
 
 
+ο
 
+ο
 
+α
 
 
 
+ο
 
+ς
 
 
 
+ο
 
+α
 
 
 
+ι
 
 
 
 
 
 
+ο
 
 
 
@@ -110516,27276 +137781,11 @@ superlative
 
 
 
+ο
+irregular
 
+ι
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-comparative
-
-
-comparative
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-comparative
-
-
-
-
-
-comparative
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-superlative
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-comparative
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-comparative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-superlative
-
-
-superlative
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ο
+irregular
 
