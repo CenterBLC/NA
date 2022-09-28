@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=chapter
+@description=word order within corpus
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2022-01-05T06:39:53Z
+@dateWritten=2022-09-28T21:55:51Z
 
 1
 1
@@ -137790,7 +137790,7 @@
 22
 22
 22
-137781	1
+137807	1
 2
 3
 4
@@ -137994,6 +137994,7 @@
 2
 3
 1
+1
 2
 3
 4
@@ -138024,6 +138025,9 @@
 3
 4
 5
+1
+1
+1
 1
 2
 3

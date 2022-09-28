@@ -9,6 +9,32 @@
 @description=Short book abbreviation
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-01-05T06:39:52Z
+@dateWritten=2022-09-28T21:55:50Z
 
-137780	NTt4
+137780	Matthew
+Mark
+Luke
+John
+Acts
+Romans
+I_Corinthians
+II_Corinthians
+Galatians
+Ephesians
+Philippians
+Colossians
+I_Thessalonians
+II_Thessalonians
+I_Timothy
+II_Timothy
+Titus
+Philemon
+Hebrews
+James
+I_Peter
+II_Peter
+I_John
+II_John
+III_John
+Jude
+Revelation

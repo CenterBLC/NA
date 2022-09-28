@@ -9,7 +9,7 @@
 @description=formal morphology coding
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-01-05T06:39:56Z
+@dateWritten=2022-09-28T21:33:45Z
 
 N-NSF
 N-GSF

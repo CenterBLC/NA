@@ -9,6 +9,32 @@
 @description=clause
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-01-05T06:39:53Z
+@dateWritten=2022-09-28T21:55:51Z
 
-138037	1
+138067	1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1

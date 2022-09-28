@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=BOL based alphabetic order of words
+@description=word order within corpus
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-01-05T06:39:51Z
+@dateWritten=2022-09-28T21:55:49Z
 
 969
 1070

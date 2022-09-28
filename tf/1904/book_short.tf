@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=Short book abbreviation
+@description=word order within corpus
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-02-02T03:06:27Z
+@dateWritten=2022-09-28T21:55:50Z
 
 Matt
 Matt

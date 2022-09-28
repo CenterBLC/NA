@@ -9,7 +9,7 @@
 @description=word order within corpus
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-01-05T06:39:57Z
+@dateWritten=2022-09-28T21:55:52Z
 
 1
 2

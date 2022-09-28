@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=bol_ref combines book chapter and verse information in abbreviated form
+@description=word order within corpus
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-01-05T06:39:52Z
+@dateWritten=2022-09-28T21:55:50Z
 
 Matt 1:1
 Matt 1:1

@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=English translation
+@description=word order within corpus
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-01-05T06:39:54Z
+@dateWritten=2022-09-28T21:55:51Z
 
 written book, roll, or volume
 birth, lineage
@@ -42514,7 +42514,7 @@ the
 but, on the other hand, and
 say, speak
 one hundred
-"bath," liquid measure between eight and nine gallons
+"""bath,"" liquid measure between eight and nine gallons"
 olive oil
 the
 but, on the other hand, and
