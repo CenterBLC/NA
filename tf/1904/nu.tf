@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=word order within corpus
+@description=number
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-09-28T21:55:52Z
+@dateWritten=2022-09-28T22:24:03Z
 
 sg
 sg

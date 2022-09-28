@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=word order within corpus
+@description=the dictionary position of a given word
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-09-28T21:55:48Z
+@dateWritten=2022-09-28T22:24:00Z
 
 965
 1067

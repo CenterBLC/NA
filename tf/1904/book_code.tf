@@ -9,7 +9,7 @@
 @description=Short book abbreviation
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-09-28T21:55:50Z
+@dateWritten=2022-09-28T22:24:02Z
 
 137780	Matthew
 Mark

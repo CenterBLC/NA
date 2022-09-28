@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=word order within corpus
+@description=chapter categoried vocab as it appears in Larry Richards Textbook "Learning Greek in 30 days"
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-09-28T21:55:53Z
+@dateWritten=2022-09-28T22:24:04Z
 
 
 
