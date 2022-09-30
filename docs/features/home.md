@@ -6,7 +6,7 @@
 | orig_order | 1 2 3 ... 137777 137778 137779 | word order within corpus |
 | bol_monad_num | 1 2 3 ... 137777 137778 137779 | BOL based word order within corpus |
 | book_long | Matthew, Mark, Luke, John, Acts, Romans, I_Corinthians, II_Corinthians, Galatians, Ephesians, Philippians, Colossians, I_Thessalonians, II_Thessalonians, I_Timothy, II_Timothy, Titus, Philemon, Hebrews, James, I_Peter, II_Peter, I_John, II_John, III_John, Jude, Revelation | fully spelled out book name |
-| booknum | 1 5 14 3 8 19 12 21 11 27 25 22 26 15 9 6 13 23 4 16 20 10 2 17 18 24 | NT book number (Matthew=1, Mark=2, Revelation=27 |
+| booknum | 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 | NT book number (Matthew=1, Mark=2, Revelation=27 |
 | book_short | Matt, Mark, Luke, John, Acts, Rom, 1Cor, 2Cor, Gal, Eph, Phil, Col, 1Thess, 2Thess, 1Tim, 2Tim, Titus, Phlm, Heb, Jas, 1Pet, 2Pet, 1John, 2John, 3John, Jude, Rev | book name abbreviated |
 | chapter | 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 2 25 26 27 28 | chapter number |
 | verse | 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 2 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 4 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 7 73 74 75 99 76 77 78 79 80 | verse number |
@@ -54,6 +54,6 @@
 | bol_verb_type | alpha, gamma, irregular, epsilon_upsilon, khi, sigma_kappa, lambda, zeta, upsilon, epsilon, nu, tau, omicron, rho, kappa, phi, pi, mu_iota, iota, eta, delta, theta, beta, mu, nan | BOL based verb type |
 | bol_noun_stem | omicron, iota, irregular, alpha, epsilon_upsilon, nu, rho, tau, delta, sigma, khi, upsilon, nu_tau, kappa, indeclinable, pi, gamma, omicron_upsilon, beta, kappa_tau, omega, nan | BOL based noun type/noun stem |
 | word_stem | iota, irregular, alpha, epsilon_upsilon, gamma, khi, lambda, epsilon, kappa, mu_iota, delta, eta, beta, indeclinable, mu, kappa_tau, nan | stem of word |
-| declension | 2nd, 3rd, irregular, 1st_alpha_macron_doric, 1st_alpha_macron, 1st_eta, 1st_alpha_breve, indeclinable, 2nd_attic, nan | noun declension |
+| declension | 1st_alpha_macron_doric, 1st_alpha_macron, 1st_eta, 1st_alpha_breve, 2nd, 2nd_attic, 3rd, irregular, indeclinable, nan | noun declension |
 | bol_noun_declension | second_d, third_d, irregular, first_alpha_macron_doric, first_alpha_macron, first_eta, first_alpha_breve, indeclinable, second_attic, nan | BOL based noun declension |
-| vocab_ReadGreekIn30Days | 3a, 3b, 4a, 4b, … | chapter categoried vocab as it appears in Larry Richards Textbook "Learning Greek in 30 days |
+| vocab_ReadGreekIn30Days | 3a, 3b, 4a, 4b, 5a, 5b, 6a, 6b, 6c, 7a, 7b, 7c, 7d, 8a, 8b, 9a | chapter categorized vocab as it appears in Larry Richards Textbook "Learning Greek in 30 days |
