@@ -10,21 +10,21 @@
 | book_short | Matt, Mark, Luke, John, Acts, Rom, 1Cor, 2Cor, Gal, Eph, Phil, Col, 1Thess, 2Thess, 1Tim, 2Tim, Titus, Phlm, Heb, Jas, 1Pet, 2Pet, 1John, 2John, 3John, Jude, Rev | book name abbreviated |
 | chapter | 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 2 25 26 27 28 | chapter number |
 | verse | 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 2 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 4 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 7 73 74 75 99 76 77 78 79 80 | verse number |
-| bol_ref | Matt 1:1, Matt 1:2, Matt 1:3, ... ,Rev 22:19, Rev 22:20, Rev 22:21 | BOL based Bible reference |
-| word | Βίβλος, γενέσεως, Ἰησοῦ, ... ,ἀφέλῃ, ἀφελεῖ, ἁγίας | word as it appears in the text |
-| bol_surface | Βίβλος, γενέσεως, Ἰησοῦ, ... ,ἀφέλῃ, ἀφελεῖ, ἁγίας | BOL based word as it appears in the text |
-| normalized | Βίβλος, γενέσεως, Ἰησοῦ, ... ,γεγραμμένας, ἀφέλῃ, ἀφελεῖ | normalized word |
-| lemma | βίβλος, γένεσις, Ἰησοῦς, ... ,διαυγής, κατάθεμα, ῥυπαίνω | lexeme |
-| bol_lemma | βίβλος, γένεσις, Ἰησοῦς, ... ,διαυγής, κατάθεμα, ῥυπαίνω | BOL based lexeme |
-| lemma_translit | biblos, genesis, Iesous, ... ,diauges, katathema, Rupaino | lexeme tranliterated |
-| form_tag | N-NSF, N-GSF, N-GSM, ... ,V-IAI-1S-ATT, V-2RAP-NSN, A-APF-S | form tag |
-| functional_tag | N-NSF, N-GSF, N-GSM, ... ,V-IAI-1S-ATT, A-APF-S, V-RMP-NPM | functional tag |
+| bol_ref | Matt 1:1, Matt 1:2, Matt 1:3, ... Rev 22:19, Rev 22:20, Rev 22:21 | BOL based Bible reference |
+| word | Βίβλος, γενέσεως, Ἰησοῦ, ... ἀφέλῃ, ἀφελεῖ, ἁγίας | word as it appears in the text |
+| bol_surface | Βίβλος, γενέσεως, Ἰησοῦ, ... ἀφέλῃ, ἀφελεῖ, ἁγίας | BOL based word as it appears in the text |
+| normalized | Βίβλος, γενέσεως, Ἰησοῦ, ... γεγραμμένας, ἀφέλῃ, ἀφελεῖ | normalized word |
+| lemma | βίβλος, γένεσις, Ἰησοῦς, ... διαυγής, κατάθεμα, ῥυπαίνω | lexeme |
+| bol_lemma | βίβλος, γένεσις, Ἰησοῦς, ... διαυγής, κατάθεμα, ῥυπαίνω | BOL based lexeme |
+| lemma_translit | biblos, genesis, Iesous, ... diauges, katathema, Rupaino | lexeme tranliterated |
+| form_tag | N-NSF, N-GSF, N-GSM, ... V-IAI-1S-ATT, V-2RAP-NSN, A-APF-S | form tag |
+| functional_tag | N-NSF, N-GSF, N-GSM, ... V-IAI-1S-ATT, A-APF-S, V-RMP-NPM | functional tag |
 | strongs | 976 1078 2424 ... 271 2652 4510 | strongs number |
 | strongs_unreliable | False True | unreliable strongs number |
-| lexeme_dict | βίβλος,\xa0-ου,\xa0ἡ, γένεσις,\xa0-εως,\xa0ἡ, Ἰησοῦς, ... ,διαυγής,\xa0-ές, κατάθεμα,\xa0-τος,\xa0τό, ῥυπαίνομαι | lexema as it appears in the dictionary |
-| bol_lemma_dict | βίβλος,\xa0-ου,\xa0ἡ, γένεσις,\xa0-εως,\xa0ἡ, Ἰησοῦς, ... ,διαυγής,\xa0-ές, κατάθεμα,\xa0-τος,\xa0τό, ῥυπαίνομαι | lexema as it appears in the BOL dictionary |
-| gloss | written book, roll, or volume, birth, lineage, Jesus, ..., amethyst, curse, accursed thing, am filthy | English gloss |
-| bol_gloss | written book, roll, or volume, birth, lineage, Jesus, ..., amethyst, curse, accursed thing, am filthy | BOL based English gloss |
+| lexeme_dict | βίβλος,-ου,ἡ; γένεσις,-εως,ἡ; Ἰησοῦς; ... διαυγής,-ές; κατάθεμα,-τος,τό; ῥυπαίνομαι | lexema as it appears in the dictionary |
+| bol_lemma_dict | βίβλος,-ου,ἡ; γένεσις,-εως,ἡ; Ἰησοῦς; ... διαυγής,-ές; κατάθεμα,-τος,τό; ῥυπαίνομαι | lexema as it appears in the BOL dictionary |
+| gloss | written book, roll, or volume, birth, lineage, Jesus, ... amethyst, curse, accursed thing, am filthy | English gloss |
+| bol_gloss | written book, roll, or volume, birth, lineage, Jesus, ... amethyst, curse, accursed thing, am filthy | BOL based English gloss |
 | abc_order | 965 1067 2387 ... 1291 2576 4320 | the dictionary position of a given word |
 | bol_dict_abc | 969 1070 2399 ... 1295 2590 4347 | BOL based the dictionary position of a given word |
 | freq_lemma | 10 5 913 529 376 59 73 97 19783 20 2787 2 44 8978 343 5550 3 1 2 115 12 886 4 47 35 216 54 1407 2255 1242 496 43 647 147 209 245 84 13 30 176 2743 9 709 379 234 79 1060 20 37 66 1388 682 718 472 6 31 95 49 214 289 1038 18 148 229 106 142 173 108 668 669 86 9 219 667 144 15 8 2567 1311 143 566 502 7 162 221 389 11 1766 139 45 194 24 635 60 428 12 63 192 250 14 217 28 145 68 159 153 333 5 46 53 19 74 243 94 90 78 17 700 154 10 29 25 164 110 117 61 1293 131 413 40 99 10 102 21 22 412 42 163 244 134 47 34 162 27 41 16 33 76 98 562 36 62 331 71 180 23 91 87 81 82 23 39 501 114 140 548 638 6 93 141 185 166 414 337 119 72 120 133 75 15 56 174 261 50 26 123 235 48 169 126 336 15 100 258 70 32 150 320 158 57 118 135 80 24 128 38 55 112 113 298 92 58 69 51 124 7 88 179 116 65 | number of occurence of a given lexeme |
