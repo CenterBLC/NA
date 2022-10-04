@@ -9,7 +9,7 @@
 @description=strongs number
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-09-28T22:24:04Z
+@dateWritten=2022-10-04T23:18:04Z
 
 976
 1078

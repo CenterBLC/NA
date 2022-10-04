@@ -9,7 +9,7 @@
 @description=stem of a word
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-09-28T22:24:04Z
+@dateWritten=2022-10-04T23:18:05Z
 
 
 iota

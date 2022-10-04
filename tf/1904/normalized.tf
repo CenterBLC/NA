@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=normalized word
+@description=surface word stripped of punctation
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-09-28T22:24:03Z
+@dateWritten=2022-10-04T23:18:03Z
 
 Βίβλος
 γενέσεως
