@@ -9,7 +9,7 @@
 @description=surface word stripped of punctations and accents
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-04T23:18:03Z
+@dateWritten=2022-10-05T18:28:38Z
 
 Βιβλος
 γενεσεως

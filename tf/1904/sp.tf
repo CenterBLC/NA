@@ -9,7 +9,7 @@
 @description=part of speech
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-04T23:18:04Z
+@dateWritten=2022-10-05T18:28:38Z
 
 noun
 noun

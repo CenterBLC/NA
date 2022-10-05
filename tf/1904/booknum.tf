@@ -9,7 +9,7 @@
 @description=NT book number (Matthew=1, Mark=2, Revelation=27)
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-04T23:18:02Z
+@dateWritten=2022-10-05T18:28:37Z
 
 1
 1

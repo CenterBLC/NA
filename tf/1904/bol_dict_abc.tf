@@ -9,7 +9,7 @@
 @description=BOL based dictionary position of a given word
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-04T23:18:00Z
+@dateWritten=2022-10-05T18:28:35Z
 
 969
 1070

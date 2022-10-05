@@ -9,7 +9,7 @@
 @description=BOL based lexeme
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-04T23:18:01Z
+@dateWritten=2022-10-05T18:28:35Z
 
 βίβλος
 γένεσις
