@@ -9,7 +9,7 @@
 @description=unrealiable strongs number
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-05T18:28:38Z
+@dateWritten=2022-10-06T07:30:45Z
 
 False
 False

@@ -9,7 +9,7 @@
 @description=alternative morphological interpretation of gender
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-05T18:28:34Z
+@dateWritten=2022-10-06T07:30:40Z
 
 
 

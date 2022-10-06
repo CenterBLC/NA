@@ -9,7 +9,7 @@
 @description=the dictionary position of a given word
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-05T18:28:34Z
+@dateWritten=2022-10-06T07:30:40Z
 
 965
 1067
