@@ -17,7 +17,7 @@ typeDisplay:
   book:
     featuresBare:
       - book
-      - bookshort
+      - book_short
   word:
     featuresBare:
       - gloss
