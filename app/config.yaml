@@ -20,7 +20,7 @@ typeDisplay:
       - book_short
   word:
     featuresBare:
-      - gloss
+      - gloss_EN
     features:
       - lemma
       - strongs
