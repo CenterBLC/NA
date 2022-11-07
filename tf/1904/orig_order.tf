@@ -7,9 +7,9 @@
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
 @description=word order within corpus
-@valueType=int
+@valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:33Z
+@dateWritten=2022-11-07T04:31:59Z
 
 1
 2
@@ -101468,6 +101468,7 @@
 101455
 101456
 101457
+101458
 101459
 101460
 101461

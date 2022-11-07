@@ -9,7 +9,7 @@
 @description=BOL based Bible reference
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:31Z
+@dateWritten=2022-11-07T04:31:57Z
 
 Matt 1:1
 Matt 1:1
@@ -101468,6 +101468,7 @@ Rom 16:27
 2Cor 13:13
 2Cor 13:13
 2Cor 13:13
+Gal 1:1
 Gal 1:1
 Gal 1:1
 Gal 1:1

@@ -9,7 +9,7 @@
 @description=BOL based noun declension
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:30Z
+@dateWritten=2022-11-07T04:31:57Z
 
 second_d
 third_d
@@ -101468,6 +101468,7 @@ third_d
 
 
 
+second_d
 second_d
 
 

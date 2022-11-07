@@ -9,7 +9,7 @@
 @description=BOL based number
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:31Z
+@dateWritten=2022-11-07T04:31:57Z
 
 singular
 singular
@@ -101468,6 +101468,7 @@ singular
 
 plural
 plural
+singular
 singular
 
 

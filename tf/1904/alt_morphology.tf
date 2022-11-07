@@ -9,7 +9,7 @@
 @description=alternative morphological interpretation of ambiguous nominal or verbal form
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:29Z
+@dateWritten=2022-11-07T04:31:56Z
 
 
 
@@ -101462,6 +101462,7 @@ NSgGen
 
 
 FSgVoc
+
 
 
 

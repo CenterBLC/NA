@@ -9,7 +9,7 @@
 @description=functional tag
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:32Z
+@dateWritten=2022-11-07T04:31:58Z
 
 N-NSF
 N-GSF
@@ -101468,6 +101468,7 @@ N-GSN
 PREP
 A-GPM
 P-2GP
+N-NSM
 N-NSM
 PRT-N
 PREP

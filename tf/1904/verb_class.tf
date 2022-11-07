@@ -9,7 +9,7 @@
 @description=verb classes according to Teresa Reeve and Oliver Glanz
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:34Z
+@dateWritten=2022-11-07T04:32:00Z
 
 
 
@@ -101424,6 +101424,7 @@ irregularTeresaReeve
 
 
 irregularTeresaReeve
+
 
 
 

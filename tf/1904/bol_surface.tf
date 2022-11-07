@@ -9,7 +9,7 @@
 @description=BOL based word as it appears in the text
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:31Z
+@dateWritten=2022-11-07T04:31:57Z
 
 Βίβλος
 γενέσεως
@@ -101468,6 +101468,7 @@
 μετὰ
 πάντων
 ὑμῶν.
+Παῦλος
 ἀπόστολος,
 οὐκ
 ἀπ’

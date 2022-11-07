@@ -9,7 +9,7 @@
 @description=lexeme
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:32Z
+@dateWritten=2022-11-07T04:31:59Z
 
 βίβλος
 γένεσις
@@ -101468,6 +101468,7 @@
 μετά
 πᾶς
 σύ
+Παῦλος
 ἀπόστολος
 οὐ
 ἀπό

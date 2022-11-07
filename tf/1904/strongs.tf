@@ -9,7 +9,7 @@
 @description=strongs number
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:34Z
+@dateWritten=2022-11-07T04:32:00Z
 
 976
 1078
@@ -101468,6 +101468,7 @@
 3326
 3956
 4771
+3972
 652
 3756
 575

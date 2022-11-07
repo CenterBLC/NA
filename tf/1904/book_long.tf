@@ -9,7 +9,7 @@
 @description=fully spelled out book name
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:31Z
+@dateWritten=2022-11-07T04:31:57Z
 
 Matthew
 Matthew
@@ -101468,6 +101468,7 @@ II_Corinthians
 II_Corinthians
 II_Corinthians
 II_Corinthians
+Galatians
 Galatians
 Galatians
 Galatians

@@ -9,7 +9,7 @@
 @description=book name abbreviated
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:31Z
+@dateWritten=2022-11-07T04:31:58Z
 
 Matt
 Matt
@@ -101468,6 +101468,7 @@ Rom
 2Cor
 2Cor
 2Cor
+Gal
 Gal
 Gal
 Gal

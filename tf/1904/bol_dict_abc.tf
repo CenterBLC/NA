@@ -7,9 +7,9 @@
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
 @description=BOL based dictionary position of a given word
-@valueType=int
+@valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:30Z
+@dateWritten=2022-11-07T04:31:56Z
 
 969
 1070
@@ -101468,6 +101468,7 @@
 3193
 3804
 4603
+3820
 644
 3607
 569

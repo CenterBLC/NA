@@ -9,7 +9,7 @@
 @description=BOL based case
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:30Z
+@dateWritten=2022-11-07T04:31:56Z
 
 nominative
 genitive
@@ -101468,6 +101468,7 @@ genitive
 NotApplicable
 genitive
 genitive
+nominative
 nominative
 NotApplicable
 NotApplicable

@@ -9,7 +9,7 @@
 @description=BOL based part of speech
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:31Z
+@dateWritten=2022-11-07T04:31:57Z
 
 noun
 noun
@@ -101468,6 +101468,7 @@ noun
 prep
 adj
 prep
+noun
 noun
 prep
 prep

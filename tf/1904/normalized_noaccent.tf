@@ -9,7 +9,7 @@
 @description=surface word stripped of punctations and accents
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:33Z
+@dateWritten=2022-11-07T04:31:59Z
 
 Βιβλος
 γενεσεως
@@ -101468,6 +101468,7 @@ ambig
 μετα
 παντων
 υμων
+Παυλος
 αποστολος
 ουκ
 απ’

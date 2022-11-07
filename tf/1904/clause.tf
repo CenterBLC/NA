@@ -9,9 +9,9 @@
 @description=clause unit
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-10-28T03:01:32Z
+@dateWritten=2022-11-07T04:31:58Z
 
-138066	1
+138067	1
 1
 1
 1
