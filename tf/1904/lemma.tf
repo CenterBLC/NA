@@ -9,7 +9,7 @@
 @description=lexeme
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-11-07T04:31:59Z
+@dateWritten=2022-12-12T13:45:05Z
 
 βίβλος
 γένεσις

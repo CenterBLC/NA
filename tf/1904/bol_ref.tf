@@ -9,7 +9,7 @@
 @description=BOL based Bible reference
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-11-07T04:31:57Z
+@dateWritten=2022-12-12T13:45:04Z
 
 Matt 1:1
 Matt 1:1

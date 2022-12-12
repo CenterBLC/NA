@@ -9,7 +9,7 @@
 @description=word as it appears in the text
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-11-07T04:32:00Z
+@dateWritten=2022-12-12T13:45:07Z
 
 Βίβλος
 γενέσεως

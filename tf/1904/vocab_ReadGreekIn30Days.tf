@@ -9,7 +9,7 @@
 @description=chapter categoried vocab as it appears in Larry Richards Textbook "Learning Greek in 30 days"
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-11-07T04:32:00Z
+@dateWritten=2022-12-12T13:45:07Z
 
 not_covered
 not_covered
