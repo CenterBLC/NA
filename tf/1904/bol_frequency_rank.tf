@@ -9,7 +9,7 @@
 @description=BOL based frequency rank of a given lexeme
 @valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2022-12-12T13:45:03Z
+@dateWritten=2022-12-13T14:04:50Z
 
 1052
 1638

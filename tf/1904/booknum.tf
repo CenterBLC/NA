@@ -7,9 +7,9 @@
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
 @description=NT book number (Matthew=1, Mark=2, Revelation=27)
-@valueType=str
+@valueType=int
 @writtenBy=Text-Fabric
-@dateWritten=2022-12-12T13:45:04Z
+@dateWritten=2022-12-13T14:04:52Z
 
 1
 1
