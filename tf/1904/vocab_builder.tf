@@ -9,7 +9,7 @@
 @description=words organized according to their sections in the Biblical Greek Vocab Builder
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-12-12T13:45:07Z
+@dateWritten=2023-01-16T01:24:23Z
 
 6.i.
 absent

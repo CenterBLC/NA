@@ -6,10 +6,10 @@
 @Note=?
 @Source:=https://github.com/biblicalhumanities/Nestle1904/blob/master/morph/Nestle1904.csv
 @Version=1904
-@description=vanVoorst_gloss
+@description=SBL van Voorst gloss
 @valueType=str
 @writtenBy=Text-Fabric
-@dateWritten=2022-12-12T13:45:03Z
+@dateWritten=2023-01-16T01:24:22Z
 
 book
 beginning
@@ -32,64 +32,64 @@ Jacob
 but, and (frequently untranslated)
 I beget
 the
-0
+
 and, also, likewise
 the
 brother
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 I beget
 the
-0
+
 and, also, likewise
 the
-0
+
 from, out of
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
+
 from, out of
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
+
 from, out of
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
@@ -109,135 +109,135 @@ Solomon
 from, out of
 the
 the
-0
+
 Solomon
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
+
 and, also, likewise
 the
 brother
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 Babylon
 (with gen.) with; (with acc.) after, behind
 but, and (frequently untranslated)
 the
-0
+
 Babylon
-0
+
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
-0
-0
+
+
 but, and (frequently untranslated)
 I beget
 the
@@ -272,14 +272,14 @@ and, also, likewise
 David
 until
 the
-0
+
 Babylon
 family, generation
 fourteen
 and, also, likewise
 (with gen.) from, away from
 the
-0
+
 Babylon
 until
 the
@@ -294,7 +294,7 @@ the
 beginning
 in this manner, thus, so
 I am
-0
+
 the
 mother
 he, she, it; himself, herself, itself; even, very; same
@@ -323,15 +323,15 @@ and, also, likewise
 not
 I wish, will
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I wish, desire
-0
+
 I set free, let go, send away
 he, she, it; himself, herself, itself; even, very; same
 this
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I see
 angel, messenger
 master, lord, the Lord
@@ -385,7 +385,7 @@ I am, become, happen
 in order that, that
 I fill, make full, finish
 the
-0
+
 (with gen.) by; (with acc.) under
 master, lord, the Lord
 (with gen.) through; (with acc.) because of, for the sake of
@@ -406,7 +406,7 @@ I call
 the
 name
 he, she, it; himself, herself, itself; even, very; same
-0
+
 who, which, what
 I am
 I translate
@@ -532,20 +532,20 @@ and, also, likewise
 you
 Bethlehem
 earth
-0
-0
-0
+
+
+
 I am
 (with dat.) in
 the
 governor, procurator
-0
+
 from, out of
 you
 for
 I go out, come out
 I lead, guide; I think
-0
+
 I tend, pasture
 the
 people
@@ -554,11 +554,11 @@ the
 Israel
 then
 Herod
-0
+
 I call
 the
 Magus; magician
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -573,12 +573,12 @@ into, in
 Bethlehem
 I say, tell
 I go, proceed
-0
+
 accurately, carefully
 (with gen.) about, concerning; (with acc.) around, near
 the
 infant, young child
-0
+
 but, and (frequently untranslated)
 I find, discover
 I report, proclaim
@@ -648,15 +648,15 @@ he, she, it; himself, herself, itself; even, very; same
 gift
 gold
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 I reveal; I bear a name
 (with gen.) down, against; (with acc.) according to, along
 dream (only in nom. and acc.)
 not
-0
+
 (with dat.) near, at; (with acc.) to, toward
 Herod
 (with gen.) through; (with acc.) because of, for the sake of
@@ -727,12 +727,12 @@ I am
 there, to that place
 until
 the
-0
+
 Herod
 in order that, that
 I fill, make full, finish
 the
-0
+
 (with gen.) by; (with acc.) under
 master, lord, the Lord
 (with gen.) through; (with acc.) because of, for the sake of
@@ -753,7 +753,7 @@ I ridicule, mock
 (with gen.) by; (with acc.) under
 the
 Magus; magician
-0
+
 very (much)
 and, also, likewise
 I send away, send out
@@ -771,35 +771,35 @@ the
 region
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
-0
+
 and, also, likewise
 below, downward
 (with gen.) down, against; (with acc.) according to, along
 the
 time
 who, which, what
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 Magus; magician
 then
 I fill, make full, finish
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 the
 prophet
 I say, tell
 sound, voice
 (with dat.) in
-0
+
 I hear
 weeping
 and, also, likewise
-0
-0
-0
+
+
+
 I weep, cry
 the
 child
@@ -865,7 +865,7 @@ Israel
 I hear
 but, and (frequently untranslated)
 that, because, since
-0
+
 I rule
 the
 Judea
@@ -897,7 +897,7 @@ Nazareth
 (adv.) how; (conj.) that, in order that
 I fill, make full, finish
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 prophet
@@ -931,7 +931,7 @@ this
 for
 I am
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 Isaiah
 the
@@ -949,7 +949,7 @@ master, lord, the Lord
 immediately
 I do, make
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
@@ -964,7 +964,7 @@ hair
 camel
 and, also, likewise
 belt, girdle
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 waist, loins
@@ -974,10 +974,10 @@ but, and (frequently untranslated)
 food
 I am
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
-0
-0
+
+
 then
 I go out
 (with dat.) near, at; (with acc.) to, toward
@@ -1007,7 +1007,7 @@ sin
 he, she, it; himself, herself, itself; even, very; same
 I see
 but, and (frequently untranslated)
-0
+
 the
 a Pharisee
 and, also, likewise
@@ -1018,7 +1018,7 @@ the
 baptism
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 viper
 who? which one? what?
 I show, indicate
@@ -1039,7 +1039,7 @@ not
 I think, believe; I seem
 I say, tell
 (with dat.) in
-0
+
 father
 I have, hold
 the
@@ -1062,7 +1062,7 @@ Abraham
 now, already
 but, and (frequently untranslated)
 the
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 root
@@ -1075,7 +1075,7 @@ tree
 not
 I do, make
 fruit
-0
+
 I cut off, cut down
 and, also, likewise
 into, in
@@ -1114,15 +1114,15 @@ and, also, likewise
 fire
 who, which, what
 the
-0
+
 (with dat.) in
 the
 hand
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I gather together
@@ -1134,10 +1134,10 @@ the
 storehouse, barn
 the
 but, and (frequently untranslated)
-0
+
 I burn down, consume
 fire
-0
+
 then
 I come, am present
 the
@@ -1157,7 +1157,7 @@ I baptize
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 I
@@ -1252,7 +1252,7 @@ forty
 and, also, likewise
 forty
 night
-0
+
 I hunger
 and, also, likewise
 I go to, approach
@@ -1280,7 +1280,7 @@ I write
 no, not
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 bread
-0
+
 I live
 the
 human being, person
@@ -1306,9 +1306,9 @@ I place, set, stand
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -1349,7 +1349,7 @@ Jesus, Joshua
 again
 I write
 no, not
-0
+
 master, lord, the Lord
 the
 God, god
@@ -1402,7 +1402,7 @@ you
 I worship
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I serve
 then
 I leave, let go, pardon
@@ -1434,26 +1434,26 @@ I live, dwell in
 into, in
 Capernaum
 the
-0
+
 (with dat.) in
 region
-0
+
 and, also, likewise
-0
+
 in order that, that
 I fill, make full, finish
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 Isaiah
 the
 prophet
 I say, tell
 earth
-0
+
 and, also, likewise
 earth
-0
+
 way
 sea
 across
@@ -1484,7 +1484,7 @@ I rise up
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 then
-0
+
 the
 Jesus, Joshua
 I proclaim, preach
@@ -1517,7 +1517,7 @@ the
 brother
 he, she, it; himself, herself, itself; even, very; same
 I throw, place
-0
+
 into, in
 the
 sea
@@ -1609,7 +1609,7 @@ all, every
 disease, illness
 and, also, likewise
 all, every
-0
+
 (with dat.) in
 the
 people
@@ -1632,11 +1632,11 @@ I have, hold
 manifold
 disease, illness
 and, also, likewise
-0
+
 I hold fast, oppress, attack
 I am demon-possessed
 and, also, likewise
-0
+
 and, also, likewise
 lame; (as a noun) a paralytic
 and, also, likewise
@@ -1646,12 +1646,12 @@ and, also, likewise
 I follow
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 (with gen.) from, away from
 the
 Galilee
 and, also, likewise
-0
+
 and, also, likewise
 Jerusalem
 and, also, likewise
@@ -1704,7 +1704,7 @@ he, she, it; himself, herself, itself; even, very; same
 I invite; I exhort; I comfort
 blessed, happy
 the
-0
+
 that, because, since
 he, she, it; himself, herself, itself; even, very; same
 I inherit, acquire
@@ -1722,7 +1722,7 @@ he, she, it; himself, herself, itself; even, very; same
 I feed, fill; (pass.) I eat my fill
 blessed, happy
 the
-0
+
 that, because, since
 he, she, it; himself, herself, itself; even, very; same
 I have mercy
@@ -1738,7 +1738,7 @@ God, god
 I see
 blessed, happy
 the
-0
+
 that, because, since
 he, she, it; himself, herself, itself; even, very; same
 son
@@ -1779,7 +1779,7 @@ that, because, since
 the
 wages
 you
-0
+
 (with dat.) in
 the
 heaven
@@ -1801,10 +1801,10 @@ if
 but, and (frequently untranslated)
 the
 salt
-0
+
 (with dat.) in
 who? which one? what?
-0
+
 into, in
 no one, nothing
 I am strong, powerful
@@ -1838,7 +1838,7 @@ I put, place
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) by; (with acc.) under
 the
-0
+
 but, rather, yet
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -1862,7 +1862,7 @@ human being, person
 I see
 you
 the
-0
+
 work, deed
 and, also, likewise
 I praise, honor, glorify
@@ -1900,11 +1900,11 @@ heaven
 and, also, likewise
 the
 earth
-0
+
 one
 or, either
 one
-0
+
 no, not
 not
 I go by, (pass.) I pass away
@@ -1924,13 +1924,13 @@ the
 commandment, order
 this
 the
-0
+
 and, also, likewise
 I teach
 in this manner, thus, so
 the
 human being, person
-0
+
 I call
 (with dat.) in
 the
@@ -1961,7 +1961,7 @@ I have an abundance, am rich
 you
 the
 righteousness
-0
+
 the
 scribe
 and, also, likewise
@@ -1976,7 +1976,7 @@ the
 heaven
 I hear
 that, because, since
-0
+
 the
 ancient, old
 no, not
@@ -2011,7 +2011,7 @@ I say, tell
 the
 brother
 he, she, it; himself, herself, itself; even, very; same
-0
+
 liable, guilty
 I am
 the
@@ -2057,8 +2057,8 @@ the
 altar
 and, also, likewise
 I go, go away
-0
-0
+
+
 the
 brother
 you
@@ -2070,13 +2070,13 @@ the
 gift
 you
 I am
-0
+
 the
 opponent
 you
-0
+
 until
-0
+
 I am
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
@@ -2112,10 +2112,10 @@ until
 I give away, give up; I render
 the
 last
-0
+
 I hear
 that, because, since
-0
+
 no, not
 I commit adultery
 I
@@ -2203,7 +2203,7 @@ you
 into, in
 Gehenna, hell
 I go away
-0
+
 but, and (frequently untranslated)
 who, which, what
 (an untranslatable conditional particle)
@@ -2213,7 +2213,7 @@ woman
 he, she, it; himself, herself, itself; even, very; same
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I
 but, and (frequently untranslated)
 I say, tell
@@ -2225,7 +2225,7 @@ I set free, let go, send away
 the
 woman
 he, she, it; himself, herself, itself; even, very; same
-0
+
 word, Word
 prostitution, unchastity
 I do, make
@@ -2236,15 +2236,15 @@ who, which, what
 if
 I set free, let go, send away
 I marry
-0
+
 again
 I hear
 that, because, since
-0
+
 the
 ancient, old
 no, not
-0
+
 I give away, give up; I render
 but, and (frequently untranslated)
 the
@@ -2258,7 +2258,7 @@ I say, tell
 you
 not
 I swear, take an oath
-0
+
 and not, neither, nor
 (with dat.) in
 the
@@ -2301,7 +2301,7 @@ hair
 white
 I do, make
 or, either
-0
+
 I am
 but, and (frequently untranslated)
 the
@@ -2321,7 +2321,7 @@ wicked, bad
 I am
 I hear
 that, because, since
-0
+
 eye
 (with gen.) in place of, for
 eye
@@ -2338,13 +2338,13 @@ I oppose, resist
 the
 wicked, bad
 but, rather, yet
-0
+
 you
-0
+
 into, in
 the
 right (as opposed to left)
-0
+
 you
 I turn, change
 he, she, it; himself, herself, itself; even, very; same
@@ -2367,10 +2367,10 @@ and, also, likewise
 the
 garment
 and, also, likewise
-0
+
 you
-0
-0
+
+
 one
 I go, go away
 (with gen.) with; (with acc.) after, behind
@@ -2385,12 +2385,12 @@ the
 I wish, will
 (with gen.) from, away from
 you
-0
+
 not
 I turn away, remove
 I hear
 that, because, since
-0
+
 I love
 the
 near
@@ -2460,14 +2460,14 @@ I greet
 the
 brother
 you
-0
+
 who? which one? what?
 abundant, superfluous
 I do, make
 not
 and, also, likewise
 the
-0
+
 the
 he, she, it; himself, herself, itself; even, very; same
 I do, make
@@ -2499,7 +2499,7 @@ I see, look at
 he, she, it; himself, herself, itself; even, very; same
 if
 but, and (frequently untranslated)
-0
+
 wages
 no, not
 I have, hold
@@ -2529,7 +2529,7 @@ synagogue
 and, also, likewise
 (with dat.) in
 the
-0
+
 (adv.) how; (conj.) that, in order that
 I praise, honor, glorify
 (with gen.) by; (with acc.) under
@@ -2549,7 +2549,7 @@ alms
 not
 I know
 the
-0
+
 you
 who? which one? what?
 I do, make
@@ -2593,7 +2593,7 @@ and, also, likewise
 the
 corner
 the
-0
+
 I place, set, stand
 I pray
 (adv.) how; (conj.) that, in order that
@@ -2614,7 +2614,7 @@ I pray
 I enter
 into, in
 the
-0
+
 you
 and, also, likewise
 I shut, lock
@@ -2643,16 +2643,16 @@ you
 I pray
 but, and (frequently untranslated)
 not
-0
+
 (just) as
 the
-0
+
 I think, believe; I seem
 for
 that, because, since
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I listen to
 not
@@ -2704,7 +2704,7 @@ the
 bread
 I
 the
-0
+
 I give
 I
 today
@@ -2712,7 +2712,7 @@ and, also, likewise
 I leave, let go, pardon
 I
 the
-0
+
 I
 as, like, so
 and, also, likewise
@@ -2771,7 +2771,7 @@ I am, become, happen
 as, like, so
 the
 hypocrite
-0
+
 I make invisible, unrecognizable
 for
 the
@@ -2814,7 +2814,7 @@ you
 the
 (with dat.) in
 the
-0
+
 and, also, likewise
 the
 father
@@ -2823,7 +2823,7 @@ the
 I see, look
 (with dat.) in
 the
-0
+
 I give away, give up; I render
 you
 not
@@ -2834,14 +2834,14 @@ treasure
 the
 earth
 where, insofar as
-0
+
 and, also, likewise
 eating, rust, food
 I make invisible, unrecognizable
 and, also, likewise
 where, insofar as
 thief
-0
+
 and, also, likewise
 I steal
 I store up
@@ -2852,7 +2852,7 @@ treasure
 heaven
 where, insofar as
 neither, nor
-0
+
 neither, nor
 eating, rust, food
 I make invisible, unrecognizable
@@ -2860,7 +2860,7 @@ and, also, likewise
 where, insofar as
 thief
 no, not
-0
+
 and not, nor; neither, nor
 I steal
 where, insofar as
@@ -2888,7 +2888,7 @@ I am
 the
 eye
 you
-0
+
 whole, complete
 the
 body
@@ -2906,7 +2906,7 @@ whole, complete
 the
 body
 you
-0
+
 I am
 if
 therefore, then
@@ -2936,7 +2936,7 @@ other, another, different
 I love
 or, either
 one
-0
+
 and, also, likewise
 the
 other, another, different
@@ -2946,7 +2946,7 @@ I can
 God, god
 I am a slave, serve
 and, also, likewise
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 this
 I say, tell
@@ -2957,7 +2957,7 @@ the
 soul
 you
 who? which one? what?
-0
+
 or, either
 who? which one? what?
 I drink
@@ -2970,7 +2970,7 @@ I clothe
 not
 the
 soul
-0
+
 I am
 the
 food
@@ -3018,16 +3018,16 @@ I add
 the
 age, stature
 he, she, it; himself, herself, itself; even, very; same
-0
+
 one
 and, also, likewise
 (with gen.) about, concerning; (with acc.) around, near
 garment, clothing
 who? which one? what?
 I am anxious; I care for
-0
+
 the
-0
+
 the
 field, farm
 how?
@@ -3035,7 +3035,7 @@ I grow, increase
 no, not
 I work
 and not, nor; neither, nor
-0
+
 I say, tell
 but, and (frequently untranslated)
 you
@@ -3062,14 +3062,14 @@ I am
 and, also, likewise
 tomorrow
 into, in
-0
+
 I throw, place
 the
 God, god
 in this manner, thus, so
-0
+
 no, not
-0
+
 more, rather
 you
 of little faith
@@ -3078,7 +3078,7 @@ therefore, then
 I am anxious; I care for
 I say, tell
 who? which one? what?
-0
+
 or, either
 who? which one? what?
 I drink
@@ -3104,7 +3104,7 @@ this
 all, every
 I seek, look for, ask
 but, and (frequently untranslated)
-0
+
 the
 kingdom, reign
 and, also, likewise
@@ -3126,8 +3126,8 @@ the
 for
 tomorrow
 I am anxious; I care for
-0
-0
+
+
 the
 day
 the
@@ -3174,7 +3174,7 @@ no, not
 I consider
 or, either
 how?
-0
+
 the
 brother
 you
@@ -3196,7 +3196,7 @@ eye
 you
 hypocrite
 I throw out, expel
-0
+
 from, out of
 the
 eye
@@ -3205,7 +3205,7 @@ the
 beam
 and, also, likewise
 then
-0
+
 I throw out, expel
 the
 speck, chip
@@ -3295,7 +3295,7 @@ you
 wicked, bad
 I am
 I know
-0
+
 good
 I give
 the
@@ -3341,30 +3341,30 @@ prophet
 I enter
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 gate, door
 that, because, since
-0
+
 the
 gate, door
 and, also, likewise
-0
+
 the
 way
 the
-0
+
 into, in
 the
 destruction
 and, also, likewise
-0
+
 I am
 the
 I enter
 (with gen.) through; (with acc.) because of, for the sake of
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
-0
+
 the
 gate, door
 and, also, likewise
@@ -3372,7 +3372,7 @@ I afflict, oppress
 the
 way
 the
-0
+
 into, in
 the
 life
@@ -3386,7 +3386,7 @@ I pay attention
 (with gen.) from, away from
 the
 false prophet
-0
+
 I come, go
 (with dat.) near, at; (with acc.) to, toward
 you
@@ -3408,17 +3408,17 @@ he, she, it; himself, herself, itself; even, very; same
 I collect
 (with gen.) from, away from
 thorn-plant
-0
+
 or, either
 (with gen.) from, away from
-0
-0
+
+
 in this manner, thus, so
 all, every
 tree
 good
 fruit
-0
+
 I do, make
 the
 but, and (frequently untranslated)
@@ -3438,14 +3438,14 @@ and not, nor; neither, nor
 tree
 rotten
 fruit
-0
+
 I bear, carry
 all, every
 tree
 not
 I do, make
 fruit
-0
+
 I cut off, cut down
 and, also, likewise
 into, in
@@ -3483,8 +3483,8 @@ the
 (with dat.) in
 the
 heaven
-0
-0
+
+
 I
 (with dat.) in
 that
@@ -3508,7 +3508,7 @@ the
 your, yours
 name
 power, strength
-0
+
 I do, make
 and, also, likewise
 then
@@ -3518,7 +3518,7 @@ that, because, since
 never
 I know
 you
-0
+
 (with gen.) from, away from
 I
 the
@@ -3527,7 +3527,7 @@ the
 lawlessness
 all, every
 therefore, then
-0
+
 I hear
 I
 the
@@ -3539,7 +3539,7 @@ he, she, it; himself, herself, itself; even, very; same
 I liken, compare
 man
 sensible, thoughtful
-0
+
 I build
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -3550,7 +3550,7 @@ rock, stone
 and, also, likewise
 I come down, go down
 the
-0
+
 and, also, likewise
 I come, go
 the
@@ -3587,7 +3587,7 @@ he, she, it; himself, herself, itself; even, very; same
 I liken, compare
 man
 foolish, stupid
-0
+
 I build
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -3598,7 +3598,7 @@ sand
 and, also, likewise
 I come down, go down
 the
-0
+
 and, also, likewise
 I come, go
 the
@@ -3617,7 +3617,7 @@ I fall
 and, also, likewise
 I am
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 large, great
 and, also, likewise
@@ -3658,7 +3658,7 @@ mountain, hill
 I follow
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 and, also, likewise
 I see
 leprous
@@ -3676,7 +3676,7 @@ and, also, likewise
 I extend
 the
 hand
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 I wish, will
@@ -3686,7 +3686,7 @@ immediately
 I make clean, purify
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -3732,7 +3732,7 @@ I throw, place
 the
 household
 lame; (as a noun) a paralytic
-0
+
 I torture, torment
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -3753,10 +3753,10 @@ in order that, that
 I
 (with gen.) by; (with acc.) under
 the
-0
+
 I enter
 but, rather, yet
-0
+
 I say, tell
 word, Word
 and, also, likewise
@@ -3818,7 +3818,7 @@ I say, tell
 but, and (frequently untranslated)
 you
 that, because, since
-0
+
 (with gen.) from, away from
 rising, east
 and, also, likewise
@@ -3847,7 +3847,7 @@ into, in
 the
 darkness
 the
-0
+
 there, to that place
 I am
 the
@@ -3890,9 +3890,9 @@ mother-in-law
 he, she, it; himself, herself, itself; even, very; same
 I throw, place
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 the
 hand
 he, she, it; himself, herself, itself; even, very; same
@@ -3912,7 +3912,7 @@ I am, become, happen
 I bring to, offer
 he, she, it; himself, herself, itself; even, very; same
 I am demon-possessed
-0
+
 and, also, likewise
 I throw out, expel
 the
@@ -3927,7 +3927,7 @@ I care for, heal
 (adv.) how; (conj.) that, in order that
 I fill, make full, finish
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 Isaiah
 the
@@ -3972,15 +3972,15 @@ he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
 the
-0
-0
+
+
 I have, hold
 and, also, likewise
 the
 bird
 the
 heaven
-0
+
 the
 but, and (frequently untranslated)
 son
@@ -4001,7 +4001,7 @@ he, she, it; himself, herself, itself; even, very; same
 master, lord, the Lord
 I permit
 I
-0
+
 I go away
 and, also, likewise
 I bury
@@ -4021,7 +4021,7 @@ the
 dead
 I bury
 the
-0
+
 dead
 and, also, likewise
 I go in, embark
@@ -4064,7 +4064,7 @@ and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
-0
+
 I am
 of little faith
 then
@@ -4077,7 +4077,7 @@ the
 sea
 and, also, likewise
 I am, become, happen
-0
+
 large, great
 the
 but, and (frequently untranslated)
@@ -4106,7 +4106,7 @@ into, in
 the
 country, land
 the
-0
+
 I meet, fight, oppose
 he, she, it; himself, herself, itself; even, very; same
 two
@@ -4115,7 +4115,7 @@ from, out of
 the
 grave, tomb
 I go out, come out
-0
+
 very (much)
 therefore, so that
 not
@@ -4150,11 +4150,11 @@ far away
 he, she, it; himself, herself, itself; even, very; same
 herd
 swine
-0
+
 I tend, feed
 the
 but, and (frequently untranslated)
-0
+
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
@@ -4187,7 +4187,7 @@ the
 herd
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 into, in
 the
 sea
@@ -4218,7 +4218,7 @@ the
 city
 I go out, come out
 into, in
-0
+
 the
 Jesus, Joshua
 and, also, likewise
@@ -4273,7 +4273,7 @@ the
 scribe
 I say, tell
 (with dat.) in
-0
+
 this
 I blaspheme
 and, also, likewise
@@ -4281,12 +4281,12 @@ I know
 the
 Jesus, Joshua
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 in order that, that
 who? which one? what?
-0
+
 wicked, bad
 (with dat.) in
 the
@@ -4368,7 +4368,7 @@ human being, person
 I sit, sit down
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 Matthew
 I say, tell
 and, also, likewise
@@ -4389,7 +4389,7 @@ the
 household
 and, also, likewise
 I see
-0
+
 tax collector
 and, also, likewise
 sinful
@@ -4416,7 +4416,7 @@ the
 tax collector
 and, also, likewise
 sinful
-0
+
 the
 teacher
 you
@@ -4481,7 +4481,7 @@ I can
 the
 son
 the
-0
+
 I grieve, mourn
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 as great, how great; as far, how far
@@ -4494,7 +4494,7 @@ I come, go
 but, and (frequently untranslated)
 day
 whenever, when
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -4505,9 +4505,9 @@ I fast
 no one, nothing
 but, and (frequently untranslated)
 I put around, clothe
-0
-0
-0
+
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 garment
 old
@@ -4532,7 +4532,7 @@ wine-skin
 old
 if
 but, and (frequently untranslated)
-0
+
 I tear, break
 the
 wine-skin
@@ -4553,7 +4553,7 @@ wine-skin
 new
 and, also, likewise
 both, all
-0
+
 this
 he, she, it; himself, herself, itself; even, very; same
 I speak
@@ -4594,12 +4594,12 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I see
 woman
-0
+
 twelve
 year
 I go to, approach
 from behind
-0
+
 the
 hem, tassel
 the
@@ -4608,10 +4608,10 @@ he, she, it; himself, herself, itself; even, very; same
 I say, tell
 for
 (with dat.) in
-0
+
 if
-0
-0
+
+
 the
 garment
 he, she, it; himself, herself, itself; even, very; same
@@ -4651,11 +4651,11 @@ ruler, lord, authority
 and, also, likewise
 I see
 the
-0
+
 and, also, likewise
 the
 multitude
-0
+
 I say, tell
 I go away, take refuge
 no, not
@@ -4666,7 +4666,7 @@ little girl
 but, rather, yet
 I sleep
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 when
 but, and (frequently untranslated)
@@ -4685,7 +4685,7 @@ little girl
 and, also, likewise
 I go out, come out
 the
-0
+
 this
 into, in
 whole, complete
@@ -4731,7 +4731,7 @@ he, she, it; himself, herself, itself; even, very; same
 yes, indeed
 master, lord, the Lord
 then
-0
+
 the
 eye
 he, she, it; himself, herself, itself; even, very; same
@@ -4759,7 +4759,7 @@ I know
 the
 but, and (frequently untranslated)
 I go out, come out
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 whole, complete
@@ -4831,7 +4831,7 @@ all, every
 disease, illness
 and, also, likewise
 all, every
-0
+
 I see
 but, and (frequently untranslated)
 the
@@ -4841,9 +4841,9 @@ I feel sympathy for
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 I am
-0
+
 and, also, likewise
-0
+
 as, like
 sheep
 not
@@ -4857,7 +4857,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 indeed, on the one hand (but often untranslatable)
 harvest
-0
+
 the
 but, and (frequently untranslated)
 workman, doer
@@ -4895,7 +4895,7 @@ all, every
 disease, illness
 and, also, likewise
 all, every
-0
+
 the
 but, and (frequently untranslated)
 twelve
@@ -4904,7 +4904,7 @@ the
 name
 I am
 this
-0
+
 Simon
 the
 I say, tell
@@ -4926,7 +4926,7 @@ brother
 he, she, it; himself, herself, itself; even, very; same
 Philip
 and, also, likewise
-0
+
 Thomas
 and, also, likewise
 Matthew
@@ -4937,12 +4937,12 @@ the
 the
 Alphaeus
 and, also, likewise
-0
+
 Simon
 the
-0
+
 and, also, likewise
-0
+
 the
 Iscariot
 the
@@ -5038,7 +5038,7 @@ city
 or, either
 village
 I enter
-0
+
 who? which one? what?
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
@@ -5099,7 +5099,7 @@ or, either
 the
 city
 that
-0
+
 the
 dust
 the
@@ -5113,7 +5113,7 @@ I am
 earth
 Sodom
 and, also, likewise
-0
+
 (with dat.) in
 day
 judging, judgment
@@ -5137,7 +5137,7 @@ as, like, so
 the
 snake, serpent
 and, also, likewise
-0
+
 as, like, so
 the
 pigeon, dove
@@ -5218,7 +5218,7 @@ and, also, likewise
 father
 child
 and, also, likewise
-0
+
 child
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 parents
@@ -5282,7 +5282,7 @@ slave
 the
 master, lord, the Lord
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 learner, disciple
 in order that, that
@@ -5306,7 +5306,7 @@ I name; (mid.) I call upon
 how great? how much? how many?
 more, rather
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 not
 therefore, then
@@ -5372,8 +5372,8 @@ I ruin, destroy
 Gehenna, hell
 not
 two
-0
-0
+
+
 I sell
 and, also, likewise
 one
@@ -5384,7 +5384,7 @@ I fall
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
-0
+
 the
 father
 you
@@ -5396,18 +5396,18 @@ hair
 the
 head
 all, every
-0
+
 I am
 not
 therefore, then
 I fear
-0
-0
+
+
 I differ, am superior
 you
 all, every
 therefore, then
-0
+
 I confess
 (with dat.) in
 I
@@ -5426,7 +5426,7 @@ the
 (with dat.) in
 the
 heaven
-0
+
 but, and (frequently untranslated)
 (an untranslatable conditional particle)
 I deny
@@ -5462,7 +5462,7 @@ but, rather, yet
 sword
 I come, go
 for
-0
+
 human being, person
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -5485,7 +5485,7 @@ hostile; (as a noun) enemy
 the
 human being, person
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 I love, like; I kiss
@@ -5583,8 +5583,8 @@ the
 small
 this
 a drink
-0
-0
+
+
 into, in
 name
 learner, disciple
@@ -5624,7 +5624,7 @@ John
 I hear
 (with dat.) in
 the
-0
+
 the
 work, deed
 the
@@ -5684,7 +5684,7 @@ I
 this
 but, and (frequently untranslated)
 I go, proceed
-0
+
 the
 Jesus, Joshua
 I say, tell
@@ -5708,12 +5708,12 @@ I go out, come out
 I see
 human being, person
 (with dat.) in
-0
-0
+
+
 I see
 the
 the
-0
+
 I bear, wear
 (with dat.) in
 the
@@ -5758,7 +5758,7 @@ you
 no, not
 I raise
 (with dat.) in
-0
+
 woman
 large, great
 John
@@ -5788,9 +5788,9 @@ the
 kingdom, reign
 the
 heaven
-0
+
 and, also, likewise
-0
+
 I seize, steal
 he, she, it; himself, herself, itself; even, very; same
 all, every
@@ -5835,12 +5835,12 @@ I call at, address
 the
 other, another, different
 I say, tell
-0
+
 you
 and, also, likewise
 no, not
-0
-0
+
+
 and, also, likewise
 no, not
 I cut
@@ -5848,7 +5848,7 @@ I come, go
 for
 John
 and not, neither, nor
-0
+
 and not, neither, nor
 I drink
 and, also, likewise
@@ -5860,16 +5860,16 @@ the
 son
 the
 human being, person
-0
+
 and, also, likewise
 I drink
 and, also, likewise
 I say, tell
 I see
 human being, person
-0
+
 and, also, likewise
-0
+
 tax collector
 beloved, loving; (as a noun) friend
 and, also, likewise
@@ -5883,7 +5883,7 @@ the
 work, deed
 he, she, it; himself, herself, itself; even, very; same
 then
-0
+
 I reproach, insult
 the
 city
@@ -5891,7 +5891,7 @@ city
 who, which, what
 I am, become, happen
 the
-0
+
 power, strength
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
@@ -5899,7 +5899,7 @@ no, not
 I repent, am converted
 woe, alas
 you
-0
+
 woe, alas
 you
 Bethsaida
@@ -5919,9 +5919,9 @@ you
 long ago, for a long time
 (an untranslatable conditional particle)
 (with dat.) in
-0
+
 and, also, likewise
-0
+
 I repent, am converted
 but, except
 I say, tell
@@ -5944,7 +5944,7 @@ until
 heaven
 I lift up
 until
-0
+
 I come down, go down
 that, because, since
 if
@@ -5998,7 +5998,7 @@ this
 (with gen.) from, away from
 wise
 and, also, likewise
-0
+
 and, also, likewise
 I reveal
 he, she, it; himself, herself, itself; even, very; same
@@ -6051,7 +6051,7 @@ all, every
 the
 I work
 and, also, likewise
-0
+
 and I, but I
 I give rest, refresh
 you
@@ -6066,7 +6066,7 @@ I learn
 (with gen.) from, away from
 I
 that, because, since
-0
+
 I am
 and, also, likewise
 lowly, humble
@@ -6087,7 +6087,7 @@ and, also, likewise
 the
 burden, load
 I
-0
+
 I am
 (with dat.) in
 that
@@ -6100,18 +6100,18 @@ the
 Sabbath, week
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
 but, and (frequently untranslated)
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 I hunger
 and, also, likewise
-0
-0
-0
+
+
+
 and, also, likewise
-0
+
 the
 but, and (frequently untranslated)
 a Pharisee
@@ -6156,13 +6156,13 @@ the
 bread
 the
 presentation; plan
-0
+
 who, which, what
 no, not
 it is permitted, possible
 I am
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and not, nor; neither, nor
 the
 (with gen.) with; (with acc.) after, behind
@@ -6171,7 +6171,7 @@ if
 not
 the
 priest
-0
+
 or, either
 no, not
 I read
@@ -6185,19 +6185,19 @@ the
 priest
 (with dat.) in
 the
-0
+
 the
 Sabbath, week
-0
+
 and, also, likewise
-0
+
 I am
 I say, tell
 but, and (frequently untranslated)
 you
 that, because, since
 the
-0
+
 large, great
 I am
 here
@@ -6215,7 +6215,7 @@ no, not
 (an untranslatable conditional particle)
 I condemn
 the
-0
+
 master, lord, the Lord
 for
 I am
@@ -6271,7 +6271,7 @@ this
 the
 Sabbath, week
 into, in
-0
+
 not
 I take hold of, hold fast
 he, she, it; himself, herself, itself; even, very; same
@@ -6324,7 +6324,7 @@ from there
 and, also, likewise
 I follow
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I care for, heal
 he, she, it; himself, herself, itself; even, very; same
@@ -6340,7 +6340,7 @@ I do, make
 in order that, that
 I fill, make full, finish
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 Isaiah
 the
@@ -6351,7 +6351,7 @@ the
 child
 I
 who, which, what
-0
+
 the
 beloved, dear
 I
@@ -6372,7 +6372,7 @@ the
 nation, the Gentiles
 I report, proclaim
 no, not
-0
+
 and not, nor; neither, nor
 I cry out, shout
 and not, nor; neither, nor
@@ -6380,24 +6380,24 @@ I hear
 anyone, anything; someone, something
 (with dat.) in
 the
-0
+
 the
 sound, voice
 he, she, it; himself, herself, itself; even, very; same
 reed
 I shatter, break
 no, not
-0
+
 and, also, likewise
-0
-0
+
+
 no, not
 I extinguish
 until
 (an untranslatable conditional particle)
 I throw out, expel
 into, in
-0
+
 the
 judging, judgment
 and, also, likewise
@@ -6456,7 +6456,7 @@ demon, evil spirit
 I know
 but, and (frequently untranslated)
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -6464,7 +6464,7 @@ all, every
 kingdom, reign
 I divide, separate
 (with gen.) down, against; (with acc.) according to, along
-0
+
 (pass.) I am laid waste
 and, also, likewise
 all, every
@@ -6473,7 +6473,7 @@ or, either
 household
 I divide, separate
 (with gen.) down, against; (with acc.) according to, along
-0
+
 no, not
 I place, set, stand
 and, also, likewise
@@ -6484,7 +6484,7 @@ the
 the Adversary, Satan
 I throw out, expel
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 I divide, separate
 how?
 therefore, then
@@ -6546,7 +6546,7 @@ he, she, it; himself, herself, itself; even, very; same
 I seize, steal
 if
 not
-0
+
 I bind, tie
 the
 strong, powerful
@@ -6555,7 +6555,7 @@ then
 the
 household
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 not
 I am
@@ -6626,12 +6626,12 @@ or, either
 I do, make
 the
 tree
-0
+
 and, also, likewise
 the
 fruit
 he, she, it; himself, herself, itself; even, very; same
-0
+
 or, either
 I do, make
 the
@@ -6649,7 +6649,7 @@ fruit
 the
 tree
 I know
-0
+
 viper
 how?
 I can
@@ -6761,7 +6761,7 @@ Jonah
 the
 womb, belly
 the
-0
+
 three
 day
 and, also, likewise
@@ -6784,7 +6784,7 @@ and, also, likewise
 three
 night
 man
-0
+
 I raise, rise, stand up
 (with dat.) in
 the
@@ -6804,10 +6804,10 @@ proclamation, preaching
 Jonah
 and, also, likewise
 I see
-0
+
 Jonah
 here
-0
+
 south, south wind
 I raise
 (with dat.) in
@@ -6824,7 +6824,7 @@ that, because, since
 I come, go
 from, out of
 the
-0
+
 the
 earth
 I hear
@@ -6833,7 +6833,7 @@ wisdom
 Solomon
 and, also, likewise
 I see
-0
+
 Solomon
 here
 whenever, when
@@ -6847,7 +6847,7 @@ the
 human being, person
 I go through
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 place
 I seek, look for, ask
 rest, resting place
@@ -6866,9 +6866,9 @@ I go out, come out
 and, also, likewise
 I come, go
 I find, discover
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 I adorn, beautify
 then
@@ -6876,12 +6876,12 @@ I go, proceed
 and, also, likewise
 I take, take with
 (with gen.) with; (with acc.) after, behind
-0
+
 seven
 other, another, different
 breath, spirit
 wicked, bad
-0
+
 and, also, likewise
 I enter
 I live, dwell in
@@ -6895,7 +6895,7 @@ human being, person
 that
 worse
 the
-0
+
 in this manner, thus, so
 I am
 and, also, likewise
@@ -6974,7 +6974,7 @@ and, also, likewise
 the
 brother
 I
-0
+
 for
 (an untranslatable conditional particle)
 I do, make
@@ -7012,7 +7012,7 @@ I gather together
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 therefore, so that
 he, she, it; himself, herself, itself; even, very; same
 into, in
@@ -7030,7 +7030,7 @@ I place, set, stand
 and, also, likewise
 I speak
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 parable
 I say, tell
@@ -7062,15 +7062,15 @@ but, and (frequently untranslated)
 I fall
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 where, insofar as
 no, not
 I have, hold
 earth
-0
+
 and, also, likewise
 immediately
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 not
@@ -7080,7 +7080,7 @@ earth
 sun
 but, and (frequently untranslated)
 I rise up
-0
+
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -7099,7 +7099,7 @@ I go up, embark
 the
 thorn-plant
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 another, other
 but, and (frequently untranslated)
@@ -7108,7 +7108,7 @@ I fall
 the
 earth
 the
-0
+
 and, also, likewise
 I give
 fruit
@@ -7155,14 +7155,14 @@ that
 but, and (frequently untranslated)
 no, not
 I give
-0
+
 for
 I have, hold
 I give
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I have an abundance, am rich
-0
+
 but, and (frequently untranslated)
 no, not
 I have, hold
@@ -7209,7 +7209,7 @@ and, also, likewise
 no, not
 not
 I see
-0
+
 for
 the
 heart
@@ -7219,13 +7219,13 @@ this
 and, also, likewise
 the
 ear
-0
+
 I hear
 and, also, likewise
 the
 eye
 he, she, it; himself, herself, itself; even, very; same
-0
+
 not
 when?
 I see
@@ -7262,7 +7262,7 @@ for
 I say, tell
 you
 that, because, since
-0
+
 prophet
 and, also, likewise
 righteous, just
@@ -7318,7 +7318,7 @@ the
 but, and (frequently untranslated)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 I sow
 this
 I am
@@ -7337,9 +7337,9 @@ I have, hold
 but, and (frequently untranslated)
 root
 (with dat.) in
-0
+
 but, rather, yet
-0
+
 I am
 I am, become, happen
 but, and (frequently untranslated)
@@ -7383,7 +7383,7 @@ the
 but, and (frequently untranslated)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 earth
 I sow
 this
@@ -7420,8 +7420,8 @@ the
 heaven
 human being, person
 I sow
-0
-0
+
+
 (with dat.) in
 the
 field, farm
@@ -7437,7 +7437,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 hostile; (as a noun) enemy
 and, also, likewise
-0
+
 weed
 (with acc.) up; (with numbers) each, apiece
 middle, in the middle
@@ -7447,7 +7447,7 @@ and, also, likewise
 I go away
 when
 but, and (frequently untranslated)
-0
+
 the
 grass, hay
 and, also, likewise
@@ -7468,8 +7468,8 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 master, lord, the Lord
 not
-0
-0
+
+
 I sow
 (with dat.) in
 the
@@ -7506,13 +7506,13 @@ when?
 I collect
 the
 weed
-0
+
 together
 he, she, it; himself, herself, itself; even, very; same
 the
 wheat, grain
 I leave, let go, pardon
-0
+
 both, all
 until
 the
@@ -7522,18 +7522,18 @@ and, also, likewise
 time, right time
 the
 harvest
-0
+
 the
-0
+
 I collect
-0
+
 the
 weed
 and, also, likewise
 I bind, tie
 he, she, it; himself, herself, itself; even, very; same
 into, in
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 I burn down, consume
@@ -7573,13 +7573,13 @@ indeed, on the one hand (but often untranslatable)
 I am
 all, every
 the
-0
+
 whenever, when
 but, and (frequently untranslated)
 I grow, increase
 large, great
 the
-0
+
 I am
 and, also, likewise
 I am, become, happen
@@ -7591,7 +7591,7 @@ bird
 the
 heaven
 and, also, likewise
-0
+
 (with dat.) in
 the
 branch
@@ -7610,14 +7610,14 @@ yeast, leaven
 who, which, what
 I take, receive
 woman
-0
+
 into, in
-0
-0
+
+
 three
 until
 who, which, what
-0
+
 whole, complete
 this
 all, every
@@ -7637,7 +7637,7 @@ he, she, it; himself, herself, itself; even, very; same
 (adv.) how; (conj.) that, in order that
 I fill, make full, finish
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 prophet
@@ -7648,7 +7648,7 @@ parable
 the
 mouth
 I
-0
+
 I hide
 (with gen.) from, away from
 foundation
@@ -7667,7 +7667,7 @@ the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
-0
+
 I
 the
 parable
@@ -7682,8 +7682,8 @@ I say, tell
 the
 I sow
 the
-0
-0
+
+
 I am
 the
 son
@@ -7697,8 +7697,8 @@ the
 the world
 the
 but, and (frequently untranslated)
-0
-0
+
+
 this
 I am
 the
@@ -7730,7 +7730,7 @@ age, eternity
 I am
 the
 but, and (frequently untranslated)
-0
+
 angel, messenger
 I am
 (just) as
@@ -7775,7 +7775,7 @@ I throw, place
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
-0
+
 the
 fire
 there, to that place
@@ -7790,7 +7790,7 @@ tooth
 then
 the
 righteous, just
-0
+
 as, like, so
 the
 sun
@@ -7843,12 +7843,12 @@ the
 heaven
 merchant
 I seek, look for, ask
-0
+
 pearl
 I find, discover
 but, and (frequently untranslated)
 one
-0
+
 pearl
 I go away
 I sell
@@ -7865,7 +7865,7 @@ the
 kingdom, reign
 the
 heaven
-0
+
 I throw, place
 into, in
 the
@@ -7878,7 +7878,7 @@ I gather together
 who, which, what
 when
 I fill, make full, finish
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 shore
@@ -7886,9 +7886,9 @@ and, also, likewise
 I sit down, cause to sit down; stay (intrans.)
 I collect
 the
-0
+
 into, in
-0
+
 the
 but, and (frequently untranslated)
 rotten
@@ -7917,7 +7917,7 @@ I throw, place
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
-0
+
 the
 fire
 there, to that place
@@ -7943,7 +7943,7 @@ he, she, it; himself, herself, itself; even, very; same
 this
 all, every
 scribe
-0
+
 the
 kingdom, reign
 the
@@ -7952,7 +7952,7 @@ like, similar
 I am
 human being, person
 the master of the house
-0
+
 I throw out, expel
 from, out of
 the
@@ -7970,7 +7970,7 @@ Jesus, Joshua
 the
 parable
 this
-0
+
 from there
 and, also, likewise
 I come, go
@@ -8002,7 +8002,7 @@ this
 I am
 the
 the
-0
+
 son
 no, not
 the
@@ -8020,7 +8020,7 @@ Joseph
 and, also, likewise
 Simon
 and, also, likewise
-0
+
 and, also, likewise
 the
 sister
@@ -8047,7 +8047,7 @@ he, she, it; himself, herself, itself; even, very; same
 no, not
 I am
 prophet
-0
+
 if
 not
 (with dat.) in
@@ -8063,7 +8063,7 @@ no, not
 I do, make
 there, to that place
 power, strength
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 unfaithfulness, unbelief
@@ -8075,7 +8075,7 @@ time, right time
 I hear
 Herod
 the
-0
+
 the
 hearing, ear, report
 Jesus, Joshua
@@ -8143,12 +8143,12 @@ as, like, so
 prophet
 he, she, it; himself, herself, itself; even, very; same
 I have, hold
-0
+
 but, and (frequently untranslated)
 I am, become, happen
 the
 Herod
-0
+
 the
 daughter
 the
@@ -8171,7 +8171,7 @@ if
 I ask, ask for
 the
 but, and (frequently untranslated)
-0
+
 (with gen.) by; (with acc.) under
 the
 mother
@@ -8201,7 +8201,7 @@ I command, urge
 I give
 and, also, likewise
 I send
-0
+
 John
 (with dat.) in
 the
@@ -8257,14 +8257,14 @@ the
 multitude
 I follow
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) from, away from
 the
 city
 and, also, likewise
 I go out, come out
 I see
-0
+
 multitude
 and, also, likewise
 I feel sympathy for
@@ -8302,7 +8302,7 @@ into, in
 the
 village
 I buy
-0
+
 food
 the
 but, and (frequently untranslated)
@@ -8316,7 +8316,7 @@ I go away
 I give
 he, she, it; himself, herself, itself; even, very; same
 you
-0
+
 the
 but, and (frequently untranslated)
 I say, tell
@@ -8372,7 +8372,7 @@ learner, disciple
 the
 multitude
 and, also, likewise
-0
+
 all, every
 and, also, likewise
 I feed, fill; (pass.) I eat my fill
@@ -8387,7 +8387,7 @@ basket
 full, complete
 the
 but, and (frequently untranslated)
-0
+
 I am
 man
 as, like
@@ -8430,7 +8430,7 @@ I pray
 evening
 but, and (frequently untranslated)
 I am, become, happen
-0
+
 I am
 there, to that place
 the
@@ -8438,7 +8438,7 @@ but, and (frequently untranslated)
 boat, ship
 now, already
 stade, 192 meters
-0
+
 (with gen.) from, away from
 the
 earth
@@ -8476,7 +8476,7 @@ I go about, walk around
 I trouble
 I say, tell
 that, because, since
-0
+
 I am
 and, also, likewise
 (with gen.) from, away from
@@ -8538,8 +8538,8 @@ the
 wind
 I fear
 and, also, likewise
-0
-0
+
+
 I cry, call out
 I say, tell
 master, lord, the Lord
@@ -8560,14 +8560,14 @@ he, she, it; himself, herself, itself; even, very; same
 of little faith
 into, in
 who? which one? what?
-0
+
 and, also, likewise
 I go up, embark
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
 boat, ship
-0
+
 the
 wind
 the
@@ -8589,7 +8589,7 @@ I come, go
 the
 earth
 into, in
-0
+
 and, also, likewise
 I know, understand
 he, she, it; himself, herself, itself; even, very; same
@@ -8615,8 +8615,8 @@ and, also, likewise
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
-0
-0
+
+
 the
 hem, tassel
 the
@@ -8624,7 +8624,7 @@ garment
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 as great, how great; as far, how far
-0
+
 I save
 then
 I go to, approach
@@ -8641,7 +8641,7 @@ who? which one? what?
 the
 learner, disciple
 you
-0
+
 the
 handing over, tradition
 the
@@ -8653,7 +8653,7 @@ the
 hand
 whenever, when
 bread
-0
+
 the
 but, and (frequently untranslated)
 I answer, reply
@@ -8663,7 +8663,7 @@ he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
 and, also, likewise
 you
-0
+
 the
 commandment, order
 the
@@ -8684,7 +8684,7 @@ the
 mother
 and, also, likewise
 the
-0
+
 father
 or, either
 mother
@@ -8718,7 +8718,7 @@ the
 mother
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 word, Word
 the
@@ -8745,17 +8745,17 @@ the
 but, and (frequently untranslated)
 heart
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I receive; I am distant; I abstain
 (with gen.) from, away from
 I
-0
+
 but, and (frequently untranslated)
 I worship
 I
 I teach
 teaching, instruction
-0
+
 human being, person
 and, also, likewise
 I call, invite
@@ -8804,7 +8804,7 @@ but, and (frequently untranslated)
 I answer, reply
 I say, tell
 all, every
-0
+
 who, which, what
 no, not
 I plant
@@ -8813,7 +8813,7 @@ father
 I
 the
 heavenly
-0
+
 I leave, let go, pardon
 he, she, it; himself, herself, itself; even, very; same
 blind
@@ -8827,7 +8827,7 @@ if
 I lead, guide
 both, all
 into, in
-0
+
 I fall
 I answer, reply
 but, and (frequently untranslated)
@@ -8835,14 +8835,14 @@ the
 Peter
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I
 the
 parable
 the
 but, and (frequently untranslated)
 I say, tell
-0
+
 and, also, likewise
 you
 foolish
@@ -8862,7 +8862,7 @@ womb, belly
 I make room, contain
 and, also, likewise
 into, in
-0
+
 I throw out, expel
 the
 but, and (frequently untranslated)
@@ -8886,10 +8886,10 @@ I go out, come out
 thought, doubt, dispute
 wicked, bad
 murder, killing
-0
+
 prostitution, unchastity
-0
-0
+
+
 blasphemy
 this
 I am
@@ -8899,9 +8899,9 @@ the
 human being, person
 the
 but, and (frequently untranslated)
-0
+
 hand
-0
+
 no, not
 I make common, defile
 the
@@ -8921,7 +8921,7 @@ Sidon
 and, also, likewise
 I see
 woman
-0
+
 (with gen.) from, away from
 the
 region
@@ -8989,7 +8989,7 @@ I answer, reply
 I say, tell
 no, not
 I am
-0
+
 I take, receive
 the
 bread
@@ -8998,7 +8998,7 @@ child
 and, also, likewise
 I throw, place
 the
-0
+
 the
 but, and (frequently untranslated)
 I say, tell
@@ -9007,11 +9007,11 @@ master, lord, the Lord
 and, also, likewise
 for
 the
-0
-0
+
+
 (with gen.) from, away from
 the
-0
+
 the
 I fall
 (with gen.) from, away from
@@ -9026,7 +9026,7 @@ the
 Jesus, Joshua
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 woman
 large, great
 you
@@ -9067,19 +9067,19 @@ and, also, likewise
 I go to, approach
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 I have, hold
 (with gen.) with; (with acc.) after, behind
-0
+
 lame
-0
+
 blind
 mute, deaf
 and, also, likewise
 other, another, different
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
@@ -9095,7 +9095,7 @@ I wonder, marvel
 I see, look
 mute, deaf
 I speak
-0
+
 healthy, sound
 and, also, likewise
 lame
@@ -9130,11 +9130,11 @@ and, also, likewise
 no, not
 I have, hold
 who? which one? what?
-0
+
 and, also, likewise
 I set free, let go, send away
 he, she, it; himself, herself, itself; even, very; same
-0
+
 no, not
 I wish, will
 not
@@ -9151,7 +9151,7 @@ learner, disciple
 whence?
 I
 (with dat.) in
-0
+
 bread
 so great, so far, so much
 therefore, so that
@@ -9172,7 +9172,7 @@ I say, tell
 seven
 and, also, likewise
 few, little
-0
+
 and, also, likewise
 I command
 the
@@ -9201,7 +9201,7 @@ learner, disciple
 the
 multitude
 and, also, likewise
-0
+
 all, every
 and, also, likewise
 I feed, fill; (pass.) I eat my fill
@@ -9216,7 +9216,7 @@ basket
 full, complete
 the
 but, and (frequently untranslated)
-0
+
 I am
 four thousand
 man
@@ -9237,7 +9237,7 @@ I come, go
 into, in
 the
 region
-0
+
 and, also, likewise
 I go to, approach
 the
@@ -9261,8 +9261,8 @@ he, she, it; himself, herself, itself; even, very; same
 evening
 I am, become, happen
 I say, tell
-0
-0
+
+
 for
 the
 heaven
@@ -9270,9 +9270,9 @@ and, also, likewise
 early (in the morning)
 today
 winter, stormy weather
-0
+
 for
-0
+
 the
 heaven
 the
@@ -9338,7 +9338,7 @@ the
 but, and (frequently untranslated)
 I consider, reason
 (with dat.) in
-0
+
 I say, tell
 that, because, since
 bread
@@ -9352,7 +9352,7 @@ I say, tell
 who? which one? what?
 I consider, reason
 (with dat.) in
-0
+
 of little faith
 that, because, since
 bread
@@ -9455,7 +9455,7 @@ but, and (frequently untranslated)
 Elijah
 other, another, different
 but, and (frequently untranslated)
-0
+
 or, either
 one
 the
@@ -9492,7 +9492,7 @@ he, she, it; himself, herself, itself; even, very; same
 blessed, happy
 I am
 Simon
-0
+
 that, because, since
 flesh
 and, also, likewise
@@ -9527,9 +9527,9 @@ the
 church, congregation
 and, also, likewise
 gate, door
-0
+
 no, not
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I give
 you
@@ -9577,7 +9577,7 @@ the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 (with gen.) from, away from
 then
-0
+
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I point out, show
@@ -9591,7 +9591,7 @@ into, in
 Jerusalem
 I go away
 and, also, likewise
-0
+
 I suffer, endure
 (with gen.) from, away from
 the
@@ -9612,11 +9612,11 @@ I receive, accept
 he, she, it; himself, herself, itself; even, very; same
 the
 Peter
-0
+
 I rebuke, reprove
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
-0
+
 you
 master, lord, the Lord
 no, not
@@ -9661,7 +9661,7 @@ behind, back
 I
 I come, go
 I deny
-0
+
 and, also, likewise
 I lift up; I take away
 the
@@ -9709,7 +9709,7 @@ or, either
 who? which one? what?
 I give
 human being, person
-0
+
 the
 soul
 he, she, it; himself, herself, itself; even, very; same
@@ -9747,7 +9747,7 @@ anyone, anything; someone, something
 the
 here
 I place, set, stand
-0
+
 no, not
 not
 I taste; I come to know
@@ -9789,7 +9789,7 @@ high
 (with gen.) down, against; (with acc.) according to, along
 one’s own
 and, also, likewise
-0
+
 (adverb) in front, ahead; (prep., with gen.) in front of, before
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -9827,7 +9827,7 @@ I say, tell
 the
 Jesus, Joshua
 master, lord, the Lord
-0
+
 I am
 I
 here
@@ -9889,7 +9889,7 @@ I go to, approach
 the
 Jesus, Joshua
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 I raise
@@ -9907,7 +9907,7 @@ if
 not
 he, she, it; himself, herself, itself; even, very; same
 Jesus, Joshua
-0
+
 and, also, likewise
 I come down, go down
 he, she, it; himself, herself, itself; even, very; same
@@ -9947,7 +9947,7 @@ that, because, since
 Elijah
 it is necessary, one must
 I come, go
-0
+
 the
 but, and (frequently untranslated)
 I answer, reply
@@ -10004,7 +10004,7 @@ multitude
 I go to, approach
 he, she, it; himself, herself, itself; even, very; same
 human being, person
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I say, tell
@@ -10014,7 +10014,7 @@ I
 the
 son
 that, because, since
-0
+
 and, also, likewise
 wickedly, badly
 I have, hold
@@ -10045,7 +10045,7 @@ but, and (frequently untranslated)
 the
 Jesus, Joshua
 I say, tell
-0
+
 family, generation
 faithless, unbelieving
 and, also, likewise
@@ -10104,7 +10104,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 you
 so let it be, truly, amen
 for
@@ -10116,20 +10116,20 @@ faith, trust
 as, like, so
 seed, grain
 mustard
-0
+
 the
 mountain, hill
 this
 I go over, move
-0
+
 there, to that place
 and, also, likewise
 I go over, move
 and, also, likewise
 no one, nothing
-0
+
 you
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
@@ -10167,7 +10167,7 @@ Capernaum
 I go to, approach
 the
 the
-0
+
 I take, receive
 the
 Peter
@@ -10178,7 +10178,7 @@ teacher
 you
 no, not
 I finish, carry out
-0
+
 I say, tell
 yes, indeed
 and, also, likewise
@@ -10186,7 +10186,7 @@ I come, go
 into, in
 the
 household
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
@@ -10204,7 +10204,7 @@ who? which one? what?
 I take, receive
 end
 or, either
-0
+
 (with gen.) from, away from
 the
 son
@@ -10236,11 +10236,11 @@ I go, proceed
 into, in
 sea
 I throw, place
-0
+
 and, also, likewise
 the
 I go up, embark
-0
+
 fish
 I lift up; I take away
 and, also, likewise
@@ -10249,7 +10249,7 @@ the
 mouth
 he, she, it; himself, herself, itself; even, very; same
 I find, discover
-0
+
 that
 I take, receive
 I give
@@ -10269,7 +10269,7 @@ the
 Jesus, Joshua
 I say, tell
 who? which one? what?
-0
+
 large, great
 I am
 (with dat.) in
@@ -10306,10 +10306,10 @@ the
 kingdom, reign
 the
 heaven
-0
+
 therefore, then
 I make low, humble
-0
+
 as, like, so
 the
 infant, young child
@@ -10352,17 +10352,17 @@ I help, am profitable
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 I hang
-0
-0
+
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 neck, throat
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 (with dat.) in
 the
-0
+
 the
 sea
 woe, alas
@@ -10402,14 +10402,14 @@ and, also, likewise
 I throw, place
 (with gen.) from, away from
 you
-0
+
 you
 I am
 I enter
 into, in
 the
 life
-0
+
 or, either
 lame
 or, either
@@ -10438,10 +10438,10 @@ and, also, likewise
 I throw, place
 (with gen.) from, away from
 you
-0
+
 you
 I am
-0
+
 into, in
 the
 life
@@ -10500,8 +10500,8 @@ he, she, it; himself, herself, itself; even, very; same
 not
 I leave, let go, pardon
 the
-0
-0
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 mountain, hill
@@ -10526,8 +10526,8 @@ more, rather
 or, either
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
-0
+
+
 the
 not
 I lead astray, deceive
@@ -10561,7 +10561,7 @@ between
 you
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 if
 you
 I hear
@@ -10592,7 +10592,7 @@ all, every
 word, saying; thing, matter
 if
 but, and (frequently untranslated)
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 the
@@ -10602,12 +10602,12 @@ but, and (frequently untranslated)
 and, also, likewise
 the
 church, congregation
-0
+
 I am
 you
 (just) as
 the
-0
+
 and, also, likewise
 the
 tax collector
@@ -10686,7 +10686,7 @@ Peter
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 master, lord, the Lord
-0
+
 I sin
 into, in
 I
@@ -10697,7 +10697,7 @@ and, also, likewise
 I leave, let go, pardon
 he, she, it; himself, herself, itself; even, very; same
 until
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -10706,10 +10706,10 @@ no, not
 I say, tell
 you
 until
-0
+
 but, rather, yet
 until
-0
+
 seven
 (with gen.) through; (with acc.) because of, for the sake of
 this
@@ -10722,21 +10722,21 @@ human being, person
 king
 who, which, what
 I wish, will
-0
+
 word, Word
 (with gen.) with; (with acc.) after, behind
 the
 slave
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I bring, come near
 one
 he, she, it; himself, herself, itself; even, very; same
 debtor
-0
+
 talent
 not
 I have, hold
@@ -10785,7 +10785,7 @@ I set free, let go, send away
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 I leave, let go, pardon
 he, she, it; himself, herself, itself; even, very; same
 I go out, come out
@@ -10806,7 +10806,7 @@ denarius
 and, also, likewise
 I take hold of, hold fast
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 I give away, give up; I render
 if
@@ -10851,10 +10851,10 @@ I grieve; (pass.) I am sad, grieve
 very (much)
 and, also, likewise
 I come, go
-0
+
 the
 master, lord, the Lord
-0
+
 all, every
 the
 I am, become, happen
@@ -10870,7 +10870,7 @@ slave
 wicked, bad
 all, every
 the
-0
+
 that
 I leave, let go, pardon
 you
@@ -10897,7 +10897,7 @@ he, she, it; himself, herself, itself; even, very; same
 I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 until
 who, which, what
 I give away, give up; I render
@@ -10934,7 +10934,7 @@ Jesus, Joshua
 the
 word, Word
 this
-0
+
 (with gen.) from, away from
 the
 Galilee
@@ -10952,7 +10952,7 @@ and, also, likewise
 I follow
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 and, also, likewise
 I care for, heal
 he, she, it; himself, herself, itself; even, very; same
@@ -11024,7 +11024,7 @@ who, which, what
 therefore, then
 the
 God, god
-0
+
 human being, person
 not
 I divide, separate
@@ -11036,7 +11036,7 @@ Moses
 I command, order
 I give
 book, scroll
-0
+
 and, also, likewise
 I set free, let go, send away
 I say, tell
@@ -11045,7 +11045,7 @@ that, because, since
 Moses
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 you
 I permit
 you
@@ -11075,7 +11075,7 @@ prostitution, unchastity
 and, also, likewise
 I marry
 another, other
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -11109,7 +11109,7 @@ I give
 I am
 for
 eunuch
-0
+
 from, out of
 womb, belly
 mother
@@ -11118,17 +11118,17 @@ in this manner, thus, so
 and, also, likewise
 I am
 eunuch
-0
-0
+
+
 (with gen.) by; (with acc.) under
 the
 human being, person
 and, also, likewise
 I am
 eunuch
-0
-0
-0
+
+
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 kingdom, reign
@@ -11296,8 +11296,8 @@ I grieve; (pass.) I am sad, grieve
 I am
 for
 I have, hold
-0
-0
+
+
 the
 but, and (frequently untranslated)
 Jesus, Joshua
@@ -11310,7 +11310,7 @@ I say, tell
 you
 that, because, since
 rich
-0
+
 I enter
 into, in
 the
@@ -11325,8 +11325,8 @@ easier
 I am
 camel
 (with gen.) through; (with acc.) because of, for the sake of
-0
-0
+
+
 I enter
 or, either
 rich
@@ -11343,7 +11343,7 @@ I am amazed, overwhelmed
 very (much)
 I say, tell
 who? which one? what?
-0
+
 I can
 I save, deliver
 I look at
@@ -11376,7 +11376,7 @@ and, also, likewise
 I follow
 you
 who? which one? what?
-0
+
 I am
 I
 the
@@ -11394,7 +11394,7 @@ I follow
 I
 (with dat.) in
 the
-0
+
 whenever, when
 I sit down, cause to sit down; stay (intrans.)
 the
@@ -11419,7 +11419,7 @@ the
 Israel
 and, also, likewise
 all, every
-0
+
 I leave, let go, pardon
 household
 or, either
@@ -11438,20 +11438,20 @@ field, farm
 the
 my, mine
 name
-0
+
 I take, receive
 and, also, likewise
 life
 eternal
 I inherit, acquire
-0
+
 but, and (frequently untranslated)
 I am
-0
+
 last
 and, also, likewise
 last
-0
+
 like, similar
 for
 I am
@@ -11461,11 +11461,11 @@ the
 heaven
 human being, person
 the master of the house
-0
+
 I go out, come out
 together
 early (in the morning)
-0
+
 workman, doer
 into, in
 the
@@ -11530,7 +11530,7 @@ likewise
 (with gen.) about, concerning; (with acc.) around, near
 but, and (frequently untranslated)
 the
-0
+
 I go out, come out
 I find, discover
 another, other
@@ -11550,7 +11550,7 @@ he, she, it; himself, herself, itself; even, very; same
 that, because, since
 no one, nothing
 I
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I go, go away
@@ -11568,7 +11568,7 @@ master, lord, the Lord
 the
 vineyard
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I call
 the
@@ -11577,19 +11577,19 @@ and, also, likewise
 I give away, give up; I render
 the
 wages
-0
+
 (with gen.) from, away from
 the
 last
 until
 the
-0
+
 I come, go
 but, and (frequently untranslated)
 the
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 hour
 I take, receive
 (with acc.) up; (with numbers) each, apiece
@@ -11597,10 +11597,10 @@ denarius
 and, also, likewise
 I come, go
 the
-0
+
 I think, believe
 that, because, since
-0
+
 I take, receive
 and, also, likewise
 I take, receive
@@ -11635,14 +11635,14 @@ the
 day
 and, also, likewise
 the
-0
+
 the
 but, and (frequently untranslated)
 I answer, reply
 one
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
-0
+
 no, not
 I do wrong, treat unjustly
 you
@@ -11687,10 +11687,10 @@ in this manner, thus, so
 I am
 the
 last
-0
+
 and, also, likewise
 the
-0
+
 last
 I am about to, intend
 but, and (frequently untranslated)
@@ -11860,12 +11860,12 @@ the
 ruler, lord, authority
 the
 nation, the Gentiles
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
 large, great
-0
+
 he, she, it; himself, herself, itself; even, very; same
 no, not
 in this manner, thus, so
@@ -11890,7 +11890,7 @@ I wish, will
 (with dat.) in
 you
 I am
-0
+
 I am
 you
 slave
@@ -11909,9 +11909,9 @@ I give
 the
 soul
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) in place of, for
-0
+
 and, also, likewise
 I go out
 he, she, it; himself, herself, itself; even, very; same
@@ -11920,7 +11920,7 @@ Jericho
 I follow
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 and, also, likewise
 I see
 two
@@ -11981,9 +11981,9 @@ I feel sympathy for
 but, and (frequently untranslated)
 the
 Jesus, Joshua
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 immediately
@@ -11999,7 +11999,7 @@ Jerusalem
 and, also, likewise
 I come, go
 into, in
-0
+
 into, in
 the
 mountain, hill
@@ -12037,7 +12037,7 @@ anyone, anything; someone, something
 you
 I say, tell
 anyone, anything; someone, something
-0
+
 that, because, since
 the
 master, lord, the Lord
@@ -12054,7 +12054,7 @@ I am, become, happen
 in order that, that
 I fill, make full, finish
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 prophet
@@ -12069,7 +12069,7 @@ king
 you
 I come, go
 you
-0
+
 and, also, likewise
 I go up, upon
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -12078,7 +12078,7 @@ and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 ass’s foal, young donkey
 son
-0
+
 I go, proceed
 but, and (frequently untranslated)
 the
@@ -12086,7 +12086,7 @@ learner, disciple
 and, also, likewise
 I do, make
 as, just as
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
@@ -12103,15 +12103,15 @@ he, she, it; himself, herself, itself; even, very; same
 the
 garment
 and, also, likewise
-0
+
 above, over
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 multitude
 I spread
-0
+
 the
 garment
 (with dat.) in
@@ -12186,7 +12186,7 @@ I enter
 Jesus, Joshua
 into, in
 the
-0
+
 and, also, likewise
 I throw out, expel
 all, every
@@ -12196,16 +12196,16 @@ and, also, likewise
 I buy
 (with dat.) in
 the
-0
+
 and, also, likewise
 the
 table
 the
-0
-0
+
+
 and, also, likewise
 the
-0
+
 the
 I sell
 the
@@ -12234,7 +12234,7 @@ and, also, likewise
 lame
 (with dat.) in
 the
-0
+
 and, also, likewise
 I care for, heal
 he, she, it; himself, herself, itself; even, very; same
@@ -12246,7 +12246,7 @@ and, also, likewise
 the
 scribe
 the
-0
+
 who, which, what
 I do, make
 and, also, likewise
@@ -12256,7 +12256,7 @@ the
 I cry, call out
 (with dat.) in
 the
-0
+
 and, also, likewise
 I say, tell
 hosanna!
@@ -12286,7 +12286,7 @@ infant, minor
 and, also, likewise
 I give suck, nurse
 I mend, fit, perfect
-0
+
 and, also, likewise
 I leave behind
 he, she, it; himself, herself, itself; even, very; same
@@ -12297,11 +12297,11 @@ city
 into, in
 Bethany
 and, also, likewise
-0
+
 there, to that place
 early (in the morning)
 but, and (frequently untranslated)
-0
+
 into, in
 the
 city
@@ -12324,7 +12324,7 @@ he, she, it; himself, herself, itself; even, very; same
 if
 not
 leaf
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -12369,7 +12369,7 @@ and, also, likewise
 not
 I differentiate; (mid.) I doubt
 no, not
-0
+
 the
 the
 fig tree
@@ -12402,7 +12402,7 @@ I come, go
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
-0
+
 I go to, approach
 he, she, it; himself, herself, itself; even, very; same
 I teach
@@ -12443,7 +12443,7 @@ I say, tell
 I
 and I, but I
 you
-0
+
 (with dat.) in
 of what kind? which? what?
 power, authority
@@ -12464,13 +12464,13 @@ the
 but, and (frequently untranslated)
 I consider, reason
 (with dat.) in
-0
+
 I say, tell
 if
 I say, tell
 from, out of
 heaven
-0
+
 I
 (with gen.) through; (with acc.) because of, for the sake of
 who? which one? what?
@@ -12523,7 +12523,7 @@ child
 two
 I go to, approach
 the
-0
+
 I say, tell
 child
 I go, go away
@@ -12553,7 +12553,7 @@ I answer, reply
 I say, tell
 no, not
 I wish, will
-0
+
 I regret, repent
 I go away
 who? which one? what?
@@ -12567,7 +12567,7 @@ the
 father
 I say, tell
 the
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -12613,7 +12613,7 @@ but, and (frequently untranslated)
 I see
 and not, nor; neither, nor
 I regret, repent
-0
+
 the
 I believe (in), trust
 he, she, it; himself, herself, itself; even, very; same
@@ -12623,23 +12623,23 @@ I hear
 human being, person
 I am
 the master of the house
-0
+
 I plant
 vineyard
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I put around
 and, also, likewise
-0
+
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 wine-press
 and, also, likewise
 I build
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 farmer
 and, also, likewise
@@ -12682,14 +12682,14 @@ again
 I send away, send out
 another, other
 slave
-0
+
 the
-0
+
 and, also, likewise
 I do, make
 he, she, it; himself, herself, itself; even, very; same
 likewise
-0
+
 but, and (frequently untranslated)
 I send away, send out
 (with dat.) near, at; (with acc.) to, toward
@@ -12710,7 +12710,7 @@ the
 son
 I say, tell
 (with dat.) in
-0
+
 this
 I am
 the
@@ -12753,10 +12753,10 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
 vineyard
-0
+
 another, other
 farmer
-0
+
 I give away, give up; I render
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -12820,13 +12820,13 @@ I fall
 the
 stone
 this
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 who, which, what
 but, and (frequently untranslated)
 (an untranslatable conditional particle)
 I fall
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I hear
@@ -12872,7 +12872,7 @@ the
 heaven
 human being, person
 king
-0
+
 I do, make
 marriage
 the
@@ -12903,15 +12903,15 @@ the
 I call
 I see
 the
-0
+
 I
 I prepare
 the
-0
+
 I
 and, also, likewise
 the
-0
+
 I sacrifice
 and, also, likewise
 all, every
@@ -12922,7 +12922,7 @@ the
 marriage
 the
 but, and (frequently untranslated)
-0
+
 I go away
 who, which, what
 indeed, on the one hand (but often untranslatable)
@@ -12934,11 +12934,11 @@ who, which, what
 but, and (frequently untranslated)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 I take hold of, hold fast
 the
 slave
@@ -12963,7 +12963,7 @@ and, also, likewise
 the
 city
 he, she, it; himself, herself, itself; even, very; same
-0
+
 then
 I say, tell
 the
@@ -12984,7 +12984,7 @@ I go, proceed
 therefore, then
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 way
 and, also, likewise
@@ -13014,7 +13014,7 @@ good
 and, also, likewise
 I fill, fulfill
 the
-0
+
 I lie, recline
 I enter
 but, and (frequently untranslated)
@@ -13033,7 +13033,7 @@ marriage
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 how?
 I enter
 here
@@ -13061,7 +13061,7 @@ into, in
 the
 darkness
 the
-0
+
 there, to that place
 I am
 the
@@ -13071,7 +13071,7 @@ the
 gnashing
 the
 tooth
-0
+
 for
 I am
 called, invited
@@ -13086,7 +13086,7 @@ plan, purpose
 I take, receive
 (adv.) how; (conj.) that, in order that
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 word, Word
 and, also, likewise
@@ -13097,12 +13097,12 @@ learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 I say, tell
 teacher
 I know
 that, because, since
-TRUE
+True
 I am
 and, also, likewise
 the
@@ -13132,7 +13132,7 @@ you
 I think, believe; I seem
 it is permitted, possible
 I give
-0
+
 emperor, Caesar
 or, either
 no, not
@@ -13151,9 +13151,9 @@ hypocrite
 I show, point out
 I
 the
-0
+
 the
-0
+
 the
 but, and (frequently untranslated)
 I bring to, offer
@@ -13216,7 +13216,7 @@ I die
 not
 I have, hold
 child
-0
+
 the
 brother
 he, she, it; himself, herself, itself; even, very; same
@@ -13225,7 +13225,7 @@ woman
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I raise, rise, stand up
-0
+
 the
 brother
 he, she, it; himself, herself, itself; even, very; same
@@ -13237,13 +13237,13 @@ seven
 brother
 and, also, likewise
 the
-0
+
 I marry
 I die
 and, also, likewise
 not
 I have, hold
-0
+
 I leave, let go, pardon
 the
 woman
@@ -13261,7 +13261,7 @@ third
 until
 the
 seven
-0
+
 but, and (frequently untranslated)
 all, every
 I die
@@ -13320,7 +13320,7 @@ dead
 no, not
 I read
 the
-0
+
 you
 (with gen.) by; (with acc.) under
 the
@@ -13413,7 +13413,7 @@ I am
 the
 large, great
 and, also, likewise
-0
+
 commandment, order
 second
 like, similar
@@ -13528,7 +13528,7 @@ I say, tell
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 Moses
-0
+
 I sit down, cause to sit down; stay (intrans.)
 the
 scribe
@@ -13556,7 +13556,7 @@ for
 and, also, likewise
 no, not
 I do, make
-0
+
 but, and (frequently untranslated)
 burden, load
 heavy
@@ -13564,7 +13564,7 @@ and, also, likewise
 I put upon
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 human being, person
 he, she, it; himself, herself, itself; even, very; same
@@ -13587,10 +13587,10 @@ the
 I see, look at
 the
 human being, person
-0
+
 for
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I make large, magnify
@@ -13605,7 +13605,7 @@ the
 dinner, supper
 and, also, likewise
 the
-0
+
 (with dat.) in
 the
 synagogue
@@ -13655,9 +13655,9 @@ the
 heavenly
 and not, but not
 I call
-0
+
 that, because, since
-0
+
 you
 I am
 one
@@ -13670,15 +13670,15 @@ you
 I am
 you
 deacon
-0
+
 but, and (frequently untranslated)
 I lift up
-0
+
 I make low, humble
 and, also, likewise
-0
+
 I make low, humble
-0
+
 I lift up
 woe, alas
 but, and (frequently untranslated)
@@ -13720,7 +13720,7 @@ the
 dry
 I do, make
 one
-0
+
 and, also, likewise
 whenever, when
 I am, become, happen
@@ -13728,7 +13728,7 @@ I do, make
 he, she, it; himself, herself, itself; even, very; same
 son
 Gehenna, hell
-0
+
 you
 woe, alas
 you
@@ -13857,15 +13857,15 @@ and, also, likewise
 a Pharisee
 hypocrite
 that, because, since
-0
+
 the
-0
+
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
-0
+
 and, also, likewise
 I leave, let go, pardon
 the
@@ -13890,9 +13890,9 @@ I leave, let go, pardon
 leader, guide
 blind
 the
-0
+
 the
-0
+
 the
 but, and (frequently untranslated)
 camel
@@ -13911,20 +13911,20 @@ the
 a drink
 and, also, likewise
 the
-0
+
 inside, within; from within
 but, and (frequently untranslated)
 I am full
 from, out of
-0
+
 and, also, likewise
-0
+
 a Pharisee
 blind
 I make clean, purify
-0
+
 the
-0
+
 the
 a drink
 in order that, that
@@ -13941,18 +13941,18 @@ and, also, likewise
 a Pharisee
 hypocrite
 that, because, since
-0
+
 grave, tomb
-0
-0
+
+
 from the outside, outside
 indeed, on the one hand (but often untranslatable)
 I shine; (mid.) I appear, become visible
-0
+
 inside, within; from within
 but, and (frequently untranslated)
 I am full
-0
+
 dead
 and, also, likewise
 all, every
@@ -14013,7 +14013,7 @@ the
 prophet
 therefore, so that
 I bear witness, testify
-0
+
 that, because, since
 son
 I am
@@ -14030,7 +14030,7 @@ the
 father
 you
 snake, serpent
-0
+
 viper
 how?
 I flee
@@ -14084,7 +14084,7 @@ earth
 (with gen.) from, away from
 the
 blood
-0
+
 the
 righteous, just
 until
@@ -14092,7 +14092,7 @@ the
 blood
 Zechariah
 son
-0
+
 who, which, what
 I murder, kill
 between
@@ -14123,7 +14123,7 @@ the
 I send away, send out
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I wish, will
 I gather together, congregate
 the
@@ -14131,10 +14131,10 @@ child
 you
 who, which, what
 manner, kind
-0
+
 I gather together, congregate
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) by; (with acc.) under
 the
@@ -14172,7 +14172,7 @@ the
 Jesus, Joshua
 (with gen.) from, away from
 the
-0
+
 I go, proceed
 and, also, likewise
 I go to, approach
@@ -14184,7 +14184,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 building, edification; a building
 the
-0
+
 the
 but, and (frequently untranslated)
 I answer, reply
@@ -14249,7 +14249,7 @@ not
 anyone, anything; someone, something
 you
 I lead astray, deceive
-0
+
 for
 I come, go
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -14262,7 +14262,7 @@ I am
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 and, also, likewise
-0
+
 I lead astray, deceive
 I am about to, intend
 but, and (frequently untranslated)
@@ -14273,7 +14273,7 @@ hearing, ear, report
 war
 I see
 not
-0
+
 it is necessary, one must
 for
 I am, become, happen
@@ -14302,7 +14302,7 @@ all, every
 but, and (frequently untranslated)
 this
 beginning; ruler, authority
-0
+
 then
 I hand over, hand down, entrust
 you
@@ -14325,7 +14325,7 @@ I
 and, also, likewise
 then
 I cause to fall
-0
+
 and, also, likewise
 each other, one another
 I hand over, hand down, entrust
@@ -14333,23 +14333,23 @@ and, also, likewise
 I hate
 each other, one another
 and, also, likewise
-0
+
 false prophet
 I raise
 and, also, likewise
 I lead astray, deceive
-0
+
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
 the
 I increase, multiply
 the
 lawlessness
-0
+
 the
 love
 the
-0
+
 the
 but, and (frequently untranslated)
 I remain, endure
@@ -14384,11 +14384,11 @@ I see
 the
 abomination
 the
-0
+
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 the
 prophet
 I place, set, stand
@@ -14450,7 +14450,7 @@ in order that, that
 not
 I am, become, happen
 the
-0
+
 you
 winter, stormy weather
 and not, but not
@@ -14476,7 +14476,7 @@ I am, become, happen
 and, also, likewise
 if
 not
-0
+
 the
 day
 that
@@ -14489,7 +14489,7 @@ flesh
 but, and (frequently untranslated)
 the
 chosen, select
-0
+
 the
 day
 that
@@ -14508,7 +14508,7 @@ not
 I believe (in), trust
 I raise
 for
-0
+
 and, also, likewise
 false prophet
 and, also, likewise
@@ -14541,7 +14541,7 @@ I go out, come out
 I see
 (with dat.) in
 the
-0
+
 not
 I believe (in), trust
 (just) as
@@ -14589,7 +14589,7 @@ moon
 no, not
 I give
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
@@ -14639,7 +14639,7 @@ heaven
 power, strength
 and, also, likewise
 glory, brightness, splendor
-0
+
 and, also, likewise
 I send away, send out
 the
@@ -14676,16 +14676,16 @@ the
 branch
 he, she, it; himself, herself, itself; even, very; same
 I am, become, happen
-0
+
 and, also, likewise
 the
 leaf
-0
+
 I know
 that, because, since
-0
+
 the
-0
+
 in this manner, thus, so
 and, also, likewise
 you
@@ -14695,7 +14695,7 @@ all, every
 this
 I know
 that, because, since
-0
+
 I am
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 door
@@ -14748,7 +14748,7 @@ if
 not
 the
 father
-0
+
 (just) as
 for
 the
@@ -14773,7 +14773,7 @@ that
 the
 (with gen.) before, in front of
 the
-0
+
 I eat (audibly)
 and, also, likewise
 I drink
@@ -14794,7 +14794,7 @@ I know
 until
 I come, go
 the
-0
+
 and, also, likewise
 I lift up; I take away
 all, every
@@ -14819,10 +14819,10 @@ and, also, likewise
 one
 I leave, let go, pardon
 two
-0
+
 (with dat.) in
 the
-0
+
 one
 I take, take with
 and, also, likewise
@@ -14858,7 +14858,7 @@ and, also, likewise
 no, not
 (an untranslatable conditional particle)
 I permit; I let go, leave alone
-0
+
 the
 household
 he, she, it; himself, herself, itself; even, very; same
@@ -14879,7 +14879,7 @@ the
 human being, person
 I come, go
 who? which one? what?
-0
+
 I am
 the
 faithful
@@ -14892,7 +14892,7 @@ the
 master, lord, the Lord
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 I give
@@ -14940,12 +14940,12 @@ I
 the
 master, lord, the Lord
 and, also, likewise
-0
+
 I strike, beat
 the
 fellow-slave
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 and, also, likewise
 I drink
@@ -14970,7 +14970,7 @@ who, which, what
 no, not
 I know
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
@@ -14997,14 +14997,14 @@ the
 heaven
 ten
 virgin
-0
+
 I take, receive
 the
 torch, lamp
-0
+
 I go out, come out
 into, in
-0
+
 the
 bridegroom
 five
@@ -15025,7 +15025,7 @@ torch, lamp
 no, not
 I take, receive
 (with gen.) with; (with acc.) after, behind
-0
+
 oil
 the
 but, and (frequently untranslated)
@@ -15034,16 +15034,16 @@ I take, receive
 oil
 (with dat.) in
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 torch, lamp
-0
+
 I take time, delay
 but, and (frequently untranslated)
 the
 bridegroom
-0
+
 all, every
 and, also, likewise
 I sleep
@@ -15057,7 +15057,7 @@ the
 bridegroom
 I go out, come out
 into, in
-0
+
 then
 I raise
 all, every
@@ -15068,7 +15068,7 @@ and, also, likewise
 I adorn, beautify
 the
 torch, lamp
-0
+
 the
 but, and (frequently untranslated)
 foolish, stupid
@@ -15106,7 +15106,7 @@ the
 I sell
 and, also, likewise
 I buy
-0
+
 I go away
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
@@ -15127,12 +15127,12 @@ and, also, likewise
 I shut, lock
 the
 door
-0
+
 but, and (frequently untranslated)
 I come, go
 and, also, likewise
 the
-0
+
 virgin
 I say, tell
 master, lord, the Lord
@@ -15219,7 +15219,7 @@ the
 one
 I take, receive
 I go away
-0
+
 earth
 and, also, likewise
 I hide
@@ -15230,7 +15230,7 @@ master, lord, the Lord
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) with; (with acc.) after, behind
 but, and (frequently untranslated)
-0
+
 time
 I come, go
 the
@@ -15239,7 +15239,7 @@ the
 slave
 that
 and, also, likewise
-0
+
 word, Word
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
@@ -15280,7 +15280,7 @@ few, little
 I am
 faithful
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 you
 I set, constitute
 I enter
@@ -15322,7 +15322,7 @@ few, little
 I am
 faithful
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 you
 I set, constitute
 I enter
@@ -15381,7 +15381,7 @@ he, she, it; himself, herself, itself; even, very; same
 wicked, bad
 slave
 and, also, likewise
-0
+
 I know
 that, because, since
 I harvest
@@ -15401,7 +15401,7 @@ the
 silver
 I
 the
-0
+
 and, also, likewise
 I come, go
 I
@@ -15410,7 +15410,7 @@ I receive
 the
 my, mine
 (with dat.) with
-0
+
 I lift up; I take away
 therefore, then
 (with gen.) from, away from
@@ -15443,14 +15443,14 @@ I lift up; I take away
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 slave
 I throw out, expel
 into, in
 the
 darkness
 the
-0
+
 there, to that place
 I am
 the
@@ -15503,7 +15503,7 @@ the
 sheep
 (with gen.) from, away from
 the
-0
+
 and, also, likewise
 I place, set, stand
 the
@@ -15514,11 +15514,11 @@ right (as opposed to left)
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 from, out of
 left (as opposed to right)
 then
-0
+
 the
 king
 the
@@ -15544,7 +15544,7 @@ for
 and, also, likewise
 I give
 I
-0
+
 I thirst
 and, also, likewise
 I give a drink
@@ -15613,7 +15613,7 @@ and, also, likewise
 I answer, reply
 the
 king
-0
+
 he, she, it; himself, herself, itself; even, very; same
 so let it be, truly, amen
 I say, tell
@@ -15627,11 +15627,11 @@ the
 brother
 I
 the
-0
+
 I
 I do, make
 then
-0
+
 and, also, likewise
 the
 from, out of
@@ -15659,7 +15659,7 @@ and, also, likewise
 no, not
 I give
 I
-0
+
 I thirst
 and, also, likewise
 no, not
@@ -15723,7 +15723,7 @@ I do, make
 one
 this
 the
-0
+
 and not, nor; neither, nor
 I
 I do, make
@@ -15731,7 +15731,7 @@ and, also, likewise
 I go away
 this
 into, in
-0
+
 eternal
 the
 but, and (frequently untranslated)
@@ -15759,7 +15759,7 @@ that, because, since
 two
 day
 the
-0
+
 I am, become, happen
 and, also, likewise
 the
@@ -15788,7 +15788,7 @@ the
 I say, tell
 Caiaphas
 and, also, likewise
-0
+
 in order that, that
 the
 Jesus, Joshua
@@ -15801,7 +15801,7 @@ but, and (frequently untranslated)
 not
 (with dat.) in
 the
-0
+
 in order that, that
 not
 noise, turmoil
@@ -15824,11 +15824,11 @@ I go to, approach
 he, she, it; himself, herself, itself; even, very; same
 woman
 I have, hold
-0
+
 ointment, perfume
-0
+
 and, also, likewise
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 head
@@ -15849,7 +15849,7 @@ I can
 for
 this
 I sell
-0
+
 and, also, likewise
 I give
 poor
@@ -15866,7 +15866,7 @@ the
 woman
 work, deed
 for
-0
+
 I work, do, accomplish
 into, in
 I
@@ -15876,7 +15876,7 @@ the
 poor
 I have, hold
 (with gen.) with; (with acc.) after, behind
-0
+
 I
 but, and (frequently untranslated)
 no, not
@@ -15894,7 +15894,7 @@ body
 I
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 I
 I do, make
 so let it be, truly, amen
@@ -15916,7 +15916,7 @@ who, which, what
 I do, make
 this
 into, in
-0
+
 he, she, it; himself, herself, itself; even, very; same
 then
 I go, proceed
@@ -15925,7 +15925,7 @@ the
 twelve
 the
 I say, tell
-0
+
 Iscariot
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -15949,13 +15949,13 @@ and, also, likewise
 (with gen.) from, away from
 then
 I seek, look for, ask
-0
+
 in order that, that
 he, she, it; himself, herself, itself; even, very; same
 I hand over, hand down, entrust
 the
 but, and (frequently untranslated)
-0
+
 the
 unleavened
 I go to, approach
@@ -15968,9 +15968,9 @@ where?
 I wish, will
 I prepare
 you
-0
+
 the
-0
+
 the
 but, and (frequently untranslated)
 I say, tell
@@ -15980,7 +15980,7 @@ the
 city
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -15990,13 +15990,13 @@ I say, tell
 the
 time, right time
 I
-0
+
 I am
 (with dat.) near, at; (with acc.) to, toward
 you
 I do, make
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 learner, disciple
@@ -16006,14 +16006,14 @@ I do, make
 the
 learner, disciple
 as, like, so
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
 and, also, likewise
 I prepare
 the
-0
+
 evening
 but, and (frequently untranslated)
 I am, become, happen
@@ -16023,7 +16023,7 @@ the
 twelve
 learner, disciple
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 so let it be, truly, amen
@@ -16038,7 +16038,7 @@ I
 and, also, likewise
 I grieve; (pass.) I am sad, grieve
 very (much)
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 one
@@ -16052,14 +16052,14 @@ but, and (frequently untranslated)
 I answer, reply
 I say, tell
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 I
 the
 hand
 (with dat.) in
 the
-0
+
 this
 I
 I hand over, hand down, entrust
@@ -16085,7 +16085,7 @@ son
 the
 human being, person
 I hand over, hand down, entrust
-0
+
 I am
 he, she, it; himself, herself, itself; even, very; same
 if
@@ -16096,7 +16096,7 @@ human being, person
 that
 I answer, reply
 but, and (frequently untranslated)
-0
+
 the
 I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
@@ -16109,7 +16109,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 you
 I say, tell
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 I take, receive
@@ -16125,7 +16125,7 @@ the
 learner, disciple
 I say, tell
 I take, receive
-0
+
 this
 I am
 the
@@ -16153,7 +16153,7 @@ the
 will, testament, covenant
 the
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 I pour out
 into, in
 pardon, forgiveness
@@ -16169,7 +16169,7 @@ now, just
 from, out of
 this
 the
-0
+
 the
 vine
 until
@@ -16189,7 +16189,7 @@ the
 father
 I
 and, also, likewise
-0
+
 I go out, come out
 into, in
 the
@@ -16292,13 +16292,13 @@ Jesus, Joshua
 into, in
 place, land, field
 I say, tell
-0
+
 and, also, likewise
 I say, tell
 the
 learner, disciple
 I sit down, cause to sit down; stay (intrans.)
-0
+
 until
 who, which, what
 I go away
@@ -16313,10 +16313,10 @@ the
 two
 son
 Zebedec
-0
+
 I grieve; (pass.) I am sad, grieve
 and, also, likewise
-0
+
 then
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -16394,7 +16394,7 @@ test, temptation
 the
 indeed, on the one hand (but often untranslatable)
 breath, spirit
-0
+
 the
 but, and (frequently untranslated)
 flesh
@@ -16454,7 +16454,7 @@ and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I sleep
-0
+
 and, also, likewise
 I give rest, refresh
 I see
@@ -16482,7 +16482,7 @@ yet, still
 he, she, it; himself, herself, itself; even, very; same
 I speak
 I see
-0
+
 one
 the
 twelve
@@ -16491,7 +16491,7 @@ and, also, likewise
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 (with gen.) with; (with acc.) after, behind
 sword
 and, also, likewise
@@ -16534,7 +16534,7 @@ but, and (frequently untranslated)
 Jesus, Joshua
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 who, which, what
 I am present
@@ -16558,7 +16558,7 @@ Jesus, Joshua
 I extend
 the
 hand
-0
+
 the
 sword
 he, she, it; himself, herself, itself; even, very; same
@@ -16571,7 +16571,7 @@ high priest, chief priest
 I take away
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 then
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -16606,9 +16606,9 @@ and, also, likewise
 I am present, stand by
 I
 now, just
-0
+
 twelve
-0
+
 angel, messenger
 how?
 therefore, then
@@ -16642,7 +16642,7 @@ I
 day
 (with dat.) in
 the
-0
+
 I sit
 I teach
 and, also, likewise
@@ -16671,7 +16671,7 @@ but, and (frequently untranslated)
 I take hold of, hold fast
 the
 Jesus, Joshua
-0
+
 (with dat.) near, at; (with acc.) to, toward
 Caiaphas
 the
@@ -16713,7 +16713,7 @@ the
 council, high council, Sanhedrin
 whole, complete
 I seek, look for, ask
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
 Jesus, Joshua
@@ -16723,10 +16723,10 @@ I kill
 and, also, likewise
 no, not
 I find, discover
-0
+
 I go to, approach
-0
-0
+
+
 but, and (frequently untranslated)
 I go to, approach
 two
@@ -16755,7 +16755,7 @@ I answer, reply
 who? which one? what?
 this
 you
-0
+
 the
 but, and (frequently untranslated)
 Jesus, Joshua
@@ -16765,7 +16765,7 @@ the
 high priest, chief priest
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 you
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -16852,7 +16852,7 @@ I strike
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 I say, tell
 I prophesy
 I
@@ -16939,14 +16939,14 @@ I am
 and, also, likewise
 for
 the
-0
+
 you
-0
+
 you
 I do, make
 then
-0
-0
+
+
 and, also, likewise
 I swear, take an oath
 that, because, since
@@ -16965,7 +16965,7 @@ Peter
 the
 word, saying; thing, matter
 Jesus, Joshua
-0
+
 that, because, since
 before
 cock, rooster
@@ -16977,8 +16977,8 @@ and, also, likewise
 I go out, come out
 outside, out
 I weep, cry
-0
-0
+
+
 but, and (frequently untranslated)
 I am, become, happen
 plan, purpose
@@ -17000,7 +17000,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I bind, tie
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I hand over, hand down, entrust
 Pilate
@@ -17008,7 +17008,7 @@ the
 governor, procurator
 then
 I see
-0
+
 the
 I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
@@ -17027,7 +17027,7 @@ I say, tell
 I sin
 I hand over, hand down, entrust
 blood
-0
+
 the
 but, and (frequently untranslated)
 I say, tell
@@ -17037,7 +17037,7 @@ I
 you
 I see
 and, also, likewise
-0
+
 the
 silver
 into, in
@@ -17046,7 +17046,7 @@ temple
 I go away, take refuge
 and, also, likewise
 I go away
-0
+
 the
 but, and (frequently untranslated)
 high priest, chief priest
@@ -17060,7 +17060,7 @@ I throw, place
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
-0
+
 because, since, for
 price, value, honor
 blood
@@ -17074,9 +17074,9 @@ he, she, it; himself, herself, itself; even, very; same
 the
 field, farm
 the
-0
+
 into, in
-0
+
 the
 strange, foreign
 therefore, for this reason
@@ -17092,9 +17092,9 @@ today
 then
 I fill, make full, finish
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 the
 prophet
 I say, tell
@@ -17119,9 +17119,9 @@ into, in
 the
 field, farm
 the
-0
-0
-0
+
+
+
 I
 master, lord, the Lord
 the
@@ -17170,7 +17170,7 @@ no, not
 I hear
 how great? how much? how many?
 you
-0
+
 and, also, likewise
 no, not
 I answer, reply
@@ -17186,8 +17186,8 @@ governor, procurator
 very (much)
 (with gen.) down, against; (with acc.) according to, along
 but, and (frequently untranslated)
-0
-0
+
+
 the
 governor, procurator
 I set free, let go, send away
@@ -17201,7 +17201,7 @@ I have, hold
 but, and (frequently untranslated)
 then
 prisoner
-0
+
 I say, tell
 Barabbas
 I gather together
@@ -17247,7 +17247,7 @@ and, also, likewise
 the
 righteous, just
 that
-0
+
 for
 I suffer, endure
 today
@@ -17313,7 +17313,7 @@ evil, bad
 I do, make
 the
 but, and (frequently untranslated)
-0
+
 I cry, call out
 I say, tell
 I crucify
@@ -17330,14 +17330,14 @@ noise, turmoil
 I am, become, happen
 I take, receive
 water
-0
+
 the
 hand
 opposite; before
 the
 multitude
 I say, tell
-0
+
 I am
 (with gen.) from, away from
 the
@@ -17369,7 +17369,7 @@ Barabbas
 the
 but, and (frequently untranslated)
 Jesus, Joshua
-0
+
 I hand over, hand down, entrust
 in order that, that
 I crucify
@@ -17393,13 +17393,13 @@ cohort
 and, also, likewise
 I strip, take off
 he, she, it; himself, herself, itself; even, very; same
-0
+
 red, scarlet
 I put around
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
-0
+
+
 from, out of
 thorn-plant
 I put upon
@@ -17414,7 +17414,7 @@ the
 right (as opposed to left)
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 (adverb) in front, ahead; (prep., with gen.) in front of, before
 he, she, it; himself, herself, itself; even, very; same
 I ridicule, mock
@@ -17444,7 +17444,7 @@ he, she, it; himself, herself, itself; even, very; same
 I strip, take off
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 and, also, likewise
 I clothe
 he, she, it; himself, herself, itself; even, very; same
@@ -17452,7 +17452,7 @@ the
 garment
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
@@ -17465,7 +17465,7 @@ a Cyrenian
 name
 Simon
 this
-0
+
 in order that, that
 I lift up; I take away
 the
@@ -17476,10 +17476,10 @@ I come, go
 into, in
 place
 I say, tell
-0
+
 who, which, what
 I am
-0
+
 place
 I say, tell
 I give
@@ -17487,8 +17487,8 @@ he, she, it; himself, herself, itself; even, very; same
 I drink
 wine
 (with gen.) with; (with acc.) after, behind
-0
-0
+
+
 and, also, likewise
 I taste; I come to know
 no, not
@@ -17582,7 +17582,7 @@ old; (as a noun) elder
 I say, tell
 another, other
 I save, deliver
-0
+
 no, not
 I can
 I save, deliver
@@ -17643,16 +17643,16 @@ but, and (frequently untranslated)
 the
 ninth
 hour
-0
+
 the
 Jesus, Joshua
 sound, voice
 large, great
 I say, tell
-0
-0
-0
-0
+
+
+
+
 this
 I am
 God, god
@@ -17682,7 +17682,7 @@ from, out of
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I take, receive
-0
+
 I fill, fulfill
 and
 sour wine, vinegar
@@ -17693,7 +17693,7 @@ I give a drink
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 I say, tell
 I leave, let go, pardon
 I see
@@ -17738,7 +17738,7 @@ the
 grave, tomb
 I open
 and, also, likewise
-0
+
 body
 the
 I sleep, fall asleep, die
@@ -17751,7 +17751,7 @@ the
 grave, tomb
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I enter
 into, in
@@ -17760,7 +17760,7 @@ holy
 city
 and, also, likewise
 I reveal, make known
-0
+
 the
 but, and (frequently untranslated)
 centurion, captain
@@ -17789,11 +17789,11 @@ I am
 but, and (frequently untranslated)
 there, to that place
 woman
-0
+
 (with gen.) from, away from
 from far away
 I see, perceive
-0
+
 I follow
 the
 Jesus, Joshua
@@ -17829,13 +17829,13 @@ I come, go
 human being, person
 rich
 (with gen.) from, away from
-0
-0
+
+
 Joseph
 who, which, what
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 Jesus, Joshua
 this
@@ -17858,7 +17858,7 @@ the
 body
 the
 Joseph
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 linen cloth, tunic, shirt
@@ -17872,12 +17872,12 @@ new
 he, she, it; himself, herself, itself; even, very; same
 grave, tomb
 who, which, what
-0
+
 (with dat.) in
 the
 rock, stone
 and, also, likewise
-0
+
 stone
 large, great
 the
@@ -17902,7 +17902,7 @@ grave, tomb
 the
 but, and (frequently untranslated)
 tomorrow
-0
+
 I am
 (with gen.) with; (with acc.) after, behind
 the
@@ -17931,7 +17931,7 @@ day
 I raise
 I command, urge
 therefore, then
-0
+
 the
 grave, tomb
 until
@@ -17960,21 +17960,21 @@ last
 wandering, error, deceit
 worse
 the
-0
+
 I say
 he, she, it; himself, herself, itself; even, very; same
 the
 Pilate
 I have, hold
-0
+
 I go, go away
-0
+
 as, like, so
 I know
 the
 but, and (frequently untranslated)
 I go, proceed
-0
+
 the
 grave, tomb
 I seal
@@ -17982,12 +17982,12 @@ the
 stone
 (with gen.) with; (with acc.) after, behind
 the
-0
-0
+
+
 but, and (frequently untranslated)
 Sabbath, week
 the
-0
+
 into, in
 one
 Sabbath, week
@@ -18015,7 +18015,7 @@ from, out of
 heaven
 and, also, likewise
 I go to, approach
-0
+
 the
 stone
 and, also, likewise
@@ -18025,7 +18025,7 @@ he, she, it; himself, herself, itself; even, very; same
 I am
 but, and (frequently untranslated)
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
 lightning
@@ -18035,7 +18035,7 @@ garment, clothing
 he, she, it; himself, herself, itself; even, very; same
 white
 as, like, so
-0
+
 (with gen.) from, away from
 but, and (frequently untranslated)
 the
@@ -18079,7 +18079,7 @@ place
 where, insofar as
 I lie, recline
 and, also, likewise
-0
+
 I go, proceed
 I say, tell
 the
@@ -18105,7 +18105,7 @@ I say, tell
 you
 and, also, likewise
 I go away
-0
+
 (with gen.) from, away from
 the
 grave, tomb
@@ -18162,7 +18162,7 @@ he, she, it; himself, herself, itself; even, very; same
 I see
 anyone, anything; someone, something
 the
-0
+
 I come, go
 into, in
 the
@@ -18209,7 +18209,7 @@ I
 I convince, persuade; I trust in
 and, also, likewise
 you
-0
+
 I do, make
 the
 but, and (frequently untranslated)
@@ -18219,7 +18219,7 @@ I do, make
 as, like, so
 I teach
 and, also, likewise
-0
+
 the
 word, Word
 this
@@ -18251,7 +18251,7 @@ he, she, it; himself, herself, itself; even, very; same
 I worship
 the
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 I go to, approach
 the
@@ -18271,7 +18271,7 @@ the
 earth
 I go, proceed
 therefore, then
-0
+
 all, every
 the
 nation, the Gentiles
@@ -18349,7 +18349,7 @@ master, lord, the Lord
 immediately
 I do, make
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am, become, happen
 John
@@ -18374,7 +18374,7 @@ Judea
 country, land
 and, also, likewise
 the
-0
+
 all, every
 and, also, likewise
 I baptize
@@ -18397,17 +18397,17 @@ hair
 camel
 and, also, likewise
 belt, girdle
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 waist, loins
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
-0
+
+
 and, also, likewise
-0
-0
+
+
 and, also, likewise
 I proclaim, preach
 I say, tell
@@ -18421,10 +18421,10 @@ who, which, what
 no, not
 I am
 sufficient, large
-0
+
 I loose, set free
 the
-0
+
 the
 sandal
 he, she, it; himself, herself, itself; even, very; same
@@ -18570,7 +18570,7 @@ Andrew
 the
 brother
 Simon
-0
+
 (with dat.) in
 the
 sea
@@ -18634,7 +18634,7 @@ the
 boat, ship
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 I go away
 behind, back
 he, she, it; himself, herself, itself; even, very; same
@@ -18711,7 +18711,7 @@ I go out, come out
 from, out of
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 breath, spirit
@@ -18725,7 +18725,7 @@ I go out, come out
 from, out of
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 all, every
 therefore, so that
 I discuss, dispute
@@ -18782,7 +18782,7 @@ but, and (frequently untranslated)
 mother-in-law
 Simon
 I lie down
-0
+
 and, also, likewise
 immediately
 I say, tell
@@ -18808,7 +18808,7 @@ evening
 but, and (frequently untranslated)
 I am, become, happen
 when
-0
+
 the
 sun
 I bear, carry
@@ -18832,14 +18832,14 @@ the
 door
 and, also, likewise
 I care for, heal
-0
+
 wickedly, badly
 I have, hold
 manifold
 disease, illness
 and, also, likewise
 demon, evil spirit
-0
+
 I throw out, expel
 and, also, likewise
 no, not
@@ -18852,7 +18852,7 @@ I know
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 early (in the morning)
-0
+
 very (much)
 I raise, rise, stand up
 I go out, come out
@@ -18864,7 +18864,7 @@ place
 and there
 I pray
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 Simon
 and, also, likewise
@@ -18885,11 +18885,11 @@ and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I lead
-0
+
 into, in
 the
 I have, hold
-0
+
 in order that, that
 and, also, likewise
 there, to that place
@@ -18921,7 +18921,7 @@ leprous
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
@@ -18936,7 +18936,7 @@ I extend
 the
 hand
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -18948,7 +18948,7 @@ I go away
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 and, also, likewise
 I make clean, purify
 and, also, likewise
@@ -18985,18 +18985,18 @@ he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
 I go out, come out
-0
+
 I proclaim, preach
-0
+
 and, also, likewise
-0
+
 the
 word, Word
 therefore, so that
 no longer
 he, she, it; himself, herself, itself; even, very; same
 I can
-0
+
 into, in
 city
 I enter
@@ -19010,7 +19010,7 @@ and, also, likewise
 I come, go
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I enter
 again
@@ -19025,7 +19025,7 @@ house, dwelling
 I am
 and, also, likewise
 I gather together
-0
+
 therefore, so that
 no longer
 I make room, contain
@@ -19056,13 +19056,13 @@ he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 the
 multitude
-0
+
 the
-0
+
 where, insofar as
 I am
 and, also, likewise
-0
+
 I let down
 the
 mattress, bed
@@ -19124,7 +19124,7 @@ that, because, since
 in this manner, thus, so
 I consider, reason
 (with dat.) in
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
@@ -19226,14 +19226,14 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I go away, pass by
 I see
-0
+
 the
 the
 Alphaeus
 I sit, sit down
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -19252,7 +19252,7 @@ the
 household
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 tax collector
 and, also, likewise
 sinful
@@ -19265,7 +19265,7 @@ learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 I am
 for
-0
+
 and, also, likewise
 I follow
 he, she, it; himself, herself, itself; even, very; same
@@ -19276,7 +19276,7 @@ the
 a Pharisee
 I see
 that, because, since
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 sinful
@@ -19292,7 +19292,7 @@ the
 tax collector
 and, also, likewise
 sinful
-0
+
 and, also, likewise
 I hear
 the
@@ -19356,7 +19356,7 @@ I can
 the
 son
 the
-0
+
 (with dat.) in
 who, which, what
 the
@@ -19379,7 +19379,7 @@ I come, go
 but, and (frequently untranslated)
 day
 whenever, when
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -19392,10 +19392,10 @@ that
 the
 day
 no one, nothing
-0
-0
-0
-0
+
+
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 garment
 old
@@ -19453,17 +19453,17 @@ Sabbath, week
 I go by, go through
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 and, also, likewise
 the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
-0
+
 way
 I do, make
-0
+
 the
-0
+
 and, also, likewise
 the
 a Pharisee
@@ -19503,18 +19503,18 @@ house, dwelling
 the
 God, god
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 high priest, chief priest
 and, also, likewise
 the
 bread
 the
 presentation; plan
-0
+
 who, which, what
 no, not
 it is permitted, possible
-0
+
 if
 not
 the
@@ -19598,7 +19598,7 @@ Sabbath, week
 good
 I do, make
 or, either
-0
+
 soul
 I save, deliver
 or, either
@@ -19611,10 +19611,10 @@ I look around
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) with; (with acc.) after, behind
 anger, indignation
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 heart
 he, she, it; himself, herself, itself; even, very; same
@@ -19638,7 +19638,7 @@ a Pharisee
 immediately
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 plan, purpose
 I give
 (with gen.) down, against; (with acc.) according to, along
@@ -19658,7 +19658,7 @@ I go away, take refuge
 the
 sea
 and, also, likewise
-0
+
 crowd, multitude
 (with gen.) from, away from
 the
@@ -19674,7 +19674,7 @@ Jerusalem
 and, also, likewise
 (with gen.) from, away from
 the
-0
+
 and, also, likewise
 across
 the
@@ -19685,7 +19685,7 @@ Tyre
 and, also, likewise
 Sidon
 crowd, multitude
-0
+
 I hear
 as great, how great; as far, how far
 I do, make
@@ -19708,7 +19708,7 @@ in order that, that
 not
 I afflict, oppress
 he, she, it; himself, herself, itself; even, very; same
-0
+
 for
 I care for, heal
 therefore, so that
@@ -19716,7 +19716,7 @@ I fall upon
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 he, she, it; himself, herself, itself; even, very; same
-0
+
 as great, how great; as far, how far
 I have, hold
 scourging, torment
@@ -19741,7 +19741,7 @@ son
 the
 God, god
 and, also, likewise
-0
+
 I rebuke, reprove
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
@@ -19806,7 +19806,7 @@ and, also, likewise
 I put upon
 he, she, it; himself, herself, itself; even, very; same
 name
-0
+
 who, which, what
 I am
 son
@@ -19816,7 +19816,7 @@ Andrew
 and, also, likewise
 Philip
 and, also, likewise
-0
+
 and, also, likewise
 Matthew
 and, also, likewise
@@ -19827,13 +19827,13 @@ the
 the
 Alphaeus
 and, also, likewise
-0
+
 and, also, likewise
 Simon
 the
-0
+
 and, also, likewise
-0
+
 Iscariot
 who, which, what
 and, also, likewise
@@ -19854,7 +19854,7 @@ I can
 he, she, it; himself, herself, itself; even, very; same
 and not, but not
 bread
-0
+
 and, also, likewise
 I hear
 the
@@ -19904,7 +19904,7 @@ and, also, likewise
 if
 kingdom, reign
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 I divide, separate
 no, not
 I can
@@ -19916,7 +19916,7 @@ and, also, likewise
 if
 household
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 I divide, separate
 no, not
 I can
@@ -19930,7 +19930,7 @@ the
 the Adversary, Satan
 I raise, rise, stand up
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 and, also, likewise
 I divide, separate
 no, not
@@ -19952,10 +19952,10 @@ I enter
 the
 vessel, jar
 he, she, it; himself, herself, itself; even, very; same
-0
+
 if
 not
-0
+
 the
 strong, powerful
 I bind, tie
@@ -19964,7 +19964,7 @@ then
 the
 household
 he, she, it; himself, herself, itself; even, very; same
-0
+
 so let it be, truly, amen
 I say, tell
 you
@@ -19976,7 +19976,7 @@ son
 the
 human being, person
 the
-0
+
 and, also, likewise
 the
 blasphemy
@@ -20002,7 +20002,7 @@ but, rather, yet
 liable, guilty
 I am
 eternal
-0
+
 that, because, since
 I say, tell
 breath, spirit
@@ -20093,7 +20093,7 @@ mother
 I am
 and, also, likewise
 again
-0
+
 I teach
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
@@ -20103,7 +20103,7 @@ I gather together
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 therefore, so that
 he, she, it; himself, herself, itself; even, very; same
 into, in
@@ -20129,7 +20129,7 @@ I teach
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 parable
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -20166,15 +20166,15 @@ another, other
 I fall
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 where, insofar as
 no, not
 I have, hold
 earth
-0
+
 and, also, likewise
 immediately
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 not
@@ -20186,7 +20186,7 @@ when
 I rise up
 the
 sun
-0
+
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -20218,7 +20218,7 @@ into, in
 the
 earth
 the
-0
+
 and, also, likewise
 I give
 fruit
@@ -20246,7 +20246,7 @@ and, also, likewise
 when
 I am, become, happen
 (with gen.) down, against; (with acc.) according to, along
-0
+
 I ask, request
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -20347,7 +20347,7 @@ likewise, so, similarly
 the
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 I sow
 who, which, what
 whenever, when
@@ -20364,9 +20364,9 @@ no, not
 I have, hold
 root
 (with dat.) in
-0
+
 but, rather, yet
-0
+
 I am
 then, next
 I am, become, happen
@@ -20406,7 +20406,7 @@ and, also, likewise
 the
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 desire, longing
 I go in
 I crowd out, choke out
@@ -20423,9 +20423,9 @@ the
 the
 earth
 the
-0
+
 I sow
-0
+
 I hear
 the
 word, Word
@@ -20452,7 +20452,7 @@ lamp
 in order that, that
 (with gen.) by; (with acc.) under
 the
-0
+
 I put, place
 or, either
 (with gen.) by; (with acc.) under
@@ -20475,7 +20475,7 @@ in order that, that
 I reveal, make known
 and not, nor; neither, nor
 I am, become, happen
-0
+
 but, rather, yet
 in order that, that
 I come, go
@@ -20543,27 +20543,27 @@ day
 and, also, likewise
 the
 seed
-0
+
 and, also, likewise
-0
+
 as, like, so
 no, not
 I know
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 earth
 I bear fruit
-0
+
 grass, hay
 then, next
-0
+
 then, next
 full, complete
 wheat, grain
 (with dat.) in
 the
-0
+
 whenever, when
 but, and (frequently untranslated)
 I hand over, hand down, entrust
@@ -20604,7 +20604,7 @@ small
 I am
 all, every
 the
-0
+
 the
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -20618,7 +20618,7 @@ I am, become, happen
 large, great
 all, every
 the
-0
+
 and, also, likewise
 I do, make
 branch
@@ -20633,11 +20633,11 @@ the
 bird
 the
 heaven
-0
+
 and, also, likewise
 of such a kind, such as this
 parable
-0
+
 I speak
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -20657,7 +20657,7 @@ but, and (frequently untranslated)
 the
 one’s own
 learner, disciple
-0
+
 all, every
 and, also, likewise
 I say, tell
@@ -20691,7 +20691,7 @@ I am
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I am, become, happen
-0
+
 large, great
 wind
 and, also, likewise
@@ -20711,10 +20711,10 @@ he, she, it; himself, herself, itself; even, very; same
 I am
 (with dat.) in
 the
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 I sleep
 and, also, likewise
 I raise
@@ -20740,18 +20740,18 @@ sea
 I am silent
 I muzzle; (pass.) I am silenced
 and, also, likewise
-0
+
 the
 wind
 and, also, likewise
 I am, become, happen
-0
+
 large, great
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
-0
+
 I am
 in this manner, thus, so
 how?
@@ -20767,7 +20767,7 @@ I say, tell
 (with dat.) near, at; (with acc.) to, toward
 each other, one another
 who? which one? what?
-0
+
 this
 I am
 that, because, since
@@ -20790,7 +20790,7 @@ into, in
 the
 country, land
 the
-0
+
 and, also, likewise
 I go out, come out
 he, she, it; himself, herself, itself; even, very; same
@@ -20809,7 +20809,7 @@ breath, spirit
 impure, unclean
 who, which, what
 the
-0
+
 I have, hold
 (with dat.) in
 the
@@ -20826,25 +20826,25 @@ I bind, tie
 the
 he, she, it; himself, herself, itself; even, very; same
 many times, often
-0
+
 and, also, likewise
 chain
 I bind, tie
 and, also, likewise
-0
+
 (with gen.) by; (with acc.) under
 he, she, it; himself, herself, itself; even, very; same
 the
 chain
 and, also, likewise
 the
-0
+
 I shatter, break
 and, also, likewise
 no one, nothing
 I am strong, powerful
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
 all, every
@@ -20861,8 +20861,8 @@ mountain, hill
 I am
 I cry, call out
 and, also, likewise
-0
-0
+
+
 stone
 and, also, likewise
 I see
@@ -20889,7 +20889,7 @@ the
 God, god
 the
 highest, most exalted
-0
+
 you
 the
 God, god
@@ -20916,16 +20916,16 @@ you
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 name
 I
 that, because, since
-0
+
 I am
 and, also, likewise
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
-0
+
 in order that, that
 not
 he, she, it; himself, herself, itself; even, very; same
@@ -20975,14 +20975,14 @@ the
 herd
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 into, in
 the
 sea
 as, like, so
-0
+
 and, also, likewise
-0
+
 (with dat.) in
 the
 sea
@@ -21017,13 +21017,13 @@ I see, perceive
 the
 I am demon-possessed
 I sit, sit down
-0
+
 and, also, likewise
 I am of sound mind
 the
 I have, hold
 the
-0
+
 and, also, likewise
 I fear
 and, also, likewise
@@ -21040,7 +21040,7 @@ and, also, likewise
 the
 swine
 and, also, likewise
-0
+
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
 I go away
@@ -21091,11 +21091,11 @@ you
 and, also, likewise
 I go away
 and, also, likewise
-0
+
 I proclaim, preach
 (with dat.) in
 the
-0
+
 as great, how great; as far, how far
 I do, make
 he, she, it; himself, herself, itself; even, very; same
@@ -21117,7 +21117,7 @@ the
 across
 I gather together
 multitude
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -21131,7 +21131,7 @@ one
 the
 head of a synagogue
 name
-0
+
 and, also, likewise
 I see
 he, she, it; himself, herself, itself; even, very; same
@@ -21143,13 +21143,13 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 that, because, since
 the
-0
+
 I
-0
+
 I have, hold
 in order that, that
 I come, go
@@ -21169,23 +21169,23 @@ and, also, likewise
 I follow
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 woman
 I am
 (with dat.) in
-0
+
 blood
 twelve
 year
 and, also, likewise
-0
+
 I suffer, endure
 (with gen.) by; (with acc.) under
-0
+
 physician
 and, also, likewise
 I spend freely
@@ -21212,7 +21212,7 @@ I come, go
 the
 multitude
 from behind
-0
+
 the
 garment
 he, she, it; himself, herself, itself; even, very; same
@@ -21220,7 +21220,7 @@ I say, tell
 for
 that, because, since
 if
-0
+
 and if, even if, if only
 the
 garment
@@ -21249,7 +21249,7 @@ the
 Jesus, Joshua
 I know, understand
 (with dat.) in
-0
+
 the
 from, out of
 he, she, it; himself, herself, itself; even, very; same
@@ -21262,7 +21262,7 @@ multitude
 I say, tell
 who? which one? what?
 I
-0
+
 the
 garment
 and, also, likewise
@@ -21274,13 +21274,13 @@ he, she, it; himself, herself, itself; even, very; same
 I see, look
 the
 multitude
-0
+
 you
 and, also, likewise
 I say, tell
 who? which one? what?
 I
-0
+
 and, also, likewise
 I look around
 I see
@@ -21292,7 +21292,7 @@ but, and (frequently untranslated)
 woman
 I fear
 and, also, likewise
-0
+
 I know
 who, which, what
 I am, become, happen
@@ -21342,13 +21342,13 @@ you
 I die
 who? which one? what?
 yet, still
-0
+
 the
 teacher
 the
 but, and (frequently untranslated)
 Jesus, Joshua
-0
+
 the
 word, Word
 I speak
@@ -21357,7 +21357,7 @@ the
 head of a synagogue
 not
 I fear
-0
+
 I believe (in), trust
 and, also, likewise
 no, not
@@ -21365,7 +21365,7 @@ I leave, let go, pardon
 no one, nothing
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
-0
+
 if
 not
 the
@@ -21390,14 +21390,14 @@ noise, turmoil
 and, also, likewise
 I weep, cry
 and, also, likewise
-0
-0
+
+
 and, also, likewise
 I enter
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
-0
+
 and, also, likewise
 I weep, cry
 the
@@ -21407,7 +21407,7 @@ I die
 but, rather, yet
 I sleep
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
@@ -21439,8 +21439,8 @@ the
 infant, young child
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 who, which, what
 I am
 I translate
@@ -21468,7 +21468,7 @@ large, great
 and, also, likewise
 I order
 he, she, it; himself, herself, itself; even, very; same
-0
+
 in order that, that
 no one, nothing
 I know
@@ -21477,7 +21477,7 @@ and, also, likewise
 I say, tell
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I go out, come out
 from there
@@ -21496,14 +21496,14 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I am, become, happen
 Sabbath, week
-0
+
 I teach
 (with dat.) in
 the
 synagogue
 and, also, likewise
 the
-0
+
 I hear
 I am amazed, overwhelmed
 I say, tell
@@ -21530,7 +21530,7 @@ no, not
 this
 I am
 the
-0
+
 the
 son
 the
@@ -21539,9 +21539,9 @@ and, also, likewise
 brother
 James
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 Simon
 and, also, likewise
@@ -21566,7 +21566,7 @@ that, because, since
 no, not
 I am
 prophet
-0
+
 if
 not
 (with dat.) in
@@ -21615,7 +21615,7 @@ I call, invite
 the
 twelve
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I send away, send out
 two
@@ -21639,7 +21639,7 @@ way
 if
 not
 rod, staff
-0
+
 not
 bread
 not
@@ -21650,8 +21650,8 @@ the
 belt, girdle
 brass, bronze, money
 but, rather, yet
-0
-0
+
+
 and, also, likewise
 not
 I clothe
@@ -21683,9 +21683,9 @@ I hear
 you
 I go out
 from there
-0
+
 the
-0
+
 the
 under
 the
@@ -21701,12 +21701,12 @@ in order that, that
 I repent, am converted
 and, also, likewise
 demon, evil spirit
-0
+
 I throw out, expel
 and, also, likewise
 I anoint
 oil
-0
+
 sick
 and, also, likewise
 I care for, heal
@@ -21760,7 +21760,7 @@ Herod
 I say, tell
 who, which, what
 I
-0
+
 John
 this
 I raise
@@ -21807,7 +21807,7 @@ you
 the
 but, and (frequently untranslated)
 Herodias
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I wish, will
@@ -21829,37 +21829,37 @@ righteous, just
 and, also, likewise
 holy
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I hear
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am in doubt
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I hear
 and, also, likewise
 I am, become, happen
 day
-0
+
 when
 Herod
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 dinner, supper
 I do, make
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
 leader of a thousand soldiers, tribune
 and, also, likewise
 the
-0
+
 the
 Galilee
 and, also, likewise
@@ -21870,7 +21870,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 Herodias
 and, also, likewise
-0
+
 I please
 the
 Herod
@@ -21963,7 +21963,7 @@ immediately
 I send away, send out
 the
 king
-0
+
 I order
 I bear, carry
 the
@@ -21971,7 +21971,7 @@ head
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I go away
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
@@ -22049,11 +22049,11 @@ I come, go
 and, also, likewise
 the
 I go, go away
-0
+
 and, also, likewise
 and not, nor; neither, nor
-0
-0
+
+
 and, also, likewise
 I go away
 (with dat.) in
@@ -22070,14 +22070,14 @@ he, she, it; himself, herself, itself; even, very; same
 I go, go away
 and, also, likewise
 I know, understand
-0
+
 and, also, likewise
-0
+
 (with gen.) from, away from
 all, every
 the
 city
-0
+
 there, to that place
 and, also, likewise
 I go forward, go before
@@ -22085,7 +22085,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I go out, come out
 I see
-0
+
 multitude
 and, also, likewise
 I feel sympathy for
@@ -22099,14 +22099,14 @@ not
 I have, hold
 shepherd
 and, also, likewise
-0
+
 I teach
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 now, already
 hour
-0
+
 I am, become, happen
 I go to, approach
 he, she, it; himself, herself, itself; even, very; same
@@ -22122,7 +22122,7 @@ place
 and, also, likewise
 now, already
 hour
-0
+
 I set free, let go, send away
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
@@ -22134,9 +22134,9 @@ field, farm
 and, also, likewise
 village
 I buy
-0
+
 who? which one? what?
-0
+
 the
 but, and (frequently untranslated)
 I answer, reply
@@ -22145,7 +22145,7 @@ he, she, it; himself, herself, itself; even, very; same
 I give
 he, she, it; himself, herself, itself; even, very; same
 you
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -22157,7 +22157,7 @@ bread
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 but, and (frequently untranslated)
 I say, tell
@@ -22179,16 +22179,16 @@ I order
 he, she, it; himself, herself, itself; even, very; same
 I cause to lie down; (pass.) I lie down
 all, every
-0
-0
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 grass, hay
 and, also, likewise
 I lie down, recline
-0
-0
+
+
 (with gen.) down, against; (with acc.) according to, along
 one hundred
 and, also, likewise
@@ -22209,7 +22209,7 @@ the
 heaven
 I bless
 and, also, likewise
-0
+
 the
 bread
 and, also, likewise
@@ -22226,7 +22226,7 @@ fish
 I divide, separate
 all, every
 and, also, likewise
-0
+
 all, every
 and, also, likewise
 I feed, fill; (pass.) I eat my fill
@@ -22243,7 +22243,7 @@ fish
 and, also, likewise
 I am
 the
-0
+
 the
 bread
 five thousand
@@ -22290,7 +22290,7 @@ the
 sea
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
@@ -22333,7 +22333,7 @@ sea
 I go about, walk around
 I think, believe; I seem
 that, because, since
-0
+
 I am
 and, also, likewise
 I cry out
@@ -22365,15 +22365,15 @@ into, in
 the
 boat, ship
 and, also, likewise
-0
+
 the
 wind
 and, also, likewise
 very (much)
 from, out of
-0
+
 (with dat.) in
-0
+
 I am amazed, astonished
 no, not
 for
@@ -22394,9 +22394,9 @@ the
 earth
 I come, go
 into, in
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 I go out, come out
 he, she, it; himself, herself, itself; even, very; same
@@ -22406,20 +22406,20 @@ boat, ship
 immediately
 I know, understand
 he, she, it; himself, herself, itself; even, very; same
-0
+
 whole, complete
 the
 country, land
 that
 and, also, likewise
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 mattress, bed
 the
 wickedly, badly
 I have, hold
-0
+
 where, insofar as
 I hear
 that, because, since
@@ -22452,11 +22452,11 @@ hem, tassel
 the
 garment
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 as great, how great; as far, how far
 (an untranslatable conditional particle)
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I save, deliver
 and, also, likewise
@@ -22483,8 +22483,8 @@ communal, common
 hand
 this
 I am
-0
-0
+
+
 the
 bread
 the
@@ -22496,12 +22496,12 @@ the
 Judean, Jewish
 if
 not
-0
+
 I wash
 the
 hand
 no, not
-0
+
 I take hold of, hold fast
 the
 handing over, tradition
@@ -22512,22 +22512,22 @@ and, also, likewise
 marketplace
 if
 not
-0
+
 no, not
-0
+
 and, also, likewise
 another, other
-0
+
 I am
 who, which, what
 I take, take with
 I take hold of, hold fast
-0
+
 a drink
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 I ask (a question)
 he, she, it; himself, herself, itself; even, very; same
@@ -22551,7 +22551,7 @@ old; (as a noun) elder
 but, rather, yet
 communal, common
 hand
-0
+
 the
 bread
 the
@@ -22579,17 +22579,17 @@ the
 but, and (frequently untranslated)
 heart
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I receive; I am distant; I abstain
 (with gen.) from, away from
 I
-0
+
 but, and (frequently untranslated)
 I worship
 I
 I teach
 teaching, instruction
-0
+
 human being, person
 I leave, let go, pardon
 the
@@ -22628,7 +22628,7 @@ mother
 you
 and, also, likewise
 the
-0
+
 father
 or, either
 mother
@@ -22645,7 +22645,7 @@ father
 or, either
 the
 mother
-0
+
 who, which, what
 I am
 gift
@@ -22664,7 +22664,7 @@ father
 or, either
 the
 mother
-0
+
 the
 word, Word
 the
@@ -22675,9 +22675,9 @@ you
 who, which, what
 I hand over, hand down, entrust
 and, also, likewise
-0
+
 of such a kind, such as this
-0
+
 I do, make
 and, also, likewise
 I call, invite
@@ -22765,7 +22765,7 @@ womb, belly
 and, also, likewise
 into, in
 the
-0
+
 I go out
 I make clean, purify
 all, every
@@ -22796,9 +22796,9 @@ the
 evil, bad
 I go out
 prostitution, unchastity
-0
+
 murder, killing
-0
+
 greediness, covetousness
 wickedness, sinfulness
 deceit
@@ -22806,8 +22806,8 @@ licentiousness, sensuality
 eye
 wicked, bad
 blasphemy
-0
-0
+
+
 all, every
 this
 the
@@ -22846,7 +22846,7 @@ he, she, it; himself, herself, itself; even, very; same
 who, which, what
 I have, hold
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 breath, spirit
 impure, unclean
@@ -22860,8 +22860,8 @@ the
 but, and (frequently untranslated)
 woman
 I am
-0
-0
+
+
 the
 race, stock
 and, also, likewise
@@ -22879,14 +22879,14 @@ and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I leave, let go, pardon
-0
+
 I feed, fill; (pass.) I eat my fill
 the
 child
 no, not
 for
 I am
-0
+
 I take, receive
 the
 bread
@@ -22894,7 +22894,7 @@ the
 child
 and, also, likewise
 the
-0
+
 I throw, place
 the
 but, and (frequently untranslated)
@@ -22906,14 +22906,14 @@ yes, indeed
 master, lord, the Lord
 and, also, likewise
 the
-0
+
 under
 the
 table
-0
+
 (with gen.) from, away from
 the
-0
+
 the
 infant, young child
 and, also, likewise
@@ -22967,13 +22967,13 @@ Galilee
 middle, in the middle
 the
 region
-0
+
 and, also, likewise
 I bear, carry
 he, she, it; himself, herself, itself; even, very; same
 mute, deaf
 and, also, likewise
-0
+
 and, also, likewise
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
@@ -22999,8 +22999,8 @@ the
 ear
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
-0
+
+
 the
 tongue, language
 he, she, it; himself, herself, itself; even, very; same
@@ -23013,7 +23013,7 @@ I sigh, groan
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 who, which, what
 I am
 I open, explain
@@ -23032,7 +23032,7 @@ tongue, language
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I speak
-0
+
 and, also, likewise
 I order
 he, she, it; himself, herself, itself; even, very; same
@@ -23048,7 +23048,7 @@ more, rather
 abundant, superfluous
 I proclaim, preach
 and, also, likewise
-0
+
 I am amazed, overwhelmed
 I say, tell
 well, beautifully
@@ -23060,21 +23060,21 @@ mute, deaf
 I do, make
 I hear
 and, also, likewise
-0
+
 I speak
 (with dat.) in
 that
 the
 day
 again
-0
+
 multitude
 I am
 and, also, likewise
 not
 I have, hold
 who? which one? what?
-0
+
 I call, invite
 the
 learner, disciple
@@ -23094,12 +23094,12 @@ and, also, likewise
 no, not
 I have, hold
 who? which one? what?
-0
+
 and, also, likewise
 if
 I set free, let go, send away
 he, she, it; himself, herself, itself; even, very; same
-0
+
 into, in
 house, dwelling
 he, she, it; himself, herself, itself; even, very; same
@@ -23128,7 +23128,7 @@ here
 I feed, fill; (pass.) I eat my fill
 bread
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 and, also, likewise
 I ask, request
 he, she, it; himself, herself, itself; even, very; same
@@ -23167,7 +23167,7 @@ the
 multitude
 and, also, likewise
 I have, hold
-0
+
 few, little
 and, also, likewise
 I bless
@@ -23177,7 +23177,7 @@ and, also, likewise
 this
 I place beside, place around
 and, also, likewise
-0
+
 and, also, likewise
 I feed, fill; (pass.) I eat my fill
 and, also, likewise
@@ -23207,13 +23207,13 @@ I come, go
 into, in
 the
 part
-0
+
 and, also, likewise
 I go out, come out
 the
 a Pharisee
 and, also, likewise
-0
+
 I discuss, dispute
 he, she, it; himself, herself, itself; even, very; same
 I seek, look for, ask
@@ -23226,7 +23226,7 @@ heaven
 I test, tempt
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 breath, spirit
 he, she, it; himself, herself, itself; even, very; same
@@ -23267,7 +23267,7 @@ bread
 no, not
 I have, hold
 (with gen.) with; (with acc.) after, behind
-0
+
 (with dat.) in
 the
 boat, ship
@@ -23373,7 +23373,7 @@ I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I take hold of, catch
 the
@@ -23386,10 +23386,10 @@ outside, out
 the
 village
 and, also, likewise
-0
+
 into, in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I put upon
 the
@@ -23421,12 +23421,12 @@ the
 eye
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 and, also, likewise
 I restore, reestablish
 and, also, likewise
 I look at
-0
+
 all, every
 and, also, likewise
 I send away, send out
@@ -23516,7 +23516,7 @@ I say, tell
 (with gen.) about, concerning; (with acc.) around, near
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 I teach
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
@@ -23525,7 +23525,7 @@ the
 son
 the
 human being, person
-0
+
 I suffer, endure
 and, also, likewise
 I reject
@@ -23555,7 +23555,7 @@ I receive, accept
 the
 Peter
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I rebuke, reprove
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -23601,7 +23601,7 @@ behind, back
 I
 I come, go
 I deny
-0
+
 and, also, likewise
 I lift up; I take away
 the
@@ -23651,7 +23651,7 @@ who? which one? what?
 for
 I give
 human being, person
-0
+
 the
 soul
 he, she, it; himself, herself, itself; even, very; same
@@ -23704,7 +23704,7 @@ anyone, anything; someone, something
 here
 the
 I place, set, stand
-0
+
 no, not
 not
 I taste; I come to know
@@ -23741,9 +23741,9 @@ mountain, hill
 high
 (with gen.) down, against; (with acc.) according to, along
 one’s own
-0
+
 and, also, likewise
-0
+
 (adverb) in front, ahead; (prep., with gen.) in front of, before
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -23751,18 +23751,18 @@ the
 garment
 he, she, it; himself, herself, itself; even, very; same
 I am, become, happen
-0
+
 white
 very (much)
 of what sort, such as
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
 no, not
 I can
 in this manner, thus, so
-0
+
 and, also, likewise
 I see
 he, she, it; himself, herself, itself; even, very; same
@@ -23782,7 +23782,7 @@ I say, tell
 the
 Jesus, Joshua
 rabbi
-0
+
 I am
 I
 here
@@ -23804,7 +23804,7 @@ for
 I know
 who? which one? what?
 I answer, reply
-0
+
 for
 I am, become, happen
 and, also, likewise
@@ -23828,7 +23828,7 @@ beloved, dear
 I hear
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 I look around
 no more, no longer
 no one, nothing
@@ -23836,9 +23836,9 @@ I see
 but, rather, yet
 the
 Jesus, Joshua
-0
+
 (with gen.) with; (with acc.) after, behind
-0
+
 and, also, likewise
 I come down, go down
 he, she, it; himself, herself, itself; even, very; same
@@ -23867,7 +23867,7 @@ the
 word, Word
 I take hold of, hold fast
 (with dat.) near, at; (with acc.) to, toward
-0
+
 I discuss, dispute
 who? which one? what?
 I am
@@ -23887,7 +23887,7 @@ that, because, since
 Elijah
 it is necessary, one must
 I come, go
-0
+
 the
 but, and (frequently untranslated)
 I say
@@ -23895,7 +23895,7 @@ he, she, it; himself, herself, itself; even, very; same
 Elijah
 indeed, on the one hand (but often untranslatable)
 I come, go
-0
+
 I restore, reestablish
 all, every
 and, also, likewise
@@ -23907,10 +23907,10 @@ son
 the
 human being, person
 in order that, that
-0
+
 I suffer, endure
 and, also, likewise
-0
+
 but, rather, yet
 I say, tell
 you
@@ -23934,7 +23934,7 @@ the
 learner, disciple
 I see
 multitude
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -23949,9 +23949,9 @@ the
 multitude
 I see
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
-0
+
 I greet
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -23960,7 +23960,7 @@ he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
 I discuss, dispute
 (with dat.) near, at; (with acc.) to, toward
-0
+
 and, also, likewise
 I answer, reply
 he, she, it; himself, herself, itself; even, very; same
@@ -23977,7 +23977,7 @@ I
 you
 I have, hold
 breath, spirit
-0
+
 and, also, likewise
 where, insofar as
 if
@@ -23986,9 +23986,9 @@ I seize, win
 I tear, break
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 the
 tooth
 and, also, likewise
@@ -24009,7 +24009,7 @@ but, and (frequently untranslated)
 I answer, reply
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
-0
+
 family, generation
 faithless, unbelieving
 until
@@ -24036,15 +24036,15 @@ he, she, it; himself, herself, itself; even, very; same
 the
 breath, spirit
 immediately
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I fall
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
-0
-0
+
+
 and, also, likewise
 I ask (a question)
 the
@@ -24061,7 +24061,7 @@ the
 but, and (frequently untranslated)
 I say, tell
 from, out of
-0
+
 and, also, likewise
 many times, often
 and, also, likewise
@@ -24113,7 +24113,7 @@ but, and (frequently untranslated)
 the
 Jesus, Joshua
 that, because, since
-0
+
 multitude
 I rebuke, reprove
 the
@@ -24123,7 +24123,7 @@ impure, unclean
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 and, also, likewise
 mute, deaf
 breath, spirit
@@ -24141,8 +24141,8 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I cry, call out
 and, also, likewise
-0
-0
+
+
 I go out, come out
 and, also, likewise
 I am, become, happen
@@ -24150,7 +24150,7 @@ as, like
 dead
 therefore, so that
 the
-0
+
 I say, tell
 that, because, since
 I die
@@ -24283,7 +24283,7 @@ he, she, it; himself, herself, itself; even, very; same
 if
 anyone, anything; someone, something
 I wish, will
-0
+
 I am
 I am
 all, every
@@ -24300,7 +24300,7 @@ he, she, it; himself, herself, itself; even, very; same
 middle, in the middle
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -24372,8 +24372,8 @@ name
 I
 and, also, likewise
 I can
-0
-0
+
+
 I
 who, which, what
 for
@@ -24416,14 +24416,14 @@ small
 this
 the
 I believe (in), trust
-0
+
 I am
 he, she, it; himself, herself, itself; even, very; same
 more, rather
 if
 I lie around; I wear
-0
-0
+
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 neck, throat
@@ -24442,10 +24442,10 @@ hand
 you
 I cut off
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am
 you
-0
+
 I enter
 into, in
 the
@@ -24463,7 +24463,7 @@ into, in
 the
 fire
 the
-0
+
 and, also, likewise
 if
 the
@@ -24473,7 +24473,7 @@ I cause to fall
 you
 I cut off
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am
 you
 I enter
@@ -24499,10 +24499,10 @@ I cause to fall
 you
 I throw out, expel
 he, she, it; himself, herself, itself; even, very; same
-0
+
 you
 I am
-0
+
 I enter
 into, in
 the
@@ -24519,7 +24519,7 @@ the
 Gehenna, hell
 where, insofar as
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 no, not
 I die
@@ -24531,26 +24531,26 @@ I extinguish
 all, every
 for
 fire
-0
-0
+
+
 the
 salt
 if
 but, and (frequently untranslated)
 the
 salt
-0
+
 I am, become, happen
 (with dat.) in
 who? which one? what?
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I have, hold
 (with dat.) in
-0
+
 salt
 and, also, likewise
-0
+
 (with dat.) in
 each other, one another
 and, also, likewise
@@ -24567,14 +24567,14 @@ across
 the
 Jordan
 and, also, likewise
-0
+
 again
 multitude
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 as, like, so
-0
+
 again
 I teach
 he, she, it; himself, herself, itself; even, very; same
@@ -24605,7 +24605,7 @@ I say, tell
 I permit
 Moses
 book, scroll
-0
+
 I write
 and, also, likewise
 I set free, let go, send away
@@ -24616,7 +24616,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 you
 I write
 you
@@ -24660,7 +24660,7 @@ who, which, what
 therefore, then
 the
 God, god
-0
+
 human being, person
 not
 I divide, separate
@@ -24687,7 +24687,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I marry
 another, other
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -24699,14 +24699,14 @@ man
 he, she, it; himself, herself, itself; even, very; same
 I marry
 another, other
-0
+
 and, also, likewise
 I bring to, offer
 he, she, it; himself, herself, itself; even, very; same
 infant, young child
 in order that, that
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 but, and (frequently untranslated)
 learner, disciple
@@ -24756,9 +24756,9 @@ I enter
 into, in
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I put, place
 the
 hand
@@ -24769,10 +24769,10 @@ I go out
 he, she, it; himself, herself, itself; even, very; same
 into, in
 way
-0
+
 one
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I ask (a question)
 he, she, it; himself, herself, itself; even, very; same
@@ -24829,7 +24829,7 @@ this
 all, every
 I watch, guard
 from, out of
-0
+
 I
 the
 but, and (frequently untranslated)
@@ -24863,7 +24863,7 @@ I follow
 I
 the
 but, and (frequently untranslated)
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 word, Word
@@ -24872,8 +24872,8 @@ I grieve; (pass.) I am sad, grieve
 I am
 for
 I have, hold
-0
-0
+
+
 and, also, likewise
 I look around
 the
@@ -24883,7 +24883,7 @@ the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 how?
-0
+
 the
 the
 property, money
@@ -24897,7 +24897,7 @@ I enter
 the
 but, and (frequently untranslated)
 learner, disciple
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 word, Word
@@ -24911,7 +24911,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 child
 how?
-0
+
 I am
 into, in
 the
@@ -24924,9 +24924,9 @@ I am
 camel
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
-0
+
 I go through
 or, either
 rich
@@ -24938,11 +24938,11 @@ God, god
 I enter
 the
 but, and (frequently untranslated)
-0
+
 I am amazed, overwhelmed
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
-0
+
 and, also, likewise
 who? which one? what?
 I can
@@ -24965,7 +24965,7 @@ powerful
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 God, god
-0
+
 I say, tell
 the
 Peter
@@ -25009,7 +25009,7 @@ the Good News, Gospel
 if
 not
 I take, receive
-0
+
 now
 (with dat.) in
 the
@@ -25036,15 +25036,15 @@ the
 I come, go
 life
 eternal
-0
+
 but, and (frequently untranslated)
 I am
-0
+
 last
 and, also, likewise
 the
 last
-0
+
 I am
 but, and (frequently untranslated)
 (with dat.) in
@@ -25060,7 +25060,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
 and, also, likewise
-0
+
 the
 but, and (frequently untranslated)
 I follow
@@ -25070,7 +25070,7 @@ I take, take with
 again
 the
 twelve
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 the
@@ -25119,7 +25119,7 @@ three
 day
 I raise, rise, stand up
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 James
 and, also, likewise
@@ -25161,7 +25161,7 @@ right (as opposed to left)
 and, also, likewise
 one
 from, out of
-0
+
 I sit down, cause to sit down; stay (intrans.)
 (with dat.) in
 the
@@ -25233,7 +25233,7 @@ and, also, likewise
 I hear
 the
 ten
-0
+
 I am indignant
 (with gen.) about, concerning; (with acc.) around, near
 James
@@ -25250,16 +25250,16 @@ I know
 that, because, since
 the
 I think, believe; I seem
-0
+
 the
 nation, the Gentiles
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
 large, great
 he, she, it; himself, herself, itself; even, very; same
-0
+
 he, she, it; himself, herself, itself; even, very; same
 no, not
 in this manner, thus, so
@@ -25285,7 +25285,7 @@ I wish, will
 (with dat.) in
 you
 I am
-0
+
 I am
 all, every
 slave
@@ -25305,9 +25305,9 @@ I give
 the
 soul
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) in place of, for
-0
+
 and, also, likewise
 I come, go
 into, in
@@ -25326,10 +25326,10 @@ multitude
 sufficient, large
 the
 son
-0
-0
+
+
 blind
-0
+
 I sit, sit down
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
@@ -25341,7 +25341,7 @@ Jesus, Joshua
 the
 coming from Nazareth; (as a noun) the Nazarene, inhabitant of Nazareth
 I am
-0
+
 I cry, call out
 and, also, likewise
 I say, tell
@@ -25353,12 +25353,12 @@ I
 and, also, likewise
 I rebuke, reprove
 he, she, it; himself, herself, itself; even, very; same
-0
+
 in order that, that
 I am silent
 the
 but, and (frequently untranslated)
-0
+
 more, rather
 I cry, call out
 son
@@ -25384,11 +25384,11 @@ I call
 you
 the
 but, and (frequently untranslated)
-0
+
 the
 garment
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I come, go
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -25408,7 +25408,7 @@ but, and (frequently untranslated)
 blind
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 in order that, that
 I look up, gain sight
 and, also, likewise
@@ -25437,7 +25437,7 @@ I come near
 into, in
 Jerusalem
 into, in
-0
+
 and, also, likewise
 Bethany
 (with dat.) near, at; (with acc.) to, toward
@@ -25509,7 +25509,7 @@ door
 outside, out
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 and, also, likewise
 I loose, set free
 he, she, it; himself, herself, itself; even, very; same
@@ -25554,7 +25554,7 @@ I sit down, cause to sit down; stay (intrans.)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 garment
 he, she, it; himself, herself, itself; even, very; same
@@ -25564,7 +25564,7 @@ the
 way
 another, other
 but, and (frequently untranslated)
-0
+
 I cut
 from, out of
 the
@@ -25601,11 +25601,11 @@ into, in
 Jerusalem
 into, in
 the
-0
+
 and, also, likewise
 I look around
 all, every
-0
+
 now, already
 I am
 the
@@ -25633,7 +25633,7 @@ I have, hold
 leaf
 I come, go
 if
-0
+
 anyone, anything; someone, something
 I find, discover
 (with dat.) in
@@ -25652,7 +25652,7 @@ for
 time, right time
 no, not
 I am
-0
+
 and, also, likewise
 I answer, reply
 I say, tell
@@ -25665,7 +25665,7 @@ from, out of
 you
 no one, nothing
 fruit
-0
+
 and, also, likewise
 I hear
 the
@@ -25679,8 +25679,8 @@ and, also, likewise
 I enter
 into, in
 the
-0
-0
+
+
 I throw out, expel
 the
 I sell
@@ -25689,20 +25689,20 @@ the
 I buy
 (with dat.) in
 the
-0
+
 and, also, likewise
 the
 table
 the
-0
+
 and, also, likewise
 the
-0
+
 the
 I sell
 the
 pigeon, dove
-0
+
 and, also, likewise
 no, not
 I leave, let go, pardon
@@ -25712,7 +25712,7 @@ I differ, am superior
 vessel, jar
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 and, also, likewise
 I teach
 and, also, likewise
@@ -25762,7 +25762,7 @@ teaching
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 whenever, when
-0
+
 I am, become, happen
 I go out
 outside, out
@@ -25877,7 +25877,7 @@ Jerusalem
 and, also, likewise
 (with dat.) in
 the
-0
+
 I go about, walk around
 he, she, it; himself, herself, itself; even, very; same
 I come, go
@@ -25922,7 +25922,7 @@ and, also, likewise
 I answer, reply
 I
 and, also, likewise
-0
+
 you
 (with dat.) in
 of what kind? which? what?
@@ -25944,13 +25944,13 @@ I
 and, also, likewise
 I consider, reason
 (with dat.) near, at; (with acc.) to, toward
-0
+
 I say, tell
 if
 I say, tell
 from, out of
 heaven
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 who? which one? what?
 therefore, then
@@ -25995,7 +25995,7 @@ power, authority
 this
 I do, make
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 parable
@@ -26005,15 +26005,15 @@ human being, person
 I plant
 and, also, likewise
 I put around
-0
+
 and, also, likewise
-0
-0
+
+
 and, also, likewise
 I build
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 farmer
 and, also, likewise
@@ -26051,7 +26051,7 @@ he, she, it; himself, herself, itself; even, very; same
 another, other
 slave
 and that one, and he
-0
+
 and, also, likewise
 I dishonor
 and, also, likewise
@@ -26060,7 +26060,7 @@ I send away, send out
 and that one, and he
 I kill
 and, also, likewise
-0
+
 another, other
 who, which, what
 indeed, on the one hand (but often untranslatable)
@@ -26089,7 +26089,7 @@ but, and (frequently untranslated)
 the
 farmer
 (with dat.) near, at; (with acc.) to, toward
-0
+
 I say, tell
 that, because, since
 this
@@ -26184,10 +26184,10 @@ the
 a Pharisee
 and, also, likewise
 the
-0
+
 in order that, that
 he, she, it; himself, herself, itself; even, very; same
-0
+
 word, Word
 and, also, likewise
 I come, go
@@ -26196,7 +26196,7 @@ he, she, it; himself, herself, itself; even, very; same
 teacher
 I know
 that, because, since
-TRUE
+True
 I am
 and, also, likewise
 no, not
@@ -26220,7 +26220,7 @@ God, god
 I teach
 it is permitted, possible
 I give
-0
+
 emperor, Caesar
 or, either
 no, not
@@ -26278,7 +26278,7 @@ God, god
 the
 God, god
 and, also, likewise
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -26286,7 +26286,7 @@ I come, go
 a Sadducee
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 resurrection
 not
@@ -26319,8 +26319,8 @@ he, she, it; himself, herself, itself; even, very; same
 the
 woman
 and, also, likewise
-0
-0
+
+
 the
 brother
 he, she, it; himself, herself, itself; even, very; same
@@ -26329,14 +26329,14 @@ brother
 I am
 and, also, likewise
 the
-0
+
 I take, receive
 woman
 and, also, likewise
 I die
 no, not
 I leave, let go, pardon
-0
+
 and, also, likewise
 the
 second
@@ -26346,7 +26346,7 @@ and, also, likewise
 I die
 not
 I leave behind
-0
+
 and, also, likewise
 the
 third
@@ -26356,7 +26356,7 @@ the
 seven
 no, not
 I leave, let go, pardon
-0
+
 last
 all, every
 and, also, likewise
@@ -26448,7 +26448,7 @@ God, god
 dead
 but, rather, yet
 I live
-0
+
 I lead astray, deceive
 and, also, likewise
 I go to, approach
@@ -26468,13 +26468,13 @@ he, she, it; himself, herself, itself; even, very; same
 of what kind? which? what?
 I am
 commandment, order
-0
+
 all, every
 I answer, reply
 the
 Jesus, Joshua
 that, because, since
-0
+
 I am
 I hear
 Israel
@@ -26571,12 +26571,12 @@ I love
 the
 near
 as, like, so
-0
+
 abundant, superfluous
 I am
 all, every
 the
-0
+
 and, also, likewise
 sacrifice, offering
 and, also, likewise
@@ -26585,7 +26585,7 @@ Jesus, Joshua
 I see
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
-0
+
 I answer, reply
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -26611,7 +26611,7 @@ I say, tell
 I teach
 (with dat.) in
 the
-0
+
 how?
 I say, tell
 the
@@ -26661,11 +26661,11 @@ I am
 son
 and, also, likewise
 the
-0
+
 multitude
 I hear
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 (with dat.) in
 the
@@ -26687,7 +26687,7 @@ greeting
 the
 marketplace
 and, also, likewise
-0
+
 (with dat.) in
 the
 synagogue
@@ -26725,21 +26725,21 @@ into, in
 the
 treasure room, treasury
 and, also, likewise
-0
+
 rich
 I throw, place
-0
+
 and, also, likewise
 I come, go
 one
 widow
 poor
 I throw, place
-0
+
 two
 who, which, what
 I am
-0
+
 and, also, likewise
 I call, invite
 the
@@ -26756,7 +26756,7 @@ widow
 this
 the
 poor
-0
+
 all, every
 I throw, place
 the
@@ -26775,7 +26775,7 @@ this
 but, and (frequently untranslated)
 from, out of
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 all, every
 as great, how great; as far, how far
@@ -26790,7 +26790,7 @@ I go out
 he, she, it; himself, herself, itself; even, very; same
 from, out of
 the
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 one
@@ -26834,7 +26834,7 @@ the
 olive tree
 opposite; before
 the
-0
+
 I ask (a question)
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) down, against; (with acc.) according to, along
@@ -26863,7 +26863,7 @@ all, every
 the
 but, and (frequently untranslated)
 Jesus, Joshua
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I see, look
@@ -26871,7 +26871,7 @@ not
 anyone, anything; someone, something
 you
 I lead astray, deceive
-0
+
 I come, go
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -26882,7 +26882,7 @@ that, because, since
 I
 I am
 and, also, likewise
-0
+
 I lead astray, deceive
 whenever, when
 but, and (frequently untranslated)
@@ -26892,7 +26892,7 @@ and, also, likewise
 hearing, ear, report
 war
 not
-0
+
 it is necessary, one must
 I am, become, happen
 but, rather, yet
@@ -26915,12 +26915,12 @@ place
 I am
 hunger, famine
 beginning; ruler, authority
-0
+
 this
 I see, look
 but, and (frequently untranslated)
 you
-0
+
 I hand over, hand down, entrust
 you
 into, in
@@ -26945,7 +26945,7 @@ into, in
 all, every
 the
 nation, the Gentiles
-0
+
 it is necessary, one must
 I proclaim, preach
 the
@@ -26956,7 +26956,7 @@ I lead
 you
 I hand over, hand down, entrust
 not
-0
+
 who? which one? what?
 I speak
 but, rather, yet
@@ -26991,7 +26991,7 @@ and, also, likewise
 father
 child
 and, also, likewise
-0
+
 child
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 parents
@@ -27020,7 +27020,7 @@ I see
 the
 abomination
 the
-0
+
 I place, set, stand
 where, insofar as
 no, not
@@ -27111,7 +27111,7 @@ I am, become, happen
 and, also, likewise
 if
 not
-0
+
 master, lord, the Lord
 the
 day
@@ -27126,7 +27126,7 @@ the
 chosen, select
 who, which, what
 I choose, select
-0
+
 the
 day
 and, also, likewise
@@ -27145,7 +27145,7 @@ not
 I believe (in), trust
 I raise
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 false prophet
 and, also, likewise
@@ -27155,7 +27155,7 @@ and, also, likewise
 wonder
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 if
 powerful
 the
@@ -27184,7 +27184,7 @@ moon
 no, not
 I give
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
@@ -27214,7 +27214,7 @@ I come, go
 cloud
 (with gen.) with; (with acc.) after, behind
 power, strength
-0
+
 and, also, likewise
 glory, brightness, splendor
 and, also, likewise
@@ -27249,17 +27249,17 @@ now, already
 the
 branch
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am, become, happen
 and, also, likewise
-0
+
 the
 leaf
 I know
 that, because, since
-0
+
 the
-0
+
 I am
 in this manner, thus, so
 and, also, likewise
@@ -27270,7 +27270,7 @@ this
 I am, become, happen
 I know
 that, because, since
-0
+
 I am
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 door
@@ -27324,7 +27324,7 @@ not
 the
 father
 I see, look
-0
+
 no, not
 I know
 for
@@ -27334,7 +27334,7 @@ time, right time
 I am
 as, like, so
 human being, person
-0
+
 I leave, let go, pardon
 the
 household
@@ -27352,7 +27352,7 @@ work, deed
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 I command, order
 in order that, that
 I watch
@@ -27368,11 +27368,11 @@ the
 household
 I come, go
 or, either
-0
+
 or, either
-0
+
 or, either
-0
+
 or, either
 early (in the morning)
 not
@@ -27391,7 +27391,7 @@ I watch
 I am
 but, and (frequently untranslated)
 the
-0
+
 and, also, likewise
 the
 unleavened
@@ -27416,7 +27416,7 @@ for
 not
 (with dat.) in
 the
-0
+
 not
 when?
 I am
@@ -27439,15 +27439,15 @@ he, she, it; himself, herself, itself; even, very; same
 I come, go
 woman
 I have, hold
-0
+
 ointment, perfume
-0
-0
-0
+
+
+
 I shatter, break
 the
-0
-0
+
+
 he, she, it; himself, herself, itself; even, very; same
 the
 head
@@ -27456,7 +27456,7 @@ but, and (frequently untranslated)
 anyone, anything; someone, something
 I am indignant
 (with dat.) near, at; (with acc.) to, toward
-0
+
 into, in
 who? which one? what?
 the
@@ -27473,7 +27473,7 @@ ointment, perfume
 I sell
 above, over
 denarius
-0
+
 and, also, likewise
 I give
 the
@@ -27491,7 +27491,7 @@ who? which one? what?
 he, she, it; himself, herself, itself; even, very; same
 trouble, work
 I give, cause
-0
+
 work, deed
 I work, do, accomplish
 (with dat.) in
@@ -27502,7 +27502,7 @@ the
 poor
 I have, hold
 (with gen.) with; (with acc.) after, behind
-0
+
 and, also, likewise
 whenever, when
 I wish, will
@@ -27518,14 +27518,14 @@ I have, hold
 who, which, what
 I have, hold
 I do, make
-0
-0
+
+
 the
 body
 I
 into, in
 the
-0
+
 so let it be, truly, amen
 but, and (frequently untranslated)
 I say, tell
@@ -27545,10 +27545,10 @@ I do, make
 this
 I speak
 into, in
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 Iscariot
 the
 one
@@ -27575,17 +27575,17 @@ and, also, likewise
 I seek, look for, ask
 how?
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I hand over, hand down, entrust
 and, also, likewise
 the
-0
+
 day
 the
 unleavened
 when
 the
-0
+
 I sacrifice
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -27597,9 +27597,9 @@ I wish, will
 I go away
 I prepare
 in order that, that
-0
+
 the
-0
+
 and, also, likewise
 I send away, send out
 two
@@ -27614,10 +27614,10 @@ into, in
 the
 city
 and, also, likewise
-0
+
 you
 human being, person
-0
+
 water
 I bear
 I follow
@@ -27636,21 +27636,21 @@ I say, tell
 where?
 I am
 the
-0
+
 I
 where, insofar as
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 learner, disciple
 I
-0
+
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 you
 I point out, show
-0
+
 large, great
 I spread
 prepared
@@ -27675,7 +27675,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I prepare
 the
-0
+
 and, also, likewise
 evening
 I am, become, happen
@@ -27687,7 +27687,7 @@ and, also, likewise
 I lie, recline
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 Jesus, Joshua
 I say, tell
@@ -27701,10 +27701,10 @@ you
 I hand over, hand down, entrust
 I
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 I
-0
+
 I grieve; (pass.) I am sad, grieve
 and, also, likewise
 I say, tell
@@ -27722,12 +27722,12 @@ one
 the
 twelve
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 I
 into, in
 the
-0
+
 that, because, since
 the
 indeed, on the one hand (but often untranslatable)
@@ -27751,7 +27751,7 @@ son
 the
 human being, person
 I hand over, hand down, entrust
-0
+
 he, she, it; himself, herself, itself; even, very; same
 if
 no, not
@@ -27760,7 +27760,7 @@ the
 human being, person
 that
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I take, receive
 bread
@@ -27801,7 +27801,7 @@ will, testament, covenant
 the
 I pour out
 (with gen.) on behalf of; (with acc.) above
-0
+
 so let it be, truly, amen
 I say, tell
 you
@@ -27812,7 +27812,7 @@ not
 I drink
 from, out of
 the
-0
+
 the
 vine
 until
@@ -27829,7 +27829,7 @@ kingdom, reign
 the
 God, god
 and, also, likewise
-0
+
 I go out, come out
 into, in
 the
@@ -27899,12 +27899,12 @@ I
 I deny
 the
 but, and (frequently untranslated)
-0
+
 I speak
 if
 it is necessary, one must
 I
-0
+
 you
 no, not
 not
@@ -27922,7 +27922,7 @@ place, land, field
 who, which, what
 the
 name
-0
+
 and, also, likewise
 I say, tell
 the
@@ -27945,10 +27945,10 @@ John
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
-0
+
+
 and, also, likewise
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -27983,13 +27983,13 @@ the
 hour
 and, also, likewise
 I say, tell
-0
+
 the
 father
 all, every
 powerful
 you
-0
+
 the
 a drink
 this
@@ -28031,7 +28031,7 @@ test, temptation
 the
 indeed, on the one hand (but often untranslatable)
 breath, spirit
-0
+
 the
 but, and (frequently untranslated)
 flesh
@@ -28055,7 +28055,7 @@ for
 he, she, it; himself, herself, itself; even, very; same
 the
 eye
-0
+
 and, also, likewise
 no, not
 I know
@@ -28071,7 +28071,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I sleep
 the
-0
+
 and, also, likewise
 I give rest, refresh
 I receive; I am distant; I abstain
@@ -28103,7 +28103,7 @@ he, she, it; himself, herself, itself; even, very; same
 I speak
 I come, am present
 the
-0
+
 one
 the
 twelve
@@ -28129,7 +28129,7 @@ but, and (frequently untranslated)
 the
 I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 who, which, what
@@ -28140,8 +28140,8 @@ I am
 I take hold of, hold fast
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
-0
+
+
 and, also, likewise
 I come, go
 immediately
@@ -28166,7 +28166,7 @@ but, and (frequently untranslated)
 anyone, anything; someone, something
 the
 I am present, stand by
-0
+
 the
 sword
 I strike, wound
@@ -28178,7 +28178,7 @@ and, also, likewise
 I take away
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 and, also, likewise
 I answer, reply
 the
@@ -28202,7 +28202,7 @@ I am
 you
 (with dat.) in
 the
-0
+
 I teach
 and, also, likewise
 no, not
@@ -28221,7 +28221,7 @@ all, every
 and, also, likewise
 youth, young man
 anyone, anything; someone, something
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I put on, clothe
 linen cloth, tunic, shirt
@@ -28238,7 +28238,7 @@ linen cloth, tunic, shirt
 naked
 I flee
 and, also, likewise
-0
+
 the
 Jesus, Joshua
 (with dat.) near, at; (with acc.) to, toward
@@ -28271,7 +28271,7 @@ the
 high priest, chief priest
 and, also, likewise
 I am
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 servant, assistant
@@ -28299,7 +28299,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 no, not
 I find, discover
-0
+
 for
 I bear false witness
 (with gen.) down, against; (with acc.) according to, along
@@ -28335,7 +28335,7 @@ and, also, likewise
 three
 day
 another, other
-0
+
 I build
 and, also, likewise
 and not, nor; neither, nor
@@ -28361,7 +28361,7 @@ no one, nothing
 who? which one? what?
 this
 you
-0
+
 the
 but, and (frequently untranslated)
 I am silent
@@ -28437,12 +28437,12 @@ liable, guilty
 I am
 death
 and, also, likewise
-0
+
 anyone, anything; someone, something
 I spit on (or) at
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 face
@@ -28456,7 +28456,7 @@ I prophesy
 and, also, likewise
 the
 servant, assistant
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I take, receive
 and, also, likewise
@@ -28505,13 +28505,13 @@ I go out, come out
 outside, out
 into, in
 the
-0
+
 and, also, likewise
 the
 female slave
 I see
 he, she, it; himself, herself, itself; even, very; same
-0
+
 again
 I say, tell
 the
@@ -28544,8 +28544,8 @@ Galilean
 I am
 the
 but, and (frequently untranslated)
-0
-0
+
+
 and, also, likewise
 I swear, take an oath
 that, because, since
@@ -28630,7 +28630,7 @@ I accuse
 he, she, it; himself, herself, itself; even, very; same
 the
 high priest, chief priest
-0
+
 the
 but, and (frequently untranslated)
 Pilate
@@ -28657,7 +28657,7 @@ the
 Pilate
 (with gen.) down, against; (with acc.) according to, along
 but, and (frequently untranslated)
-0
+
 I set free, let go, send away
 he, she, it; himself, herself, itself; even, very; same
 one
@@ -28671,9 +28671,9 @@ I say, tell
 Barabbas
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 I bind, tie
-0
+
 (with dat.) in
 the
 uprising, revolt
@@ -28683,7 +28683,7 @@ and, also, likewise
 I go up, embark
 the
 multitude
-0
+
 I ask, ask for
 as, just as
 I do, make
@@ -28713,7 +28713,7 @@ high priest, chief priest
 the
 but, and (frequently untranslated)
 high priest, chief priest
-0
+
 the
 multitude
 in order that, that
@@ -28755,7 +28755,7 @@ I do, make
 evil, bad
 the
 but, and (frequently untranslated)
-0
+
 I cry, call out
 I crucify
 he, she, it; himself, herself, itself; even, very; same
@@ -28776,13 +28776,13 @@ and, also, likewise
 I hand over, hand down, entrust
 the
 Jesus, Joshua
-0
+
 in order that, that
 I crucify
 the
 but, and (frequently untranslated)
 soldier
-0
+
 he, she, it; himself, herself, itself; even, very; same
 in, inside
 the
@@ -28796,17 +28796,17 @@ whole, complete
 the
 cohort
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I put around
 he, she, it; himself, herself, itself; even, very; same
-0
-0
-0
+
+
+
 and, also, likewise
-0
+
 I greet
 he, she, it; himself, herself, itself; even, very; same
 I rejoice, am glad
@@ -28835,7 +28835,7 @@ he, she, it; himself, herself, itself; even, very; same
 I strip, take off
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 and, also, likewise
 I clothe
 he, she, it; himself, herself, itself; even, very; same
@@ -28849,7 +28849,7 @@ in order that, that
 I crucify
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 I go away, pass by
 anyone, anything; someone, something
 Simon
@@ -28861,7 +28861,7 @@ the
 father
 Alexander
 and, also, likewise
-0
+
 in order that, that
 I lift up; I take away
 the
@@ -28872,17 +28872,17 @@ I bear, carry
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 place
 who, which, what
 I am
 I translate
-0
+
 place
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 wine
 who, which, what
 but, and (frequently untranslated)
@@ -28947,7 +28947,7 @@ head
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I say, tell
-0
+
 the
 I destroy, abolish
 the
@@ -28976,7 +28976,7 @@ scribe
 I say, tell
 another, other
 I save, deliver
-0
+
 no, not
 I can
 I save, deliver
@@ -29023,10 +29023,10 @@ the
 Jesus, Joshua
 sound, voice
 large, great
-0
-0
-0
-0
+
+
+
+
 who, which, what
 I am
 I translate
@@ -29054,7 +29054,7 @@ but, and (frequently untranslated)
 anyone, anything; someone, something
 and, also, likewise
 I fill
-0
+
 sour wine, vinegar
 I put around
 reed
@@ -29074,7 +29074,7 @@ Jesus, Joshua
 I leave, let go, pardon
 sound, voice
 large, great
-0
+
 and, also, likewise
 the
 curtain
@@ -29090,7 +29090,7 @@ below, downward
 I see
 but, and (frequently untranslated)
 the
-0
+
 the
 I am present, stand by
 from, out of
@@ -29098,7 +29098,7 @@ against, opposed, hostile
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 in this manner, thus, so
-0
+
 I say, tell
 truly
 this
@@ -29127,10 +29127,10 @@ James
 the
 small
 and, also, likewise
-0
+
 mother
 and, also, likewise
-0
+
 who, which, what
 when
 I am
@@ -29144,9 +29144,9 @@ I wait at table, serve
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 another, other
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 Jerusalem
@@ -29159,14 +29159,14 @@ I am
 preparation
 who, which, what
 I am
-0
+
 I come, go
 Joseph
 the
 (with gen.) from, away from
-0
+
 prominent, of high repute
-0
+
 who, which, what
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
@@ -29197,7 +29197,7 @@ I die
 and, also, likewise
 I call, invite
 the
-0
+
 I ask (a question)
 he, she, it; himself, herself, itself; even, very; same
 if
@@ -29207,8 +29207,8 @@ and, also, likewise
 I know
 (with gen.) from, away from
 the
-0
-0
+
+
 the
 corpse
 the
@@ -29218,21 +29218,21 @@ I buy
 linen cloth, tunic, shirt
 I tear down, destroy
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 linen cloth, tunic, shirt
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 grave, tomb
 who, which, what
 I am
-0
+
 from, out of
 rock, stone
 and, also, likewise
-0
+
 stone
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -29247,12 +29247,12 @@ Magdalene, woman from Magdala
 and, also, likewise
 Mary
 the
-0
+
 I see, perceive
-0
+
 I put, place
 and, also, likewise
-0
+
 the
 Sabbath, week
 Mary
@@ -29264,9 +29264,9 @@ the
 the
 James
 and, also, likewise
-0
+
 I buy
-0
+
 in order that, that
 I come, go
 I anoint
@@ -29288,9 +29288,9 @@ sun
 and, also, likewise
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
-0
+
 who? which one? what?
-0
+
 I
 the
 stone
@@ -29303,7 +29303,7 @@ and, also, likewise
 I look up, gain sight
 I see, perceive
 that, because, since
-0
+
 the
 stone
 I am
@@ -29325,13 +29325,13 @@ I put on, clothe
 robe
 white
 and, also, likewise
-0
+
 the
 but, and (frequently untranslated)
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 not
-0
+
 Jesus, Joshua
 I seek, look for, ask
 the
@@ -29390,10 +29390,10 @@ for
 I raise, rise, stand up
 but, and (frequently untranslated)
 early (in the morning)
-0
+
 Sabbath, week
 I shine; (mid.) I appear, become visible
-0
+
 Mary
 the
 Magdalene, woman from Magdala
@@ -29431,7 +29431,7 @@ I go about, walk around
 I reveal, make known
 (with dat.) in
 other, another, different
-0
+
 I go, proceed
 into, in
 field, farm
@@ -29439,11 +29439,11 @@ and that one, and he
 I go away
 I report, proclaim
 the
-0
+
 and not, nor; neither, nor
 that
 I believe (in), trust
-0
+
 but, and (frequently untranslated)
 I lie, recline
 he, she, it; himself, herself, itself; even, very; same
@@ -29456,7 +29456,7 @@ the
 unfaithfulness, unbelief
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 that, because, since
 the
 I see, look at
@@ -29492,7 +29492,7 @@ but, and (frequently untranslated)
 the
 I believe (in), trust
 this
-0
+
 (with dat.) in
 the
 name
@@ -29505,13 +29505,13 @@ new
 snake, serpent
 I lift up; I take away
 and if, even if, if only
-0
+
 anyone, anything; someone, something
 I drink
 no, not
 not
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 sick
 hand
@@ -29552,7 +29552,7 @@ word, Word
 I make firm, establish, confirm
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 sign
 all, every
 but, and (frequently untranslated)
@@ -29562,8 +29562,8 @@ the
 (with gen.) about, concerning; (with acc.) around, near
 the
 Peter
-0
-0
+
+
 (with gen.) with; (with acc.) after, behind
 but, and (frequently untranslated)
 this
@@ -29575,23 +29575,23 @@ Jesus, Joshua
 rising, east
 and, also, likewise
 until
-0
+
 I send forth
 (with gen.) through; (with acc.) because of, for the sake of
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 and, also, likewise
 imperishable, incorruptible
 proclamation, preaching
 the
 eternal
 salvation, deliverance
-0
-0
-0
-0
-0
+
+
+
+
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 I fill, fulfill
@@ -29604,7 +29604,7 @@ I
 the
 (with gen.) from, away from
 beginning; ruler, authority
-0
+
 and, also, likewise
 servant, assistant
 I am, become, happen
@@ -29612,15 +29612,15 @@ the
 word, Word
 I think, believe; I seem
 and I, but I
-0
+
 from above, again
 all, every
 accurately, carefully
 in order, one after the other
 you
 I write
-0
-0
+
+
 in order that, that
 I know, understand
 (with gen.) about, concerning; (with acc.) around, near
@@ -29628,7 +29628,7 @@ who, which, what
 I teach
 word, Word
 the
-0
+
 I am, become, happen
 (with dat.) in
 the
@@ -29642,8 +29642,8 @@ anyone, anything; someone, something
 name
 Zechariah
 from, out of
-0
-0
+
+
 and, also, likewise
 woman
 he, she, it; himself, herself, itself; even, very; same
@@ -29695,25 +29695,25 @@ I am, become, happen
 but, and (frequently untranslated)
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
 order
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 God, god
 (with gen.) down, against; (with acc.) according to, along
 the
 custom, law
 the
-0
-0
+
+
 the
-0
+
 I enter
 into, in
 the
@@ -29789,7 +29789,7 @@ you
 and, also, likewise
 exultation, joy
 and, also, likewise
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 beginning
@@ -29803,7 +29803,7 @@ master, lord, the Lord
 and, also, likewise
 wine
 and, also, likewise
-0
+
 no, not
 not
 I drink
@@ -29817,7 +29817,7 @@ womb, belly
 mother
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 son
 Israel
@@ -29845,7 +29845,7 @@ child
 and, also, likewise
 disobedient
 (with dat.) in
-0
+
 righteous, just
 I prepare
 master, lord, the Lord
@@ -29864,7 +29864,7 @@ this
 I
 for
 I am
-0
+
 and, also, likewise
 the
 woman
@@ -29882,7 +29882,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I
 I am
-0
+
 the
 I am present, stand by
 before
@@ -29917,7 +29917,7 @@ I believe (in), trust
 the
 word, Word
 I
-0
+
 I fill, make full, finish
 into, in
 the
@@ -29948,7 +29948,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I know, understand
 that, because, since
-0
+
 I see
 (with dat.) in
 the
@@ -29956,7 +29956,7 @@ temple
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I am
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I remain
@@ -29986,8 +29986,8 @@ the
 woman
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
-0
+
+
 month
 five
 I say, tell
@@ -29999,9 +29999,9 @@ master, lord, the Lord
 (with dat.) in
 day
 who, which, what
-0
+
 I take away
-0
+
 I
 (with dat.) in
 human being, person
@@ -30014,7 +30014,7 @@ sixth
 I send away, send out
 the
 angel, messenger
-0
+
 (with gen.) from, away from
 the
 God, god
@@ -30027,7 +30027,7 @@ name
 Nazareth
 (with dat.) near, at; (with acc.) to, toward
 virgin
-0
+
 man
 who, which, what
 name
@@ -30047,7 +30047,7 @@ I enter
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 I rejoice, am glad
-0
+
 the
 master, lord, the Lord
 (with gen.) with; (with acc.) after, behind
@@ -30057,7 +30057,7 @@ but, and (frequently untranslated)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 word, Word
-0
+
 and, also, likewise
 I consider, reason
 of what sort, of what kind
@@ -30169,14 +30169,14 @@ and, also, likewise
 I see
 Elizabeth
 the
-0
+
 you
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I seize, I conceive
 son
 (with dat.) in
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 this
@@ -30189,7 +30189,7 @@ I call
 barren
 that, because, since
 no, not
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 God, god
@@ -30200,7 +30200,7 @@ but, and (frequently untranslated)
 Mary
 I see
 the
-0
+
 master, lord, the Lord
 I am, become, happen
 I
@@ -30224,12 +30224,12 @@ this
 I go, proceed
 into, in
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 haste; eagerness
 into, in
 city
-0
+
 and, also, likewise
 I enter
 into, in
@@ -30250,7 +30250,7 @@ the
 Mary
 the
 Elizabeth
-0
+
 the
 baby
 (with dat.) in
@@ -30264,7 +30264,7 @@ holy
 the
 Elizabeth
 and, also, likewise
-0
+
 cry, shout
 large, great
 and, also, likewise
@@ -30306,7 +30306,7 @@ into, in
 the
 ear
 I
-0
+
 (with dat.) in
 exultation, joy
 the
@@ -30321,7 +30321,7 @@ the
 I believe (in), trust
 that, because, since
 I am
-0
+
 the
 I speak
 he, she, it; himself, herself, itself; even, very; same
@@ -30348,19 +30348,19 @@ the
 savior, deliverer
 I
 that, because, since
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I see
 for
 (with gen.) from, away from
 the
 now
-0
+
 I
 all, every
 the
@@ -30390,7 +30390,7 @@ he, she, it; himself, herself, itself; even, very; same
 I do, make
 power, rule
 (with dat.) in
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I scatter, disperse
 arrogant, haughty
@@ -30398,20 +30398,20 @@ understanding, mind
 heart
 he, she, it; himself, herself, itself; even, very; same
 I tear down, destroy
-0
+
 (with gen.) from, away from
 throne
 and, also, likewise
 I lift up
 lowly, humble
 I hunger
-0
+
 good
 and, also, likewise
 I am rich, become rich
 I send forth
 empty
-0
+
 Israel
 child
 he, she, it; himself, herself, itself; even, very; same
@@ -30427,7 +30427,7 @@ the
 Abraham
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
@@ -30461,7 +30461,7 @@ son
 and, also, likewise
 I hear
 the
-0
+
 and, also, likewise
 the
 related, akin to
@@ -30517,14 +30517,14 @@ no one, nothing
 I am
 from, out of
 the
-0
+
 you
 who, which, what
 I call
 the
 name
 this
-0
+
 but, and (frequently untranslated)
 the
 father
@@ -30537,7 +30537,7 @@ I call
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I ask, ask for
-0
+
 I write
 I say, tell
 John
@@ -30568,16 +30568,16 @@ I am, become, happen
 all, every
 fear
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 (with dat.) in
 whole, complete
 the
-0
+
 the
 Judea
-0
+
 all, every
 the
 word, saying; thing, matter
@@ -30593,7 +30593,7 @@ heart
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 who? which one? what?
-0
+
 the
 infant, young child
 this
@@ -30626,7 +30626,7 @@ that, because, since
 I oversee, care for
 and, also, likewise
 I do, make
-0
+
 the
 people
 he, she, it; himself, herself, itself; even, very; same
@@ -30683,7 +30683,7 @@ I
 the
 I give
 I
-0
+
 from, out of
 hand
 hostile; (as a noun) enemy
@@ -30691,7 +30691,7 @@ I save
 I serve
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
+
 and, also, likewise
 righteousness
 before
@@ -30707,7 +30707,7 @@ infant, young child
 prophet
 highest, most exalted
 I call
-0
+
 for
 before
 master, lord, the Lord
@@ -30737,7 +30737,7 @@ I
 rising, east
 from, out of
 height
-0
+
 the
 (with dat.) in
 darkness
@@ -30746,7 +30746,7 @@ shade, shadow
 death
 I sit, sit down
 the
-0
+
 the
 foot
 I
@@ -30758,7 +30758,7 @@ but, and (frequently untranslated)
 infant, young child
 I grow, increase
 and, also, likewise
-0
+
 breath, spirit
 and, also, likewise
 I am
@@ -30767,7 +30767,7 @@ the
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
 until
 day
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -30782,27 +30782,27 @@ I go out, come out
 decree; doctrine
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 emperor, Caesar
-0
-0
+
+
 all, every
 the
 the inhabited world
 this
-0
-0
+
+
 I am, become, happen
-0
+
 the
 Syria
-0
+
 and, also, likewise
 I go, proceed
 all, every
-0
+
 each, every
 into, in
 the
-0
+
 city
 I go up, embark
 but, and (frequently untranslated)
@@ -30820,7 +30820,7 @@ Judea
 into, in
 city
 David
-0
+
 I call
 Bethlehem
 (with gen.) through; (with acc.) because of, for the sake of
@@ -30830,16 +30830,16 @@ he, she, it; himself, herself, itself; even, very; same
 from, out of
 house, dwelling
 and, also, likewise
-0
+
 David
-0
+
 (with dat.) with
 Mary
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am
-0
+
 I am, become, happen
 but, and (frequently untranslated)
 (with dat.) in
@@ -30861,13 +30861,13 @@ he, she, it; himself, herself, itself; even, very; same
 the
 first-born
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I cause to lie down; (pass.) I lie down
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
+
 because, therefore
 no, not
 I am
@@ -30875,7 +30875,7 @@ he, she, it; himself, herself, itself; even, very; same
 place
 (with dat.) in
 the
-0
+
 and, also, likewise
 shepherd
 I am
@@ -30884,7 +30884,7 @@ the
 country, land
 the
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I watch, guard
 watch, guard
@@ -30902,7 +30902,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 glory, brightness, splendor
 master, lord, the Lord
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I fear
@@ -30921,7 +30921,7 @@ I preach the Good News
 you
 joy
 large, great
-0
+
 I am
 all, every
 the
@@ -30944,11 +30944,11 @@ you
 sign
 I find, discover
 baby
-0
+
 and, also, likewise
 I lie, recline
 (with dat.) in
-0
+
 and, also, likewise
 suddenly, unexpectedly
 I am, become, happen
@@ -30956,7 +30956,7 @@ I am, become, happen
 the
 angel, messenger
 crowd, multitude
-0
+
 heavenly
 I praise
 the
@@ -31010,7 +31010,7 @@ and, also, likewise
 I come, go
 I hasten
 and, also, likewise
-0
+
 the
 and
 Mary
@@ -31023,7 +31023,7 @@ baby
 I lie, recline
 (with dat.) in
 the
-0
+
 I see
 but, and (frequently untranslated)
 I make known, reveal
@@ -31054,7 +31054,7 @@ the
 but, and (frequently untranslated)
 Mary
 all, every
-0
+
 the
 word, saying; thing, matter
 this
@@ -31136,7 +31136,7 @@ that, because, since
 all, every
 male
 I open, explain
-0
+
 holy
 the
 master, lord, the Lord
@@ -31147,16 +31147,16 @@ I give
 sacrifice, offering
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 (with dat.) in
 the
 law
 master, lord, the Lord
-0
-0
+
+
 or, either
 two
-0
+
 pigeon, dove
 and, also, likewise
 I see
@@ -31173,7 +31173,7 @@ human being, person
 this
 righteous, just
 and, also, likewise
-0
+
 I receive, welcome; I wait for
 exhortation, comfort
 the
@@ -31210,7 +31210,7 @@ the
 breath, spirit
 into, in
 the
-0
+
 and, also, likewise
 (with dat.) in
 the
@@ -31225,7 +31225,7 @@ I do, make
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 the
 law
 (with gen.) about, concerning; (with acc.) around, near
@@ -31236,7 +31236,7 @@ I take, receive
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
-0
+
 and, also, likewise
 I bless
 the
@@ -31261,7 +31261,7 @@ the
 eye
 I
 the
-0
+
 you
 who, which, what
 I prepare
@@ -31308,10 +31308,10 @@ I see
 this
 I lie, recline
 into, in
-0
+
 and, also, likewise
 resurrection
-0
+
 (with dat.) in
 the
 Israel
@@ -31331,23 +31331,23 @@ sword
 (an untranslatable conditional particle)
 I reveal
 from, out of
-0
+
 heart
 thought, doubt, dispute
 and, also, likewise
 I am
-0
-0
+
+
 daughter
-0
+
 from, out of
 tribe, nation
-0
+
 this
 I go on, advance
 (with dat.) in
 day
-0
+
 I live
 (with gen.) with; (with acc.) after, behind
 man
@@ -31355,20 +31355,20 @@ year
 seven
 (with gen.) from, away from
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 widow
 until
 year
-0
+
 four
 who, which, what
 no, not
 I go away
 the
-0
+
 fasting
 and, also, likewise
 prayer, entreaty
@@ -31381,7 +31381,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 hour
 I stand by, approach, appear
-0
+
 the
 God, god
 and, also, likewise
@@ -31391,7 +31391,7 @@ he, she, it; himself, herself, itself; even, very; same
 all, every
 the
 I receive, welcome; I wait for
-0
+
 Jerusalem
 and, also, likewise
 as, like, so
@@ -31408,14 +31408,14 @@ the
 Galilee
 into, in
 city
-0
+
 Nazareth
 the
 but, and (frequently untranslated)
 infant, young child
 I grow, increase
 and, also, likewise
-0
+
 I fill, make full, finish
 wisdom
 and, also, likewise
@@ -31434,9 +31434,9 @@ year
 into, in
 Jerusalem
 the
-0
+
 the
-0
+
 and, also, likewise
 when
 I am, become, happen
@@ -31448,7 +31448,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 custom, law
 the
-0
+
 and, also, likewise
 I complete, perfect
 the
@@ -31475,12 +31475,12 @@ he, she, it; himself, herself, itself; even, very; same
 I am
 (with dat.) in
 the
-0
+
 I come, go
 day
 way
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
@@ -31494,7 +31494,7 @@ I find, discover
 I turn back, return
 into, in
 Jerusalem
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I am, become, happen
@@ -31505,7 +31505,7 @@ I find, discover
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
-0
+
 I sit
 (with dat.) in
 middle, in the middle
@@ -31528,7 +31528,7 @@ the
 understanding
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I see
@@ -31551,7 +31551,7 @@ the
 father
 you
 and I, but I
-0
+
 I seek, look for, ask
 you
 and, also, likewise
@@ -31598,7 +31598,7 @@ and, also, likewise
 the
 mother
 he, she, it; himself, herself, itself; even, very; same
-0
+
 all, every
 the
 word, saying; thing, matter
@@ -31623,18 +31623,18 @@ human being, person
 (with dat.) in
 year
 but, and (frequently untranslated)
-0
+
 the
-0
-0
+
+
 emperor, Caesar
-0
-0
+
+
 Pilate
 the
 Judea
 and, also, likewise
-0
+
 the
 Galilee
 Herod
@@ -31643,20 +31643,20 @@ but, and (frequently untranslated)
 the
 brother
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
-0
+
 and, also, likewise
-0
+
 country, land
 and, also, likewise
-0
+
 the
-0
-0
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 high priest, chief priest
-0
+
 and, also, likewise
 Caiaphas
 I am, become, happen
@@ -31704,35 +31704,35 @@ master, lord, the Lord
 immediately
 I do, make
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 all, every
-0
+
 I fill, make full, finish
 and, also, likewise
 all, every
 mountain, hill
 and, also, likewise
-0
+
 I make low, humble
 and, also, likewise
 I am
 the
-0
+
 into, in
 immediately
 and, also, likewise
 the
-0
+
 into, in
 way
-0
+
 and, also, likewise
 I see
 all, every
 flesh
 the
-0
+
 the
 God, god
 I say, tell
@@ -31743,7 +31743,7 @@ multitude
 I baptize
 (with gen.) by; (with acc.) under
 he, she, it; himself, herself, itself; even, very; same
-0
+
 viper
 who? which one? what?
 I show, indicate
@@ -31761,10 +31761,10 @@ the
 repentance, conversion
 and, also, likewise
 not
-0
+
 I say, tell
 (with dat.) in
-0
+
 father
 I have, hold
 the
@@ -31788,7 +31788,7 @@ now, already
 but, and (frequently untranslated)
 and, also, likewise
 the
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 root
@@ -31801,7 +31801,7 @@ tree
 not
 I do, make
 fruit
-0
+
 I cut off, cut down
 and, also, likewise
 into, in
@@ -31852,7 +31852,7 @@ I say, tell
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 no one, nothing
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 I order, direct
@@ -31872,13 +31872,13 @@ and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 no one, nothing
-0
+
 and not, but not
-0
+
 and, also, likewise
 I am enough, suffice
 the
-0
+
 you
 I wait for
 but, and (frequently untranslated)
@@ -31921,7 +31921,7 @@ I am
 sufficient, large
 I loose, set free
 the
-0
+
 the
 sandal
 he, she, it; himself, herself, itself; even, very; same
@@ -31935,14 +31935,14 @@ and, also, likewise
 fire
 who, which, what
 the
-0
+
 (with dat.) in
 the
 hand
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I gather together
@@ -31954,11 +31954,11 @@ storehouse, barn
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 I burn down, consume
 fire
-0
-0
+
+
 indeed, on the one hand (but often untranslatable)
 therefore, then
 and, also, likewise
@@ -31971,7 +31971,7 @@ the
 but, and (frequently untranslated)
 Herod
 the
-0
+
 I expose, convict, convince
 (with gen.) by; (with acc.) under
 he, she, it; himself, herself, itself; even, very; same
@@ -31995,7 +31995,7 @@ and, also, likewise
 this
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 all, every
-0
+
 the
 John
 (with dat.) in
@@ -32022,7 +32022,7 @@ the
 breath, spirit
 the
 holy
-0
+
 form, appearance
 as, like, so
 pigeon, dove
@@ -32047,7 +32047,7 @@ and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I am
 Jesus, Joshua
-0
+
 as, like
 year
 thirty
@@ -32057,109 +32057,109 @@ as, like, so
 I think, believe
 Joseph
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
 Joseph
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
 Jesus, Joshua
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
 Simeon
 the
-0
+
 the
 Joseph
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
 David
 the
 Jesse
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
 Jacob
 the
@@ -32167,43 +32167,43 @@ Issac
 the
 Abraham
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
 Noah
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
-0
+
 the
 Adam
 the
@@ -32233,7 +32233,7 @@ the
 the devil
 and, also, likewise
 no, not
-0
+
 no one, nothing
 (with dat.) in
 the
@@ -32271,7 +32271,7 @@ that, because, since
 no, not
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 bread
-0
+
 I live
 the
 human being, person
@@ -32286,7 +32286,7 @@ kingdom, reign
 the
 the inhabited world
 (with dat.) in
-0
+
 time
 and, also, likewise
 I say, tell
@@ -32335,7 +32335,7 @@ God, god
 you
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I serve
 I lead
 but, and (frequently untranslated)
@@ -32346,9 +32346,9 @@ and, also, likewise
 I place, set, stand
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -32371,7 +32371,7 @@ I command, order
 (with gen.) about, concerning; (with acc.) around, near
 you
 the
-0
+
 you
 and, also, likewise
 that, because, since
@@ -32394,9 +32394,9 @@ he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
 that, because, since
-0
+
 no, not
-0
+
 master, lord, the Lord
 the
 God, god
@@ -32425,7 +32425,7 @@ into, in
 the
 Galilee
 and, also, likewise
-0
+
 I go out, come out
 (with gen.) down, against; (with acc.) according to, along
 whole, complete
@@ -32454,7 +32454,7 @@ and, also, likewise
 I enter
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
@@ -32497,13 +32497,13 @@ poor
 I send away, send out
 I
 I proclaim, preach
-0
+
 pardon, forgiveness
 and, also, likewise
 blind
-0
+
 I send away, send out
-0
+
 (with dat.) in
 pardon, forgiveness
 I proclaim, preach
@@ -32511,7 +32511,7 @@ year
 master, lord, the Lord
 acceptable, welcome
 and, also, likewise
-0
+
 the
 book, scroll
 I give away, give up; I render
@@ -32528,7 +32528,7 @@ synagogue
 I am
 I look intently, gaze
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
@@ -32572,7 +32572,7 @@ I say, tell
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 certainly
-0
+
 I
 the
 parable
@@ -32612,7 +32612,7 @@ truth, truthfulness
 but, and (frequently untranslated)
 I say, tell
 you
-0
+
 widow
 I am
 (with dat.) in
@@ -32649,21 +32649,21 @@ Elijah
 if
 not
 into, in
-0
+
 the
-0
+
 (with dat.) near, at; (with acc.) to, toward
 woman
 widow
 and, also, likewise
-0
+
 leprous
 I am
 (with dat.) in
 the
 Israel
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 the
 prophet
 and, also, likewise
@@ -32672,9 +32672,9 @@ he, she, it; himself, herself, itself; even, very; same
 I make clean, purify
 if
 not
-0
+
 the
-0
+
 and, also, likewise
 I fill, fulfill
 all, every
@@ -32695,7 +32695,7 @@ and, also, likewise
 I lead
 he, she, it; himself, herself, itself; even, very; same
 until
-0
+
 the
 mountain, hill
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -32705,7 +32705,7 @@ city
 I build
 he, she, it; himself, herself, itself; even, very; same
 therefore, so that
-0
+
 he, she, it; himself, herself, itself; even, very; same
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
@@ -32755,7 +32755,7 @@ and, also, likewise
 I cry out
 sound, voice
 large, great
-0
+
 who? which one? what?
 I
 and, also, likewise
@@ -32785,7 +32785,7 @@ I go out, come out
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 demon, evil spirit
@@ -32796,11 +32796,11 @@ I go out, come out
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 no one, nothing
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I am, become, happen
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 all, every
 and, also, likewise
@@ -32825,7 +32825,7 @@ and, also, likewise
 I go out, come out
 and, also, likewise
 I go out
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 he, she, it; himself, herself, itself; even, very; same
 into, in
@@ -32871,7 +32871,7 @@ but, and (frequently untranslated)
 I raise, rise, stand up
 I wait at table, serve
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 the
 sun
@@ -32900,7 +32900,7 @@ but, and (frequently untranslated)
 and, also, likewise
 demon, evil spirit
 (with gen.) from, away from
-0
+
 I cry out, shout
 and, also, likewise
 I say, tell
@@ -32998,7 +32998,7 @@ I place, set, stand
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 lake
-0
+
 and, also, likewise
 I see
 boat, ship
@@ -33012,8 +33012,8 @@ but, and (frequently untranslated)
 fisherman
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 the
 net
 I go in, embark
@@ -33030,7 +33030,7 @@ he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 the
 earth
-0
+
 few, little
 I sit down, cause to sit down; stay (intrans.)
 but, and (frequently untranslated)
@@ -33048,7 +33048,7 @@ I say, tell
 (with dat.) near, at; (with acc.) to, toward
 the
 Simon
-0
+
 into, in
 the
 depth
@@ -33058,7 +33058,7 @@ the
 net
 you
 into, in
-0
+
 and, also, likewise
 I answer, reply
 Simon
@@ -33081,17 +33081,17 @@ net
 and, also, likewise
 this
 I do, make
-0
+
 crowd, multitude
 fish
-0
+
 I tear, break
 but, and (frequently untranslated)
 the
 net
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 sharing in
 (with dat.) in
@@ -33110,7 +33110,7 @@ both, all
 the
 boat, ship
 therefore, so that
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I see
 but, and (frequently untranslated)
@@ -33129,9 +33129,9 @@ man
 sinful
 I am
 master, lord, the Lord
-0
+
 for
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 all, every
@@ -33140,7 +33140,7 @@ the
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 fish
 who, which, what
@@ -33172,7 +33172,7 @@ the
 now
 human being, person
 I am
-0
+
 and, also, likewise
 I lead down
 the
@@ -33198,7 +33198,7 @@ and, also, likewise
 I see
 man
 full, complete
-0
+
 I see
 but, and (frequently untranslated)
 the
@@ -33219,7 +33219,7 @@ and, also, likewise
 I extend
 the
 hand
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 I wish, will
@@ -33227,7 +33227,7 @@ I make clean, purify
 and, also, likewise
 immediately
 the
-0
+
 I go away
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
@@ -33265,7 +33265,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I come with, go with, assemble
 multitude
-0
+
 I hear
 and, also, likewise
 I care for, heal
@@ -33276,7 +33276,7 @@ he, she, it; himself, herself, itself; even, very; same
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
 I am
-0
+
 (with dat.) in
 the
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
@@ -33297,7 +33297,7 @@ I am
 I sit, sit down
 a Pharisee
 and, also, likewise
-0
+
 who, which, what
 I am
 I come, go
@@ -33351,12 +33351,12 @@ the
 roof, housetop
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
-0
+
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) with
 the
-0
+
 into, in
 the
 middle, in the middle
@@ -33376,7 +33376,7 @@ the
 sin
 you
 and, also, likewise
-0
+
 I consider, reason
 the
 scribe
@@ -33396,7 +33396,7 @@ sin
 I leave, let go, pardon
 if
 not
-0
+
 the
 God, god
 I know, understand
@@ -33454,7 +33454,7 @@ I raise
 and, also, likewise
 I lift up; I take away
 the
-0
+
 you
 I go, proceed
 into, in
@@ -33492,7 +33492,7 @@ fear
 I say, tell
 that, because, since
 I see
-0
+
 today
 and, also, likewise
 (with gen.) with; (with acc.) after, behind
@@ -33502,11 +33502,11 @@ and, also, likewise
 I see, look at
 tax collector
 name
-0
+
 I sit, sit down
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -33520,9 +33520,9 @@ I follow
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I do, make
-0
+
 large, great
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
@@ -33531,7 +33531,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I am
 multitude
-0
+
 tax collector
 and, also, likewise
 another, other
@@ -33560,7 +33560,7 @@ the
 tax collector
 and, also, likewise
 sinful
-0
+
 and, also, likewise
 I drink
 and, also, likewise
@@ -33597,7 +33597,7 @@ the
 learner, disciple
 John
 I fast
-0
+
 and, also, likewise
 prayer, entreaty
 I do, make
@@ -33609,7 +33609,7 @@ a Pharisee
 the
 but, and (frequently untranslated)
 your, yours
-0
+
 and, also, likewise
 I drink
 the
@@ -33623,7 +33623,7 @@ I can
 the
 son
 the
-0
+
 (with dat.) in
 who, which, what
 the
@@ -33638,7 +33638,7 @@ but, and (frequently untranslated)
 day
 and, also, likewise
 whenever, when
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -33657,7 +33657,7 @@ parable
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 no one, nothing
-0
+
 (with gen.) from, away from
 garment
 new
@@ -33668,7 +33668,7 @@ garment
 old
 if
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 the
 new
@@ -33679,7 +33679,7 @@ old
 no, not
 I agree with
 the
-0
+
 the
 (with gen.) from, away from
 the
@@ -33694,7 +33694,7 @@ wine-skin
 old
 if
 but, and (frequently untranslated)
-0
+
 I tear, break
 the
 wine
@@ -33715,7 +33715,7 @@ new, young
 into, in
 wine-skin
 new
-0
+
 and, also, likewise
 no one, nothing
 I drink
@@ -33735,17 +33735,17 @@ Sabbath, week
 I go through
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 and, also, likewise
-0
+
 the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
-0
-0
+
+
 the
 hand
 anyone, anything; someone, something
@@ -33773,7 +33773,7 @@ I read
 who, which, what
 I do, make
 David
-0
+
 I hunger
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -33794,7 +33794,7 @@ bread
 the
 presentation; plan
 I take, receive
-0
+
 and, also, likewise
 I give
 the
@@ -33803,10 +33803,10 @@ he, she, it; himself, herself, itself; even, very; same
 who, which, what
 no, not
 it is permitted, possible
-0
+
 if
 not
-0
+
 the
 priest
 and, also, likewise
@@ -33899,7 +33899,7 @@ the
 Sabbath, week
 I do good
 or, either
-0
+
 soul
 I save, deliver
 or, either
@@ -33925,9 +33925,9 @@ he, she, it; himself, herself, itself; even, very; same
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
 I fill, fulfill
-0
+
 and, also, likewise
-0
+
 (with dat.) near, at; (with acc.) to, toward
 each other, one another
 who? which one? what?
@@ -33949,7 +33949,7 @@ mountain, hill
 I pray
 and, also, likewise
 I am
-0
+
 (with dat.) in
 the
 prayer
@@ -33989,7 +33989,7 @@ John
 and, also, likewise
 Philip
 and, also, likewise
-0
+
 and, also, likewise
 Matthew
 and, also, likewise
@@ -34003,14 +34003,14 @@ the
 I call
 zealot
 and, also, likewise
-0
+
 James
 and, also, likewise
-0
+
 Iscariot
 who, which, what
 I am, become, happen
-0
+
 and, also, likewise
 I come down, go down
 (with gen.) with; (with acc.) after, behind
@@ -34018,15 +34018,15 @@ he, she, it; himself, herself, itself; even, very; same
 I place, set, stand
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 place
-0
+
 and, also, likewise
 multitude
-0
+
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 crowd, multitude
-0
+
 the
 people
 (with gen.) from, away from
@@ -34037,7 +34037,7 @@ and, also, likewise
 Jerusalem
 and, also, likewise
 the
-0
+
 Tyre
 and, also, likewise
 Sidon
@@ -34053,7 +34053,7 @@ disease, illness
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 (with gen.) from, away from
 breath, spirit
 impure, unclean
@@ -34063,7 +34063,7 @@ all, every
 the
 multitude
 I seek, look for, ask
-0
+
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 power, strength
@@ -34105,7 +34105,7 @@ the
 I weep, cry
 now
 that, because, since
-0
+
 blessed, happy
 I am
 whenever, when
@@ -34137,13 +34137,13 @@ that
 the
 day
 and, also, likewise
-0
+
 I see
 for
 the
 wages
 you
-0
+
 (with dat.) in
 the
 heaven
@@ -34170,13 +34170,13 @@ you
 woe, alas
 you
 the
-0
+
 now
 that, because, since
 I hunger
 woe, alas
 the
-0
+
 now
 that, because, since
 I grieve, mourn
@@ -34221,14 +34221,14 @@ you
 I pray
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 you
 the
 I strike, beat
 you
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 I give, cause
 and, also, likewise
 the
@@ -34256,7 +34256,7 @@ I lift up; I take away
 the
 your, yours
 not
-0
+
 and, also, likewise
 as, just as
 I wish, will
@@ -34305,7 +34305,7 @@ he, she, it; himself, herself, itself; even, very; same
 I do, make
 and, also, likewise
 if
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 who, which, what
 I hope, hope for
@@ -34317,7 +34317,7 @@ I am
 and, also, likewise
 sinful
 sinful
-0
+
 in order that, that
 I receive
 the
@@ -34330,15 +34330,15 @@ you
 and, also, likewise
 I do good
 and, also, likewise
-0
+
 no one, nothing
-0
+
 and, also, likewise
 I am
 the
 wages
 you
-0
+
 and, also, likewise
 I am
 son
@@ -34349,16 +34349,16 @@ useful, good
 I am
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 and, also, likewise
 wicked, bad
 I am, become, happen
-0
+
 as, just as
 the
 father
 you
-0
+
 I am
 and, also, likewise
 not
@@ -34382,10 +34382,10 @@ and, also, likewise
 I give
 you
 measure
-0
-0
+
+
 I shake
-0
+
 I give
 into, in
 the
@@ -34395,7 +34395,7 @@ who, which, what
 for
 measure
 I measure
-0
+
 you
 I say, tell
 but, and (frequently untranslated)
@@ -34410,7 +34410,7 @@ I lead, guide
 not
 both, all
 into, in
-0
+
 I fall in, fall into
 no, not
 I am
@@ -34475,7 +34475,7 @@ no, not
 I see, look
 hypocrite
 I throw out, expel
-0
+
 the
 beam
 from, out of
@@ -34484,7 +34484,7 @@ eye
 you
 and, also, likewise
 then
-0
+
 the
 speck, chip
 the
@@ -34499,7 +34499,7 @@ no, not
 for
 I am
 tree
-0
+
 I do, make
 fruit
 rotten
@@ -34509,7 +34509,7 @@ tree
 rotten
 I do, make
 fruit
-0
+
 each, every
 for
 tree
@@ -34523,12 +34523,12 @@ for
 from, out of
 thorn-plant
 I collect
-0
+
 and not, nor; neither, nor
 from, out of
 thornbush
-0
-0
+
+
 the
 good
 human being, person
@@ -34538,7 +34538,7 @@ good
 treasure
 the
 heart
-0
+
 the
 good
 and, also, likewise
@@ -34547,7 +34547,7 @@ wicked, bad
 from, out of
 the
 wicked, bad
-0
+
 the
 wicked, bad
 from, out of
@@ -34593,19 +34593,19 @@ human being, person
 I build
 household
 who, which, what
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 I put, place
 foundation
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 rock, stone
-0
+
 but, and (frequently untranslated)
 I am, become, happen
-0
+
 the
 river, stream
 the
@@ -34638,16 +34638,16 @@ earth
 without, apart from
 foundation
 who, which, what
-0
+
 the
 river, stream
 and, also, likewise
 immediately
-0
+
 and, also, likewise
 I am, become, happen
 the
-0
+
 the
 household
 that
@@ -34705,7 +34705,7 @@ the
 Jesus, Joshua
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 that, because, since
 worthy, fit
@@ -34747,7 +34747,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 master, lord, the Lord
 not
-0
+
 no, not
 for
 sufficient, large
@@ -34755,7 +34755,7 @@ I am
 in order that, that
 (with gen.) by; (with acc.) under
 the
-0
+
 I
 I enter
 therefore, for this reason
@@ -34847,16 +34847,16 @@ I go, proceed
 into, in
 city
 I call
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 multitude
-0
+
 as, like, so
 but, and (frequently untranslated)
 I come near
@@ -34866,7 +34866,7 @@ the
 city
 and, also, likewise
 I see
-0
+
 I die
 only, unique
 son
@@ -34900,9 +34900,9 @@ not
 I weep, cry
 and, also, likewise
 I go to, approach
-0
+
 the
-0
+
 the
 but, and (frequently untranslated)
 I bear
@@ -34914,11 +34914,11 @@ you
 I say, tell
 I raise
 and, also, likewise
-0
+
 the
 dead
 and, also, likewise
-0
+
 I speak
 and, also, likewise
 I give
@@ -35021,7 +35021,7 @@ that
 the
 hour
 I care for, heal
-0
+
 (with gen.) from, away from
 disease, illness
 and, also, likewise
@@ -35031,7 +35031,7 @@ breath, spirit
 wicked, bad
 and, also, likewise
 blind
-0
+
 I give freely, forgive
 I see, look
 and, also, likewise
@@ -35072,7 +35072,7 @@ but, and (frequently untranslated)
 the
 angel, messenger
 John
-0
+
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -35095,20 +35095,20 @@ I go out, come out
 I see
 human being, person
 (with dat.) in
-0
+
 garment
-0
+
 I see
 the
 (with dat.) in
 clothing
-0
+
 and, also, likewise
-0
+
 I exist, am present
 (with dat.) in
 the
-0
+
 I am
 but, rather, yet
 who? which one? what?
@@ -35145,7 +35145,7 @@ I say, tell
 you
 large, great
 (with dat.) in
-0
+
 woman
 John
 no one, nothing
@@ -35188,7 +35188,7 @@ the
 God, god
 I reject
 into, in
-0
+
 not
 I baptize
 (with gen.) by; (with acc.) under
@@ -35217,12 +35217,12 @@ I call at, address
 each other, one another
 who, which, what
 I say, tell
-0
+
 you
 and, also, likewise
 no, not
-0
-0
+
+
 and, also, likewise
 no, not
 I weep, cry
@@ -35232,7 +35232,7 @@ John
 the
 baptist, baptizer
 not
-0
+
 bread
 and not, neither, nor
 I drink
@@ -35246,16 +35246,16 @@ the
 son
 the
 human being, person
-0
+
 and, also, likewise
 I drink
 and, also, likewise
 I say, tell
 I see
 human being, person
-0
+
 and, also, likewise
-0
+
 beloved, loving; (as a noun) friend
 tax collector
 and, also, likewise
@@ -35276,7 +35276,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 a Pharisee
 in order that, that
-0
+
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -35290,7 +35290,7 @@ I cause to lie down; (pass.) I lie down
 and, also, likewise
 I see
 woman
-0
+
 I am
 (with dat.) in
 the
@@ -35306,7 +35306,7 @@ household
 the
 a Pharisee
 I receive
-0
+
 ointment, perfume
 and, also, likewise
 I place, set, stand
@@ -35318,7 +35318,7 @@ he, she, it; himself, herself, itself; even, very; same
 I weep, cry
 the
 tear
-0
+
 I send rain
 the
 foot
@@ -35348,7 +35348,7 @@ I call
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 (with dat.) in
-0
+
 I say, tell
 this
 if
@@ -35361,8 +35361,8 @@ and, also, likewise
 of what sort, of what kind
 the
 woman
-0
-0
+
+
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 sinful
@@ -35385,15 +35385,15 @@ teacher
 I say, tell
 I say
 two
-0
+
 I am
-0
+
 anyone, anything; someone, something
 the
 one
 I owe
 denarius
-0
+
 the
 but, and (frequently untranslated)
 other, another, different
@@ -35407,7 +35407,7 @@ I give freely, forgive
 who? which one? what?
 therefore, then
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I love
 he, she, it; himself, herself, itself; even, very; same
 I answer, reply
@@ -35417,13 +35417,13 @@ I receive
 that, because, since
 who, which, what
 the
-0
+
 I give freely, forgive
 the
 but, and (frequently untranslated)
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I judge
 and, also, likewise
 I turn, change
@@ -35471,7 +35471,7 @@ but, and (frequently untranslated)
 who, which, what
 I enter
 no, not
-0
+
 I kiss
 I
 the
@@ -35498,10 +35498,10 @@ the
 sin
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 that, because, since
 I love
-0
+
 who, which, what
 but, and (frequently untranslated)
 few, little
@@ -35516,12 +35516,12 @@ you
 the
 sin
 and, also, likewise
-0
+
 the
 I recline with
 I say, tell
 (with dat.) in
-0
+
 who? which one? what?
 this
 I am
@@ -35549,7 +35549,7 @@ the
 in order, one after the other
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) down, against; (with acc.) according to, along
 city
 and, also, likewise
@@ -35587,32 +35587,32 @@ demon, evil spirit
 seven
 I go out, come out
 and, also, likewise
-0
+
 woman
-0
-0
+
+
 Herod
 and, also, likewise
-0
+
 and, also, likewise
 other, another, different
-0
-0
+
+
 I wait at table, serve
 he, she, it; himself, herself, itself; even, very; same
 from, out of
 the
 I exist, am present
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 multitude
-0
+
 and, also, likewise
 the
 (with gen.) down, against; (with acc.) according to, along
 city
-0
+
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
@@ -35648,18 +35648,18 @@ I eat up, devour
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 other, another, different
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 rock, stone
 and, also, likewise
-0
+
 I dry, dry up
 (with gen.) through; (with acc.) because of, for the sake of
 the
 not
 I have, hold
-0
+
 and, also, likewise
 other, another, different
 I fall
@@ -35668,10 +35668,10 @@ middle, in the middle
 the
 thorn-plant
 and, also, likewise
-0
+
 the
 thorn-plant
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 other, another, different
@@ -35682,10 +35682,10 @@ earth
 the
 good
 and, also, likewise
-0
+
 I do, make
 fruit
-0
+
 this
 I say, tell
 I call
@@ -35719,7 +35719,7 @@ the
 God, god
 the
 but, and (frequently untranslated)
-0
+
 (with dat.) in
 parable
 in order that, that
@@ -35816,19 +35816,19 @@ I go, proceed
 I crowd out, choke out
 and, also, likewise
 no, not
-0
+
 the
 but, and (frequently untranslated)
 (with dat.) in
 the
-0
+
 earth
 this
 I am
-0
+
 (with dat.) in
 heart
-0
+
 and, also, likewise
 good
 I hear
@@ -35842,7 +35842,7 @@ patience, endurance
 no one, nothing
 but, and (frequently untranslated)
 lamp
-0
+
 I cover, hide
 he, she, it; himself, herself, itself; even, very; same
 vessel, jar
@@ -35869,7 +35869,7 @@ no, not
 visible, clear
 I am, become, happen
 and not, nor; neither, nor
-0
+
 who, which, what
 no, not
 not
@@ -35913,7 +35913,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 no, not
 I can
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -35984,18 +35984,18 @@ I lead up
 I sail
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I come down, go down
-0
+
 wind
 into, in
 the
 lake
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 I go to, approach
 but, and (frequently untranslated)
 I wake (someone) up
@@ -36012,14 +36012,14 @@ the
 wind
 and, also, likewise
 the
-0
+
 the
 water
 and, also, likewise
 I cease
 and, also, likewise
 I am, become, happen
-0
+
 I say, tell
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
@@ -36034,7 +36034,7 @@ I say, tell
 (with dat.) near, at; (with acc.) to, toward
 each other, one another
 who? which one? what?
-0
+
 this
 I am
 that, because, since
@@ -36049,15 +36049,15 @@ and, also, likewise
 I obey
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 into, in
 the
 country, land
 the
-0
-0
+
+
 I am
-0
+
 the
 Galilee
 I go out, come out
@@ -36125,16 +36125,16 @@ I go out, come out
 (with gen.) from, away from
 the
 human being, person
-0
+
 for
 time
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 chain
 and, also, likewise
-0
+
 I watch, guard
 and, also, likewise
 I tear, break
@@ -36159,11 +36159,11 @@ I am
 the
 but, and (frequently untranslated)
 I say, tell
-0
+
 that, because, since
 I enter
 demon, evil spirit
-0
+
 into, in
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -36216,12 +36216,12 @@ the
 herd
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 into, in
 the
 lake
 and, also, likewise
-0
+
 I see
 but, and (frequently untranslated)
 the
@@ -36258,7 +36258,7 @@ who, which, what
 the
 demon, evil spirit
 I go out, come out
-0
+
 and, also, likewise
 I am of sound mind
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -36286,7 +36286,7 @@ crowd, multitude
 the
 neighboring; (as a noun) neighborhood
 the
-0
+
 I go away
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
@@ -36362,7 +36362,7 @@ I come, go
 man
 who, which, what
 name
-0
+
 and, also, likewise
 this
 ruler, lord, authority
@@ -36406,12 +36406,12 @@ and, also, likewise
 woman
 I am
 (with dat.) in
-0
+
 blood
 (with gen.) from, away from
 year
 twelve
-0
+
 no, not
 I am strong, powerful
 (with gen.) from, away from
@@ -36419,7 +36419,7 @@ no one, nothing
 I care for, heal
 I go to, approach
 from behind
-0
+
 the
 hem, tassel
 the
@@ -36429,7 +36429,7 @@ and, also, likewise
 immediately
 I place, set, stand
 the
-0
+
 the
 blood
 he, she, it; himself, herself, itself; even, very; same
@@ -36439,7 +36439,7 @@ the
 Jesus, Joshua
 who? which one? what?
 the
-0
+
 I
 I deny
 but, and (frequently untranslated)
@@ -36453,12 +36453,12 @@ multitude
 I hold fast, oppress, attack
 you
 and, also, likewise
-0
+
 the
 but, and (frequently untranslated)
 Jesus, Joshua
 I say, tell
-0
+
 I
 anyone, anything; someone, something
 I
@@ -36475,7 +36475,7 @@ woman
 that, because, since
 no, not
 I am hidden
-0
+
 I come, go
 and, also, likewise
 I fall down before, fall upon
@@ -36483,7 +36483,7 @@ he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 who, which, what
 cause, reason
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I report, proclaim
 before
@@ -36522,7 +36522,7 @@ the
 daughter
 you
 no longer
-0
+
 the
 teacher
 the
@@ -36533,7 +36533,7 @@ I answer, reply
 he, she, it; himself, herself, itself; even, very; same
 not
 I fear
-0
+
 I believe (in), trust
 and, also, likewise
 I save, deliver
@@ -36579,7 +36579,7 @@ I die
 but, rather, yet
 I sleep
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I know
 that, because, since
@@ -36607,7 +36607,7 @@ and, also, likewise
 I order, direct
 he, she, it; himself, herself, itself; even, very; same
 I give
-0
+
 and, also, likewise
 I am amazed, astonished
 the
@@ -36697,7 +36697,7 @@ dust
 the
 foot
 you
-0
+
 into, in
 testimony, proof
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -36716,12 +36716,12 @@ I hear
 but, and (frequently untranslated)
 Herod
 the
-0
+
 the
 I am, become, happen
 all, every
 and, also, likewise
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 I say, tell
@@ -36751,7 +36751,7 @@ but, and (frequently untranslated)
 Herod
 John
 I
-0
+
 who? which one? what?
 but, and (frequently untranslated)
 I am
@@ -36775,7 +36775,7 @@ I do, make
 and, also, likewise
 I take, take with
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) down, against; (with acc.) according to, along
 one’s own
 into, in
@@ -36802,12 +36802,12 @@ and, also, likewise
 the
 need, necessity
 I have, hold
-0
+
 I heal
 the
 but, and (frequently untranslated)
 day
-0
+
 I incline, bow; I decline
 I go to, approach
 but, and (frequently untranslated)
@@ -36829,7 +36829,7 @@ field, farm
 I destroy, abolish
 and, also, likewise
 I find, discover
-0
+
 that, because, since
 here
 (with dat.) in
@@ -36842,7 +36842,7 @@ but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 you
 the
 but, and (frequently untranslated)
@@ -36850,7 +36850,7 @@ I say, tell
 no, not
 I am
 I
-0
+
 or, either
 bread
 five
@@ -36881,7 +36881,7 @@ learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 I cause to lie down; (pass.) I lie down
 he, she, it; himself, herself, itself; even, very; same
-0
+
 as, like
 (with acc.) up; (with numbers) each, apiece
 fifty
@@ -36907,7 +36907,7 @@ heaven
 I bless
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 and, also, likewise
 I give
 the
@@ -36916,7 +36916,7 @@ I place beside, place around
 the
 multitude
 and, also, likewise
-0
+
 and, also, likewise
 I feed, fill; (pass.) I eat my fill
 all, every
@@ -36936,8 +36936,8 @@ I am
 he, she, it; himself, herself, itself; even, very; same
 I pray
 (with gen.) down, against; (with acc.) according to, along
-0
-0
+
+
 he, she, it; himself, herself, itself; even, very; same
 the
 learner, disciple
@@ -37001,7 +37001,7 @@ the
 son
 the
 human being, person
-0
+
 I suffer, endure
 and, also, likewise
 I reject
@@ -37030,7 +37030,7 @@ behind, back
 I
 I come, go
 I deny
-0
+
 and, also, likewise
 I lift up; I take away
 the
@@ -37071,7 +37071,7 @@ I gain
 the
 the world
 whole, complete
-0
+
 but, and (frequently untranslated)
 I ruin, destroy
 or, either
@@ -37111,7 +37111,7 @@ truly
 I am
 anyone, anything; someone, something
 the
-0
+
 I place, set, stand
 who, which, what
 no, not
@@ -37163,14 +37163,14 @@ the
 clothing
 he, she, it; himself, herself, itself; even, very; same
 white
-0
+
 and, also, likewise
 I see
 man
 two
 I talk with, discuss
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am
 Moses
 and, also, likewise
@@ -37181,7 +37181,7 @@ I see
 glory, brightness, splendor
 I say, tell
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
 I am about to, intend
@@ -37198,7 +37198,7 @@ he, she, it; himself, herself, itself; even, very; same
 I am
 I weigh down, burden
 sleep
-0
+
 but, and (frequently untranslated)
 I see
 the
@@ -37215,7 +37215,7 @@ and, also, likewise
 I am, become, happen
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
@@ -37226,7 +37226,7 @@ Peter
 the
 Jesus, Joshua
 master
-0
+
 I am
 I
 here
@@ -37289,7 +37289,7 @@ the
 sound, voice
 I find, discover
 Jesus, Joshua
-0
+
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I am silent, still
@@ -37316,7 +37316,7 @@ mountain, hill
 I meet, happen
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 and, also, likewise
 I see
 man
@@ -37328,7 +37328,7 @@ I say, tell
 teacher
 I ask
 you
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 son
@@ -37346,13 +37346,13 @@ and, also, likewise
 suddenly, unexpectedly
 I cry, call out
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) with; (with acc.) after, behind
-0
+
 and, also, likewise
 with difficulty, scarcely
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 I shatter, break
@@ -37373,7 +37373,7 @@ but, and (frequently untranslated)
 the
 Jesus, Joshua
 I say, tell
-0
+
 family, generation
 faithless, unbelieving
 and, also, likewise
@@ -37400,7 +37400,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 demon, evil spirit
 and, also, likewise
-0
+
 I rebuke, reprove
 but, and (frequently untranslated)
 the
@@ -37424,7 +37424,7 @@ but, and (frequently untranslated)
 all, every
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 God, god
 all, every
@@ -37466,12 +37466,12 @@ word, saying; thing, matter
 this
 and, also, likewise
 I am
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 not
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I fear
@@ -37506,7 +37506,7 @@ infant, young child
 I place, set, stand
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -37583,11 +37583,11 @@ I am, become, happen
 but, and (frequently untranslated)
 (with dat.) in
 the
-0
+
 the
 day
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
@@ -37642,7 +37642,7 @@ I come down, go down
 the
 heaven
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I turn, change
 but, and (frequently untranslated)
@@ -37674,15 +37674,15 @@ he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
 the
-0
-0
+
+
 I have, hold
 and, also, likewise
 the
 bird
 the
 heaven
-0
+
 the
 but, and (frequently untranslated)
 son
@@ -37705,7 +37705,7 @@ but, and (frequently untranslated)
 I say, tell
 I permit
 I
-0
+
 I go away
 I bury
 the
@@ -37719,12 +37719,12 @@ the
 dead
 I bury
 the
-0
+
 dead
 you
 but, and (frequently untranslated)
 I go away
-0
+
 the
 kingdom, reign
 the
@@ -37736,7 +37736,7 @@ other, another, different
 I follow
 you
 master, lord, the Lord
-0
+
 but, and (frequently untranslated)
 I permit
 I
@@ -37757,13 +37757,13 @@ I put around, clothe
 the
 hand
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 and, also, likewise
 I see, look
 into, in
 the
 behind, back
-0
+
 I am
 the
 kingdom, reign
@@ -37772,11 +37772,11 @@ God, god
 (with gen.) with; (with acc.) after, behind
 but, and (frequently untranslated)
 this
-0
+
 the
 master, lord, the Lord
 other, another, different
-0
+
 and, also, likewise
 I send away, send out
 he, she, it; himself, herself, itself; even, very; same
@@ -37801,7 +37801,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 indeed, on the one hand (but often untranslatable)
 harvest
-0
+
 the
 but, and (frequently untranslated)
 workman, doer
@@ -37824,13 +37824,13 @@ I see
 I send away, send out
 you
 as, like, so
-0
+
 (with dat.) in
 middle, in the middle
 wolf
 not
 I bear
-0
+
 not
 bag
 not
@@ -37847,7 +37847,7 @@ but, and (frequently untranslated)
 (an untranslatable conditional particle)
 I enter
 household
-0
+
 I say, tell
 peace
 the
@@ -37859,7 +37859,7 @@ there, to that place
 I am
 son
 peace
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -37867,17 +37867,17 @@ peace
 you
 if
 but, and (frequently untranslated)
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 you
-0
+
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
 the
 household
 I remain, stay
-0
+
 and, also, likewise
 I drink
 the
@@ -37905,7 +37905,7 @@ I enter
 and, also, likewise
 I take, receive
 you
-0
+
 the
 I place beside, place around
 you
@@ -37938,7 +37938,7 @@ you
 I go out, come out
 into, in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 and, also, likewise
@@ -37954,7 +37954,7 @@ you
 into, in
 the
 foot
-0
+
 you
 but, except
 this
@@ -37981,7 +37981,7 @@ city
 that
 woe, alas
 you
-0
+
 woe, alas
 you
 Bethsaida
@@ -38001,9 +38001,9 @@ you
 long ago, for a long time
 (an untranslatable conditional particle)
 (with dat.) in
-0
+
 and, also, likewise
-0
+
 I sit, sit down
 I repent, am converted
 but, except
@@ -38026,7 +38026,7 @@ heaven
 I lift up
 until
 the
-0
+
 I come down, go down
 the
 I hear
@@ -38050,7 +38050,7 @@ I
 I turn back, return
 but, and (frequently untranslated)
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 joy
 I say, tell
@@ -38116,7 +38116,7 @@ that, because, since
 the
 name
 you
-0
+
 (with dat.) in
 the
 heaven
@@ -38141,12 +38141,12 @@ and, also, likewise
 the
 earth
 that, because, since
-0
+
 this
 (with gen.) from, away from
 wise
 and, also, likewise
-0
+
 and, also, likewise
 I reveal
 he, she, it; himself, herself, itself; even, very; same
@@ -38213,7 +38213,7 @@ I say, tell
 for
 you
 that, because, since
-0
+
 prophet
 and, also, likewise
 king
@@ -38237,7 +38237,7 @@ I see
 legal; (as a noun) lawyer
 anyone, anything; someone, something
 I raise, rise, stand up
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 teacher
@@ -38299,7 +38299,7 @@ yourself
 I say, tell
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I answer, reply
 this
 I do, make
@@ -38309,7 +38309,7 @@ the
 but, and (frequently untranslated)
 I wish, will
 I justify
-0
+
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -38332,7 +38332,7 @@ into, in
 Jericho
 and, also, likewise
 robber
-0
+
 who, which, what
 and, also, likewise
 I strip, take off
@@ -38342,9 +38342,9 @@ blow, wound
 I put upon
 I go away
 I leave, let go, pardon
-0
+
 (with gen.) down, against; (with acc.) according to, along
-0
+
 but, and (frequently untranslated)
 priest
 anyone, anything; someone, something
@@ -38356,22 +38356,22 @@ that
 and, also, likewise
 I see
 he, she, it; himself, herself, itself; even, very; same
-0
+
 likewise, so, similarly
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
 place
 I come, go
 and, also, likewise
 I see
-0
+
 a Samaritan
 but, and (frequently untranslated)
 anyone, anything; someone, something
-0
+
 I come, go
 (with gen.) down, against; (with acc.) according to, along
 he, she, it; himself, herself, itself; even, very; same
@@ -38380,27 +38380,27 @@ I see
 I feel sympathy for
 and, also, likewise
 I go to, approach
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 oil
 and, also, likewise
 wine
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 one’s own
-0
+
 I lead
 he, she, it; himself, herself, itself; even, very; same
 into, in
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -38411,20 +38411,20 @@ two
 denarius
 I give
 the
-0
+
 and, also, likewise
 I say, tell
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 who, which, what
 anyone, anything; someone, something
 (an untranslatable conditional particle)
-0
+
 I
 (with dat.) in
 the
-0
+
 I
 I give away, give up; I render
 you
@@ -38475,7 +38475,7 @@ but, and (frequently untranslated)
 anyone, anything; someone, something
 name
 Martha
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
@@ -38488,7 +38488,7 @@ I call
 Mary
 who, which, what
 and, also, likewise
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 foot
@@ -38501,9 +38501,9 @@ he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
 Martha
-0
+
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 service
 I stand by, approach, appear
 but, and (frequently untranslated)
@@ -38516,7 +38516,7 @@ that, because, since
 the
 sister
 I
-0
+
 I
 I leave behind
 I wait at table, serve
@@ -38525,7 +38525,7 @@ therefore, then
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 I
-0
+
 I answer, reply
 but, and (frequently untranslated)
 I say, tell
@@ -38536,9 +38536,9 @@ Martha
 Martha
 I am anxious; I care for
 and, also, likewise
-0
+
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 few, little
 but, and (frequently untranslated)
 I am
@@ -38551,7 +38551,7 @@ the
 good
 part, share
 I choose, select
-0
+
 no, not
 I take away
 he, she, it; himself, herself, itself; even, very; same
@@ -38604,7 +38604,7 @@ the
 bread
 I
 the
-0
+
 I give
 I
 the
@@ -38642,12 +38642,12 @@ and, also, likewise
 I go, proceed
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 beloved, loving; (as a noun) friend
-0
+
 I
 three
 bread
@@ -38685,7 +38685,7 @@ I
 I
 into, in
 the
-0
+
 I am
 no, not
 I can
@@ -38708,7 +38708,7 @@ he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 (usually untranslatable particle, emphasizing the word it follows)
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I raise
 I give
@@ -38761,7 +38761,7 @@ I deliver, give away
 or, either
 and, also, likewise
 I ask, ask for
-0
+
 I deliver, give away
 he, she, it; himself, herself, itself; even, very; same
 scorpion
@@ -38771,7 +38771,7 @@ you
 wicked, bad
 I exist, am present
 I know
-0
+
 good
 I give
 the
@@ -38838,13 +38838,13 @@ but, and (frequently untranslated)
 I know
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 all, every
 kingdom, reign
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 I distribute
 (pass.) I am laid waste
 and, also, likewise
@@ -38858,7 +38858,7 @@ and, also, likewise
 the
 the Adversary, Satan
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 I distribute
 how?
 I place, set, stand
@@ -38913,10 +38913,10 @@ God, god
 whenever, when
 the
 strong, powerful
-0
+
 I watch, guard
 the
-0
+
 courtyard, court
 (with dat.) in
 peace
@@ -38924,7 +38924,7 @@ I am
 the
 I exist, am present
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 strong, powerful
 he, she, it; himself, herself, itself; even, very; same
@@ -38932,7 +38932,7 @@ I come, come upon
 I conquer
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I lift up; I take away
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -38940,9 +38940,9 @@ who, which, what
 I convince, persuade; I trust in
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 not
 I am
@@ -38968,7 +38968,7 @@ the
 human being, person
 I go through
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 place
 I seek, look for, ask
 rest, resting place
@@ -38986,7 +38986,7 @@ I go out, come out
 and, also, likewise
 I come, go
 I find, discover
-0
+
 and, also, likewise
 I adorn, beautify
 then
@@ -38996,7 +38996,7 @@ I take, take with
 other, another, different
 breath, spirit
 wicked, bad
-0
+
 seven
 and, also, likewise
 I enter
@@ -39011,7 +39011,7 @@ human being, person
 that
 worse
 the
-0
+
 I am, become, happen
 but, and (frequently untranslated)
 (with dat.) in
@@ -39035,13 +39035,13 @@ the
 I bear
 you
 and, also, likewise
-0
+
 who, which, what
 I give suck, nurse
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
 I say, tell
-0
+
 blessed, happy
 the
 I hear
@@ -39054,8 +39054,8 @@ I watch, guard
 the
 but, and (frequently untranslated)
 multitude
-0
-0
+
+
 I say, tell
 the
 family, generation
@@ -39080,7 +39080,7 @@ for
 I am, become, happen
 Jonah
 the
-0
+
 sign
 in this manner, thus, so
 I am
@@ -39092,7 +39092,7 @@ human being, person
 the
 family, generation
 this
-0
+
 south, south wind
 I raise
 (with dat.) in
@@ -39111,7 +39111,7 @@ that, because, since
 I come, go
 from, out of
 the
-0
+
 the
 earth
 I hear
@@ -39120,11 +39120,11 @@ wisdom
 Solomon
 and, also, likewise
 I see
-0
+
 Solomon
 here
 man
-0
+
 I raise, rise, stand up
 (with dat.) in
 the
@@ -39144,19 +39144,19 @@ proclamation, preaching
 Jonah
 and, also, likewise
 I see
-0
+
 Jonah
 here
 no one, nothing
 lamp
-0
+
 into, in
-0
+
 I put, place
 and not, nor; neither, nor
 (with gen.) by; (with acc.) under
 the
-0
+
 but, rather, yet
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -39165,7 +39165,7 @@ in order that, that
 the
 I go in
 the
-0
+
 I see, look
 the
 lamp
@@ -39179,7 +39179,7 @@ whenever, when
 the
 eye
 you
-0
+
 I am
 and, also, likewise
 whole, complete
@@ -39188,7 +39188,7 @@ body
 you
 shining, bright
 I am
-0
+
 but, and (frequently untranslated)
 wicked, bad
 I am
@@ -39196,7 +39196,7 @@ and, also, likewise
 the
 body
 you
-0
+
 I look out for, notice
 therefore, then
 not
@@ -39218,7 +39218,7 @@ not
 I have, hold
 part
 anyone, anything; someone, something
-0
+
 I am
 shining, bright
 whole, complete
@@ -39238,7 +39238,7 @@ I ask, request
 he, she, it; himself, herself, itself; even, very; same
 a Pharisee
 (adv.) how; (conj.) that, in order that
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 he, she, it; himself, herself, itself; even, very; same
 I enter
@@ -39251,11 +39251,11 @@ I see
 I wonder, marvel
 that, because, since
 no, not
-0
+
 I baptize
 (with gen.) before, in front of
 the
-0
+
 I say, tell
 but, and (frequently untranslated)
 the
@@ -39279,7 +39279,7 @@ but, and (frequently untranslated)
 inside, within; from within
 you
 I am full
-0
+
 and, also, likewise
 wickedness, sinfulness
 foolish, ignorant
@@ -39294,7 +39294,7 @@ inside, within; from within
 I do, make
 but, except
 the
-0
+
 I give
 alms
 and, also, likewise
@@ -39309,15 +39309,15 @@ you
 the
 a Pharisee
 that, because, since
-0
+
 the
-0
+
 and, also, likewise
 the
-0
+
 and, also, likewise
 all, every
-0
+
 and, also, likewise
 I go by, (pass.) I pass away
 the
@@ -39333,7 +39333,7 @@ it is necessary, one must
 I do, make
 and that one, and he
 not
-0
+
 woe, alas
 you
 the
@@ -39341,7 +39341,7 @@ a Pharisee
 that, because, since
 I love
 the
-0
+
 (with dat.) in
 the
 synagogue
@@ -39359,7 +39359,7 @@ as, like, so
 the
 grave, tomb
 the
-0
+
 and, also, likewise
 the
 human being, person
@@ -39390,11 +39390,11 @@ the
 legal; (as a noun) lawyer
 woe, alas
 that, because, since
-0
+
 the
 human being, person
 burden, load
-0
+
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 one
@@ -39402,7 +39402,7 @@ the
 finger
 you
 no, not
-0
+
 the
 burden, load
 woe, alas
@@ -39475,7 +39475,7 @@ family, generation
 this
 (with gen.) from, away from
 blood
-0
+
 until
 blood
 Zechariah
@@ -39515,22 +39515,22 @@ I hinder, forbid
 and from there
 I go out, come out
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 scribe
 and, also, likewise
 the
 a Pharisee
-0
-0
+
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) about, concerning; (with acc.) around, near
-0
-0
+
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 anyone, anything; someone, something
 from, out of
 the
@@ -39546,26 +39546,26 @@ multitude
 therefore, so that
 I trample under foot
 each other, one another
-0
+
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I pay attention
-0
+
 (with gen.) from, away from
 the
 yeast, leaven
-0
+
 I am
 hypocrisy
 the
 a Pharisee
 no one, nothing
 but, and (frequently untranslated)
-0
+
 I am
 who, which, what
 no, not
@@ -39594,7 +39594,7 @@ ear
 I speak
 (with dat.) in
 the
-0
+
 I proclaim, preach
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -39632,7 +39632,7 @@ the
 I kill
 I have, hold
 power, authority
-0
+
 into, in
 the
 Gehenna, hell
@@ -39643,9 +39643,9 @@ this
 I fear
 not
 five
-0
+
 I sell
-0
+
 two
 and, also, likewise
 one
@@ -39665,11 +39665,11 @@ the
 head
 you
 all, every
-0
+
 not
 I fear
-0
-0
+
+
 I differ, am superior
 I say, tell
 but, and (frequently untranslated)
@@ -39712,7 +39712,7 @@ God, god
 and, also, likewise
 all, every
 who, which, what
-0
+
 word, Word
 into, in
 the
@@ -39792,7 +39792,7 @@ I
 I set, constitute
 judge
 or, either
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 you
 I say, tell
@@ -39828,13 +39828,13 @@ I say, tell
 human being, person
 anyone, anything; someone, something
 rich
-0
+
 the
 country, land
 and, also, likewise
 I consider, reason
 (with dat.) in
-0
+
 I say, tell
 who? which one? what?
 I do, make
@@ -39868,20 +39868,20 @@ the
 good
 I
 and, also, likewise
-0
+
 the
 soul
 I
 soul
 I have, hold
-0
+
 good
 I lie, recline
 into, in
 year
-0
+
 I give rest, refresh
-0
+
 I drink
 I gladden; (pass.) I am glad
 I say, tell
@@ -39896,7 +39896,7 @@ night
 the
 soul
 you
-0
+
 (with gen.) from, away from
 you
 who, which, what
@@ -39907,7 +39907,7 @@ I am
 in this manner, thus, so
 the
 I store up
-0
+
 and, also, likewise
 not
 into, in
@@ -39928,7 +39928,7 @@ I am anxious; I care for
 the
 soul
 who? which one? what?
-0
+
 and not, but not
 the
 body
@@ -39937,7 +39937,7 @@ I clothe
 the
 for
 soul
-0
+
 I am
 the
 food
@@ -39948,7 +39948,7 @@ the
 garment, clothing
 I consider
 the
-0
+
 that, because, since
 neither, nor
 I sow
@@ -39957,7 +39957,7 @@ I harvest
 who, which, what
 no, not
 I am
-0
+
 and not, nor; neither, nor
 storehouse, barn
 and, also, likewise
@@ -39982,25 +39982,25 @@ the
 age, stature
 he, she, it; himself, herself, itself; even, very; same
 I add
-0
+
 if
 therefore, then
 and not, nor; neither, nor
-0
+
 I can
 who? which one? what?
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 I am anxious; I care for
 I consider
 the
-0
+
 how?
 neither, nor
-0
+
 neither, nor
-0
+
 I say, tell
 but, and (frequently untranslated)
 you
@@ -40026,12 +40026,12 @@ today
 and, also, likewise
 tomorrow
 into, in
-0
+
 I throw, place
 the
 God, god
 in this manner, thus, so
-0
+
 how great? how much? how many?
 more, rather
 you
@@ -40041,13 +40041,13 @@ you
 not
 I seek, look for, ask
 who? which one? what?
-0
+
 and, also, likewise
 who? which one? what?
 I drink
 and, also, likewise
 not
-0
+
 this
 for
 all, every
@@ -40095,12 +40095,12 @@ and, also, likewise
 I give
 alms
 I do, make
-0
-0
+
+
 not
-0
+
 treasure
-0
+
 (with dat.) in
 the
 heaven
@@ -40109,7 +40109,7 @@ thief
 no, not
 I come near
 and not, nor; neither, nor
-0
+
 I destroy, ruin
 where, insofar as
 for
@@ -40139,9 +40139,9 @@ human being, person
 I receive, welcome; I wait for
 the
 master, lord, the Lord
-0
+
 when?
-0
+
 from, out of
 the
 marriage
@@ -40206,7 +40206,7 @@ I come, go
 no, not
 (an untranslatable conditional particle)
 I leave, let go, pardon
-0
+
 the
 house, dwelling
 he, she, it; himself, herself, itself; even, very; same
@@ -40244,7 +40244,7 @@ I say, tell
 the
 master, lord, the Lord
 who? which one? what?
-0
+
 I am
 the
 faithful
@@ -40257,14 +40257,14 @@ the
 master, lord, the Lord
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 I give
 (with dat.) in
 time, right time
 the
-0
+
 blessed, happy
 the
 slave
@@ -40304,19 +40304,19 @@ master, lord, the Lord
 I
 I come, go
 and, also, likewise
-0
+
 I strike, beat
 the
 child
 and, also, likewise
 the
 female slave
-0
+
 and
 and, also, likewise
 I drink
 and, also, likewise
-0
+
 I have come, am present
 the
 master, lord, the Lord
@@ -40335,7 +40335,7 @@ who, which, what
 no, not
 I know
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
@@ -40366,7 +40366,7 @@ the
 will
 he, she, it; himself, herself, itself; even, very; same
 I beat
-0
+
 the
 but, and (frequently untranslated)
 not
@@ -40381,15 +40381,15 @@ all, every
 but, and (frequently untranslated)
 who, which, what
 I give
-0
-0
+
+
 I seek, look for, ask
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 who, which, what
 I place beside, place around
-0
+
 abundant, superfluous
 I ask, ask for
 he, she, it; himself, herself, itself; even, very; same
@@ -40404,7 +40404,7 @@ who? which one? what?
 I wish, will
 if
 now, already
-0
+
 baptism
 but, and (frequently untranslated)
 I have, hold
@@ -40413,7 +40413,7 @@ and, also, likewise
 how?
 I hold fast, oppress, attack
 until
-0
+
 I finish, carry out
 I think, believe; I seem
 that, because, since
@@ -40428,7 +40428,7 @@ I say, tell
 you
 but, rather, yet
 or, either
-0
+
 I am
 for
 (with gen.) from, away from
@@ -40486,7 +40486,7 @@ going down, west
 immediately
 I say, tell
 that, because, since
-0
+
 I come, go
 and, also, likewise
 I am, become, happen
@@ -40497,7 +40497,7 @@ south, south wind
 I blow, breathe
 I say, tell
 that, because, since
-0
+
 I am
 and, also, likewise
 I am, become, happen
@@ -40522,7 +40522,7 @@ who? which one? what?
 but, and (frequently untranslated)
 and, also, likewise
 (with gen.) from, away from
-0
+
 no, not
 I judge
 the
@@ -40541,12 +40541,12 @@ the
 way
 I give
 practice, trade
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 not
 when?
-0
+
 you
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -40557,10 +40557,10 @@ judge
 you
 I hand over, hand down, entrust
 the
-0
+
 and, also, likewise
 the
-0
+
 you
 I throw, place
 into, in
@@ -40575,7 +40575,7 @@ until
 and, also, likewise
 the
 last
-0
+
 I give away, give up; I render
 I am present
 but, and (frequently untranslated)
@@ -40593,7 +40593,7 @@ who, which, what
 the
 blood
 Pilate
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 sacrifice, offering
@@ -40635,10 +40635,10 @@ eight
 who, which, what
 I fall
 the
-0
+
 (with dat.) in
 the
-0
+
 and, also, likewise
 I kill
 he, she, it; himself, herself, itself; even, very; same
@@ -40690,7 +40690,7 @@ I say, tell
 but, and (frequently untranslated)
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 I see
 three
 year
@@ -40727,13 +40727,13 @@ this
 the
 year
 until
-0
-0
+
+
 (with gen.) about, concerning; (with acc.) around, near
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I throw, place
-0
+
 and if, even if, if only
 indeed, on the one hand (but often untranslatable)
 I do, make
@@ -40743,7 +40743,7 @@ the
 I am about to, intend
 if
 but, and (frequently untranslated)
-0
+
 I cut off, cut down
 he, she, it; himself, herself, itself; even, very; same
 I am
@@ -40767,14 +40767,14 @@ ten
 eight
 and, also, likewise
 I am
-0
+
 and, also, likewise
 not
 I can
-0
+
 into, in
 the
-0
+
 I see
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
@@ -40796,7 +40796,7 @@ the
 hand
 and, also, likewise
 immediately
-0
+
 and, also, likewise
 I praise, honor, glorify
 the
@@ -40856,9 +40856,9 @@ the
 donkey
 (with gen.) from, away from
 the
-0
+
 and, also, likewise
-0
+
 I give a drink
 this
 but, and (frequently untranslated)
@@ -40902,7 +40902,7 @@ I rejoice, am glad
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 all, every
 the
-0
+
 the
 I am, become, happen
 (with gen.) by; (with acc.) under
@@ -40930,7 +40930,7 @@ human being, person
 I throw, place
 into, in
 garden
-0
+
 and, also, likewise
 I grow, increase
 and, also, likewise
@@ -40942,7 +40942,7 @@ the
 bird
 the
 heaven
-0
+
 (with dat.) in
 the
 branch
@@ -40964,12 +40964,12 @@ I take, receive
 woman
 I hide
 into, in
-0
-0
+
+
 three
 until
 who, which, what
-0
+
 whole, complete
 and, also, likewise
 I go through
@@ -40979,7 +40979,7 @@ and, also, likewise
 village
 I teach
 and, also, likewise
-0
+
 I do, make
 into, in
 Jerusalem
@@ -41001,10 +41001,10 @@ I struggle, fight
 I enter
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 door
 that, because, since
-0
+
 I say, tell
 you
 I seek, look for, ask
@@ -41019,11 +41019,11 @@ I raise
 the
 the master of the house
 and, also, likewise
-0
+
 the
 door
 and, also, likewise
-0
+
 outside, out
 I place, set, stand
 and, also, likewise
@@ -41036,7 +41036,7 @@ I open
 I
 and, also, likewise
 I answer, reply
-0
+
 you
 no, not
 I know
@@ -41044,9 +41044,9 @@ you
 whence?
 I am
 then
-0
+
 I say, tell
-0
+
 before
 you
 and, also, likewise
@@ -41054,11 +41054,11 @@ I drink
 and, also, likewise
 (with dat.) in
 the
-0
+
 I
 I teach
 and, also, likewise
-0
+
 I say, tell
 you
 no, not
@@ -41108,7 +41108,7 @@ and, also, likewise
 going down, west
 and, also, likewise
 (with gen.) from, away from
-0
+
 and, also, likewise
 south, south wind
 and, also, likewise
@@ -41124,10 +41124,10 @@ I am
 last
 who, which, what
 I am
-0
+
 and, also, likewise
 I am
-0
+
 who, which, what
 I am
 last
@@ -41155,14 +41155,14 @@ he, she, it; himself, herself, itself; even, very; same
 I go, proceed
 I say, tell
 the
-0
+
 this
 I see
 I throw out, expel
 demon, evil spirit
 and, also, likewise
-0
-0
+
+
 today
 and, also, likewise
 tomorrow
@@ -41182,7 +41182,7 @@ I have, hold
 I go, proceed
 that, because, since
 no, not
-0
+
 prophet
 I ruin, destroy
 outside, out
@@ -41199,7 +41199,7 @@ the
 I send away, send out
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I wish, will
 I gather together, congregate
 the
@@ -41207,10 +41207,10 @@ child
 you
 who, which, what
 manner, kind
-0
+
 the
-0
-0
+
+
 (with gen.) by; (with acc.) under
 the
 wing
@@ -41254,7 +41254,7 @@ ruler, lord, authority
 the
 a Pharisee
 Sabbath, week
-0
+
 bread
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
@@ -41266,7 +41266,7 @@ I see
 human being, person
 anyone, anything; someone, something
 I am
-0
+
 (adverb) in front, ahead; (prep., with gen.) in front of, before
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -41310,7 +41310,7 @@ I fall
 and, also, likewise
 no, not
 immediately
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 day
@@ -41319,7 +41319,7 @@ Sabbath, week
 and, also, likewise
 no, not
 I am strong, powerful
-0
+
 (with dat.) near, at; (with acc.) to, toward
 this
 I say, tell
@@ -41362,14 +41362,14 @@ you
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I call
-0
+
 you
 I give
 this
 place
 and, also, likewise
 then
-0
+
 (with gen.) with; (with acc.) after, behind
 shame
 the
@@ -41391,11 +41391,11 @@ I come, go
 the
 I call
 you
-0
+
 you
 beloved, loving; (as a noun) friend
-0
-0
+
+
 then
 I am
 you
@@ -41409,12 +41409,12 @@ that, because, since
 all, every
 the
 I lift up
-0
+
 I make low, humble
 and, also, likewise
 the
 I make low, humble
-0
+
 I lift up
 I say, tell
 but, and (frequently untranslated)
@@ -41424,7 +41424,7 @@ I call
 he, she, it; himself, herself, itself; even, very; same
 whenever, when
 I do, make
-0
+
 or, either
 dinner, supper
 not
@@ -41441,25 +41441,25 @@ the
 related, akin to
 you
 and not, but not
-0
+
 rich
 not
 when?
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 you
 and, also, likewise
 I am, become, happen
-0
+
 you
 but, rather, yet
 whenever, when
-0
+
 I do, make
 I call
 poor
-0
+
 lame
 blind
 and, also, likewise
@@ -41487,8 +41487,8 @@ this
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 blessed, happy
-0
-0
+
+
 bread
 (with dat.) in
 the
@@ -41506,7 +41506,7 @@ dinner, supper
 large, great
 and, also, likewise
 I call
-0
+
 and, also, likewise
 I send away, send out
 the
@@ -41525,13 +41525,13 @@ now, already
 prepared
 I am
 and, also, likewise
-0
+
 (with gen.) from, away from
 one
 all, every
 I ask for; I refuse
 the
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 field, farm
@@ -41550,7 +41550,7 @@ I ask for; I refuse
 and, also, likewise
 other, another, different
 I say, tell
-0
+
 ox; (fem.) cow
 I buy
 five
@@ -41595,16 +41595,16 @@ I go out, come out
 quickly
 into, in
 the
-0
+
 and, also, likewise
-0
+
 the
 city
 and, also, likewise
 the
 poor
 and, also, likewise
-0
+
 and, also, likewise
 blind
 and, also, likewise
@@ -41635,7 +41635,7 @@ into, in
 the
 way
 and, also, likewise
-0
+
 and, also, likewise
 I compel
 I enter
@@ -41658,11 +41658,11 @@ I taste; I come to know
 I
 the
 dinner, supper
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 and, also, likewise
 I turn, change
 I say, tell
@@ -41699,18 +41699,18 @@ and
 and, also, likewise
 the
 soul
-0
+
 no, not
 I can
 I am
 I
 learner, disciple
-0
+
 no, not
 I bear
 the
 cross
-0
+
 and, also, likewise
 I come, go
 behind, back
@@ -41725,18 +41725,18 @@ for
 from, out of
 you
 I wish, will
-0
+
 I build
 not
-0
+
 I sit down, cause to sit down; stay (intrans.)
-0
+
 the
-0
+
 if
 I have, hold
 into, in
-0
+
 in order that, that
 not
 when?
@@ -41746,11 +41746,11 @@ foundation
 and, also, likewise
 not
 I am strong, powerful
-0
+
 all, every
 the
 I see, perceive
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I ridicule, mock
 I say, tell
@@ -41758,12 +41758,12 @@ that, because, since
 this
 the
 human being, person
-0
+
 I build
 and, also, likewise
 no, not
 I am strong, powerful
-0
+
 or, either
 who? which one? what?
 king
@@ -41775,7 +41775,7 @@ into, in
 war
 not
 I sit down, cause to sit down; stay (intrans.)
-0
+
 I resolve, decide
 if
 powerful
@@ -41786,19 +41786,19 @@ ten
 I meet, fight, oppose
 the
 (with gen.) with; (with acc.) after, behind
-0
+
 (a group of) a thousand
 I come, go
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 if
 but, and (frequently untranslated)
-0
+
 yet, still
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am
-0
+
 I send away, send out
 I ask, request
 the
@@ -41814,14 +41814,14 @@ no, not
 I say farewell, leave
 all, every
 the
-0
+
 I exist, am present
 no, not
 I can
 I am
 I
 learner, disciple
-0
+
 therefore, then
 the
 salt
@@ -41830,17 +41830,17 @@ but, and (frequently untranslated)
 and, also, likewise
 the
 salt
-0
+
 (with dat.) in
 who? which one? what?
-0
+
 neither, nor
 into, in
 earth
 neither, nor
 into, in
-0
-0
+
+
 I am
 outside, out
 I throw, place
@@ -41863,7 +41863,7 @@ sinful
 I hear
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 and
 a Pharisee
@@ -41901,8 +41901,8 @@ one
 no, not
 I leave behind
 the
-0
-0
+
+
 (with dat.) in
 the
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
@@ -41919,7 +41919,7 @@ I find, discover
 I put upon
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I rejoice, am glad
 and, also, likewise
@@ -41932,7 +41932,7 @@ the
 beloved, loving; (as a noun) friend
 and, also, likewise
 the
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I rejoice with
@@ -41959,10 +41959,10 @@ sinful
 I repent, am converted
 or, either
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
-0
+
+
 righteous, just
-0
+
 no, not
 need, necessity
 I have, hold
@@ -41970,23 +41970,23 @@ repentance, conversion
 or, either
 who? which one? what?
 woman
-0
+
 I have, hold
 ten
 if
 I ruin, destroy
-0
+
 one
 not
-0
+
 lamp
 and, also, likewise
-0
+
 the
 household
 and, also, likewise
 I seek, look for, ask
-0
+
 until
 who, which, what
 I find, discover
@@ -41996,14 +41996,14 @@ I call together; (mid.) I summon
 the
 beloved, loving; (as a noun) friend
 and, also, likewise
-0
+
 I say, tell
 I rejoice with
 I
 that, because, since
 I find, discover
 the
-0
+
 who, which, what
 I ruin, destroy
 in this manner, thus, so
@@ -42041,17 +42041,17 @@ the
 I put around, clothe
 part
 the
-0
+
 the
 but, and (frequently untranslated)
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 life
 and, also, likewise
 (with gen.) with; (with acc.) after, behind
 no, not
-0
+
 day
 I gather together
 all, every
@@ -42066,10 +42066,10 @@ and, also, likewise
 there, to that place
 I scatter, disperse
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I live
-0
+
 I spend freely
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
@@ -42083,14 +42083,14 @@ country, land
 that
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am in need, fail; (pass.) I lack
 and, also, likewise
 I go, proceed
 I cling to, join
 one
 the
-0
+
 the
 country, land
 that
@@ -42111,9 +42111,9 @@ womb, belly
 he, she, it; himself, herself, itself; even, very; same
 from, out of
 the
-0
+
 who, which, what
-0
+
 the
 swine
 and, also, likewise
@@ -42121,12 +42121,12 @@ no one, nothing
 I give
 he, she, it; himself, herself, itself; even, very; same
 into, in
-0
+
 but, and (frequently untranslated)
 I come, go
 I say
 how great? how much? how many?
-0
+
 the
 father
 I
@@ -42144,7 +42144,7 @@ the
 father
 I
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 father
 I sin
@@ -42165,7 +42165,7 @@ I
 as, like, so
 one
 the
-0
+
 you
 and, also, likewise
 I raise, rise, stand up
@@ -42173,7 +42173,7 @@ I come, go
 (with dat.) near, at; (with acc.) to, toward
 the
 father
-0
+
 yet, still
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
@@ -42223,17 +42223,17 @@ father
 the
 slave
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I carry out, send out
 robe
 the
-0
+
 and, also, likewise
 I clothe
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I give
-0
+
 into, in
 the
 hand
@@ -42248,10 +42248,10 @@ I bear, carry
 the
 calf
 the
-0
+
 I sacrifice
 and, also, likewise
-0
+
 I gladden; (pass.) I am glad
 that, because, since
 this
@@ -42261,13 +42261,13 @@ I
 dead
 I am
 and, also, likewise
-0
+
 I am
 I ruin, destroy
 and, also, likewise
 I find, discover
 and, also, likewise
-0
+
 I gladden; (pass.) I am glad
 I am
 but, and (frequently untranslated)
@@ -42285,9 +42285,9 @@ I come near
 the
 household
 I hear
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 I call, invite
 one
@@ -42315,7 +42315,7 @@ you
 the
 calf
 the
-0
+
 that, because, since
 I am healthy, sound
 he, she, it; himself, herself, itself; even, very; same
@@ -42353,7 +42353,7 @@ and, also, likewise
 I
 never
 I give
-0
+
 in order that, that
 (with gen.) with; (with acc.) after, behind
 the
@@ -42377,7 +42377,7 @@ I come, go
 I sacrifice
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 calf
 the
 but, and (frequently untranslated)
@@ -42428,7 +42428,7 @@ I have, hold
 house steward
 and, also, likewise
 this
-0
+
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
 I scatter, disperse
@@ -42455,11 +42455,11 @@ no, not
 for
 I can
 yet, still
-0
+
 I say, tell
 but, and (frequently untranslated)
 (with dat.) in
-0
+
 the
 house steward
 who? which one? what?
@@ -42473,10 +42473,10 @@ the
 management; plan
 (with gen.) from, away from
 I
-0
+
 no, not
 I am strong, powerful
-0
+
 I am ashamed
 I know
 who? which one? what?
@@ -42492,19 +42492,19 @@ I
 into, in
 the
 house, dwelling
-0
+
 and, also, likewise
 I call, invite
 one
 each, every
 the
-0
+
 the
 master, lord, the Lord
-0
+
 I say, tell
 the
-0
+
 how great? how much? how many?
 I owe
 the
@@ -42514,7 +42514,7 @@ the
 but, and (frequently untranslated)
 I say, tell
 one hundred
-0
+
 oil
 the
 but, and (frequently untranslated)
@@ -42540,7 +42540,7 @@ the
 but, and (frequently untranslated)
 I say, tell
 one hundred
-0
+
 wheat, grain
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -42550,7 +42550,7 @@ the
 letter (of the alphabet), writing
 and, also, likewise
 I write
-0
+
 and, also, likewise
 I praise
 the
@@ -42560,7 +42560,7 @@ house steward
 the
 wrongdoing, unrighteousness
 that, because, since
-0
+
 I do, make
 that, because, since
 the
@@ -42578,23 +42578,23 @@ into, in
 the
 family, generation
 the
-0
+
 I am
 and, also, likewise
 I
 you
 I say, tell
-0
+
 I do, make
 beloved, loving; (as a noun) friend
 from, out of
 the
-0
+
 the
 wrongdoing, unrighteousness
 in order that, that
 whenever, when
-0
+
 I take, receive
 you
 into, in
@@ -42604,20 +42604,20 @@ tent, dwelling, tabernacle
 the
 faithful
 (with dat.) in
-0
+
 and, also, likewise
 (with dat.) in
-0
+
 faithful
 I am
 and, also, likewise
 the
 (with dat.) in
-0
+
 unjust
 and, also, likewise
 (with dat.) in
-0
+
 unjust
 I am
 if
@@ -42625,12 +42625,12 @@ therefore, then
 (with dat.) in
 the
 unjust
-0
+
 faithful
 no, not
 I am, become, happen
 the
-TRUE
+True
 who? which one? what?
 you
 I believe (in), trust
@@ -42648,7 +42648,7 @@ who? which one? what?
 I give
 you
 no one, nothing
-0
+
 I can
 two
 master, lord, the Lord
@@ -42664,7 +42664,7 @@ other, another, different
 I love
 or, either
 one
-0
+
 and, also, likewise
 the
 other, another, different
@@ -42674,17 +42674,17 @@ I can
 God, god
 I am a slave, serve
 and, also, likewise
-0
+
 I hear
 but, and (frequently untranslated)
 this
 all, every
 the
 a Pharisee
-0
+
 I exist, am present
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I say, tell
@@ -42693,7 +42693,7 @@ you
 I am
 the
 I justify
-0
+
 before
 the
 human being, person
@@ -42731,7 +42731,7 @@ and, also, likewise
 all, every
 into, in
 he, she, it; himself, herself, itself; even, very; same
-0
+
 easier
 but, and (frequently untranslated)
 I am
@@ -42745,7 +42745,7 @@ or, either
 the
 law
 one
-0
+
 I fall
 all, every
 the
@@ -42770,14 +42770,14 @@ anyone, anything; someone, something
 I am
 rich
 and, also, likewise
-0
-0
+
+
 and, also, likewise
-0
+
 I gladden; (pass.) I am glad
 (with gen.) down, against; (with acc.) according to, along
 day
-0
+
 poor
 but, and (frequently untranslated)
 anyone, anything; someone, something
@@ -42788,7 +42788,7 @@ I throw, place
 the
 gate, gateway
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I desire, long for
 I feed, fill; (pass.) I eat my fill
@@ -42805,9 +42805,9 @@ and, also, likewise
 the
 dog
 I come, go
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am, become, happen
 but, and (frequently untranslated)
@@ -42834,14 +42834,14 @@ I bury
 and, also, likewise
 (with dat.) in
 the
-0
+
 I lift up, hold up
 the
 eye
 he, she, it; himself, herself, itself; even, very; same
 I exist, am present
 (with dat.) in
-0
+
 I see
 Abraham
 (with gen.) from, away from
@@ -42864,7 +42864,7 @@ and, also, likewise
 I send
 Lazarus
 in order that, that
-0
+
 the
 high point, limit
 the
@@ -42872,12 +42872,12 @@ finger
 he, she, it; himself, herself, itself; even, very; same
 water
 and, also, likewise
-0
+
 the
 tongue, language
 I
 that, because, since
-0
+
 (with dat.) in
 the
 flame
@@ -42907,7 +42907,7 @@ here
 I invite; I exhort; I comfort
 you
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 (with dat.) in
 all, every
@@ -42916,14 +42916,14 @@ between
 I
 and, also, likewise
 you
-0
+
 large, great
 I establish, strengthen
 (adv.) how; (conj.) that, in order that
 the
 I wish, will
-0
-0
+
+
 (with dat.) near, at; (with acc.) to, toward
 you
 not
@@ -42965,7 +42965,7 @@ the
 place
 this
 the
-0
+
 I say, tell
 but, and (frequently untranslated)
 Abraham
@@ -43014,7 +43014,7 @@ but, and (frequently untranslated)
 the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am
 the
 the
@@ -43026,18 +43026,18 @@ but, and (frequently untranslated)
 (with gen.) through; (with acc.) because of, for the sake of
 who, which, what
 I come, go
-0
+
 he, she, it; himself, herself, itself; even, very; same
 if
 stone
-0
+
 I lie around; I wear
 (with gen.) about, concerning; (with acc.) around, near
 the
 neck, throat
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 into, in
 the
 sea
@@ -43049,7 +43049,7 @@ small
 this
 one
 I pay attention
-0
+
 if
 I sin
 the
@@ -43064,14 +43064,14 @@ I leave, let go, pardon
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 if
-0
+
 the
 day
 I sin
 into, in
 you
 and, also, likewise
-0
+
 I turn, turn around, turn back
 (with dat.) near, at; (with acc.) to, toward
 you
@@ -43101,9 +43101,9 @@ mustard
 I say, tell
 (an untranslatable conditional particle)
 the
-0
+
 this
-0
+
 and, also, likewise
 I plant
 (with dat.) in
@@ -43119,7 +43119,7 @@ from, out of
 you
 slave
 I have, hold
-0
+
 or, either
 I tend, pasture
 who, which, what
@@ -43127,30 +43127,30 @@ I enter
 from, out of
 the
 field, farm
-0
+
 he, she, it; himself, herself, itself; even, very; same
 immediately
 I go by, (pass.) I pass away
 I lie down, recline
 but, rather, yet
 not
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I prepare
 who? which one? what?
-0
+
 and, also, likewise
 I gird about
 I wait at table, serve
 I
 until
-0
+
 and, also, likewise
 I drink
 and, also, likewise
 (with gen.) with; (with acc.) after, behind
 this
-0
+
 and, also, likewise
 I drink
 you
@@ -43175,7 +43175,7 @@ you
 I say, tell
 that, because, since
 slave
-0
+
 I am
 who, which, what
 I owe
@@ -43202,13 +43202,13 @@ he, she, it; himself, herself, itself; even, very; same
 into, in
 anyone, anything; someone, something
 village
-0
+
 ten
 leprous
 man
 who, which, what
 I place, set, stand
-0
+
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I lift up; I take away
@@ -43224,7 +43224,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I go, proceed
 I show, point out
-0
+
 the
 priest
 and, also, likewise
@@ -43273,7 +43273,7 @@ ten
 I make clean, purify
 the
 but, and (frequently untranslated)
-0
+
 where?
 no, not
 I find, discover
@@ -43285,7 +43285,7 @@ God, god
 if
 not
 the
-0
+
 this
 and, also, likewise
 I say, tell
@@ -43319,9 +43319,9 @@ kingdom, reign
 the
 God, god
 (with gen.) with; (with acc.) after, behind
-0
+
 and not, nor; neither, nor
-0
+
 I see
 here
 or, either
@@ -43332,7 +43332,7 @@ the
 kingdom, reign
 the
 God, god
-0
+
 you
 I am
 I say, tell
@@ -43356,7 +43356,7 @@ and, also, likewise
 no, not
 I see
 and, also, likewise
-0
+
 you
 I see
 there, to that place
@@ -43370,7 +43370,7 @@ I hasten; I pursue, persecute
 for
 the
 lightning
-0
+
 from, out of
 the
 (with gen.) by; (with acc.) under
@@ -43391,11 +43391,11 @@ human being, person
 the
 day
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 it is necessary, one must
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I suffer, endure
 and, also, likewise
 I reject
@@ -43420,7 +43420,7 @@ the
 son
 the
 human being, person
-0
+
 I drink
 I marry
 I give in marriage
@@ -43435,7 +43435,7 @@ ark
 and, also, likewise
 I come, go
 the
-0
+
 and, also, likewise
 I ruin, destroy
 all, every
@@ -43445,8 +43445,8 @@ I am, become, happen
 (with dat.) in
 the
 day
-0
-0
+
+
 I drink
 I buy
 I sell
@@ -43456,7 +43456,7 @@ who, which, what
 but, and (frequently untranslated)
 day
 I go out, come out
-0
+
 (with gen.) from, away from
 Sodom
 I send rain
@@ -43512,21 +43512,21 @@ behind, back
 I remember, mention
 the
 woman
-0
+
 who, which, what
 if
 I seek, look for, ask
 the
 soul
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I ruin, destroy
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 who, which, what
 (an untranslatable conditional particle)
 I ruin, destroy
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 you
@@ -43547,7 +43547,7 @@ other, another, different
 I leave, let go, pardon
 I am
 two
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 he, she, it; himself, herself, itself; even, very; same
@@ -43632,7 +43632,7 @@ this
 but, and (frequently untranslated)
 I say, tell
 (with dat.) in
-0
+
 if
 and, also, likewise
 the
@@ -43658,7 +43658,7 @@ not
 into, in
 end
 I come, go
-0
+
 I
 I say, tell
 but, and (frequently untranslated)
@@ -43707,7 +43707,7 @@ son
 the
 human being, person
 I come, go
-0
+
 I find, discover
 the
 faith, trust
@@ -43722,14 +43722,14 @@ anyone, anything; someone, something
 the
 I convince, persuade; I trust in
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 that, because, since
 I am
 righteous, just
 and, also, likewise
 I despise, reject
 the
-0
+
 the
 parable
 this
@@ -43738,7 +43738,7 @@ two
 I go up, embark
 into, in
 the
-0
+
 I pray
 the
 one
@@ -43752,7 +43752,7 @@ a Pharisee
 I place, set, stand
 this
 (with dat.) near, at; (with acc.) to, toward
-0
+
 I pray
 the
 God, god
@@ -43763,12 +43763,12 @@ no, not
 I am
 (just) as
 the
-0
+
 the
 human being, person
 rapacious; (as a noun) robber
 unjust
-0
+
 or, either
 and, also, likewise
 as, like, so
@@ -43779,7 +43779,7 @@ I fast
 twice
 the
 Sabbath, week
-0
+
 all, every
 as great, how great; as far, how far
 I acquire
@@ -43805,7 +43805,7 @@ he, she, it; himself, herself, itself; even, very; same
 I say, tell
 the
 God, god
-0
+
 I
 the
 sinful
@@ -43824,12 +43824,12 @@ that, because, since
 all, every
 the
 I lift up
-0
+
 I make low, humble
 the
 but, and (frequently untranslated)
 I make low, humble
-0
+
 I lift up
 I bring to, offer
 but, and (frequently untranslated)
@@ -43839,7 +43839,7 @@ the
 baby
 in order that, that
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I see
 but, and (frequently untranslated)
 the
@@ -43942,7 +43942,7 @@ this
 all, every
 I watch, guard
 from, out of
-0
+
 I hear
 but, and (frequently untranslated)
 the
@@ -43958,7 +43958,7 @@ as great, how great; as far, how far
 I have, hold
 I sell
 and, also, likewise
-0
+
 poor
 and, also, likewise
 I have, hold
@@ -43987,7 +43987,7 @@ the
 Jesus, Joshua
 I say, tell
 how?
-0
+
 the
 the
 property, money
@@ -44003,8 +44003,8 @@ for
 I am
 camel
 (with gen.) through; (with acc.) because of, for the sake of
-0
-0
+
+
 I enter
 or, either
 rich
@@ -44075,7 +44075,7 @@ who, which, what
 not
 not
 I take, receive
-0
+
 (with dat.) in
 the
 time, right time
@@ -44163,7 +44163,7 @@ I sit, sit down
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 way
-0
+
 I hear
 but, and (frequently untranslated)
 multitude
@@ -44197,7 +44197,7 @@ in order that, that
 I am silent, still
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
-0
+
 more, rather
 I cry, call out
 son
@@ -44254,7 +44254,7 @@ the
 people
 I see
 I give
-0
+
 the
 God, god
 and, also, likewise
@@ -44267,11 +44267,11 @@ I see
 man
 name
 I call
-0
+
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I am
-0
+
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 rich
@@ -44294,13 +44294,13 @@ age, stature
 small
 I am
 and, also, likewise
-0
+
 into, in
 the
 (adverb) in front, ahead; (prep., with gen.) in front of, before
 I go up, embark
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 in order that, that
 I see
 he, she, it; himself, herself, itself; even, very; same
@@ -44320,7 +44320,7 @@ Jesus, Joshua
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I hasten
 I come down, go down
 today
@@ -44336,13 +44336,13 @@ and, also, likewise
 I hasten
 I come down, go down
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I rejoice, am glad
 and, also, likewise
 I see
 all, every
-0
+
 I say, tell
 that, because, since
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -44352,7 +44352,7 @@ I enter
 I destroy, abolish
 I place, set, stand
 but, and (frequently untranslated)
-0
+
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -44371,9 +44371,9 @@ and, also, likewise
 if
 anyone, anything; someone, something
 anyone, anything; someone, something
-0
+
 I give away, give up; I render
-0
+
 I say, tell
 but, and (frequently untranslated)
 (with dat.) near, at; (with acc.) to, toward
@@ -44413,7 +44413,7 @@ I say, tell
 parable
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 I am
 Jerusalem
 he, she, it; himself, herself, itself; even, very; same
@@ -44427,18 +44427,18 @@ the
 kingdom, reign
 the
 God, god
-0
+
 I say, tell
 therefore, then
 human being, person
 anyone, anything; someone, something
-0
+
 I go, proceed
 into, in
 country, land
 long
 I take, receive
-0
+
 kingdom, reign
 and, also, likewise
 I turn back, return
@@ -44446,7 +44446,7 @@ I call
 but, and (frequently untranslated)
 ten
 slave
-0
+
 I give
 he, she, it; himself, herself, itself; even, very; same
 ten
@@ -44455,19 +44455,19 @@ and, also, likewise
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 who, which, what
 I come, go
 the
 but, and (frequently untranslated)
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I hate
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I send away, send out
-0
+
 behind, back
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
@@ -44481,7 +44481,7 @@ and, also, likewise
 I am, become, happen
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I take, receive
 the
@@ -44501,28 +44501,28 @@ in order that, that
 I know
 who? which one? what?
 who? which one? what?
-0
+
 I come, am present
 but, and (frequently untranslated)
 the
-0
+
 I say, tell
 master, lord, the Lord
 the
 mina
 you
 ten
-0
+
 mina
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 good
 slave
 that, because, since
 (with dat.) in
-0
+
 faithful
 I am, become, happen
 I am
@@ -44565,15 +44565,15 @@ mina
 you
 who, which, what
 I have, hold
-0
+
 (with dat.) in
-0
+
 I fear
 for
 you
 that, because, since
 human being, person
-0
+
 I am
 I lift up; I take away
 who, which, what
@@ -44598,7 +44598,7 @@ I know
 that, because, since
 I
 human being, person
-0
+
 I am
 I lift up; I take away
 who, which, what
@@ -44622,7 +44622,7 @@ table
 and I, but I
 I come, go
 (with dat.) with
-0
+
 (an untranslatable conditional particle)
 he, she, it; himself, herself, itself; even, very; same
 I do, accomplish
@@ -44680,7 +44680,7 @@ he, she, it; himself, herself, itself; even, very; same
 I lead
 here
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (adverb) in front, ahead; (prep., with gen.) in front of, before
 I
@@ -44697,7 +44697,7 @@ I am, become, happen
 as, like, so
 I come near
 into, in
-0
+
 and, also, likewise
 Bethany
 (with dat.) near, at; (with acc.) to, toward
@@ -44741,7 +44741,7 @@ I ask, request
 who? which one? what?
 I loose, set free
 in this manner, thus, so
-0
+
 that, because, since
 the
 master, lord, the Lord
@@ -44787,23 +44787,23 @@ he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 garment
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 ass’s foal, young donkey
-0
+
 the
 Jesus, Joshua
 I go, proceed
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 garment
-0
+
 (with dat.) in
 the
 way
@@ -44813,12 +44813,12 @@ he, she, it; himself, herself, itself; even, very; same
 now, already
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 the
 mountain, hill
 the
 olive tree
-0
+
 all, every
 the
 crowd, multitude
@@ -44911,21 +44911,21 @@ day
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 you
 and, also, likewise
-0
+
 the
 hostile; (as a noun) enemy
 you
-0
+
 you
 and, also, likewise
-0
+
 you
 and, also, likewise
 I hold fast, oppress, attack
 you
-0
+
 and, also, likewise
-0
+
 you
 and, also, likewise
 the
@@ -44948,14 +44948,14 @@ I know
 the
 time, right time
 the
-0
+
 you
 and, also, likewise
 I enter
 into, in
 the
-0
-0
+
+
 I throw out, expel
 the
 I sell
@@ -44983,7 +44983,7 @@ the
 day
 (with dat.) in
 the
-0
+
 the
 but, and (frequently untranslated)
 high priest, chief priest
@@ -44995,7 +44995,7 @@ he, she, it; himself, herself, itself; even, very; same
 I ruin, destroy
 and, also, likewise
 the
-0
+
 the
 people
 and, also, likewise
@@ -45008,7 +45008,7 @@ the
 people
 for
 all, every
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I hear
 and, also, likewise
@@ -45023,7 +45023,7 @@ the
 people
 (with dat.) in
 the
-0
+
 and, also, likewise
 I preach the Good News
 I stand by, approach, appear
@@ -45079,16 +45079,16 @@ from, out of
 human being, person
 the
 but, and (frequently untranslated)
-0
+
 (with dat.) near, at; (with acc.) to, toward
-0
+
 I say, tell
 that, because, since
 if
 I say, tell
 from, out of
 heaven
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 who? which one? what?
 no, not
@@ -45102,7 +45102,7 @@ human being, person
 the
 people
 all, every
-0
+
 I
 I convince, persuade; I trust in
 for
@@ -45129,7 +45129,7 @@ of what kind? which? what?
 power, authority
 this
 I do, make
-0
+
 but, and (frequently untranslated)
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -45142,7 +45142,7 @@ human being, person
 I plant
 vineyard
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 farmer
 and, also, likewise
@@ -45192,7 +45192,7 @@ the
 but, and (frequently untranslated)
 and, also, likewise
 this
-0
+
 I throw out, expel
 I say, tell
 but, and (frequently untranslated)
@@ -45208,7 +45208,7 @@ son
 I
 the
 beloved, dear
-0
+
 this
 I shame; (mid.) I respect
 I see
@@ -45290,13 +45290,13 @@ I fall
 that
 the
 stone
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 who, which, what
 but, and (frequently untranslated)
 (an untranslatable conditional particle)
 I fall
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I seek, look for, ask
@@ -45330,9 +45330,9 @@ this
 and, also, likewise
 I watch, observe
 I send away, send out
-0
-0
-0
+
+
+
 righteous, just
 I am
 in order that, that
@@ -45356,7 +45356,7 @@ I say, tell
 teacher
 I know
 that, because, since
-0
+
 I say, tell
 and, also, likewise
 I teach
@@ -45404,7 +45404,7 @@ but, and (frequently untranslated)
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I give away, give up; I render
 the
 emperor, Caesar
@@ -45428,7 +45428,7 @@ and, also, likewise
 I wonder, marvel
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am silent, still
 I go to, approach
@@ -45456,7 +45456,7 @@ I have, hold
 woman
 and, also, likewise
 this
-0
+
 I am
 in order that, that
 I take, receive
@@ -45466,8 +45466,8 @@ he, she, it; himself, herself, itself; even, very; same
 the
 woman
 and, also, likewise
-0
-0
+
+
 the
 brother
 he, she, it; himself, herself, itself; even, very; same
@@ -45477,11 +45477,11 @@ brother
 I am
 and, also, likewise
 the
-0
+
 I take, receive
 woman
 I die
-0
+
 and, also, likewise
 the
 second
@@ -45500,7 +45500,7 @@ I leave behind
 child
 and, also, likewise
 I die
-0
+
 and, also, likewise
 the
 woman
@@ -45536,7 +45536,7 @@ and, also, likewise
 I give in marriage
 the
 but, and (frequently untranslated)
-0
+
 the
 age, eternity
 that
@@ -45556,7 +45556,7 @@ for
 I die
 yet, still
 I can
-0
+
 for
 I am
 and, also, likewise
@@ -45574,7 +45574,7 @@ the
 dead
 and, also, likewise
 Moses
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 thornbush
@@ -45687,7 +45687,7 @@ greeting
 the
 marketplace
 and, also, likewise
-0
+
 (with dat.) in
 the
 synagogue
@@ -45726,10 +45726,10 @@ I see
 but, and (frequently untranslated)
 anyone, anything; someone, something
 widow
-0
+
 I throw, place
 there, to that place
-0
+
 two
 and, also, likewise
 I say, tell
@@ -45742,7 +45742,7 @@ widow
 this
 the
 poor
-0
+
 all, every
 I throw, place
 all, every
@@ -45773,12 +45773,12 @@ anyone, anything; someone, something
 I say, tell
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 that, because, since
 stone
-0
+
 and, also, likewise
-0
+
 I adorn, beautify
 I say, tell
 this
@@ -45819,7 +45819,7 @@ I say, tell
 I see, look
 not
 I lead astray, deceive
-0
+
 for
 I come, go
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -45844,12 +45844,12 @@ war
 and, also, likewise
 disturbance
 not
-0
+
 it is necessary, one must
 for
 this
 I am, become, happen
-0
+
 but, rather, yet
 no, not
 immediately
@@ -45872,11 +45872,11 @@ large, great
 and, also, likewise
 (with gen.) down, against; (with acc.) according to, along
 place
-0
+
 and, also, likewise
 hunger, famine
 I am
-0
+
 and
 and, also, likewise
 (with gen.) from, away from
@@ -45902,7 +45902,7 @@ the
 synagogue
 and, also, likewise
 watch, guard
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 king
 and, also, likewise
@@ -45911,7 +45911,7 @@ governor, procurator
 the
 name
 I
-0
+
 you
 into, in
 testimony, proof
@@ -45922,7 +45922,7 @@ the
 heart
 you
 not
-0
+
 I defend myself
 I
 for
@@ -45985,16 +45985,16 @@ you
 whenever, when
 but, and (frequently untranslated)
 I see
-0
+
 (with gen.) by; (with acc.) under
-0
+
 Jerusalem
 then
 I know
 that, because, since
 I come near
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 then
 the
@@ -46010,7 +46010,7 @@ the
 (with dat.) in
 middle, in the middle
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 the
 (with dat.) in
@@ -46059,7 +46059,7 @@ I fall
 mouth
 sword
 and, also, likewise
-0
+
 into, in
 the
 nation, the Gentiles
@@ -46083,25 +46083,25 @@ sun
 and, also, likewise
 moon
 and, also, likewise
-0
+
 and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
-0
+
 nation, the Gentiles
 (with dat.) in
-0
-0
+
+
 sea
 and, also, likewise
-0
-0
+
+
 human being, person
 (with gen.) from, away from
 fear
 and, also, likewise
-0
+
 the
 I come, come upon
 the
@@ -46126,12 +46126,12 @@ cloud
 power, strength
 and, also, likewise
 glory, brightness, splendor
-0
-0
+
+
 but, and (frequently untranslated)
 this
 I am, become, happen
-0
+
 and, also, likewise
 I lift up, hold up
 the
@@ -46154,17 +46154,17 @@ all, every
 the
 tree
 whenever, when
-0
+
 now, already
 I see, look
 (with gen.) from, away from
-0
+
 I know
 that, because, since
 now, already
-0
+
 the
-0
+
 I am
 in this manner, thus, so
 and, also, likewise
@@ -46175,7 +46175,7 @@ this
 I am, become, happen
 I know
 that, because, since
-0
+
 I am
 the
 kingdom, reign
@@ -46210,7 +46210,7 @@ not
 I go by, (pass.) I pass away
 I pay attention
 but, and (frequently untranslated)
-0
+
 not
 when?
 I weigh down, burden
@@ -46218,23 +46218,23 @@ you
 the
 heart
 (with dat.) in
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 anxiety, care
-0
+
 and, also, likewise
 I stand by, approach, appear
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 you
-0
+
 the
 day
 that
 as, like, so
 trap
-0
+
 for
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 all, every
@@ -46245,14 +46245,14 @@ face
 all, every
 the
 earth
-0
+
 but, and (frequently untranslated)
 (with dat.) in
 all, every
 time, right time
 I ask
 in order that, that
-0
+
 I escape
 this
 all, every
@@ -46272,13 +46272,13 @@ the
 day
 (with dat.) in
 the
-0
+
 I teach
 the
 but, and (frequently untranslated)
 night
 I go out, come out
-0
+
 into, in
 the
 mountain, hill
@@ -46289,23 +46289,23 @@ and, also, likewise
 all, every
 the
 people
-0
+
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
-0
+
 I hear
 he, she, it; himself, herself, itself; even, very; same
 I come near
 but, and (frequently untranslated)
 the
-0
+
 the
 unleavened
 the
 I say, tell
-0
+
 and, also, likewise
 I seek, look for, ask
 the
@@ -46325,7 +46325,7 @@ I enter
 but, and (frequently untranslated)
 the Adversary, Satan
 into, in
-0
+
 the
 I call
 Iscariot
@@ -46350,7 +46350,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I rejoice, am glad
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 silver
 I give
@@ -46358,11 +46358,11 @@ and, also, likewise
 I confess
 and, also, likewise
 I seek, look for, ask
-0
+
 the
 I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
-0
+
 multitude
 he, she, it; himself, herself, itself; even, very; same
 I come, go
@@ -46375,7 +46375,7 @@ who, which, what
 it is necessary, one must
 I sacrifice
 the
-0
+
 and, also, likewise
 I send away, send out
 Peter
@@ -46386,9 +46386,9 @@ I go, proceed
 I prepare
 I
 the
-0
+
 in order that, that
-0
+
 the
 but, and (frequently untranslated)
 I say, tell
@@ -46409,7 +46409,7 @@ city
 I meet, happen
 you
 human being, person
-0
+
 water
 I bear
 I follow
@@ -46421,7 +46421,7 @@ into, in
 who, which, what
 I go in
 and, also, likewise
-0
+
 the
 the master of the house
 the
@@ -46433,19 +46433,19 @@ teacher
 where?
 I am
 the
-0
+
 where, insofar as
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 learner, disciple
 I
-0
+
 and that one, and he
 you
 I point out, show
-0
+
 large, great
 I spread
 there, to that place
@@ -46454,12 +46454,12 @@ I go away
 but, and (frequently untranslated)
 I find, discover
 as, just as
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I prepare
 the
-0
+
 and, also, likewise
 when
 I am, become, happen
@@ -46479,8 +46479,8 @@ desire, longing
 I desire, long for
 this
 the
-0
-0
+
+
 (with gen.) with; (with acc.) after, behind
 you
 (with gen.) before, in front of
@@ -46494,10 +46494,10 @@ that, because, since
 no more, no longer
 no, not
 not
-0
+
 he, she, it; himself, herself, itself; even, very; same
 until
-0
+
 I fill, make full, finish
 (with dat.) in
 the
@@ -46514,7 +46514,7 @@ this
 and, also, likewise
 I distribute
 into, in
-0
+
 I say, tell
 for
 you
@@ -46526,7 +46526,7 @@ the
 now
 (with gen.) from, away from
 the
-0
+
 the
 vine
 until
@@ -46559,14 +46559,14 @@ I do, make
 into, in
 the
 my, mine
-0
+
 and, also, likewise
 the
 a drink
 likewise
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 I say, tell
 this
 the
@@ -46614,13 +46614,13 @@ who, which, what
 I hand over, hand down, entrust
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I discuss, dispute
 (with dat.) near, at; (with acc.) to, toward
-0
+
 the
 who? which one? what?
-0
+
 I am
 from, out of
 he, she, it; himself, herself, itself; even, very; same
@@ -46631,7 +46631,7 @@ I do, accomplish
 I am, become, happen
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -46652,9 +46652,9 @@ I am lord, I lord it over
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I call
 you
 but, and (frequently untranslated)
@@ -46717,7 +46717,7 @@ father
 I
 kingdom, reign
 in order that, that
-0
+
 and, also, likewise
 I drink
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -46743,10 +46743,10 @@ Simon
 I see
 the
 the Adversary, Satan
-0
+
 you
 the
-0
+
 as, like, so
 the
 wheat, grain
@@ -46757,7 +46757,7 @@ I ask
 you
 in order that, that
 not
-0
+
 the
 faith, trust
 you
@@ -46807,8 +46807,8 @@ he, she, it; himself, herself, itself; even, very; same
 when
 I send away, send out
 you
-0
-0
+
+
 and, also, likewise
 bag
 and, also, likewise
@@ -46827,7 +46827,7 @@ but, rather, yet
 now
 the
 I have, hold
-0
+
 I lift up; I take away
 likewise, so, similarly
 and, also, likewise
@@ -46911,12 +46911,12 @@ into, in
 test, temptation
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 as, like
 stone
-0
+
 and, also, likewise
 I put, place
 the
@@ -46926,7 +46926,7 @@ I say, tell
 father
 if
 I wish, desire
-0
+
 this
 the
 a drink
@@ -46947,21 +46947,21 @@ he, she, it; himself, herself, itself; even, very; same
 angel, messenger
 (with gen.) from, away from
 heaven
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I am, become, happen
 (with dat.) in
-0
-0
+
+
 I pray
 and, also, likewise
 I am, become, happen
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 as, like
-0
+
 blood
 I come down, go down
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -47002,7 +47002,7 @@ multitude
 and, also, likewise
 the
 I say, tell
-0
+
 one
 the
 twelve
@@ -47018,7 +47018,7 @@ Jesus, Joshua
 but, and (frequently untranslated)
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 a kiss
 the
 son
@@ -47064,9 +47064,9 @@ I permit; I let go, leave alone
 until
 this
 and, also, likewise
-0
+
 the
-0
+
 I heal
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
@@ -47081,7 +47081,7 @@ high priest, chief priest
 and, also, likewise
 praetor, captain
 the
-0
+
 and, also, likewise
 old; (as a noun) elder
 as, like, so
@@ -47100,7 +47100,7 @@ I
 you
 (with dat.) in
 the
-0
+
 no, not
 I extend
 the
@@ -47134,7 +47134,7 @@ but, and (frequently untranslated)
 Peter
 I follow
 from far away
-0
+
 but, and (frequently untranslated)
 fire
 (with dat.) in
@@ -47142,7 +47142,7 @@ middle, in the middle
 the
 courtyard, court
 and, also, likewise
-0
+
 I sit, sit down
 the
 Peter
@@ -47194,13 +47194,13 @@ human being, person
 no, not
 I am
 and, also, likewise
-0
+
 as, like
 hour
 one
 another, other
 anyone, anything; someone, something
-0
+
 I say, tell
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 truth, truthfulness
@@ -47259,7 +47259,7 @@ and, also, likewise
 I go out, come out
 outside, out
 I weep, cry
-0
+
 and, also, likewise
 the
 man
@@ -47270,7 +47270,7 @@ I ridicule, mock
 he, she, it; himself, herself, itself; even, very; same
 I beat
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I ask (a question)
 I say, tell
@@ -47282,7 +47282,7 @@ I strike, wound
 you
 and, also, likewise
 other, another, different
-0
+
 I blaspheme
 I say, tell
 into, in
@@ -47293,7 +47293,7 @@ I am, become, happen
 day
 I gather together
 the
-0
+
 the
 people
 high priest, chief priest
@@ -47301,7 +47301,7 @@ and
 and, also, likewise
 scribe
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
@@ -47392,7 +47392,7 @@ he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 Pilate
-0
+
 but, and (frequently untranslated)
 I accuse
 he, she, it; himself, herself, itself; even, very; same
@@ -47410,7 +47410,7 @@ emperor, Caesar
 I give
 and, also, likewise
 I say, tell
-0
+
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 king
 I am
@@ -47452,10 +47452,10 @@ human being, person
 this
 the
 but, and (frequently untranslated)
-0
+
 I say, tell
 that, because, since
-0
+
 the
 people
 I teach
@@ -47464,7 +47464,7 @@ whole, complete
 the
 Judea
 and, also, likewise
-0
+
 (with gen.) from, away from
 the
 Galilee
@@ -47547,7 +47547,7 @@ high priest, chief priest
 and, also, likewise
 the
 scribe
-0
+
 I accuse
 he, she, it; himself, herself, itself; even, very; same
 I despise, reject
@@ -47583,13 +47583,13 @@ the
 day
 (with gen.) with; (with acc.) after, behind
 each other, one another
-0
+
 for
 (with dat.) in
 enmity
 I am
 (with dat.) near, at; (with acc.) to, toward
-0
+
 Pilate
 but, and (frequently untranslated)
 I call together; (mid.) I summon
@@ -47652,7 +47652,7 @@ he, she, it; himself, herself, itself; even, very; same
 I set free, let go, send away
 I cry out
 but, and (frequently untranslated)
-0
+
 I say, tell
 I lift up; I take away
 this
@@ -47661,7 +47661,7 @@ but, and (frequently untranslated)
 I
 the
 Barabbas
-0
+
 I am
 (with gen.) through; (with acc.) because of, for the sake of
 uprising, revolt
@@ -47688,7 +47688,7 @@ the
 Jesus, Joshua
 the
 but, and (frequently untranslated)
-0
+
 I say, tell
 I crucify
 I crucify
@@ -47723,16 +47723,16 @@ I ask, ask for
 he, she, it; himself, herself, itself; even, very; same
 I crucify
 and, also, likewise
-0
+
 the
 sound, voice
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 Pilate
-0
+
 I am, become, happen
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I set free, let go, send away
 but, and (frequently untranslated)
@@ -47755,7 +47755,7 @@ will
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 as, like, so
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I take hold of, catch
 Simon
@@ -47775,7 +47775,7 @@ Jesus, Joshua
 I follow
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 crowd, multitude
 the
 people
@@ -47784,7 +47784,7 @@ woman
 who, which, what
 I cut
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I turn, change
 but, and (frequently untranslated)
@@ -47800,7 +47800,7 @@ I weep, cry
 I
 but, except
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 I weep, cry
 and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -47813,7 +47813,7 @@ I come, go
 day
 (with dat.) in
 who, which, what
-0
+
 blessed, happy
 the
 barren
@@ -47824,12 +47824,12 @@ who, which, what
 no, not
 I beget
 and, also, likewise
-0
+
 who, which, what
 no, not
 I feed, support
 then
-0
+
 I say, tell
 the
 mountain, hill
@@ -47838,13 +47838,13 @@ I fall
 I
 and, also, likewise
 the
-0
+
 I cover, hide
 I
 that, because, since
 if
 (with dat.) in
-0
+
 wood, tree; cross
 this
 I do, make
@@ -47857,7 +47857,7 @@ I lead
 but, and (frequently untranslated)
 and, also, likewise
 other, another, different
-0
+
 two
 (with dat.) with
 he, she, it; himself, herself, itself; even, very; same
@@ -47870,13 +47870,13 @@ the
 place
 the
 I call
-0
+
 there, to that place
 I crucify
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 who, which, what
 indeed, on the one hand (but often untranslatable)
 from, out of
@@ -47884,7 +47884,7 @@ right (as opposed to left)
 who, which, what
 but, and (frequently untranslated)
 from, out of
-0
+
 the
 but, and (frequently untranslated)
 Jesus, Joshua
@@ -47909,7 +47909,7 @@ I place, set, stand
 the
 people
 I see, perceive
-0
+
 but, and (frequently untranslated)
 and, also, likewise
 the
@@ -47918,7 +47918,7 @@ I say, tell
 another, other
 I save, deliver
 I save, deliver
-0
+
 if
 this
 I am
@@ -47964,7 +47964,7 @@ one
 but, and (frequently untranslated)
 the
 I hang
-0
+
 I blaspheme
 he, she, it; himself, herself, itself; even, very; same
 not
@@ -48006,7 +48006,7 @@ I receive
 this
 but, and (frequently untranslated)
 no one, nothing
-0
+
 I do, accomplish
 and, also, likewise
 I say, tell
@@ -48031,7 +48031,7 @@ I
 I am
 (with dat.) in
 the
-0
+
 and, also, likewise
 I am
 now, already
@@ -48050,7 +48050,7 @@ hour
 ninth
 the
 sun
-0
+
 I split, divide
 but, and (frequently untranslated)
 the
@@ -48076,7 +48076,7 @@ I
 this
 but, and (frequently untranslated)
 I say, tell
-0
+
 I see
 but, and (frequently untranslated)
 the
@@ -48096,11 +48096,11 @@ I am
 and, also, likewise
 all, every
 the
-0
+
 multitude
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 this
 I see, perceive
 the
@@ -48120,7 +48120,7 @@ from far away
 and, also, likewise
 woman
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 the
@@ -48132,7 +48132,7 @@ I see
 man
 name
 Joseph
-0
+
 I exist, am present
 man
 good
@@ -48141,7 +48141,7 @@ righteous, just
 this
 no, not
 I am
-0
+
 the
 purpose, counsel
 and, also, likewise
@@ -48149,7 +48149,7 @@ the
 acting, deed
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
-0
+
 city
 the
 Judean, Jewish
@@ -48170,7 +48170,7 @@ the
 Jesus, Joshua
 and, also, likewise
 I tear down, destroy
-0
+
 he, she, it; himself, herself, itself; even, very; same
 linen cloth, tunic, shirt
 and, also, likewise
@@ -48178,7 +48178,7 @@ I put, place
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 grave, tomb
-0
+
 where, whither
 no, not
 I am
@@ -48191,12 +48191,12 @@ I am
 preparation
 and, also, likewise
 Sabbath, week
-0
-0
+
+
 but, and (frequently untranslated)
 the
 woman
-0
+
 I am
 I come with, go with, assemble
 from, out of
@@ -48215,7 +48215,7 @@ he, she, it; himself, herself, itself; even, very; same
 I turn back, return
 but, and (frequently untranslated)
 I prepare
-0
+
 and, also, likewise
 ointment, perfume
 and, also, likewise
@@ -48231,8 +48231,8 @@ but, and (frequently untranslated)
 one
 the
 Sabbath, week
-0
-0
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 grave, tomb
@@ -48240,12 +48240,12 @@ I come, go
 I bear, carry
 who, which, what
 I prepare
-0
+
 I find, discover
 but, and (frequently untranslated)
 the
 stone
-0
+
 (with gen.) from, away from
 the
 grave, tomb
@@ -48274,7 +48274,7 @@ I stand by, approach, appear
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 clothing
-0
+
 afraid
 but, and (frequently untranslated)
 I am, become, happen
@@ -48347,21 +48347,21 @@ eleven
 and, also, likewise
 all, every
 the
-0
+
 I am
 but, and (frequently untranslated)
 the
 Magdalene, woman from Magdala
 Mary
 and, also, likewise
-0
+
 and, also, likewise
 Mary
 the
 James
 and, also, likewise
 the
-0
+
 (with dat.) with
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
@@ -48374,7 +48374,7 @@ I shine; (mid.) I appear, become visible
 before
 he, she, it; himself, herself, itself; even, very; same
 as, like
-0
+
 the
 word, saying; thing, matter
 this
@@ -48394,11 +48394,11 @@ I bend over
 I see, look
 the
 linen cloth
-0
+
 and, also, likewise
 I go away
 (with dat.) near, at; (with acc.) to, toward
-0
+
 I wonder, marvel
 the
 I am, become, happen
@@ -48422,10 +48422,10 @@ sixty
 Jerusalem
 who, which, what
 name
-0
+
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) near, at; (with acc.) to, toward
 each other, one another
 (with gen.) about, concerning; (with acc.) around, near
@@ -48437,7 +48437,7 @@ and, also, likewise
 I am, become, happen
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I discuss, dispute
@@ -48445,7 +48445,7 @@ and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 Jesus, Joshua
 I come near
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
@@ -48465,24 +48465,24 @@ the
 word, Word
 this
 who, which, what
-0
+
 (with dat.) near, at; (with acc.) to, toward
 each other, one another
 I go about, walk around
 and, also, likewise
 I place, set, stand
-0
+
 I answer, reply
 but, and (frequently untranslated)
 one
 name
-0
+
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 you
-0
-0
+
+
 Jerusalem
 and, also, likewise
 no, not
@@ -48548,7 +48548,7 @@ he, she, it; himself, herself, itself; even, very; same
 I am
 the
 I am about to, intend
-0
+
 the
 Israel
 but, rather, yet
@@ -48574,7 +48574,7 @@ I
 I am amazed, astonished
 I
 I am, become, happen
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 grave, tomb
@@ -48587,7 +48587,7 @@ he, she, it; himself, herself, itself; even, very; same
 I come, go
 I say, tell
 and, also, likewise
-0
+
 angel, messenger
 I see
 who, which, what
@@ -48620,10 +48620,10 @@ he, she, it; himself, herself, itself; even, very; same
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 unintelligent, foolish
 and, also, likewise
-0
+
 the
 heart
 the
@@ -48647,7 +48647,7 @@ the
 glory, brightness, splendor
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 (with gen.) from, away from
 Moses
 and, also, likewise
@@ -48663,7 +48663,7 @@ the
 writing
 the
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 and, also, likewise
 I come near
 into, in
@@ -48673,11 +48673,11 @@ where, whither
 I go, proceed
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 I go, proceed
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 I remain, stay
@@ -48685,7 +48685,7 @@ I remain, stay
 I
 that, because, since
 (with dat.) near, at; (with acc.) to, toward
-0
+
 I am
 and, also, likewise
 I incline, bow; I decline
@@ -48724,7 +48724,7 @@ I know, understand
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am, become, happen
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
@@ -48761,7 +48761,7 @@ into, in
 Jerusalem
 and, also, likewise
 I find, discover
-0
+
 the
 eleven
 and, also, likewise
@@ -48790,7 +48790,7 @@ I know
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
-0
+
 the
 bread
 this
@@ -48807,7 +48807,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 peace
 you
-0
+
 but, and (frequently untranslated)
 and, also, likewise
 afraid
@@ -48842,7 +48842,7 @@ that, because, since
 I
 I am
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I
 and, also, likewise
 I see
@@ -48850,7 +48850,7 @@ that, because, since
 breath, spirit
 flesh
 and, also, likewise
-0
+
 no, not
 I have, hold
 as, just as
@@ -48880,20 +48880,20 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I have, hold
 anyone, anything; someone, something
-0
+
 here
 the
 but, and (frequently untranslated)
 I deliver, give away
 he, she, it; himself, herself, itself; even, very; same
 fish
-0
+
 part
 and, also, likewise
 I take, receive
 before
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 but, and (frequently untranslated)
 (with dat.) near, at; (with acc.) to, toward
@@ -48966,7 +48966,7 @@ into, in
 all, every
 the
 nation, the Gentiles
-0
+
 (with gen.) from, away from
 Jerusalem
 you
@@ -49015,7 +49015,7 @@ the
 I bless
 he, she, it; himself, herself, itself; even, very; same
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -49039,7 +49039,7 @@ I am
 all, every
 (with dat.) in
 the
-0
+
 I bless
 the
 God, god
@@ -49141,7 +49141,7 @@ I am
 the
 light
 the
-TRUE
+True
 who, which, what
 I illuminate
 all, every
@@ -49250,7 +49250,7 @@ I come, go
 I
 I am, become, happen
 that, because, since
-0
+
 I
 I am
 that, because, since
@@ -49312,7 +49312,7 @@ from, out of
 Jerusalem
 priest
 and, also, likewise
-0
+
 in order that, that
 I ask, request
 he, she, it; himself, herself, itself; even, very; same
@@ -49357,7 +49357,7 @@ he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
 I am
 in order that, that
-0
+
 I give
 the
 I send
@@ -49373,7 +49373,7 @@ I call, shout
 (with dat.) in
 the
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
-0
+
 the
 way
 master, lord, the Lord
@@ -49437,7 +49437,7 @@ in order that, that
 I loose, set free
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 the
 sandal
 this
@@ -49464,7 +49464,7 @@ and, also, likewise
 I say, tell
 I see
 the
-0
+
 the
 God, god
 the
@@ -49488,7 +49488,7 @@ who, which, what
 I
 I am, become, happen
 that, because, since
-0
+
 I
 I am
 and I, but I
@@ -49587,7 +49587,7 @@ I go about, walk around
 I say, tell
 I see
 the
-0
+
 the
 God, god
 and, also, likewise
@@ -49633,7 +49633,7 @@ I come, go
 therefore, then
 and, also, likewise
 I see
-0
+
 I remain, stay
 and, also, likewise
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -49645,7 +49645,7 @@ that
 hour
 I am
 as, like, so
-0
+
 I am
 Andrew
 the
@@ -49665,7 +49665,7 @@ I follow
 he, she, it; himself, herself, itself; even, very; same
 I find, discover
 this
-0
+
 the
 brother
 the
@@ -49676,7 +49676,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I find, discover
 the
-0
+
 who, which, what
 I am
 I translate
@@ -49701,7 +49701,7 @@ you
 I call
 Cephas
 who, which, what
-0
+
 Peter
 the
 tomorrow
@@ -49879,7 +49879,7 @@ third
 marriage
 I am, become, happen
 (with dat.) in
-0
+
 the
 Galilee
 and, also, likewise
@@ -49944,8 +49944,8 @@ I do, make
 I am
 but, and (frequently untranslated)
 there, to that place
-0
-0
+
+
 six
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -49955,7 +49955,7 @@ Judean, Jewish
 I lie, recline
 I make room, contain
 (with acc.) up; (with numbers) each, apiece
-0
+
 two
 or, either
 three
@@ -49965,7 +49965,7 @@ the
 Jesus, Joshua
 I fill
 the
-0
+
 water
 and, also, likewise
 I fill
@@ -49975,12 +49975,12 @@ above, upward
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 now
 and, also, likewise
 I bear, carry
 the
-0
+
 the
 but, and (frequently untranslated)
 I bear, carry
@@ -49988,7 +49988,7 @@ as, like, so
 but, and (frequently untranslated)
 I taste; I come to know
 the
-0
+
 the
 water
 wine
@@ -50003,33 +50003,33 @@ but, and (frequently untranslated)
 deacon
 I know
 the
-0
+
 the
 water
 I call
 the
 bridegroom
 the
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 all, every
 human being, person
-0
+
 the
-0
+
 wine
 I put, place
 and, also, likewise
 whenever, when
 I am drunk
 the
-0
+
 you
 I keep, observe
 the
-0
+
 wine
 until
 now, just
@@ -50041,7 +50041,7 @@ sign
 the
 Jesus, Joshua
 (with dat.) in
-0
+
 the
 Galilee
 and, also, likewise
@@ -50077,13 +50077,13 @@ and, also, likewise
 there, to that place
 I remain, stay
 no, not
-0
+
 day
 and, also, likewise
-0
+
 I am
 the
-0
+
 the
 Judean, Jewish
 and, also, likewise
@@ -50096,7 +50096,7 @@ and, also, likewise
 I find, discover
 (with dat.) in
 the
-0
+
 the
 I sell
 ox; (fem.) cow
@@ -50106,18 +50106,18 @@ and, also, likewise
 pigeon, dove
 and, also, likewise
 the
-0
+
 I sit, sit down
 and, also, likewise
 I do, make
-0
+
 from, out of
-0
+
 all, every
 I throw out, expel
 from, out of
 the
-0
+
 the
 and
 sheep
@@ -50126,14 +50126,14 @@ the
 ox; (fem.) cow
 and, also, likewise
 the
-0
+
 I pour out
 the
-0
+
 and, also, likewise
 the
 table
-0
+
 and, also, likewise
 the
 the
@@ -50151,7 +50151,7 @@ the
 father
 I
 house, dwelling
-0
+
 I remember
 the
 learner, disciple
@@ -50254,11 +50254,11 @@ the
 Jerusalem
 (with dat.) in
 the
-0
+
 (with dat.) in
 the
-0
-0
+
+
 I believe (in), trust
 into, in
 the
@@ -50275,7 +50275,7 @@ but, and (frequently untranslated)
 Jesus, Joshua
 no, not
 I believe (in), trust
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -50375,7 +50375,7 @@ how?
 I can
 human being, person
 I beget
-0
+
 I am
 not
 I can
@@ -50721,13 +50721,13 @@ and, also, likewise
 John
 I baptize
 (with dat.) in
-0
-0
+
+
 the
-0
+
 that, because, since
 water
-0
+
 I am
 there, to that place
 and, also, likewise
@@ -50849,7 +50849,7 @@ it is necessary, one must
 I grow, increase
 I
 but, and (frequently untranslated)
-0
+
 the
 from above, again
 I come, go
@@ -50899,7 +50899,7 @@ I seal
 that, because, since
 the
 God, god
-TRUE
+True
 I am
 who, which, what
 for
@@ -50965,14 +50965,14 @@ the
 a Pharisee
 that, because, since
 Jesus, Joshua
-0
+
 learner, disciple
 I do, make
 and, also, likewise
 I baptize
 or, either
 John
-0
+
 Jesus, Joshua
 he, she, it; himself, herself, itself; even, very; same
 no, not
@@ -51004,7 +51004,7 @@ city
 the
 Samaria
 I say, tell
-0
+
 near
 the
 place, land, field
@@ -51027,7 +51027,7 @@ Jesus, Joshua
 I work
 from, out of
 the
-0
+
 I sit
 in this manner, thus, so
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -51042,7 +51042,7 @@ woman
 from, out of
 the
 Samaria
-0
+
 water
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -51068,7 +51068,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 woman
 the
-0
+
 how?
 you
 Judean, Jewish
@@ -51078,11 +51078,11 @@ I
 I drink
 I ask, ask for
 woman
-0
+
 I am
 no, not
 for
-0
+
 Judean, Jewish
 a Samaritan
 I answer, reply
@@ -51119,13 +51119,13 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 master, lord, the Lord
 neither, nor
-0
+
 I have, hold
 and, also, likewise
 the
 a well
 I am
-0
+
 whence?
 therefore, then
 I have, hold
@@ -51157,7 +51157,7 @@ son
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I answer, reply
 Jesus, Joshua
@@ -51201,7 +51201,7 @@ I am, become, happen
 he, she, it; himself, herself, itself; even, very; same
 spring, fountain
 water
-0
+
 into, in
 life
 eternal
@@ -51222,7 +51222,7 @@ I thirst
 and not, but not
 I go through
 here
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I go, go away
@@ -51264,8 +51264,8 @@ I am
 you
 man
 this
-TRUE
-0
+True
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -51342,8 +51342,8 @@ now
 I am
 when
 the
-TRUE
-0
+True
+
 I worship
 the
 father
@@ -51378,7 +51378,7 @@ the
 woman
 I know
 that, because, since
-0
+
 I come, go
 the
 I say, tell
@@ -51424,7 +51424,7 @@ he, she, it; himself, herself, itself; even, very; same
 I leave, let go, pardon
 therefore, then
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 woman
@@ -51468,7 +51468,7 @@ the
 learner, disciple
 I say, tell
 rabbi
-0
+
 the
 but, and (frequently untranslated)
 I say, tell
@@ -51476,7 +51476,7 @@ he, she, it; himself, herself, itself; even, very; same
 I
 eating, rust, food
 I have, hold
-0
+
 who, which, what
 you
 no, not
@@ -51491,7 +51491,7 @@ not
 anyone, anything; someone, something
 I bear, carry
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -51516,7 +51516,7 @@ you
 I say, tell
 that, because, since
 yet, still
-0
+
 I am
 and, also, likewise
 the
@@ -51552,7 +51552,7 @@ eternal
 in order that, that
 the
 I sow
-0
+
 I rejoice, am glad
 and, also, likewise
 the
@@ -51563,7 +51563,7 @@ this
 the
 word, Word
 I am
-TRUE
+True
 that, because, since
 another, other
 I am
@@ -51595,7 +51595,7 @@ but, and (frequently untranslated)
 the
 city
 that
-0
+
 I believe (in), trust
 into, in
 he, she, it; himself, herself, itself; even, very; same
@@ -51631,8 +51631,8 @@ there, to that place
 two
 day
 and, also, likewise
-0
-0
+
+
 I believe (in), trust
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -51647,7 +51647,7 @@ no more, no longer
 (with gen.) through; (with acc.) because of, for the sake of
 the
 your, yours
-0
+
 I believe (in), trust
 he, she, it; himself, herself, itself; even, very; same
 for
@@ -51703,20 +51703,20 @@ I do, make
 Jerusalem
 (with dat.) in
 the
-0
+
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 for
 I come, go
 into, in
 the
-0
+
 I come, go
 therefore, then
 again
 into, in
 the
-0
+
 the
 Galilee
 where, insofar as
@@ -51830,13 +51830,13 @@ hour
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 who, which, what
-0
+
 I have, hold
 I say, tell
 therefore, then
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
-0
+
 hour
 seventh
 I leave, let go, pardon
@@ -51887,7 +51887,7 @@ Galilee
 (with gen.) with; (with acc.) after, behind
 this
 I am
-0
+
 the
 Judean, Jewish
 and, also, likewise
@@ -51902,14 +51902,14 @@ the
 Jerusalem
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
-0
+
+
 the
-0
+
 in Hebrew or Aramaic
-0
+
 five
-0
+
 I have, hold
 (with dat.) in
 this
@@ -51924,7 +51924,7 @@ I expect
 the
 the
 water
-0
+
 angel, messenger
 for
 (with gen.) down, against; (with acc.) according to, along
@@ -51932,26 +51932,26 @@ time, right time
 I come down, go down
 (with dat.) in
 the
-0
+
 and, also, likewise
 I trouble
 the
 water
 the
 therefore, then
-0
+
 I go in, embark
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 the
 water
 healthy, sound
 I am, become, happen
 who, which, what
-0
+
 I hold back, hold fast
-0
+
 I am
 but, and (frequently untranslated)
 anyone, anything; someone, something
@@ -51974,7 +51974,7 @@ I lie down
 and, also, likewise
 I know
 that, because, since
-0
+
 now, already
 time
 I have, hold
@@ -52000,7 +52000,7 @@ I throw, place
 I
 into, in
 the
-0
+
 (with dat.) in
 who, which, what
 but, and (frequently untranslated)
@@ -52095,7 +52095,7 @@ I am
 the
 for
 Jesus, Joshua
-0
+
 multitude
 I am
 (with dat.) in
@@ -52109,7 +52109,7 @@ the
 Jesus, Joshua
 (with dat.) in
 the
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -52174,7 +52174,7 @@ Judean, Jewish
 I kill
 that, because, since
 no, not
-0
+
 I loose, set free
 the
 Sabbath, week
@@ -52186,7 +52186,7 @@ I say, tell
 the
 God, god
 equal
-0
+
 I do, make
 the
 God, god
@@ -52207,7 +52207,7 @@ the
 son
 I do, make
 (with gen.) from, away from
-0
+
 no one, nothing
 (an untranslatable conditional particle)
 not
@@ -52361,7 +52361,7 @@ father
 I have, hold
 life
 (with dat.) in
-0
+
 in this manner, thus, so
 and, also, likewise
 the
@@ -52370,7 +52370,7 @@ I give
 life
 I have, hold
 (with dat.) in
-0
+
 and, also, likewise
 power, authority
 I give
@@ -52454,7 +52454,7 @@ testimony
 I
 no, not
 I am
-TRUE
+True
 another, other
 I am
 the
@@ -52464,7 +52464,7 @@ I
 and, also, likewise
 I know
 that, because, since
-TRUE
+True
 I am
 the
 testimony
@@ -52622,7 +52622,7 @@ God, god
 no, not
 I have, hold
 (with dat.) in
-0
+
 I
 I come, go
 (with dat.) in
@@ -52659,7 +52659,7 @@ glory, brightness, splendor
 the
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
-0
+
 God, god
 no, not
 I seek, look for, ask
@@ -52716,12 +52716,12 @@ sea
 the
 Galilee
 the
-0
+
 I follow
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 multitude
-0
+
 that, because, since
 I see
 the
@@ -52731,7 +52731,7 @@ I do, make
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 I am weak, sick
-0
+
 but, and (frequently untranslated)
 into, in
 the
@@ -52746,11 +52746,11 @@ learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 I am
 but, and (frequently untranslated)
-0
+
 the
-0
+
 the
-0
+
 the
 Judean, Jewish
 I lift up, hold up
@@ -52762,7 +52762,7 @@ Jesus, Joshua
 and, also, likewise
 I see, look at
 that, because, since
-0
+
 multitude
 I come, go
 (with dat.) near, at; (with acc.) to, toward
@@ -52774,7 +52774,7 @@ whence?
 I buy
 bread
 in order that, that
-0
+
 this
 this
 but, and (frequently untranslated)
@@ -52815,13 +52815,13 @@ brother
 Simon
 Peter
 I am
-0
+
 here
 who, which, what
 I have, hold
 five
 bread
-0
+
 and, also, likewise
 two
 fish
@@ -52841,7 +52841,7 @@ I lie down, recline
 I am
 but, and (frequently untranslated)
 grass, hay
-0
+
 (with dat.) in
 the
 place
@@ -52861,7 +52861,7 @@ the
 Jesus, Joshua
 and, also, likewise
 I give thanks
-0
+
 the
 I lie, recline
 likewise, so, similarly
@@ -52873,7 +52873,7 @@ as great, how great; as far, how far
 I wish, will
 as, like, so
 but, and (frequently untranslated)
-0
+
 I say, tell
 the
 learner, disciple
@@ -52898,11 +52898,11 @@ the
 five
 bread
 the
-0
+
 who, which, what
 I have an abundance, am rich
 the
-0
+
 the
 therefore, then
 human being, person
@@ -52940,7 +52940,7 @@ into, in
 the
 mountain, hill
 he, she, it; himself, herself, itself; even, very; same
-0
+
 as, like, so
 but, and (frequently untranslated)
 evening
@@ -52984,7 +52984,7 @@ I drive, row
 therefore, then
 as, like, so
 stade, 192 meters
-0
+
 five
 or, either
 thirty
@@ -52996,7 +52996,7 @@ I go about, walk around
 the
 sea
 and, also, likewise
-0
+
 the
 boat, ship
 I am, become, happen
@@ -53050,7 +53050,7 @@ one
 and, also, likewise
 that, because, since
 no, not
-0
+
 the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
@@ -53060,7 +53060,7 @@ into, in
 the
 boat, ship
 but, rather, yet
-0
+
 the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
@@ -53069,12 +53069,12 @@ but, rather, yet
 I come, go
 small ship, boat
 from, out of
-0
-0
+
+
 the
 place
 where, insofar as
-0
+
 the
 bread
 I give thanks
@@ -53136,7 +53136,7 @@ I see
 sign
 but, rather, yet
 that, because, since
-0
+
 from, out of
 the
 bread
@@ -53218,8 +53218,8 @@ the
 father
 I
 the
-0
-0
+
+
 (with dat.) in
 the
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
@@ -53232,7 +53232,7 @@ the
 heaven
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 therefore, then
 he, she, it; himself, herself, itself; even, very; same
@@ -53263,7 +53263,7 @@ from, out of
 the
 heaven
 the
-TRUE
+True
 the
 for
 bread
@@ -53496,7 +53496,7 @@ prophet
 and, also, likewise
 I am
 all, every
-0
+
 God, god
 all, every
 the
@@ -53544,12 +53544,12 @@ life
 the
 father
 you
-0
+
 (with dat.) in
 the
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
 the
-0
+
 and, also, likewise
 I die
 this
@@ -53565,7 +53565,7 @@ in order that, that
 anyone, anything; someone, something
 from, out of
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 not
 I die
@@ -53582,7 +53582,7 @@ heaven
 I come down, go down
 if
 anyone, anything; someone, something
-0
+
 from, out of
 this
 the
@@ -53607,7 +53607,7 @@ the
 the
 the world
 life
-0
+
 therefore, then
 (with dat.) near, at; (with acc.) to, toward
 each other, one another
@@ -53621,7 +53621,7 @@ I
 I give
 the
 flesh
-0
+
 I say, tell
 therefore, then
 he, she, it; himself, herself, itself; even, very; same
@@ -53633,7 +53633,7 @@ I say, tell
 you
 if
 not
-0
+
 the
 flesh
 the
@@ -53649,7 +53649,7 @@ no, not
 I have, hold
 life
 (with dat.) in
-0
+
 the
 I eat (audibly)
 I
@@ -53673,16 +53673,16 @@ the
 for
 flesh
 I
-TRUE
+True
 I am
 eating, rust, food
 and, also, likewise
 the
 blood
 I
-TRUE
+True
 I am
-0
+
 the
 I eat (audibly)
 I
@@ -53728,7 +53728,7 @@ heaven
 I come down, go down
 no, not
 as, just as
-0
+
 the
 father
 and, also, likewise
@@ -53749,7 +53749,7 @@ synagogue
 I teach
 (with dat.) in
 Capernaum
-0
+
 therefore, then
 I hear
 from, out of
@@ -53771,7 +53771,7 @@ but, and (frequently untranslated)
 the
 Jesus, Joshua
 (with dat.) in
-0
+
 that, because, since
 I murmur
 (with gen.) about, concerning; (with acc.) around, near
@@ -53846,7 +53846,7 @@ and, also, likewise
 I say, tell
 (with gen.) through; (with acc.) because of, for the sake of
 this
-0
+
 you
 that, because, since
 no one, nothing
@@ -53864,7 +53864,7 @@ the
 father
 from, out of
 this
-0
+
 the
 learner, disciple
 he, she, it; himself, herself, itself; even, very; same
@@ -53931,7 +53931,7 @@ I am
 I say, tell
 but, and (frequently untranslated)
 the
-0
+
 Simon
 Iscariot
 this
@@ -53967,13 +53967,13 @@ Judean, Jewish
 I kill
 I am
 but, and (frequently untranslated)
-0
+
 the
-0
+
 the
 Judean, Jewish
 the
-0
+
 I say, tell
 therefore, then
 (with dat.) near, at; (with acc.) to, toward
@@ -54069,13 +54069,13 @@ you
 I go up, embark
 into, in
 the
-0
+
 I
 not yet
 I go up, embark
 into, in
 the
-0
+
 this
 that, because, since
 the
@@ -54099,13 +54099,13 @@ brother
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
-0
+
 then
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I go up, embark
 no, not
-0
+
 but, rather, yet
 as, like, so
 (with dat.) in
@@ -54117,18 +54117,18 @@ I seek, look for, ask
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
-0
+
 and, also, likewise
 I say, tell
 where?
 I am
 that
 and, also, likewise
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 he, she, it; himself, herself, itself; even, very; same
 I am
-0
+
 (with dat.) in
 the
 multitude
@@ -54160,13 +54160,13 @@ Judean, Jewish
 now, already
 but, and (frequently untranslated)
 the
-0
-0
+
+
 I go up, embark
 Jesus, Joshua
 into, in
 the
-0
+
 and, also, likewise
 I teach
 I wonder, marvel
@@ -54207,7 +54207,7 @@ I know
 (with gen.) about, concerning; (with acc.) around, near
 the
 teaching
-0
+
 from, out of
 the
 God, god
@@ -54219,7 +54219,7 @@ myself
 I speak
 the
 (with gen.) from, away from
-0
+
 I speak
 the
 glory, brightness, splendor
@@ -54235,7 +54235,7 @@ the
 I send
 he, she, it; himself, herself, itself; even, very; same
 this
-TRUE
+True
 I am
 and, also, likewise
 wrongdoing, unrighteousness
@@ -54315,7 +54315,7 @@ the
 law
 Moses
 I
-0
+
 that, because, since
 whole, complete
 human being, person
@@ -54326,7 +54326,7 @@ Sabbath, week
 not
 I judge
 (with gen.) down, against; (with acc.) according to, along
-0
+
 but, rather, yet
 the
 righteous, just
@@ -54337,7 +54337,7 @@ therefore, then
 anyone, anything; someone, something
 from, out of
 the
-0
+
 no, not
 this
 I am
@@ -54381,7 +54381,7 @@ I cry, call out
 therefore, then
 (with dat.) in
 the
-0
+
 I teach
 the
 Jesus, Joshua
@@ -54400,7 +54400,7 @@ no, not
 I come, go
 but, rather, yet
 I am
-TRUE
+True
 the
 I send
 I
@@ -54439,7 +54439,7 @@ from, out of
 the
 multitude
 but, and (frequently untranslated)
-0
+
 I believe (in), trust
 into, in
 he, she, it; himself, herself, itself; even, very; same
@@ -54450,7 +54450,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 whenever, when
 I come, go
 not
-0
+
 sign
 I do, make
 who, which, what
@@ -54510,7 +54510,7 @@ therefore, then
 the
 Judean, Jewish
 (with dat.) near, at; (with acc.) to, toward
-0
+
 where?
 this
 I am about to, intend
@@ -54523,7 +54523,7 @@ he, she, it; himself, herself, itself; even, very; same
 not
 into, in
 the
-0
+
 the
 a Greek
 I am about to, intend
@@ -54560,7 +54560,7 @@ day
 the
 large, great
 the
-0
+
 I place, set, stand
 the
 Jesus, Joshua
@@ -54588,7 +54588,7 @@ from, out of
 the
 womb, belly
 he, she, it; himself, herself, itself; even, very; same
-0
+
 water
 I live
 this
@@ -54610,7 +54610,7 @@ I am
 breath, spirit
 that, because, since
 Jesus, Joshua
-0
+
 I praise, honor, glorify
 from, out of
 the
@@ -54650,7 +54650,7 @@ I say, tell
 that, because, since
 from, out of
 the
-0
+
 David
 and, also, likewise
 (with gen.) from, away from
@@ -54745,7 +54745,7 @@ not
 I know
 the
 law
-0
+
 I am
 I say, tell
 Nicodemus
@@ -54770,7 +54770,7 @@ human being, person
 if
 not
 I hear
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -54813,13 +54813,13 @@ the
 mountain, hill
 the
 olive tree
-0
+
 but, and (frequently untranslated)
 again
 I come, am present
 into, in
 the
-0
+
 and, also, likewise
 all, every
 the
@@ -54842,7 +54842,7 @@ a Pharisee
 he, she, it; himself, herself, itself; even, very; same
 woman
 (with dat.) in
-0
+
 I seize, win
 and, also, likewise
 I place, set, stand
@@ -54856,7 +54856,7 @@ this
 the
 woman
 I seize, win
-0
+
 I commit adultery
 (with dat.) in
 but, and (frequently untranslated)
@@ -54885,7 +54885,7 @@ the
 but, and (frequently untranslated)
 Jesus, Joshua
 below, downward
-0
+
 the
 finger
 I write
@@ -54897,14 +54897,14 @@ but, and (frequently untranslated)
 I remain, stay
 I ask, request
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 you
-0
+
 the
 stone
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -54913,7 +54913,7 @@ I throw, place
 and, also, likewise
 again
 below, downward
-0
+
 I write
 into, in
 the
@@ -54928,8 +54928,8 @@ conscience
 I expose, convict, convince
 I go out, come out
 one
-0
-0
+
+
 (with gen.) from, away from
 the
 old; (as a noun) elder
@@ -54938,7 +54938,7 @@ the
 last
 and, also, likewise
 I leave behind
-0
+
 the
 Jesus, Joshua
 and, also, likewise
@@ -54947,7 +54947,7 @@ woman
 (with dat.) in
 middle, in the middle
 I place, set, stand
-0
+
 but, and (frequently untranslated)
 the
 Jesus, Joshua
@@ -55030,7 +55030,7 @@ testimony
 you
 no, not
 I am
-TRUE
+True
 I answer, reply
 Jesus, Joshua
 and, also, likewise
@@ -55041,7 +55041,7 @@ I
 I bear witness, testify
 (with gen.) about, concerning; (with acc.) around, near
 myself
-TRUE
+True
 I am
 the
 testimony
@@ -55080,10 +55080,10 @@ the
 judging, judgment
 the
 my, mine
-TRUE
+True
 I am
 that, because, since
-0
+
 no, not
 I am
 but, rather, yet
@@ -55105,7 +55105,7 @@ two
 human being, person
 the
 testimony
-TRUE
+True
 I am
 I
 I am
@@ -55157,7 +55157,7 @@ treasure room, treasury
 I teach
 (with dat.) in
 the
-0
+
 and, also, likewise
 no one, nothing
 I seize, catch
@@ -55196,7 +55196,7 @@ the
 Judean, Jewish
 (a usually untranslated particle in questions that expect a negative answer)
 I kill
-0
+
 that, because, since
 I say, tell
 where, insofar as
@@ -55270,7 +55270,7 @@ anyone, anything; someone, something
 and, also, likewise
 I speak
 you
-0
+
 I have, hold
 (with gen.) about, concerning; (with acc.) around, near
 you
@@ -55281,7 +55281,7 @@ but, rather, yet
 the
 I send
 I
-TRUE
+True
 I am
 and I, but I
 who, which, what
@@ -55338,18 +55338,18 @@ I am
 no, not
 I leave, let go, pardon
 I
-0
+
 that, because, since
 I
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I do, make
 always
 this
 he, she, it; himself, herself, itself; even, very; same
 I speak
-0
+
 I believe (in), trust
 into, in
 he, she, it; himself, herself, itself; even, very; same
@@ -55386,7 +55386,7 @@ you
 I answer, reply
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 Abraham
 I am
 and, also, likewise
@@ -55445,7 +55445,7 @@ free
 I am
 I know
 that, because, since
-0
+
 Abraham
 I am
 but, rather, yet
@@ -55572,7 +55572,7 @@ I send away, send out
 (with gen.) through; (with acc.) because of, for the sake of
 who? which one? what?
 the
-0
+
 the
 my, mine
 no, not
@@ -55601,7 +55601,7 @@ you
 I wish, will
 I do, make
 that
-0
+
 I am
 (with gen.) from, away from
 beginning; ruler, authority
@@ -55777,7 +55777,7 @@ the
 father
 I
 Abraham
-0
+
 I die
 and, also, likewise
 the
@@ -55891,14 +55891,14 @@ and, also, likewise
 I go out, come out
 from, out of
 the
-0
+
 and, also, likewise
 I go away, pass by
 I see
 human being, person
 blind
 from, out of
-0
+
 and, also, likewise
 I ask, request
 he, she, it; himself, herself, itself; even, very; same
@@ -55963,14 +55963,14 @@ the
 the world
 this
 I say, tell
-0
-0
+
+
 and, also, likewise
 I do, make
 clay, mud
 from, out of
 the
-0
+
 and, also, likewise
 I put upon
 he, she, it; himself, herself, itself; even, very; same
@@ -55986,11 +55986,11 @@ I go, go away
 I wash
 into, in
 the
-0
+
 the
-0
+
 who, which, what
-0
+
 I send away, send out
 I go away
 therefore, then
@@ -56001,7 +56001,7 @@ I come, go
 I see, look
 the
 therefore, then
-0
+
 and, also, likewise
 the
 I see, perceive
@@ -56009,7 +56009,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 earlier, fromer
 that, because, since
-0
+
 I am
 I say, tell
 no, not
@@ -56018,7 +56018,7 @@ I am
 the
 I sit, sit down
 and, also, likewise
-0
+
 another, other
 I say, tell
 that, because, since
@@ -56055,7 +56055,7 @@ Jesus, Joshua
 clay, mud
 I do, make
 and, also, likewise
-0
+
 I
 the
 eye
@@ -56066,7 +56066,7 @@ that, because, since
 I go, go away
 into, in
 the
-0
+
 and, also, likewise
 I wash
 I go away
@@ -56196,7 +56196,7 @@ blind
 and, also, likewise
 I look up, gain sight
 until
-0
+
 I call
 the
 parents
@@ -56261,7 +56261,7 @@ age, stature
 I have, hold
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 I speak
 this
 I say, tell
@@ -56274,7 +56274,7 @@ the
 Judean, Jewish
 now, already
 for
-0
+
 the
 Judean, Jewish
 in order that, that
@@ -56283,7 +56283,7 @@ anyone, anything; someone, something
 he, she, it; himself, herself, itself; even, very; same
 I confess
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 I am, become, happen
 (with gen.) through; (with acc.) because of, for the sake of
 this
@@ -56366,7 +56366,7 @@ he, she, it; himself, herself, itself; even, very; same
 learner, disciple
 I am, become, happen
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I say, tell
@@ -56426,7 +56426,7 @@ I hear
 but, rather, yet
 if
 anyone, anything; someone, something
-0
+
 I am
 and, also, likewise
 the
@@ -56600,7 +56600,7 @@ the
 sheep
 but, rather, yet
 I go up, embark
-0
+
 that
 thief
 I am
@@ -56618,7 +56618,7 @@ the
 sheep
 this
 the
-0
+
 I open
 and, also, likewise
 the
@@ -56733,7 +56733,7 @@ I enter
 and, also, likewise
 I go out, come out
 and, also, likewise
-0
+
 I find, discover
 the
 thief
@@ -56760,11 +56760,11 @@ I am
 the
 shepherd
 the
-0
+
 the
 shepherd
 the
-0
+
 the
 soul
 he, she, it; himself, herself, itself; even, very; same
@@ -56773,7 +56773,7 @@ I put, place
 the
 sheep
 the
-0
+
 and, also, likewise
 no, not
 I am
@@ -56802,7 +56802,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I scatter, distribute
 that, because, since
-0
+
 I am
 and, also, likewise
 no, not
@@ -56816,7 +56816,7 @@ I am
 the
 shepherd
 the
-0
+
 and, also, likewise
 I know
 the
@@ -56926,7 +56926,7 @@ word, Word
 this
 I say, tell
 but, and (frequently untranslated)
-0
+
 from, out of
 he, she, it; himself, herself, itself; even, very; same
 demon, evil spirit
@@ -56953,7 +56953,7 @@ I open
 I am, become, happen
 then
 the
-0
+
 (with dat.) in
 the
 Jerusalem
@@ -56965,13 +56965,13 @@ the
 Jesus, Joshua
 (with dat.) in
 the
-0
+
 (with dat.) in
 the
-0
+
 the
 Solomon
-0
+
 therefore, then
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -57100,11 +57100,11 @@ I answer, reply
 he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
-0
+
 work, deed
 I point out, show
 you
-0
+
 from, out of
 the
 father
@@ -57119,7 +57119,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 Judean, Jewish
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 work, deed
 no, not
 I stone (a person)
@@ -57245,13 +57245,13 @@ where, insofar as
 I am
 John
 the
-0
+
 I baptize
 and, also, likewise
 I remain, stay
 there, to that place
 and, also, likewise
-0
+
 I come, go
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
@@ -57270,10 +57270,10 @@ I say, tell
 John
 (with gen.) about, concerning; (with acc.) around, near
 this
-TRUE
+True
 I am
 and, also, likewise
-0
+
 I believe (in), trust
 into, in
 he, she, it; himself, herself, itself; even, very; same
@@ -57459,7 +57459,7 @@ I sleep, fall asleep, die
 but, rather, yet
 I go, proceed
 in order that, that
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 therefore, then
@@ -57470,7 +57470,7 @@ master, lord, the Lord
 if
 I sleep, fall asleep, die
 I save, deliver
-0
+
 but, and (frequently untranslated)
 the
 Jesus, Joshua
@@ -57484,7 +57484,7 @@ I think, believe; I seem
 that, because, since
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 the
 sleep
 I say, tell
@@ -57516,9 +57516,9 @@ therefore, then
 Thomas
 the
 I say, tell
-0
+
 the
-0
+
 I lead
 and, also, likewise
 I
@@ -57542,14 +57542,14 @@ grave, tomb
 I am
 but, and (frequently untranslated)
 Bethany
-0
+
 the
 Jerusalem
 as, like, so
 (with gen.) from, away from
 stade, 192 meters
-0
-0
+
+
 but, and (frequently untranslated)
 from, out of
 the
@@ -57561,7 +57561,7 @@ Martha
 and, also, likewise
 Mary
 in order that, that
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) about, concerning; (with acc.) around, near
 the
@@ -57697,7 +57697,7 @@ Mary
 the
 sister
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 the
 teacher
@@ -57710,7 +57710,7 @@ but, and (frequently untranslated)
 as, like, so
 I hear
 I raise
-0
+
 and, also, likewise
 I come, go
 (with dat.) near, at; (with acc.) to, toward
@@ -57745,7 +57745,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 household
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I see
 the
@@ -57777,7 +57777,7 @@ Jesus, Joshua
 I see
 he, she, it; himself, herself, itself; even, very; same
 I fall
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 foot
@@ -57810,7 +57810,7 @@ the
 breath, spirit
 and, also, likewise
 I trouble
-0
+
 and, also, likewise
 I say, tell
 where?
@@ -57822,7 +57822,7 @@ master, lord, the Lord
 I come, go
 and, also, likewise
 I see
-0
+
 the
 Jesus, Joshua
 I say, tell
@@ -57858,7 +57858,7 @@ therefore, then
 again
 I warn; I am deeply moved
 (with dat.) in
-0
+
 I come, go
 into, in
 the
@@ -57886,8 +57886,8 @@ I die
 Martha
 master, lord, the Lord
 now, already
-0
-0
+
+
 for
 I am
 I say, tell
@@ -57936,7 +57936,7 @@ but, rather, yet
 the
 multitude
 the
-0
+
 I say, tell
 in order that, that
 I believe (in), trust
@@ -57962,13 +57962,13 @@ foot
 and, also, likewise
 the
 hand
-0
+
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -57979,7 +57979,7 @@ and, also, likewise
 I leave, let go, pardon
 he, she, it; himself, herself, itself; even, very; same
 I go, go away
-0
+
 therefore, then
 from, out of
 the
@@ -58026,7 +58026,7 @@ that, because, since
 this
 the
 human being, person
-0
+
 I do, make
 sign
 if
@@ -58088,7 +58088,7 @@ I ruin, destroy
 this
 but, and (frequently untranslated)
 (with gen.) from, away from
-0
+
 no, not
 I say, tell
 but, rather, yet
@@ -58110,7 +58110,7 @@ no, not
 (with gen.) on behalf of; (with acc.) above
 the
 nation, the Gentiles
-0
+
 but, rather, yet
 in order that, that
 and, also, likewise
@@ -58147,11 +58147,11 @@ from there
 into, in
 the
 country, land
-0
+
 the
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
 into, in
-0
+
 I say, tell
 city
 and there
@@ -58161,14 +58161,14 @@ the
 learner, disciple
 I am
 but, and (frequently untranslated)
-0
+
 the
-0
+
 the
 Judean, Jewish
 and, also, likewise
 I go up, embark
-0
+
 into, in
 Jerusalem
 from, out of
@@ -58176,10 +58176,10 @@ the
 country, land
 (with gen.) before, in front of
 the
-0
+
 in order that, that
 I purify
-0
+
 I seek, look for, ask
 therefore, then
 the
@@ -58190,7 +58190,7 @@ I say, tell
 each other, one another
 (with dat.) in
 the
-0
+
 I place, set, stand
 who? which one? what?
 I think, believe; I seem
@@ -58201,7 +58201,7 @@ not
 I come, go
 into, in
 the
-0
+
 I give
 but, and (frequently untranslated)
 the
@@ -58216,7 +58216,7 @@ anyone, anything; someone, something
 I know
 where?
 I am
-0
+
 (adv.) how; (conj.) that, in order that
 I seize, catch
 he, she, it; himself, herself, itself; even, very; same
@@ -58227,7 +58227,7 @@ Jesus, Joshua
 six
 day
 the
-0
+
 I come, go
 into, in
 Bethany
@@ -58262,11 +58262,11 @@ the
 therefore, then
 Mary
 I take, receive
-0
+
 ointment, perfume
-0
-0
-0
+
+
+
 I anoint
 the
 foot
@@ -58291,7 +58291,7 @@ the
 ointment, perfume
 I say, tell
 but, and (frequently untranslated)
-0
+
 the
 Iscariot
 one
@@ -58309,7 +58309,7 @@ the
 ointment, perfume
 no, not
 I sell
-0
+
 denarius
 and, also, likewise
 I give
@@ -58330,7 +58330,7 @@ thief
 I am
 and, also, likewise
 the
-0
+
 I have, hold
 the
 I throw, place
@@ -58346,7 +58346,7 @@ into, in
 the
 day
 the
-0
+
 I
 I keep, observe
 he, she, it; himself, herself, itself; even, very; same
@@ -58356,7 +58356,7 @@ for
 always
 I have, hold
 (with gen.) with; (with acc.) after, behind
-0
+
 I
 but, and (frequently untranslated)
 no, not
@@ -58366,7 +58366,7 @@ I know
 therefore, then
 the
 multitude
-0
+
 from, out of
 the
 Judean, Jewish
@@ -58379,7 +58379,7 @@ no, not
 (with gen.) through; (with acc.) because of, for the sake of
 the
 Jesus, Joshua
-0
+
 but, rather, yet
 in order that, that
 and, also, likewise
@@ -58400,7 +58400,7 @@ the
 Lazarus
 I kill
 that, because, since
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 he, she, it; himself, herself, itself; even, very; same
 I go, go away
@@ -58415,12 +58415,12 @@ the
 tomorrow
 the
 multitude
-0
+
 the
 I come, go
 into, in
 the
-0
+
 I hear
 that, because, since
 I come, go
@@ -58429,13 +58429,13 @@ into, in
 Jerusalem
 I take, receive
 the
-0
+
 the
-0
+
 and, also, likewise
 I go out, come out
 into, in
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I cry out, shout
@@ -58455,7 +58455,7 @@ I find, discover
 but, and (frequently untranslated)
 the
 Jesus, Joshua
-0
+
 I sit down, cause to sit down; stay (intrans.)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
@@ -58482,7 +58482,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 learner, disciple
 the
-0
+
 but, rather, yet
 when
 I praise, honor, glorify
@@ -58538,7 +58538,7 @@ therefore, then
 a Pharisee
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
-0
+
 I see, perceive
 that, because, since
 no, not
@@ -58561,7 +58561,7 @@ in order that, that
 I worship
 (with dat.) in
 the
-0
+
 this
 therefore, then
 I go to, approach
@@ -58626,12 +58626,12 @@ the
 earth
 I die
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I remain, stay
 if
 but, and (frequently untranslated)
 I die
-0
+
 fruit
 I bear, carry
 the
@@ -58897,7 +58897,7 @@ hearing, ear, report
 I
 and, also, likewise
 the
-0
+
 master, lord, the Lord
 who? which one? what?
 I reveal
@@ -58910,7 +58910,7 @@ that, because, since
 again
 I say, tell
 Isaiah
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 eye
@@ -58945,13 +58945,13 @@ and, also, likewise
 I speak
 (with gen.) about, concerning; (with acc.) around, near
 he, she, it; himself, herself, itself; even, very; same
-0
+
 though, indeed
 and, also, likewise
 from, out of
 the
 ruler, lord, authority
-0
+
 I believe (in), trust
 into, in
 he, she, it; himself, herself, itself; even, very; same
@@ -58963,7 +58963,7 @@ no, not
 I confess
 in order that, that
 not
-0
+
 I am, become, happen
 I love
 for
@@ -58972,7 +58972,7 @@ glory, brightness, splendor
 the
 human being, person
 more, rather
-0
+
 the
 glory, brightness, splendor
 the
@@ -59104,7 +59104,7 @@ therefore, then
 I
 I speak
 as, just as
-0
+
 I
 the
 father
@@ -59113,9 +59113,9 @@ I speak
 (with gen.) before, in front of
 but, and (frequently untranslated)
 the
-0
+
 the
-0
+
 I know
 the
 Jesus, Joshua
@@ -59157,7 +59157,7 @@ heart
 in order that, that
 I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
-0
+
 Simon
 Iscariot
 I know
@@ -59190,17 +59190,17 @@ the
 garment
 and, also, likewise
 I take, receive
-0
-0
-0
+
+
+
 then, next
 I throw, place
 water
 into, in
 the
-0
+
 and, also, likewise
-0
+
 I wash
 the
 foot
@@ -59209,10 +59209,10 @@ learner, disciple
 and, also, likewise
 I wipe
 the
-0
+
 who, which, what
 I am
-0
+
 I come, go
 therefore, then
 (with dat.) near, at; (with acc.) to, toward
@@ -59275,7 +59275,7 @@ not
 the
 foot
 I
-0
+
 but, rather, yet
 and, also, likewise
 the
@@ -59432,7 +59432,7 @@ I lift up, hold up
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 I
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 now, just
@@ -59512,7 +59512,7 @@ who, which, what
 I love
 the
 Jesus, Joshua
-0
+
 therefore, then
 this
 Simon
@@ -59547,26 +59547,26 @@ that
 I am
 who, which, what
 I
-0
+
 the
-0
+
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 therefore, then
 the
-0
+
 I take, receive
 and, also, likewise
 I give
-0
+
 Simon
 Iscariot
 and, also, likewise
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 then
 I enter
 into, in
@@ -59580,7 +59580,7 @@ Jesus, Joshua
 who, which, what
 I do, make
 I do, make
-0
+
 this
 but, and (frequently untranslated)
 no one, nothing
@@ -59596,9 +59596,9 @@ for
 I think, believe; I seem
 because, since, for
 the
-0
+
 I have, hold
-0
+
 that, because, since
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -59609,7 +59609,7 @@ need, necessity
 I have, hold
 into, in
 the
-0
+
 or, either
 the
 poor
@@ -59619,7 +59619,7 @@ I give
 I take, receive
 therefore, then
 the
-0
+
 that
 I go out, come out
 immediately
@@ -59655,7 +59655,7 @@ God, god
 I praise, honor, glorify
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
+
 and, also, likewise
 immediately
 I praise, honor, glorify
@@ -59731,7 +59731,7 @@ now
 I follow
 I follow
 but, and (frequently untranslated)
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 Peter
@@ -59789,8 +59789,8 @@ household
 the
 father
 I
-0
-0
+
+
 I am
 if
 but, and (frequently untranslated)
@@ -60078,7 +60078,7 @@ I am
 no, not
 I leave, let go, pardon
 you
-0
+
 I come, go
 (with dat.) near, at; (with acc.) to, toward
 you
@@ -60150,7 +60150,7 @@ he, she, it; himself, herself, itself; even, very; same
 myself
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
-0
+
 no, not
 the
 Iscariot
@@ -60191,7 +60191,7 @@ and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I come, go
 and, also, likewise
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 he, she, it; himself, herself, itself; even, very; same
 I do, make
@@ -60272,7 +60272,7 @@ you
 the
 heart
 and not, but not
-0
+
 I hear
 that, because, since
 I
@@ -60301,7 +60301,7 @@ I
 I am
 and, also, likewise
 now
-0
+
 you
 before
 I am, become, happen
@@ -60310,7 +60310,7 @@ whenever, when
 I am, become, happen
 I believe (in), trust
 no more, no longer
-0
+
 I speak
 (with gen.) with; (with acc.) after, behind
 you
@@ -60351,7 +60351,7 @@ I am
 the
 vine
 the
-TRUE
+True
 and, also, likewise
 the
 father
@@ -60360,7 +60360,7 @@ the
 farmer
 I am
 all, every
-0
+
 (with dat.) in
 I
 not
@@ -60373,11 +60373,11 @@ all, every
 the
 fruit
 I bear, carry
-0
+
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 fruit
-0
+
 I bear, carry
 now, already
 you
@@ -60397,13 +60397,13 @@ and I, but I
 you
 as, just as
 the
-0
+
 no, not
 I can
 fruit
 I bear, carry
 (with gen.) from, away from
-0
+
 if
 not
 I remain, stay
@@ -60424,7 +60424,7 @@ the
 vine
 you
 the
-0
+
 the
 I remain, stay
 (with dat.) in
@@ -60435,7 +60435,7 @@ he, she, it; himself, herself, itself; even, very; same
 this
 I bear, carry
 fruit
-0
+
 that, because, since
 without, apart from
 I
@@ -60453,7 +60453,7 @@ I throw, place
 outside, out
 as, like, so
 the
-0
+
 and, also, likewise
 I dry, dry up
 and, also, likewise
@@ -60492,7 +60492,7 @@ father
 I
 in order that, that
 fruit
-0
+
 I bear, carry
 and, also, likewise
 I am, become, happen
@@ -60605,7 +60605,7 @@ the
 master, lord, the Lord
 you
 but, and (frequently untranslated)
-0
+
 beloved, loving; (as a noun) friend
 that, because, since
 all, every
@@ -60666,7 +60666,7 @@ I hate
 I know
 that, because, since
 I
-0
+
 you
 I hate
 if
@@ -60852,7 +60852,7 @@ you
 in order that, that
 not
 I cause to fall
-0
+
 I do, make
 you
 but, rather, yet
@@ -61005,7 +61005,7 @@ the world
 this
 I judge
 yet, still
-0
+
 I have, hold
 you
 I say, tell
@@ -61032,7 +61032,7 @@ no, not
 for
 I speak
 (with gen.) from, away from
-0
+
 but, rather, yet
 as great, how great; as far, how far
 I hear
@@ -61160,7 +61160,7 @@ you
 that, because, since
 I weep, cry
 and, also, likewise
-0
+
 you
 the
 but, and (frequently untranslated)
@@ -61396,12 +61396,12 @@ into, in
 the
 one’s own
 and I, but I
-0
+
 I leave, let go, pardon
 and, also, likewise
 no, not
 I am
-0
+
 that, because, since
 the
 father
@@ -61477,8 +61477,8 @@ in order that, that
 I know
 you
 the
-0
-TRUE
+
+True
 God, god
 and, also, likewise
 who, which, what
@@ -61687,7 +61687,7 @@ the
 my, mine
 I fill, make full, finish
 (with dat.) in
-0
+
 I
 I give
 he, she, it; himself, herself, itself; even, very; same
@@ -61780,7 +61780,7 @@ no, not
 this
 but, and (frequently untranslated)
 I ask, request
-0
+
 but, rather, yet
 and, also, likewise
 (with gen.) about, concerning; (with acc.) around, near
@@ -61935,9 +61935,9 @@ learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 across
 the
-0
+
 the
-0
+
 where, insofar as
 I am
 garden
@@ -61952,7 +61952,7 @@ he, she, it; himself, herself, itself; even, very; same
 I know
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 the
 I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
@@ -61969,7 +61969,7 @@ learner, disciple
 he, she, it; himself, herself, itself; even, very; same
 the
 therefore, then
-0
+
 I take, receive
 the
 cohort
@@ -61985,7 +61985,7 @@ servant, assistant
 I come, go
 there, to that place
 (with gen.) with; (with acc.) after, behind
-0
+
 and, also, likewise
 torch, lamp
 and, also, likewise
@@ -62016,7 +62016,7 @@ I am
 I place, set, stand
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 the
 I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
@@ -62034,7 +62034,7 @@ the
 behind, back
 and, also, likewise
 I fall
-0
+
 again
 therefore, then
 I ask (a question)
@@ -62093,7 +62093,7 @@ and, also, likewise
 I cut off
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 the
 right (as opposed to left)
 I am
@@ -62101,7 +62101,7 @@ but, and (frequently untranslated)
 name
 the
 slave
-0
+
 I say, tell
 therefore, then
 the
@@ -62113,7 +62113,7 @@ the
 sword
 into, in
 the
-0
+
 the
 a drink
 who, which, what
@@ -62145,11 +62145,11 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I lead
 (with dat.) near, at; (with acc.) to, toward
-0
-0
+
+
 I am
 for
-0
+
 the
 Caiaphas
 who, which, what
@@ -62162,7 +62162,7 @@ I am
 but, and (frequently untranslated)
 Caiaphas
 the
-0
+
 the
 Judean, Jewish
 that, because, since
@@ -62191,7 +62191,7 @@ known
 the
 high priest, chief priest
 and, also, likewise
-0
+
 the
 Jesus, Joshua
 into, in
@@ -62220,7 +62220,7 @@ high priest, chief priest
 and, also, likewise
 I say, tell
 the
-0
+
 and, also, likewise
 I lead in
 the
@@ -62232,7 +62232,7 @@ Peter
 the
 female slave
 the
-0
+
 not
 and, also, likewise
 you
@@ -62254,10 +62254,10 @@ slave
 and, also, likewise
 the
 servant, assistant
-0
+
 I do, make
 that, because, since
-0
+
 I am
 and, also, likewise
 I warm myself
@@ -62302,7 +62302,7 @@ synagogue
 and, also, likewise
 (with dat.) in
 the
-0
+
 where, insofar as
 all, every
 the
@@ -62337,7 +62337,7 @@ I am present, stand by
 the
 servant, assistant
 I give
-0
+
 the
 Jesus, Joshua
 I say, tell
@@ -62365,7 +62365,7 @@ I send away, send out
 therefore, then
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 I bind, tie
 (with dat.) near, at; (with acc.) to, toward
 Caiaphas
@@ -62408,7 +62408,7 @@ who, which, what
 I cut off
 Peter
 the
-0
+
 no, not
 I
 you
@@ -62450,9 +62450,9 @@ in order that, that
 not
 I defile
 but, rather, yet
-0
+
 the
-0
+
 I go out, come out
 therefore, then
 the
@@ -62463,7 +62463,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I say
 who? which one? what?
-0
+
 I bear, carry
 the
 human being, person
@@ -62544,7 +62544,7 @@ Judean, Jewish
 I answer, reply
 Jesus, Joshua
 (with gen.) from, away from
-0
+
 you
 this
 I say, tell
@@ -62620,7 +62620,7 @@ therefore, then
 he, she, it; himself, herself, itself; even, very; same
 the
 Pilate
-0
+
 king
 I am
 you
@@ -62683,7 +62683,7 @@ he, she, it; himself, herself, itself; even, very; same
 cause, reason
 I am
 but, and (frequently untranslated)
-0
+
 you
 in order that, that
 one
@@ -62691,7 +62691,7 @@ I set free, let go, send away
 you
 (with dat.) in
 the
-0
+
 I wish, desire
 therefore, then
 I set free, let go, send away
@@ -62726,8 +62726,8 @@ I whip, scourge
 and, also, likewise
 the
 soldier
-0
-0
+
+
 from, out of
 thorn-plant
 I put upon
@@ -62736,7 +62736,7 @@ the
 head
 and, also, likewise
 garment
-0
+
 I put on, clothe
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -62753,7 +62753,7 @@ Judean, Jewish
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I go out, come out
 again
@@ -62783,11 +62783,11 @@ Jesus, Joshua
 outside, out
 I bear, wear
 the
-0
-0
+
+
 and, also, likewise
 the
-0
+
 garment
 and, also, likewise
 I say, tell
@@ -62840,7 +62840,7 @@ I die
 that, because, since
 son
 God, god
-0
+
 I do, make
 when
 therefore, then
@@ -62868,7 +62868,7 @@ you
 the
 but, and (frequently untranslated)
 Jesus, Joshua
-0
+
 no, not
 I give
 he, she, it; himself, herself, itself; even, very; same
@@ -62938,7 +62938,7 @@ emperor, Caesar
 all, every
 the
 king
-0
+
 I do, make
 I object to
 the
@@ -62961,15 +62961,15 @@ step, judge’s bench, platform
 into, in
 place
 I say, tell
-0
+
 in Hebrew or Aramaic
 but, and (frequently untranslated)
-0
+
 I am
 but, and (frequently untranslated)
 preparation
 the
-0
+
 hour
 I am
 as, like, so
@@ -63019,19 +63019,19 @@ the
 Jesus, Joshua
 and, also, likewise
 I bear
-0
+
 the
 cross
 I go out, come out
 into, in
 the
 I say, tell
-0
+
 place
 who, which, what
 I say, tell
 in Hebrew or Aramaic
-0
+
 where, insofar as
 he, she, it; himself, herself, itself; even, very; same
 I crucify
@@ -63050,7 +63050,7 @@ Jesus, Joshua
 I write
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 the
 Pilate
 and, also, likewise
@@ -63071,13 +63071,13 @@ Judean, Jewish
 this
 therefore, then
 the
-0
-0
+
+
 I read
 the
 Judean, Jewish
 that, because, since
-0
+
 I am
 the
 place
@@ -63091,8 +63091,8 @@ and, also, likewise
 I am
 I write
 in Hebrew or Aramaic
-0
-0
+
+
 I say, tell
 therefore, then
 the
@@ -63146,11 +63146,11 @@ I am
 but, and (frequently untranslated)
 the
 tunic
-0
+
 from, out of
 the
 from above, again
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 whole, complete
 I say, tell
@@ -63161,7 +63161,7 @@ not
 I split, divide
 he, she, it; himself, herself, itself; even, very; same
 but, rather, yet
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
@@ -63174,7 +63174,7 @@ I distribute
 the
 garment
 I
-0
+
 and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -63207,7 +63207,7 @@ he, she, it; himself, herself, itself; even, very; same
 Mary
 the
 the
-0
+
 and, also, likewise
 Mary
 the
@@ -63270,12 +63270,12 @@ vessel, jar
 I lie, recline
 sour wine, vinegar
 full
-0
+
 therefore, then
 full
 the
 sour wine, vinegar
-0
+
 I put around
 I bring to, offer
 he, she, it; himself, herself, itself; even, very; same
@@ -63326,10 +63326,10 @@ I ask, request
 the
 Pilate
 in order that, that
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 and, also, likewise
 I lift up; I take away
 I come, go
@@ -63339,10 +63339,10 @@ soldier
 and, also, likewise
 the
 indeed, on the one hand (but often untranslatable)
-0
-0
+
+
 the
-0
+
 and, also, likewise
 the
 another, other
@@ -63360,19 +63360,19 @@ now, already
 he, she, it; himself, herself, itself; even, very; same
 I die
 no, not
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 but, rather, yet
 one
 the
 soldier
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 side
-0
+
 and, also, likewise
 I go out, come out
 immediately
@@ -63384,7 +63384,7 @@ the
 I see
 I bear witness, testify
 and, also, likewise
-TRUE
+True
 he, she, it; himself, herself, itself; even, very; same
 I am
 the
@@ -63393,7 +63393,7 @@ and, also, likewise
 that
 I know
 that, because, since
-TRUE
+True
 I say, tell
 in order that, that
 and, also, likewise
@@ -63406,7 +63406,7 @@ in order that, that
 the
 writing
 I fill, make full, finish
-0
+
 no, not
 I shatter, break
 he, she, it; himself, herself, itself; even, very; same
@@ -63418,7 +63418,7 @@ I say, tell
 I see
 into, in
 who, which, what
-0
+
 (with gen.) with; (with acc.) after, behind
 but, and (frequently untranslated)
 this
@@ -63427,7 +63427,7 @@ the
 Pilate
 Joseph
 (with gen.) from, away from
-0
+
 I am
 learner, disciple
 the
@@ -63466,14 +63466,14 @@ I come, go
 he, she, it; himself, herself, itself; even, very; same
 night
 the
-0
+
 I bear, carry
-0
-0
+
+
 and, also, likewise
-0
+
 as, like, so
-0
+
 one hundred
 I take, receive
 therefore, then
@@ -63487,13 +63487,13 @@ he, she, it; himself, herself, itself; even, very; same
 linen cloth
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 as, just as
 custom, law
 I am
 the
 Judean, Jewish
-0
+
 I am
 but, and (frequently untranslated)
 (with dat.) in
@@ -63510,7 +63510,7 @@ grave, tomb
 new
 (with dat.) in
 who, which, what
-0
+
 no one, nothing
 I am
 I put, place
@@ -63522,7 +63522,7 @@ preparation
 the
 Judean, Jewish
 that, because, since
-0
+
 I am
 the
 grave, tomb
@@ -63601,18 +63601,18 @@ I run
 but, and (frequently untranslated)
 the
 two
-0
+
 and, also, likewise
 the
 another, other
 learner, disciple
-0
-0
+
+
 the
 Peter
 and, also, likewise
 I come, go
-0
+
 into, in
 the
 grave, tomb
@@ -63644,7 +63644,7 @@ linen cloth
 I lie, recline
 and, also, likewise
 the
-0
+
 who, which, what
 I am
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -63658,7 +63658,7 @@ linen cloth
 I lie, recline
 but, rather, yet
 without, apart from
-0
+
 into, in
 one
 place
@@ -63671,7 +63671,7 @@ another, other
 learner, disciple
 the
 I come, go
-0
+
 into, in
 the
 grave, tomb
@@ -63679,7 +63679,7 @@ and, also, likewise
 I see
 and, also, likewise
 I believe (in), trust
-0
+
 for
 I know
 the
@@ -63694,7 +63694,7 @@ I go away
 therefore, then
 again
 (with dat.) near, at; (with acc.) to, toward
-0
+
 the
 learner, disciple
 Mary
@@ -63783,7 +63783,7 @@ that
 I think, believe; I seem
 that, because, since
 the
-0
+
 I am
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -63809,7 +63809,7 @@ that
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 in Hebrew or Aramaic
-0
+
 who, which, what
 I say, tell
 teacher
@@ -63818,7 +63818,7 @@ he, she, it; himself, herself, itself; even, very; same
 Jesus, Joshua
 not
 I
-0
+
 not yet
 for
 I go up, embark
@@ -63852,7 +63852,7 @@ I come, go
 Mary
 the
 Magdalene, woman from Magdala
-0
+
 the
 learner, disciple
 that, because, since
@@ -63935,7 +63935,7 @@ you
 and, also, likewise
 this
 I say, tell
-0
+
 and, also, likewise
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -63961,7 +63961,7 @@ the
 twelve
 the
 I say, tell
-0
+
 no, not
 I am
 (with gen.) with; (with acc.) after, behind
@@ -63992,7 +63992,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 image, copy
 the
-0
+
 and, also, likewise
 I throw, place
 the
@@ -64002,7 +64002,7 @@ into, in
 the
 place
 the
-0
+
 and, also, likewise
 I throw, place
 I
@@ -64101,7 +64101,7 @@ not
 I see
 and, also, likewise
 I believe (in), trust
-0
+
 indeed, on the one hand (but often untranslatable)
 therefore, then
 and, also, likewise
@@ -64147,7 +64147,7 @@ he, she, it; himself, herself, itself; even, very; same
 (with gen.) with; (with acc.) after, behind
 this
 I reveal, make known
-0
+
 again
 Jesus, Joshua
 the
@@ -64156,24 +64156,24 @@ learner, disciple
 the
 sea
 the
-0
+
 I reveal, make known
 but, and (frequently untranslated)
 in this manner, thus, so
 I am
-0
+
 Simon
 Peter
 and, also, likewise
 Thomas
 the
 I say, tell
-0
+
 and, also, likewise
 Nathanael
 the
 (with gen.) from, away from
-0
+
 the
 Galilee
 and, also, likewise
@@ -64192,7 +64192,7 @@ he, she, it; himself, herself, itself; even, very; same
 Simon
 Peter
 I go, go away
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I come, go
@@ -64213,7 +64213,7 @@ the
 night
 I seize, catch
 no one, nothing
-0
+
 but, and (frequently untranslated)
 now, already
 I am, become, happen
@@ -64237,7 +64237,7 @@ Jesus, Joshua
 infant, young child
 not
 anyone, anything; someone, something
-0
+
 I have, hold
 I answer, reply
 he, she, it; himself, herself, itself; even, very; same
@@ -64292,14 +64292,14 @@ the
 master, lord, the Lord
 I am
 the
-0
-0
+
+
 I am
 for
 naked
 and, also, likewise
 I throw, place
-0
+
 into, in
 the
 sea
@@ -64320,7 +64320,7 @@ earth
 but, rather, yet
 as, like, so
 (with gen.) from, away from
-0
+
 two hundred
 I draw
 the
@@ -64329,12 +64329,12 @@ the
 fish
 as, like, so
 therefore, then
-0
+
 into, in
 the
 earth
 I see, look
-0
+
 I lie, recline
 and, also, likewise
 fish
@@ -64380,12 +64380,12 @@ he, she, it; himself, herself, itself; even, very; same
 the
 Jesus, Joshua
 come (on)!
-0
+
 no one, nothing
 I dare
 the
 learner, disciple
-0
+
 he, she, it; himself, herself, itself; even, very; same
 you
 who? which one? what?
@@ -64420,7 +64420,7 @@ from, out of
 dead
 when
 therefore, then
-0
+
 I say, tell
 the
 Simon
@@ -64431,7 +64431,7 @@ Simon
 John
 I love
 I
-0
+
 this
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -64469,7 +64469,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I tend, pasture
 the
-0
+
 I
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
@@ -64506,7 +64506,7 @@ he, she, it; himself, herself, itself; even, very; same
 Jesus, Joshua
 I tend, feed
 the
-0
+
 I
 so let it be, truly, amen
 so let it be, truly, amen
@@ -64515,7 +64515,7 @@ you
 when
 I am
 new, young
-0
+
 yourself
 and, also, likewise
 I go about, walk around
@@ -64523,14 +64523,14 @@ where, insofar as
 I wish, will
 whenever, when
 but, and (frequently untranslated)
-0
+
 I extend
 the
 hand
 you
 and, also, likewise
 another, other
-0
+
 you
 and, also, likewise
 I bear, carry
@@ -64658,7 +64658,7 @@ this
 and, also, likewise
 I know
 that, because, since
-TRUE
+True
 he, she, it; himself, herself, itself; even, very; same
 the
 testimony
@@ -64667,19 +64667,19 @@ I am
 but, and (frequently untranslated)
 and, also, likewise
 another, other
-0
+
 who, which, what
 I do, make
 the
 Jesus, Joshua
-0
+
 if
 I write
 (with gen.) down, against; (with acc.) according to, along
 one
 and not, nor; neither, nor
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 the world
 I make room, contain
@@ -64688,15 +64688,15 @@ I write
 book, scroll
 the
 indeed, on the one hand (but often untranslatable)
-0
+
 word, Word
 I do, make
 (with gen.) about, concerning; (with acc.) around, near
 all, every
-0
-0
+
+
 who, which, what
-0
+
 the
 Jesus, Joshua
 I do, make
@@ -64718,19 +64718,19 @@ I take up
 who, which, what
 and, also, likewise
 I am present, stand by
-0
+
 I live
 (with gen.) with; (with acc.) after, behind
 the
 I suffer, endure
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
-0
+
+
 (with gen.) through; (with acc.) because of, for the sake of
 day
 forty
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I say, tell
@@ -64741,7 +64741,7 @@ kingdom, reign
 the
 God, god
 and, also, likewise
-0
+
 I command
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
@@ -64749,7 +64749,7 @@ Jerusalem
 not
 I divide, separate
 but, rather, yet
-0
+
 the
 promise
 the
@@ -64770,7 +64770,7 @@ I baptize
 holy
 no, not
 (with gen.) with; (with acc.) after, behind
-0
+
 this
 day
 the
@@ -64908,10 +64908,10 @@ Jerusalem
 mountain, hill
 the
 I call
-0
+
 who, which, what
 I am
-0
+
 Jerusalem
 Sabbath, week
 I have, hold
@@ -64921,11 +64921,11 @@ when
 I enter
 into, in
 the
-0
+
 I go up, embark
 where, whither
 I am
-0
+
 the
 and
 Peter
@@ -64938,7 +64938,7 @@ Andrew
 Philip
 and, also, likewise
 Thomas
-0
+
 and, also, likewise
 Matthew
 James
@@ -64948,7 +64948,7 @@ Simon
 the
 zealot
 and, also, likewise
-0
+
 James
 this
 all, every
@@ -64991,7 +64991,7 @@ the
 he, she, it; himself, herself, itself; even, very; same
 as, like
 one hundred
-0
+
 man
 brother
 it is necessary, one must
@@ -65008,7 +65008,7 @@ holy
 mouth
 David
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 the
 I am, become, happen
 leader, guide
@@ -65016,12 +65016,12 @@ the
 I seize, I conceive
 Jesus, Joshua
 that, because, since
-0
+
 I am
 (with dat.) in
 I
 and, also, likewise
-0
+
 the
 lot, share
 the
@@ -65037,9 +65037,9 @@ wages
 the
 wrongdoing, unrighteousness
 and, also, likewise
-0
+
 I am, become, happen
-0
+
 middle, in the middle
 and, also, likewise
 I pour out
@@ -65063,7 +65063,7 @@ the
 one’s own
 language
 he, she, it; himself, herself, itself; even, very; same
-0
+
 this
 I am
 place, land, field
@@ -65075,7 +65075,7 @@ book
 song of praise, psalm
 I am, become, happen
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
 and, also, likewise
@@ -65087,7 +65087,7 @@ I live, dwell in
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I take, receive
 other, another, different
@@ -65109,7 +65109,7 @@ I
 the
 master, lord, the Lord
 Jesus, Joshua
-0
+
 (with gen.) from, away from
 the
 baptism
@@ -65136,20 +65136,20 @@ two
 Joseph
 the
 I call
-0
+
 who, which, what
 I name; (mid.) I call upon
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 I pray
 I say, tell
 you
 master, lord, the Lord
-0
+
 all, every
-0
+
 who, which, what
 I choose, select
 from, out of
@@ -65164,11 +65164,11 @@ the
 service
 this
 and, also, likewise
-0
+
 (with gen.) from, away from
 who, which, what
-0
-0
+
+
 I go, proceed
 into, in
 the
@@ -65184,9 +65184,9 @@ I fall
 the
 lot, share
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 and, also, likewise
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 eleven
@@ -65194,28 +65194,28 @@ apostle
 and, also, likewise
 (with dat.) in
 the
-0
+
 the
 day
 the
-0
+
 I am
 all, every
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I am, become, happen
-0
+
 from, out of
 the
 heaven
-0
+
 (just) as
 I bear, carry
-0
-0
+
+
 and, also, likewise
 I fill, make full, finish
 whole, complete
@@ -65243,7 +65243,7 @@ all, every
 breath, spirit
 holy
 and, also, likewise
-0
+
 I speak
 other, another, different
 tongue, language
@@ -65251,7 +65251,7 @@ as, just as
 the
 breath, spirit
 I give
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am
 but, and (frequently untranslated)
@@ -65260,7 +65260,7 @@ Jerusalem
 I live, dwell in
 Judean, Jewish
 man
-0
+
 (with gen.) from, away from
 all, every
 nation, the Gentiles
@@ -65277,7 +65277,7 @@ I come with, go with, assemble
 the
 crowd, multitude
 and, also, likewise
-0
+
 that, because, since
 I hear
 one
@@ -65312,25 +65312,25 @@ I
 (with dat.) in
 who, which, what
 I beget
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 the
 I live, dwell in
 the
-0
+
 Judea
 and
 and, also, likewise
-0
-0
+
+
 and, also, likewise
 the
 Asia
-0
+
 and
 and, also, likewise
 Pamphylia
@@ -65339,21 +65339,21 @@ and, also, likewise
 the
 part
 the
-0
+
 the
 (with gen.) down, against; (with acc.) according to, along
-0
+
 and, also, likewise
 the
-0
+
 Roman
 Judean, Jewish
 and
 and, also, likewise
-0
-0
+
+
 and, also, likewise
-0
+
 I hear
 I speak
 he, she, it; himself, herself, itself; even, very; same
@@ -65361,14 +65361,14 @@ the
 our
 tongue, language
 the
-0
+
 the
 God, god
 I am amazed, astonished
 but, and (frequently untranslated)
 all, every
 and, also, likewise
-0
+
 another, other
 (with dat.) near, at; (with acc.) to, toward
 another, other
@@ -65379,11 +65379,11 @@ this
 I am
 other, another, different
 but, and (frequently untranslated)
-0
+
 I say, tell
 that, because, since
-0
-0
+
+
 I am
 I place, set, stand
 but, and (frequently untranslated)
@@ -65397,7 +65397,7 @@ the
 sound, voice
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 man
 Judean, Jewish
@@ -65411,7 +65411,7 @@ you
 known
 I am
 and, also, likewise
-0
+
 the
 word, saying; thing, matter
 I
@@ -65432,11 +65432,11 @@ but, rather, yet
 this
 I am
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 prophet
-0
+
 and, also, likewise
 I am
 (with dat.) in
@@ -65467,15 +65467,15 @@ and, also, likewise
 the
 youth, young man
 you
-0
+
 I see
 and, also, likewise
 the
 old; (as a noun) elder
 you
-0
-0
-0
+
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 slave
@@ -65483,7 +65483,7 @@ I
 and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 I
 (with dat.) in
 the
@@ -65513,11 +65513,11 @@ blood
 and, also, likewise
 fire
 and, also, likewise
-0
+
 smoke
 the
 sun
-0
+
 into, in
 darkness
 and, also, likewise
@@ -65532,7 +65532,7 @@ master, lord, the Lord
 the
 large, great
 and, also, likewise
-0
+
 and, also, likewise
 I am
 all, every
@@ -65553,7 +65553,7 @@ Jesus, Joshua
 the
 Nazorean, Nazarene
 man
-0
+
 (with gen.) from, away from
 the
 God, god
@@ -65581,14 +65581,14 @@ the
 I determine, appoint
 purpose, counsel
 and, also, likewise
-0
+
 the
 God, god
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 hand
 lawless
-0
+
 I take away, destroy
 who, which, what
 the
@@ -65596,7 +65596,7 @@ God, god
 I raise, rise, stand up
 I loose, set free
 the
-0
+
 the
 death
 as, because
@@ -65612,7 +65612,7 @@ for
 I say, tell
 into, in
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 master, lord, the Lord
 before
@@ -65644,7 +65644,7 @@ and, also, likewise
 the
 flesh
 I
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 hope
 that, because, since
@@ -65654,7 +65654,7 @@ the
 soul
 I
 into, in
-0
+
 and not, nor; neither, nor
 I give
 the
@@ -65668,7 +65668,7 @@ way
 life
 I fill, make full, finish
 I
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 face
@@ -65683,7 +65683,7 @@ openness, confidence
 you
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 David
 that, because, since
 and, also, likewise
@@ -65722,7 +65722,7 @@ I sit down, cause to sit down; stay (intrans.)
 the
 throne
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I speak
 (with gen.) about, concerning; (with acc.) around, near
 the
@@ -65733,7 +65733,7 @@ that, because, since
 neither, nor
 I leave behind, forsake
 into, in
-0
+
 neither, nor
 the
 flesh
@@ -65805,7 +65805,7 @@ footstool
 the
 foot
 you
-0
+
 therefore, then
 I know
 all, every
@@ -65828,7 +65828,7 @@ you
 I crucify
 I hear
 but, and (frequently untranslated)
-0
+
 the
 heart
 I say, tell
@@ -65838,7 +65838,7 @@ the
 Peter
 and, also, likewise
 the
-0
+
 apostle
 who? which one? what?
 I do, make
@@ -65894,7 +65894,7 @@ I
 other, another, different
 and
 word, Word
-0
+
 I solemnly declare
 and, also, likewise
 I invite; I exhort; I comfort
@@ -65905,7 +65905,7 @@ I save, deliver
 the
 family, generation
 the
-0
+
 this
 the
 indeed, on the one hand (but often untranslatable)
@@ -65923,7 +65923,7 @@ day
 that
 soul
 as, like
-0
+
 I am
 but, and (frequently untranslated)
 I hold fast to
@@ -65935,7 +65935,7 @@ and, also, likewise
 the
 communion, fellowship, participation
 the
-0
+
 the
 bread
 and, also, likewise
@@ -65946,7 +65946,7 @@ but, and (frequently untranslated)
 all, every
 soul
 fear
-0
+
 but, and (frequently untranslated)
 wonder
 and, also, likewise
@@ -65967,10 +65967,10 @@ all, every
 communal, common
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
-0
+
 I sell
 and, also, likewise
 I distribute
@@ -65988,7 +65988,7 @@ I hold fast to
 with one mind
 (with dat.) in
 the
-0
+
 I break
 and
 (with gen.) down, against; (with acc.) according to, along
@@ -65999,7 +65999,7 @@ food
 (with dat.) in
 exultation, joy
 and, also, likewise
-0
+
 heart
 I praise
 the
@@ -66029,7 +66029,7 @@ John
 I go up, embark
 into, in
 the
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 hour
@@ -66055,10 +66055,10 @@ day
 the
 door
 the
-0
+
 the
 I say, tell
-0
+
 the
 I ask, ask for
 alms
@@ -66067,17 +66067,17 @@ the
 I go in
 into, in
 the
-0
+
 who, which, what
 I see
 Peter
 and, also, likewise
 John
 I am about to, intend
-0
+
 into, in
 the
-0
+
 I ask, request
 alms
 I take, receive
@@ -66135,15 +66135,15 @@ I raise
 he, she, it; himself, herself, itself; even, very; same
 immediately
 but, and (frequently untranslated)
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 and, also, likewise
-0
+
 I place, set, stand
 and, also, likewise
 I go about, walk around
@@ -66153,10 +66153,10 @@ I enter
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
-0
+
 I go about, walk around
 and, also, likewise
-0
+
 and, also, likewise
 I praise
 the
@@ -66185,13 +66185,13 @@ alms
 I sit, sit down
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 gate, door
 the
-0
+
 and, also, likewise
 I fill, fulfill
-0
+
 and, also, likewise
 distraction, confusion; trance
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -66206,7 +66206,7 @@ Peter
 and, also, likewise
 the
 John
-0
+
 all, every
 the
 people
@@ -66214,11 +66214,11 @@ people
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 I call
 Solomon
-0
+
 I see
 but, and (frequently untranslated)
 the
@@ -66290,7 +66290,7 @@ I give freely, forgive
 you
 the
 but, and (frequently untranslated)
-0
+
 the
 life
 I kill
@@ -66316,7 +66316,7 @@ who, which, what
 I see, perceive
 and, also, likewise
 I know
-0
+
 the
 name
 he, she, it; himself, herself, itself; even, very; same
@@ -66329,7 +66329,7 @@ he, she, it; himself, herself, itself; even, very; same
 I give
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 this
 opposite, against
 all, every
@@ -66340,7 +66340,7 @@ brother
 I know
 that, because, since
 (with gen.) down, against; (with acc.) according to, along
-0
+
 I do, accomplish
 (just) as
 and, also, likewise
@@ -66351,7 +66351,7 @@ the
 but, and (frequently untranslated)
 God, god
 who, which, what
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 mouth
 all, every
@@ -66377,7 +66377,7 @@ sin
 (an untranslatable conditional particle)
 I come, go
 time, right time
-0
+
 (with gen.) from, away from
 face
 the
@@ -66385,7 +66385,7 @@ master, lord, the Lord
 and, also, likewise
 I send away, send out
 the
-0
+
 you
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
@@ -66396,7 +66396,7 @@ indeed, on the one hand (but often untranslatable)
 I take, receive
 until
 time
-0
+
 all, every
 who, which, what
 I speak
@@ -66439,14 +66439,14 @@ I am
 but, and (frequently untranslated)
 all, every
 soul
-0
+
 if
 not
 I hear
 the
 prophet
 that
-0
+
 from, out of
 the
 people
@@ -66456,7 +66456,7 @@ but, and (frequently untranslated)
 the
 prophet
 (with gen.) from, away from
-0
+
 and, also, likewise
 the
 in order, one after the other
@@ -66490,16 +66490,16 @@ Abraham
 and, also, likewise
 (with dat.) in
 the
-0
+
 you
-0
+
 all, every
 the
-0
+
 the
 earth
 you
-0
+
 I raise, rise, stand up
 the
 God, god
@@ -66532,11 +66532,11 @@ and, also, likewise
 the
 praetor, captain
 the
-0
+
 and, also, likewise
 the
 a Sadducee
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 I teach
@@ -66561,15 +66561,15 @@ hand
 and, also, likewise
 I put, place
 into, in
-0
+
 into, in
 the
 tomorrow
 I am
 for
-0
+
 now, already
-0
+
 but, and (frequently untranslated)
 the
 I hear
@@ -66602,7 +66602,7 @@ scribe
 (with dat.) in
 Jerusalem
 and, also, likewise
-0
+
 the
 high priest, chief priest
 and, also, likewise
@@ -66616,7 +66616,7 @@ as great, how great; as far, how far
 I am
 from, out of
 race, stock
-0
+
 and, also, likewise
 I place, set, stand
 he, she, it; himself, herself, itself; even, very; same
@@ -66652,7 +66652,7 @@ I
 today
 I question, examine
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 human being, person
 weak, powerless
 (with dat.) in
@@ -66701,7 +66701,7 @@ I despise, reject
 (with gen.) by; (with acc.) under
 you
 the
-0
+
 the
 I am, become, happen
 into, in
@@ -66744,7 +66744,7 @@ and, also, likewise
 I seize, win
 that, because, since
 human being, person
-0
+
 I am
 and, also, likewise
 layman, amateur
@@ -66806,12 +66806,12 @@ but, rather, yet
 in order that, that
 not
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
-0
+
+
 into, in
 the
 people
-0
+
 he, she, it; himself, herself, itself; even, very; same
 no longer
 I speak
@@ -66825,9 +66825,9 @@ and, also, likewise
 I call
 he, she, it; himself, herself, itself; even, very; same
 I command
-0
+
 not
-0
+
 and not, but not
 I teach
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -66869,14 +66869,14 @@ not
 I speak
 the
 but, and (frequently untranslated)
-0
+
 I set free, let go, send away
 he, she, it; himself, herself, itself; even, very; same
 no one, nothing
 I find, discover
 the
 how?
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -66892,7 +66892,7 @@ I am, become, happen
 year
 for
 I am
-0
+
 forty
 the
 human being, person
@@ -66903,7 +66903,7 @@ the
 sign
 this
 the
-0
+
 I set free, let go, send away
 but, and (frequently untranslated)
 I come, go
@@ -66963,11 +66963,11 @@ you
 I say, tell
 in order that, that
 who? which one? what?
-0
+
 nation, the Gentiles
 and, also, likewise
 people
-0
+
 empty
 I am present, stand by
 the
@@ -67008,7 +67008,7 @@ I anoint
 Herod
 and
 and, also, likewise
-0
+
 Pilate
 (with dat.) with
 nation, the Gentiles
@@ -67029,10 +67029,10 @@ and, also, likewise
 the
 now
 master, lord, the Lord
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I give
@@ -67053,7 +67053,7 @@ hand
 I extend
 you
 into, in
-0
+
 and, also, likewise
 sign
 and, also, likewise
@@ -67138,14 +67138,14 @@ all, every
 he, she, it; himself, herself, itself; even, very; same
 and not, nor; neither, nor
 for
-0
+
 anyone, anything; someone, something
 I am
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 as great, how great; as far, how far
 for
-0
+
 place, land, field
 or, either
 household
@@ -67163,7 +67163,7 @@ the
 foot
 the
 apostle
-0
+
 but, and (frequently untranslated)
 each, every
 as, because
@@ -67184,8 +67184,8 @@ I am
 I translate
 son
 exhortation, comfort
-0
-0
+
+
 the
 race, stock
 I exist, am present
@@ -67208,18 +67208,18 @@ anyone, anything; someone, something
 Ananias
 name
 (with dat.) with
-0
+
 the
 woman
 he, she, it; himself, herself, itself; even, very; same
 I sell
-0
+
 and, also, likewise
-0
+
 (with gen.) from, away from
 the
 price, value, honor
-0
+
 and, also, likewise
 the
 woman
@@ -67253,7 +67253,7 @@ breath, spirit
 the
 holy
 and, also, likewise
-0
+
 (with gen.) from, away from
 the
 price, value, honor
@@ -67294,7 +67294,7 @@ the
 word, Word
 this
 I fall
-0
+
 and, also, likewise
 I am, become, happen
 fear
@@ -67307,7 +67307,7 @@ I raise, rise, stand up
 but, and (frequently untranslated)
 the
 new, young
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I carry out, send out
@@ -67317,7 +67317,7 @@ but, and (frequently untranslated)
 as, like, so
 hour
 three
-0
+
 and, also, likewise
 the
 woman
@@ -67379,7 +67379,7 @@ the
 foot
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 I enter
 but, and (frequently untranslated)
 the
@@ -67418,7 +67418,7 @@ I am, become, happen
 sign
 and, also, likewise
 wonder
-0
+
 (with dat.) in
 the
 people
@@ -67428,11 +67428,11 @@ with one mind
 all, every
 (with dat.) in
 the
-0
+
 Solomon
 the
 but, and (frequently untranslated)
-0
+
 no one, nothing
 I dare
 I cling to, join
@@ -67457,14 +67457,14 @@ therefore, so that
 and, also, likewise
 into, in
 the
-0
+
 I carry out, send out
 the
 weak, powerless
 and, also, likewise
 I put, place
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 and, also, likewise
 mattress, bed
 in order that, that
@@ -67482,17 +67482,17 @@ and, also, likewise
 the
 crowd, multitude
 the
-0
+
 city
 Jerusalem
 I bear, carry
 weak, powerless
 and, also, likewise
-0
+
 (with gen.) by; (with acc.) under
 breath, spirit
 impure, unclean
-0
+
 I care for, heal
 all, every
 I raise, rise, stand up
@@ -67522,8 +67522,8 @@ and, also, likewise
 I put, place
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
-0
+
+
 angel, messenger
 but, and (frequently untranslated)
 master, lord, the Lord
@@ -67544,7 +67544,7 @@ I place, set, stand
 I speak
 (with dat.) in
 the
-0
+
 the
 people
 all, every
@@ -67558,10 +67558,10 @@ but, and (frequently untranslated)
 I enter
 (with gen.) by; (with acc.) under
 the
-0
+
 into, in
 the
-0
+
 and, also, likewise
 I teach
 I come, am present
@@ -67578,7 +67578,7 @@ council, high council, Sanhedrin
 and, also, likewise
 all, every
 the
-0
+
 the
 son
 Israel
@@ -67586,7 +67586,7 @@ and, also, likewise
 I send away, send out
 into, in
 the
-0
+
 I lead
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -67605,15 +67605,15 @@ I report, proclaim
 I say, tell
 that, because, since
 the
-0
+
 I find, discover
 I shut, lock
 (with dat.) in
 all, every
-0
+
 and, also, likewise
 the
-0
+
 I place, set, stand
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -67633,11 +67633,11 @@ the
 and
 praetor, captain
 the
-0
+
 and, also, likewise
 the
 high priest, chief priest
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
@@ -67661,7 +67661,7 @@ watch, guard
 I am
 (with dat.) in
 the
-0
+
 I place, set, stand
 and, also, likewise
 I teach
@@ -67678,7 +67678,7 @@ I lead
 he, she, it; himself, herself, itself; even, very; same
 no, not
 (with gen.) with; (with acc.) after, behind
-0
+
 I fear
 for
 the
@@ -67717,7 +67717,7 @@ teaching
 you
 and, also, likewise
 I wish, desire
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 I
 the
@@ -67732,7 +67732,7 @@ and, also, likewise
 the
 apostle
 I say, tell
-0
+
 it is necessary, one must
 God, god
 more, rather
@@ -67747,14 +67747,14 @@ I raise
 Jesus, Joshua
 who, which, what
 you
-0
+
 I hang
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 wood, tree; cross
 this
 the
 God, god
-0
+
 and, also, likewise
 savior, deliverer
 I lift up
@@ -67786,12 +67786,12 @@ I give
 the
 God, god
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
 I hear
-0
+
 and, also, likewise
 I wish, desire
 I take away, destroy
@@ -67804,8 +67804,8 @@ the
 council, high council, Sanhedrin
 a Pharisee
 name
-0
-0
+
+
 valuable, precious
 all, every
 the
@@ -67823,7 +67823,7 @@ he, she, it; himself, herself, itself; even, very; same
 man
 an Israelite
 I pay attention
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 human being, person
@@ -67837,17 +67837,17 @@ this
 the
 day
 I raise, rise, stand up
-0
+
 I say, tell
 I am
 anyone, anything; someone, something
-0
+
 who, which, what
-0
+
 man
 number
 as, like, so
-0
+
 who, which, what
 I take away, destroy
 and, also, likewise
@@ -67855,7 +67855,7 @@ all, every
 as great, how great; as far, how far
 I convince, persuade; I trust in
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I am, become, happen
 into, in
@@ -67863,14 +67863,14 @@ no one, nothing
 (with gen.) with; (with acc.) after, behind
 this
 I raise, rise, stand up
-0
+
 the
 Galilean
 (with dat.) in
 the
 day
 the
-0
+
 and, also, likewise
 I go away
 people
@@ -67922,7 +67922,7 @@ he, she, it; himself, herself, itself; even, very; same
 not
 when?
 and, also, likewise
-0
+
 I find, discover
 I convince, persuade; I trust in
 but, and (frequently untranslated)
@@ -67952,7 +67952,7 @@ face
 the
 council, high council, Sanhedrin
 that, because, since
-0
+
 (with gen.) on behalf of; (with acc.) above
 the
 name
@@ -67962,7 +67962,7 @@ and
 day
 (with dat.) in
 the
-0
+
 and, also, likewise
 (with gen.) down, against; (with acc.) according to, along
 house, dwelling
@@ -67983,19 +67983,19 @@ I increase, multiply
 the
 learner, disciple
 I am, become, happen
-0
+
 the
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 that, because, since
-0
+
 (with dat.) in
 the
 service
 the
-0
+
 the
 widow
 he, she, it; himself, herself, itself; even, very; same
@@ -68009,7 +68009,7 @@ the
 learner, disciple
 I say, tell
 no, not
-0
+
 I am
 I
 I leave behind
@@ -68057,7 +68057,7 @@ the
 crowd, multitude
 and, also, likewise
 I choose, select
-0
+
 man
 full, complete
 faith, trust
@@ -68067,17 +68067,17 @@ holy
 and, also, likewise
 Philip
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
-0
-0
+
+
+
 who, which, what
 I place, set, stand
 before
@@ -68104,7 +68104,7 @@ learner, disciple
 (with dat.) in
 Jerusalem
 very (much)
-0
+
 and
 multitude
 the
@@ -68112,7 +68112,7 @@ priest
 I obey
 the
 faith, trust
-0
+
 but, and (frequently untranslated)
 full, complete
 grace, favor
@@ -68135,11 +68135,11 @@ the
 synagogue
 the
 I say, tell
-0
+
 and, also, likewise
 a Cyrenian
 and, also, likewise
-0
+
 and, also, likewise
 the
 (with gen.) from, away from
@@ -68148,7 +68148,7 @@ and, also, likewise
 Asia
 I discuss, dispute
 the
-0
+
 and, also, likewise
 no, not
 I am strong, powerful
@@ -68161,7 +68161,7 @@ breath, spirit
 who, which, what
 I speak
 then
-0
+
 man
 I say, tell
 that, because, since
@@ -68169,13 +68169,13 @@ I hear
 he, she, it; himself, herself, itself; even, very; same
 I speak
 word, saying; thing, matter
-0
+
 into, in
 Moses
 and, also, likewise
 the
 God, god
-0
+
 and
 the
 people
@@ -68187,7 +68187,7 @@ the
 scribe
 and, also, likewise
 I stand by, approach, appear
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I lead
@@ -68197,7 +68197,7 @@ council, high council, Sanhedrin
 I place, set, stand
 and
 witness
-0
+
 I say, tell
 the
 human being, person
@@ -68280,13 +68280,13 @@ Abraham
 I am
 (with dat.) in
 the
-0
+
 before
 or, either
 I live, dwell in
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
+
 and, also, likewise
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
@@ -68298,7 +68298,7 @@ earth
 you
 and, also, likewise
 the
-0
+
 you
 and, also, likewise
 come, come here
@@ -68313,10 +68313,10 @@ then
 I go out, come out
 from, out of
 earth
-0
+
 I live, dwell in
 (with dat.) in
-0
+
 and from there
 (with gen.) with; (with acc.) after, behind
 the
@@ -68324,7 +68324,7 @@ I die
 the
 father
 he, she, it; himself, herself, itself; even, very; same
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
@@ -68350,11 +68350,11 @@ I promise
 I give
 he, she, it; himself, herself, itself; even, very; same
 into, in
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
@@ -68370,9 +68370,9 @@ God, god
 that, because, since
 I am
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 earth
 belonging to another, strange
@@ -68382,7 +68382,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I harm, mistreat
 year
-0
+
 and, also, likewise
 the
 nation, the Gentiles
@@ -68430,10 +68430,10 @@ and, also, likewise
 Jacob
 the
 twelve
-0
+
 and, also, likewise
 the
-0
+
 I am zealous, jealous
 the
 Joseph
@@ -68483,14 +68483,14 @@ whole, complete
 the
 Egypt
 and, also, likewise
-0
+
 and, also, likewise
 affliction, tribulation
 large, great
 and, also, likewise
 no, not
 I find, discover
-0
+
 the
 father
 I
@@ -68498,14 +68498,14 @@ I hear
 but, and (frequently untranslated)
 Jacob
 I am
-0
+
 into, in
 Egypt
 I send forth
 the
 father
 I
-0
+
 and, also, likewise
 (with dat.) in
 the
@@ -68526,7 +68526,7 @@ Joseph
 I send away, send out
 but, and (frequently untranslated)
 Joseph
-0
+
 Jacob
 the
 father
@@ -68534,10 +68534,10 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 all, every
 the
-0
+
 (with dat.) in
 soul
-0
+
 five
 and, also, likewise
 I come down, go down
@@ -68554,23 +68554,23 @@ I
 and, also, likewise
 I remove, change
 into, in
-0
+
 and, also, likewise
 I put, place
 (with dat.) in
 the
 grave, tomb
 who, which, what
-0
+
 Abraham
 price, value, honor
 silver
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 son
-0
+
 (with dat.) in
-0
+
 as, just as
 but, and (frequently untranslated)
 I come near
@@ -68604,7 +68604,7 @@ I know
 the
 Joseph
 this
-0
+
 the
 race, stock
 I
@@ -68615,12 +68615,12 @@ the
 I do, make
 the
 baby
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
 not
-0
+
 (with dat.) in
 who, which, what
 time, right time
@@ -68628,11 +68628,11 @@ I beget
 Moses
 and, also, likewise
 I am
-0
+
 the
 God, god
 who, which, what
-0
+
 month
 three
 (with dat.) in
@@ -68640,7 +68640,7 @@ the
 house, dwelling
 the
 father
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 I take away, destroy
@@ -68649,9 +68649,9 @@ the
 daughter
 Pharaoh
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 into, in
 son
 and, also, likewise
@@ -68672,7 +68672,7 @@ as, like, so
 but, and (frequently untranslated)
 I fill, make full, finish
 he, she, it; himself, herself, itself; even, very; same
-0
+
 time
 I go up, embark
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -68690,12 +68690,12 @@ and, also, likewise
 I see
 anyone, anything; someone, something
 I do wrong, treat unjustly
-0
+
 and, also, likewise
 I do, make
 vengeance, punishment
 the
-0
+
 I strike
 the
 Egyptian
@@ -68723,9 +68723,9 @@ I come after
 day
 I see
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 peace
@@ -68750,7 +68750,7 @@ you
 I set, constitute
 ruler, lord, authority
 and, also, likewise
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 I
 not
@@ -68761,7 +68761,7 @@ I wish, will
 who, which, what
 manner, kind
 I take away, destroy
-0
+
 the
 Egyptian
 I flee
@@ -68773,10 +68773,10 @@ word, Word
 this
 and, also, likewise
 I am, become, happen
-0
+
 (with dat.) in
 earth
-0
+
 where, whither
 I beget
 son
@@ -68792,7 +68792,7 @@ the
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
 the
 mountain, hill
-0
+
 angel, messenger
 (with dat.) in
 flame
@@ -68825,7 +68825,7 @@ and, also, likewise
 Issac
 and, also, likewise
 Jacob
-0
+
 but, and (frequently untranslated)
 I am, become, happen
 Moses
@@ -68855,7 +68855,7 @@ I am
 I see
 I see
 the
-0
+
 the
 people
 I
@@ -68864,7 +68864,7 @@ the
 Egypt
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I hear
 and, also, likewise
@@ -68889,14 +68889,14 @@ you
 I set, constitute
 ruler, lord, authority
 and, also, likewise
-0
+
 this
 the
 God, god
 and, also, likewise
 ruler, lord, authority
 and, also, likewise
-0
+
 I send away, send out
 (with dat.) with
 hand
@@ -68919,7 +68919,7 @@ earth
 Egypt
 and, also, likewise
 (with dat.) in
-0
+
 sea
 and, also, likewise
 (with dat.) in
@@ -68966,21 +68966,21 @@ he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
 mountain, hill
-0
+
 and, also, likewise
 the
 father
 I
 who, which, what
 I take, receive
-0
+
 I live
 I give
 you
 who, which, what
 no, not
 I wish, will
-0
+
 I am, become, happen
 the
 father
@@ -69002,7 +69002,7 @@ I do, make
 I
 God, god
 who, which, what
-0
+
 I
 the
 for
@@ -69020,7 +69020,7 @@ who? which one? what?
 I am, become, happen
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 (with dat.) in
 the
 day
@@ -69047,7 +69047,7 @@ I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
 I serve
 the
-0
+
 the
 heaven
 as, just as
@@ -69057,7 +69057,7 @@ book
 the
 prophet
 not
-0
+
 and, also, likewise
 sacrifice, offering
 I bring to, offer
@@ -69074,13 +69074,13 @@ I take up
 the
 tent, dwelling, tabernacle
 the
-0
+
 and, also, likewise
 the
-0
+
 the
 God, god
-0
+
 the
 image, copy
 who, which, what
@@ -69088,9 +69088,9 @@ I do, make
 I worship
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 you
-0
+
 Babylon
 the
 tent, dwelling, tabernacle
@@ -69119,7 +69119,7 @@ I see
 who, which, what
 and, also, likewise
 I lead in
-0
+
 the
 father
 I
@@ -69127,11 +69127,11 @@ I
 Jesus, Joshua
 (with dat.) in
 the
-0
+
 the
 nation, the Gentiles
 who, which, what
-0
+
 the
 God, god
 (with gen.) from, away from
@@ -69152,7 +69152,7 @@ God, god
 and, also, likewise
 I ask, ask for
 I find, discover
-0
+
 the
 house, dwelling
 Jacob
@@ -69202,9 +69202,9 @@ I
 I do, make
 this
 all, every
-0
+
 and, also, likewise
-0
+
 heart
 and, also, likewise
 the
@@ -69215,7 +69215,7 @@ the
 breath, spirit
 the
 holy
-0
+
 as, like, so
 the
 father
@@ -69233,25 +69233,25 @@ you
 and, also, likewise
 I kill
 the
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 the
 righteous, just
 who, which, what
 now
 you
-0
+
 and, also, likewise
 murderer
 I am, become, happen
-0
+
 I take, receive
 the
 law
 into, in
-0
+
 angel, messenger
 and, also, likewise
 no, not
@@ -69259,12 +69259,12 @@ I watch, guard
 I hear
 but, and (frequently untranslated)
 this
-0
+
 the
 heart
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 tooth
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -69334,13 +69334,13 @@ he, she, it; himself, herself, itself; even, very; same
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 foot
-0
+
 I call
 Saul
 and, also, likewise
 I stone
 the
-0
+
 I name; (mid.) I call upon
 and, also, likewise
 I say, tell
@@ -69373,7 +69373,7 @@ but, and (frequently untranslated)
 I am
 I agree with, approve of
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am, become, happen
 but, and (frequently untranslated)
@@ -69391,7 +69391,7 @@ the
 Jerusalem
 all, every
 but, and (frequently untranslated)
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
 country, land
@@ -69402,21 +69402,21 @@ Samaria
 but, except
 the
 apostle
-0
+
 but, and (frequently untranslated)
 the
-0
+
 man
-0
+
 and, also, likewise
 I do, make
-0
+
 large, great
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 Saul
 but, and (frequently untranslated)
-0
+
 the
 church, congregation
 (with gen.) down, against; (with acc.) according to, along
@@ -69434,7 +69434,7 @@ watch, guard
 the
 indeed, on the one hand (but often untranslatable)
 therefore, then
-0
+
 I go through
 I preach the Good News
 the
@@ -69471,7 +69471,7 @@ the
 sign
 who, which, what
 I do, make
-0
+
 for
 the
 I have, hold
@@ -69481,7 +69481,7 @@ I call, shout
 sound, voice
 large, great
 I go out, come out
-0
+
 but, and (frequently untranslated)
 I am disabled
 and, also, likewise
@@ -69489,7 +69489,7 @@ lame
 I care for, heal
 I am, become, happen
 but, and (frequently untranslated)
-0
+
 joy
 (with dat.) in
 the
@@ -69500,11 +69500,11 @@ but, and (frequently untranslated)
 anyone, anything; someone, something
 name
 Simon
-0
+
 (with dat.) in
 the
 city
-0
+
 and, also, likewise
 I am amazed, astonished
 the
@@ -69514,7 +69514,7 @@ Samaria
 I say, tell
 I am
 anyone, anything; someone, something
-0
+
 large, great
 who, which, what
 I pay attention
@@ -69541,7 +69541,7 @@ the
 sufficient, large
 time
 the
-0
+
 I am amazed, astonished
 he, she, it; himself, herself, itself; even, very; same
 when
@@ -69605,7 +69605,7 @@ he, she, it; himself, herself, itself; even, very; same
 Peter
 and, also, likewise
 John
-0
+
 I come down, go down
 I pray
 (with gen.) about, concerning; (with acc.) around, near
@@ -69614,14 +69614,14 @@ he, she, it; himself, herself, itself; even, very; same
 I take, receive
 breath, spirit
 holy
-0
+
 for
 I am
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 no one, nothing
 he, she, it; himself, herself, itself; even, very; same
 I fall upon
-0
+
 but, and (frequently untranslated)
 I baptize
 I exist, am present
@@ -69648,7 +69648,7 @@ Simon
 that, because, since
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
 hand
 the
@@ -69713,7 +69713,7 @@ you
 no, not
 I am
 immediately
-0
+
 the
 God, god
 I repent, am converted
@@ -69728,20 +69728,20 @@ I ask
 the
 master, lord, the Lord
 if
-0
+
 I leave, let go, pardon
 you
 the
-0
+
 the
 heart
 you
 into, in
 for
-0
-0
+
+
 and, also, likewise
-0
+
 wrongdoing, unrighteousness
 I see
 you
@@ -69764,7 +69764,7 @@ I come, come upon
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 I
 who, which, what
-0
+
 the
 indeed, on the one hand (but often untranslatable)
 therefore, then
@@ -69778,7 +69778,7 @@ master, lord, the Lord
 I turn back, return
 into, in
 Jerusalem
-0
+
 and
 village
 the
@@ -69795,7 +69795,7 @@ I raise, rise, stand up
 and, also, likewise
 I go, proceed
 (with gen.) down, against; (with acc.) according to, along
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 way
@@ -69804,7 +69804,7 @@ I come down, go down
 (with gen.) from, away from
 Jerusalem
 into, in
-0
+
 this
 I am
 empty, deserted; (as a noun [ἡ]) the desert, wilderness
@@ -69814,18 +69814,18 @@ I go, proceed
 and, also, likewise
 I see
 man
-0
+
 eunuch
-0
-0
-0
-0
+
+
+
+
 who, which, what
 I am
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 all, every
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
 I come, go
@@ -69839,7 +69839,7 @@ and, also, likewise
 I sit, sit down
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I read
@@ -69856,9 +69856,9 @@ I go to, approach
 and, also, likewise
 I cling to, join
 the
-0
+
 this
-0
+
 but, and (frequently untranslated)
 the
 Philip
@@ -69870,7 +69870,7 @@ the
 prophet
 and, also, likewise
 I say, tell
-0
+
 (usually untranslatable particle, emphasizing the word it follows)
 I know
 who, which, what
@@ -69897,7 +69897,7 @@ I sit down, cause to sit down; stay (intrans.)
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 the
 writing
 who, which, what
@@ -69907,16 +69907,16 @@ this
 as, like, so
 sheep
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 I lead
 and, also, likewise
 as, like, so
-0
+
 before, in the sight of
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 in this manner, thus, so
 no, not
 I open
@@ -69925,7 +69925,7 @@ mouth
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
-0
+
 the
 judging, judgment
 he, she, it; himself, herself, itself; even, very; same
@@ -69959,7 +69959,7 @@ prophet
 I say, tell
 this
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 or, either
 (with gen.) about, concerning; (with acc.) around, near
 other, another, different
@@ -69972,7 +69972,7 @@ the
 mouth
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 (with gen.) from, away from
 the
 writing
@@ -70005,7 +70005,7 @@ and, also, likewise
 I command, urge
 I place, set, stand
 the
-0
+
 and, also, likewise
 I come down, go down
 both, all
@@ -70049,7 +70049,7 @@ Philip
 but, and (frequently untranslated)
 I find, discover
 into, in
-0
+
 and, also, likewise
 I go through
 I preach the Good News
@@ -70066,8 +70066,8 @@ the
 but, and (frequently untranslated)
 Saul
 yet, still
-0
-0
+
+
 and, also, likewise
 murder, killing
 into, in
@@ -70114,7 +70114,7 @@ Damascus
 suddenly, unexpectedly
 and
 he, she, it; himself, herself, itself; even, very; same
-0
+
 light
 from, out of
 the
@@ -70165,10 +70165,10 @@ the
 but, and (frequently untranslated)
 man
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I place, set, stand
-0
+
 I hear
 indeed, on the one hand (but often untranslatable)
 the
@@ -70189,7 +70189,7 @@ eye
 he, she, it; himself, herself, itself; even, very; same
 no one, nothing
 I see, look
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 I lead in
@@ -70203,7 +70203,7 @@ not
 I see, look
 and, also, likewise
 no, not
-0
+
 and not, nor; neither, nor
 I drink
 I am
@@ -70238,7 +70238,7 @@ I raise, rise, stand up
 I go, proceed
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 I call
 immediately
@@ -70246,10 +70246,10 @@ and, also, likewise
 I seek, look for, ask
 (with dat.) in
 household
-0
+
 Saul
 name
-0
+
 I see
 for
 I pray
@@ -70271,7 +70271,7 @@ Ananias
 master, lord, the Lord
 I hear
 (with gen.) from, away from
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 man
@@ -70374,13 +70374,13 @@ breath, spirit
 holy
 and, also, likewise
 immediately
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 the
 eye
 as, like, so
-0
+
 I look up, gain sight
 and
 and, also, likewise
@@ -70389,7 +70389,7 @@ I baptize
 and, also, likewise
 I take, receive
 food
-0
+
 I am, become, happen
 but, and (frequently untranslated)
 (with gen.) with; (with acc.) after, behind
@@ -70425,7 +70425,7 @@ no, not
 this
 I am
 the
-0
+
 into, in
 Jerusalem
 the
@@ -70450,7 +70450,7 @@ but, and (frequently untranslated)
 more, rather
 I strengthen; (pass.) I become strong
 and, also, likewise
-0
+
 Judean, Jewish
 the
 I live, dwell in
@@ -70467,7 +70467,7 @@ but, and (frequently untranslated)
 I fill, make full, finish
 day
 sufficient, large
-0
+
 the
 Judean, Jewish
 I take away, destroy
@@ -70477,7 +70477,7 @@ but, and (frequently untranslated)
 the
 Saul
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I watch, observe
 but, and (frequently untranslated)
@@ -70500,7 +70500,7 @@ night
 (with gen.) through; (with acc.) because of, for the sake of
 the
 (city) wall
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I let down
 (with dat.) in
@@ -70574,10 +70574,10 @@ and, also, likewise
 I discuss, dispute
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 the
 but, and (frequently untranslated)
-0
+
 I take away, destroy
 he, she, it; himself, herself, itself; even, very; same
 I know, understand
@@ -70592,7 +70592,7 @@ and, also, likewise
 I send forth
 he, she, it; himself, herself, itself; even, very; same
 into, in
-0
+
 the
 indeed, on the one hand (but often untranslatable)
 therefore, then
@@ -70634,14 +70634,14 @@ the
 holy
 the
 I live, dwell in
-0
+
 I find, discover
 but, and (frequently untranslated)
 there, to that place
 human being, person
 anyone, anything; someone, something
 name
-0
+
 from, out of
 year
 eight
@@ -70656,7 +70656,7 @@ I say, tell
 he, she, it; himself, herself, itself; even, very; same
 the
 Peter
-0
+
 I heal
 you
 Jesus, Joshua
@@ -70674,11 +70674,11 @@ he, she, it; himself, herself, itself; even, very; same
 all, every
 the
 I live, dwell in
-0
+
 and, also, likewise
 the
-0
-0
+
+
 I turn, turn around, turn back
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -70688,13 +70688,13 @@ Joppa
 but, and (frequently untranslated)
 anyone, anything; someone, something
 I am
-0
+
 name
-0
+
 who, which, what
 I explain, translate
 I say, tell
-0
+
 this
 I am
 full, complete
@@ -70717,11 +70717,11 @@ I wash, bathe
 but, and (frequently untranslated)
 I put, place
 (with dat.) in
-0
-0
+
+
 but, and (frequently untranslated)
 I am
-0
+
 the
 Joppa
 the
@@ -70739,7 +70739,7 @@ man
 he, she, it; himself, herself, itself; even, very; same
 I invite; I exhort; I comfort
 not
-0
+
 I go through
 until
 I
@@ -70753,7 +70753,7 @@ I come, am present
 I lead up
 into, in
 the
-0
+
 and, also, likewise
 I am present, stand by
 he, she, it; himself, herself, itself; even, very; same
@@ -70772,7 +70772,7 @@ I do, make
 he, she, it; himself, herself, itself; even, very; same
 I am
 the
-0
+
 I throw out, expel
 but, and (frequently untranslated)
 outside, out
@@ -70790,7 +70790,7 @@ I turn, turn around, turn back
 the
 body
 I say, tell
-0
+
 I raise, rise, stand up
 the
 but, and (frequently untranslated)
@@ -70802,7 +70802,7 @@ and, also, likewise
 I see
 the
 Peter
-0
+
 I give
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
@@ -70828,7 +70828,7 @@ the
 Joppa
 and, also, likewise
 I believe (in), trust
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 master, lord, the Lord
@@ -70842,7 +70842,7 @@ Joppa
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 anyone, anything; someone, something
 Simon
-0
+
 man
 but, and (frequently untranslated)
 anyone, anything; someone, something
@@ -70855,8 +70855,8 @@ from, out of
 cohort
 the
 I call
-0
-0
+
+
 and, also, likewise
 I fear
 the
@@ -70868,7 +70868,7 @@ house, dwelling
 he, she, it; himself, herself, itself; even, very; same
 I do, make
 alms
-0
+
 the
 people
 and, also, likewise
@@ -70880,7 +70880,7 @@ all, every
 I see
 (with dat.) in
 (a supernatural) vision
-0
+
 as, like
 (with gen.) about, concerning; (with acc.) around, near
 hour
@@ -70920,7 +70920,7 @@ alms
 you
 I go up, embark
 into, in
-0
+
 (adverb) in front, ahead; (prep., with gen.) in front of, before
 the
 God, god
@@ -70942,7 +70942,7 @@ I entertain; I surprise
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 anyone, anything; someone, something
 Simon
-0
+
 who, which, what
 I am
 household
@@ -70959,10 +70959,10 @@ he, she, it; himself, herself, itself; even, very; same
 I call
 two
 the
-0
+
 and, also, likewise
 soldier
-0
+
 the
 I hold fast to
 he, she, it; himself, herself, itself; even, very; same
@@ -70978,7 +70978,7 @@ Joppa
 the
 but, and (frequently untranslated)
 tomorrow
-0
+
 that
 and, also, likewise
 the
@@ -70995,11 +70995,11 @@ hour
 sixth
 I am, become, happen
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 I wish, will
 I taste; I come to know
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 I am, become, happen
@@ -71016,11 +71016,11 @@ I come down, go down
 vessel, jar
 anyone, anything; someone, something
 as, like, so
-0
+
 large, great
 four
 beginning; ruler, authority
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
@@ -71029,9 +71029,9 @@ who, which, what
 I exist, am present
 all, every
 the
-0
+
 and, also, likewise
-0
+
 the
 earth
 and, also, likewise
@@ -71047,16 +71047,16 @@ I raise, rise, stand up
 Peter
 I sacrifice
 and, also, likewise
-0
+
 the
 but, and (frequently untranslated)
 Peter
 I say, tell
-0
+
 master, lord, the Lord
 that, because, since
 never
-0
+
 all, every
 communal, common
 and, also, likewise
@@ -71091,8 +71091,8 @@ heaven
 as, like, so
 but, and (frequently untranslated)
 (with dat.) in
-0
-0
+
+
 the
 Peter
 who? which one? what?
@@ -71110,7 +71110,7 @@ I send away, send out
 (with gen.) by; (with acc.) under
 the
 Cornelius
-0
+
 the
 household
 the
@@ -71132,7 +71132,7 @@ I entertain; I surprise
 the
 but, and (frequently untranslated)
 Peter
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 (a supernatural) vision
@@ -71209,7 +71209,7 @@ I hear
 word, saying; thing, matter
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 you
-0
+
 therefore, then
 he, she, it; himself, herself, itself; even, very; same
 I entertain; I surprise
@@ -71279,13 +71279,13 @@ he, she, it; himself, herself, itself; even, very; same
 human being, person
 I am
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I enter
 and, also, likewise
 I find, discover
 I come with, go with, assemble
-0
+
 I say
 and
 (with dat.) near, at; (with acc.) to, toward
@@ -71293,14 +71293,14 @@ he, she, it; himself, herself, itself; even, very; same
 you
 I know, understand
 as, like, so
-0
+
 I am
 man
 Judean, Jewish
 I cling to, join
 or, either
 I go to, approach
-0
+
 and I, but I
 the
 God, god
@@ -71313,7 +71313,7 @@ I say, tell
 human being, person
 therefore, for this reason
 and, also, likewise
-0
+
 I come, go
 I send for
 I ask
@@ -71370,7 +71370,7 @@ therefore, then
 into, in
 Joppa
 and, also, likewise
-0
+
 Simon
 who, which, what
 I name; (mid.) I call upon
@@ -71380,7 +71380,7 @@ I entertain; I surprise
 (with dat.) in
 household
 Simon
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 sea
 at once, immediately
@@ -71421,7 +71421,7 @@ I seize, win
 that, because, since
 no, not
 I am
-0
+
 the
 God, god
 but, rather, yet
@@ -71462,7 +71462,7 @@ word, saying; thing, matter
 whole, complete
 the
 Judea
-0
+
 (with gen.) from, away from
 the
 Galilee
@@ -71487,12 +71487,12 @@ and, also, likewise
 power, strength
 who, which, what
 I go through
-0
+
 and, also, likewise
 I heal
 all, every
 the
-0
+
 (with gen.) by; (with acc.) under
 the
 the devil
@@ -71533,7 +71533,7 @@ day
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am, become, happen
 no, not
 all, every
@@ -71542,15 +71542,15 @@ people
 but, rather, yet
 witness
 the
-0
+
 (with gen.) by; (with acc.) under
 the
 God, god
 I
-0
+
 I eat with
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) with; (with acc.) after, behind
 the
@@ -71656,7 +71656,7 @@ the
 not
 I baptize
 this
-0
+
 the
 breath, spirit
 the
@@ -71723,10 +71723,10 @@ I have, hold
 and, also, likewise
 I eat with
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 Peter
-0
+
 he, she, it; himself, herself, itself; even, very; same
 in order, one after the other
 I say, tell
@@ -71745,11 +71745,11 @@ I come down, go down
 vessel, jar
 anyone, anything; someone, something
 as, like, so
-0
+
 large, great
 four
 beginning; ruler, authority
-0
+
 from, out of
 the
 heaven
@@ -71764,7 +71764,7 @@ I consider
 and, also, likewise
 I see
 the
-0
+
 the
 earth
 and, also, likewise
@@ -71772,7 +71772,7 @@ the
 animal
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
 bird
@@ -71788,10 +71788,10 @@ I raise, rise, stand up
 Peter
 I sacrifice
 and, also, likewise
-0
+
 I say, tell
 but, and (frequently untranslated)
-0
+
 master, lord, the Lord
 that, because, since
 communal, common
@@ -71824,7 +71824,7 @@ I am, become, happen
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 three times
 and, also, likewise
-0
+
 again
 all, every
 into, in
@@ -71912,7 +71912,7 @@ you
 (with dat.) in
 but, and (frequently untranslated)
 the
-0
+
 I
 I speak
 I fall upon
@@ -71994,17 +71994,17 @@ I give
 the
 indeed, on the one hand (but often untranslatable)
 therefore, then
-0
+
 (with gen.) from, away from
 the
 affliction, tribulation
 the
 I am, become, happen
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 I go through
 until
-0
+
 and, also, likewise
 Cyprus
 and, also, likewise
@@ -72015,7 +72015,7 @@ the
 word, Word
 if
 not
-0
+
 Judean, Jewish
 I am
 but, and (frequently untranslated)
@@ -72023,10 +72023,10 @@ anyone, anything; someone, something
 from, out of
 he, she, it; himself, herself, itself; even, very; same
 man
-0
+
 and, also, likewise
 a Cyrenian
-0
+
 I come, go
 into, in
 Antioch
@@ -72045,7 +72045,7 @@ hand
 master, lord, the Lord
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and
 number
 the
@@ -72113,8 +72113,8 @@ master, lord, the Lord
 I go out, come out
 but, and (frequently untranslated)
 into, in
-0
-0
+
+
 Saul
 and, also, likewise
 I find, discover
@@ -72137,12 +72137,12 @@ multitude
 sufficient, large
 I reveal; I bear a name
 and
-0
+
 (with dat.) in
 Antioch
 the
 learner, disciple
-0
+
 (with dat.) in
 this
 but, and (frequently untranslated)
@@ -72160,7 +72160,7 @@ one
 from, out of
 he, she, it; himself, herself, itself; even, very; same
 name
-0
+
 I make known, indicate
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -72173,15 +72173,15 @@ I am
 whole, complete
 the
 the inhabited world
-0
+
 I am, become, happen
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 the
 but, and (frequently untranslated)
 learner, disciple
 as, just as
-0
+
 anyone, anything; someone, something
 I determine, appoint
 each, every
@@ -72234,7 +72234,7 @@ sword
 I see
 but, and (frequently untranslated)
 that, because, since
-0
+
 I am
 the
 Judean, Jewish
@@ -72255,14 +72255,14 @@ into, in
 watch, guard
 I hand over, hand down, entrust
 four
-0
+
 soldier
 I watch, guard
 he, she, it; himself, herself, itself; even, very; same
 I wish, desire
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 I lead up
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -72278,7 +72278,7 @@ watch, guard
 prayer
 but, and (frequently untranslated)
 I am
-0
+
 I am, become, happen
 (with gen.) by; (with acc.) under
 the
@@ -72308,7 +72308,7 @@ soldier
 I bind, tie
 chain
 two
-0
+
 and
 (with gen.) before, in front of
 the
@@ -72326,7 +72326,7 @@ light
 I shine, shine out
 (with dat.) in
 the
-0
+
 I strike
 but, and (frequently untranslated)
 the
@@ -72353,11 +72353,11 @@ the
 angel, messenger
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
-0
+
 the
-0
+
 you
 I do, make
 but, and (frequently untranslated)
@@ -72379,7 +72379,7 @@ and, also, likewise
 no, not
 I know
 that, because, since
-TRUE
+True
 I am
 the
 I am, become, happen
@@ -72392,7 +72392,7 @@ but, and (frequently untranslated)
 I see, look
 I go through
 but, and (frequently untranslated)
-0
+
 watch, guard
 and, also, likewise
 second
@@ -72407,14 +72407,14 @@ I bear, carry
 into, in
 the
 city
-0
-0
+
+
 I open
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I go out, come out
 I go forward, go before
-0
+
 one
 and, also, likewise
 immediately
@@ -72427,7 +72427,7 @@ and, also, likewise
 the
 Peter
 (with dat.) in
-0
+
 I am, become, happen
 I say, tell
 now
@@ -72449,12 +72449,12 @@ Herod
 and, also, likewise
 all, every
 the
-0
+
 the
 people
 the
 Judean, Jewish
-0
+
 and
 I come, go
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -72471,7 +72471,7 @@ Mark
 where, whither
 I am
 sufficient, large
-0
+
 and, also, likewise
 I pray
 I knock
@@ -72485,7 +72485,7 @@ I go to, approach
 female slave
 I obey
 name
-0
+
 and, also, likewise
 I know, understand
 the
@@ -72499,7 +72499,7 @@ no, not
 I open
 the
 gate, gateway
-0
+
 but, and (frequently untranslated)
 I report, proclaim
 I place, set, stand
@@ -72516,7 +72516,7 @@ I say, tell
 I am mad
 the
 but, and (frequently untranslated)
-0
+
 in this manner, thus, so
 I have, hold
 the
@@ -72537,7 +72537,7 @@ I see
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I am amazed, astonished
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -72571,14 +72571,14 @@ I am, become, happen
 but, and (frequently untranslated)
 day
 I am
-0
+
 no, not
 few, little
 (with dat.) in
 the
 soldier
 who? which one? what?
-0
+
 the
 Peter
 I am, become, happen
@@ -72591,9 +72591,9 @@ not
 I find, discover
 I question, examine
 the
-0
+
 I command, urge
-0
+
 and, also, likewise
 I come down
 (with gen.) from, away from
@@ -72604,10 +72604,10 @@ Caesarea
 I spend; I stay
 I am
 but, and (frequently untranslated)
-0
-0
+
+
 and, also, likewise
-0
+
 with one mind
 but, and (frequently untranslated)
 I am present
@@ -72615,11 +72615,11 @@ I am present
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I convince, persuade; I trust in
-0
+
 the
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 king
 I ask, ask for
@@ -72633,7 +72633,7 @@ country, land
 (with gen.) from, away from
 the
 royal
-0
+
 but, and (frequently untranslated)
 day
 the
@@ -72645,13 +72645,13 @@ I sit down, cause to sit down; stay (intrans.)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 step, judge’s bench, platform
-0
+
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
-0
+
+
 God, god
 sound, voice
 and, also, likewise
@@ -72673,8 +72673,8 @@ the
 God, god
 and, also, likewise
 I am, become, happen
-0
-0
+
+
 the
 but, and (frequently untranslated)
 word, Word
@@ -72693,7 +72693,7 @@ Jerusalem
 I fill, make full, finish
 the
 service
-0
+
 John
 the
 I name; (mid.) I call upon
@@ -72716,20 +72716,20 @@ and, also, likewise
 Simeon
 the
 I call
-0
+
 and, also, likewise
-0
+
 the
 a Cyrenian
-0
+
 and
 Herod
 the
-0
-0
+
+
 and, also, likewise
 Saul
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -72767,23 +72767,23 @@ I set free, let go, send away
 he, she, it; himself, herself, itself; even, very; same
 indeed, on the one hand (but often untranslatable)
 therefore, then
-0
+
 (with gen.) by; (with acc.) under
 the
 holy
 breath, spirit
 I come down
 into, in
-0
+
 from there
 and
-0
+
 into, in
 Cyprus
 and, also, likewise
 I am, become, happen
 (with dat.) in
-0
+
 I proclaim
 the
 word, Word
@@ -72805,7 +72805,7 @@ whole, complete
 the
 island
 until
-0
+
 I find, discover
 man
 anyone, anything; someone, something
@@ -72814,16 +72814,16 @@ false prophet
 Judean, Jewish
 who, which, what
 name
-0
+
 who, which, what
 I am
 (with dat.) with
 the
 proconsul
-0
+
 Paul
 man
-0
+
 this
 I call, invite
 Barnabas
@@ -72838,7 +72838,7 @@ God, god
 I oppose, resist
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 Magus; magician
 in this manner, thus, so
@@ -72866,13 +72866,13 @@ I look intently, gaze
 into, in
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
-0
+
 full, complete
 all, every
 deceit
 and, also, likewise
 all, every
-0
+
 son
 the devil
 hostile; (as a noun) enemy
@@ -72908,13 +72908,13 @@ but, and (frequently untranslated)
 I fall
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 darkness
 and, also, likewise
 I lead around, go around
 I seek, look for, ask
-0
+
 then
 I see
 the
@@ -72932,18 +72932,18 @@ I lead up
 but, and (frequently untranslated)
 (with gen.) from, away from
 the
-0
+
 the
 (with gen.) about, concerning; (with acc.) around, near
 Paul
 I come, go
 into, in
-0
+
 the
 Pamphylia
 John
 but, and (frequently untranslated)
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 I turn back, return
@@ -72954,12 +72954,12 @@ but, and (frequently untranslated)
 I go through
 (with gen.) from, away from
 the
-0
+
 I come, am present
 into, in
 Antioch
 the
-0
+
 and, also, likewise
 I come, go
 into, in
@@ -72973,7 +72973,7 @@ I sit down, cause to sit down; stay (intrans.)
 (with gen.) with; (with acc.) after, behind
 but, and (frequently untranslated)
 the
-0
+
 the
 law
 and, also, likewise
@@ -73002,7 +73002,7 @@ I raise, rise, stand up
 but, and (frequently untranslated)
 Paul
 and, also, likewise
-0
+
 the
 hand
 I say, tell
@@ -73030,13 +73030,13 @@ people
 I lift up
 (with dat.) in
 the
-0
+
 (with dat.) in
 earth
 Egypt
 and, also, likewise
 (with gen.) with; (with acc.) after, behind
-0
+
 high
 I lead out
 he, she, it; himself, herself, itself; even, very; same
@@ -73044,9 +73044,9 @@ from, out of
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 as, like, so
-0
+
 time
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
@@ -73057,14 +73057,14 @@ nation, the Gentiles
 seven
 (with dat.) in
 earth
-0
-0
+
+
 the
 earth
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
 year
-0
+
 and, also, likewise
 fifty
 and, also, likewise
@@ -73073,7 +73073,7 @@ this
 I give
 judge
 until
-0
+
 prophet
 and from there
 I ask, ask for
@@ -73086,11 +73086,11 @@ God, god
 the
 Saul
 son
-0
+
 man
 from, out of
 tribe, nation
-0
+
 year
 forty
 and, also, likewise
@@ -73127,7 +73127,7 @@ the
 God, god
 (with gen.) from, away from
 the
-0
+
 (with gen.) down, against; (with acc.) according to, along
 promise
 I lead
@@ -73135,7 +73135,7 @@ the
 Israel
 savior, deliverer
 Jesus, Joshua
-0
+
 John
 (with gen.) before, in front of
 face
@@ -73153,11 +73153,11 @@ but, and (frequently untranslated)
 I fill, make full, finish
 John
 the
-0
+
 I say, tell
 who? which one? what?
 I
-0
+
 I am
 no, not
 I am
@@ -73253,16 +73253,16 @@ who, which, what
 I see
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 day
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 the
 Galilee
 into, in
 Jerusalem
-0
+
 now
 I am
 witness
@@ -73284,7 +73284,7 @@ that, because, since
 this
 the
 God, god
-0
+
 the
 child
 I
@@ -73318,7 +73318,7 @@ I turn back, return
 into, in
 destruction, corruption
 in this manner, thus, so
-0
+
 that, because, since
 I give
 you
@@ -73344,7 +73344,7 @@ indeed, on the one hand (but often untranslatable)
 for
 one’s own
 family, generation
-0
+
 the
 the
 God, god
@@ -73401,13 +73401,13 @@ therefore, then
 not
 I come, come upon
 the
-0
+
 (with dat.) in
 the
 prophet
 I see
 the
-0
+
 and, also, likewise
 I wonder, marvel
 and, also, likewise
@@ -73427,9 +73427,9 @@ not
 I believe (in), trust
 if
 anyone, anything; someone, something
-0
+
 you
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 I invite; I exhort; I comfort
@@ -73447,20 +73447,20 @@ but, and (frequently untranslated)
 the
 synagogue
 I follow
-0
+
 the
 Judean, Jewish
 and, also, likewise
 the
 I worship
-0
+
 the
 Paul
 and, also, likewise
 the
 Barnabas
-0
-0
+
+
 he, she, it; himself, herself, itself; even, very; same
 I convince, persuade; I trust in
 he, she, it; himself, herself, itself; even, very; same
@@ -73473,7 +73473,7 @@ the
 but, and (frequently untranslated)
 I come, go
 Sabbath, week
-0
+
 all, every
 the
 city
@@ -73509,7 +73509,7 @@ I say, tell
 you
 I am
 necessary
-0
+
 I speak
 the
 word, Word
@@ -73522,7 +73522,7 @@ and, also, likewise
 no, not
 worthy, fit
 I judge
-0
+
 the
 eternal
 life
@@ -73583,7 +73583,7 @@ country, land
 the
 but, and (frequently untranslated)
 Judean, Jewish
-0
+
 the
 I worship
 woman
@@ -73591,11 +73591,11 @@ the
 prominent, of high repute
 and, also, likewise
 the
-0
+
 the
 city
 and, also, likewise
-0
+
 persecution
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -73611,7 +73611,7 @@ region
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 the
 dust
 the
@@ -73652,13 +73652,13 @@ Judean, Jewish
 and
 and, also, likewise
 a Greek
-0
+
 crowd, multitude
 the
 but, and (frequently untranslated)
 I disobey, am disobedient
 Judean, Jewish
-0
+
 and, also, likewise
 I harm, mistreat
 the
@@ -73715,7 +73715,7 @@ apostle
 as, like, so
 but, and (frequently untranslated)
 I am, become, happen
-0
+
 the
 nation, the Gentiles
 and
@@ -73729,16 +73729,16 @@ I treat arrogantly, insult
 and, also, likewise
 I stone
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 into, in
 the
 city
 the
-0
+
 Lystra
 and, also, likewise
-0
+
 and, also, likewise
 the
 neighboring; (as a noun) neighborhood
@@ -73785,9 +73785,9 @@ I raise, rise, stand up
 the
 foot
 you
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 I go about, walk around
 the
@@ -73801,7 +73801,7 @@ I lift up, hold up
 the
 sound, voice
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 the
 God, god
@@ -73814,11 +73814,11 @@ I call
 and
 the
 Barnabas
-0
+
 the
 but, and (frequently untranslated)
 Paul
-0
+
 since, because
 he, she, it; himself, herself, itself; even, very; same
 I am
@@ -73830,15 +73830,15 @@ the
 and
 priest
 the
-0
+
 the
 I am
 (with gen.) before, in front of
 the
 city
-0
+
 and, also, likewise
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 gate, gateway
@@ -73858,8 +73858,8 @@ Paul
 I tear, break
 the
 garment
-0
-0
+
+
 into, in
 the
 multitude
@@ -73872,7 +73872,7 @@ this
 I do, make
 and, also, likewise
 I
-0
+
 I am
 you
 human being, person
@@ -73904,7 +73904,7 @@ he, she, it; himself, herself, itself; even, very; same
 who, which, what
 (with dat.) in
 the
-0
+
 family, generation
 I permit; I let go, leave alone
 all, every
@@ -73914,23 +73914,23 @@ I go, proceed
 the
 way
 he, she, it; himself, herself, itself; even, very; same
-0
+
 no, not
-0
-0
+
+
 I leave, let go, pardon
-0
-0
+
+
 you
 rain
 I give
 and, also, likewise
 time, right time
-0
-0
+
+
 food
 and, also, likewise
-0
+
 the
 heart
 you
@@ -73938,7 +73938,7 @@ and, also, likewise
 this
 I say, tell
 with difficulty, scarcely
-0
+
 the
 multitude
 the
@@ -73967,7 +73967,7 @@ city
 I think, believe
 he, she, it; himself, herself, itself; even, very; same
 I die
-0
+
 but, and (frequently untranslated)
 the
 learner, disciple
@@ -73985,14 +73985,14 @@ I go out, come out
 the
 Barnabas
 into, in
-0
+
 I preach the Good News
 and
 the
 city
 that
 and, also, likewise
-0
+
 sufficient, large
 I turn back, return
 into, in
@@ -74004,19 +74004,19 @@ Iconium
 and, also, likewise
 into, in
 Antioch
-0
+
 the
 soul
 the
 learner, disciple
 I invite; I exhort; I comfort
-0
+
 the
 faith, trust
 and, also, likewise
 that, because, since
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 affliction, tribulation
 it is necessary, one must
 I
@@ -74026,7 +74026,7 @@ the
 kingdom, reign
 the
 God, god
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) down, against; (with acc.) according to, along
@@ -74045,7 +74045,7 @@ I believe (in), trust
 and, also, likewise
 I go through
 the
-0
+
 I come, go
 into, in
 the
@@ -74053,14 +74053,14 @@ Pamphylia
 and, also, likewise
 I speak
 (with dat.) in
-0
+
 the
 word, Word
 I come down, go down
 into, in
-0
+
 and from there
-0
+
 into, in
 Antioch
 from where
@@ -74168,12 +74168,12 @@ church, congregation
 I go through
 the
 and
-0
+
 and, also, likewise
 Samaria
-0
+
 the
-0
+
 the
 nation, the Gentiles
 and, also, likewise
@@ -74205,7 +74205,7 @@ God, god
 I do, make
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 anyone, anything; someone, something
 the
@@ -74238,7 +74238,7 @@ I see
 the
 word, Word
 this
-0
+
 but, and (frequently untranslated)
 investigation
 I am, become, happen
@@ -74275,7 +74275,7 @@ and, also, likewise
 I believe (in), trust
 and, also, likewise
 the
-0
+
 God, god
 I bear witness, testify
 he, she, it; himself, herself, itself; even, very; same
@@ -74374,7 +74374,7 @@ I
 Simeon
 I explain, interpret
 as, just as
-0
+
 the
 God, god
 I oversee, care for
@@ -74398,7 +74398,7 @@ I write
 this
 I act, live
 and, also, likewise
-0
+
 the
 tent, dwelling, tabernacle
 David
@@ -74406,17 +74406,17 @@ the
 I fall
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (adv.) how; (conj.) that, in order that
 (an untranslatable conditional particle)
 I search for
 the
-0
+
 the
 human being, person
 the
@@ -74444,7 +74444,7 @@ therefore, for this reason
 I
 I judge
 not
-0
+
 the
 (with gen.) from, away from
 the
@@ -74454,19 +74454,19 @@ I turn, turn around, turn back
 the
 God, god
 but, rather, yet
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 I receive; I am distant; I abstain
 the
-0
+
 the
 image, idol
 and, also, likewise
 the
 prostitution, unchastity
 and, also, likewise
-0
+
 and, also, likewise
 the
 blood
@@ -74511,10 +74511,10 @@ the
 Paul
 and, also, likewise
 Barnabas
-0
+
 the
 I call
-0
+
 and, also, likewise
 Silas
 man
@@ -74554,7 +74554,7 @@ I
 I trouble
 you
 word, Word
-0
+
 the
 soul
 you
@@ -74592,7 +74592,7 @@ Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I send away, send out
 therefore, then
-0
+
 and, also, likewise
 Silas
 and, also, likewise
@@ -74611,29 +74611,29 @@ holy
 and, also, likewise
 I
 no one, nothing
-0
+
 I put upon
 you
 weigh, burden
 but, except
 this
 the
-0
+
 I receive; I am distant; I abstain
 offered to an idol
 and, also, likewise
 blood
 and, also, likewise
-0
+
 and, also, likewise
 prostitution, unchastity
 from, out of
 who, which, what
-0
-0
+
+
 well
 I do, accomplish
-0
+
 the
 indeed, on the one hand (but often untranslatable)
 therefore, then
@@ -74654,7 +74654,7 @@ I rejoice, am glad
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 exhortation, comfort
-0
+
 and
 and, also, likewise
 Silas
@@ -74664,12 +74664,12 @@ prophet
 I am
 (with gen.) through; (with acc.) because of, for the sake of
 word, Word
-0
+
 I invite; I exhort; I comfort
 the
 brother
 and, also, likewise
-0
+
 I do, make
 but, and (frequently untranslated)
 time
@@ -74696,7 +74696,7 @@ I preach the Good News
 (with gen.) with; (with acc.) after, behind
 and, also, likewise
 other, another, different
-0
+
 the
 word, Word
 the
@@ -74729,7 +74729,7 @@ I have, hold
 Barnabas
 but, and (frequently untranslated)
 I wish, desire
-0
+
 and, also, likewise
 the
 John
@@ -74753,13 +74753,13 @@ into, in
 the
 work, deed
 not
-0
+
 this
 I am, become, happen
 but, and (frequently untranslated)
-0
+
 therefore, so that
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 each other, one another
@@ -74769,12 +74769,12 @@ Barnabas
 I take, take with
 the
 Mark
-0
+
 into, in
 Cyprus
 Paul
 but, and (frequently untranslated)
-0
+
 Silas
 I go out, come out
 I hand over, hand down, entrust
@@ -74791,14 +74791,14 @@ the
 Syria
 and, also, likewise
 Cilicia
-0
+
 the
 church, congregation
 I come to, approach
 but, and (frequently untranslated)
 and, also, likewise
 into, in
-0
+
 and, also, likewise
 into, in
 Lystra
@@ -74879,7 +74879,7 @@ the
 indeed, on the one hand (but often untranslatable)
 therefore, then
 church, congregation
-0
+
 the
 faith, trust
 and, also, likewise
@@ -74891,9 +74891,9 @@ day
 I go through
 but, and (frequently untranslated)
 the
-0
+
 and, also, likewise
-0
+
 country, land
 I hinder, forbid
 (with gen.) by; (with acc.) under
@@ -74910,11 +74910,11 @@ I come, go
 but, and (frequently untranslated)
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 I test, tempt
 into, in
 the
-0
+
 I go, proceed
 and, also, likewise
 no, not
@@ -74926,7 +74926,7 @@ Jesus, Joshua
 I go by, (pass.) I pass away
 but, and (frequently untranslated)
 the
-0
+
 I come down, go down
 into, in
 Troas
@@ -74947,7 +74947,7 @@ I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I say, tell
-0
+
 into, in
 Macedonia
 I aid, help
@@ -74974,9 +74974,9 @@ I lead up
 but, and (frequently untranslated)
 (with gen.) from, away from
 Troas
-0
+
 into, in
-0
+
 the
 but, and (frequently untranslated)
 I come after
@@ -74985,15 +74985,15 @@ new, young
 city
 and from there
 into, in
-0
-0
+
+
 I am
-0
+
 the
 part, share
 Macedonia
 city
-0
+
 I am
 but, and (frequently untranslated)
 (with dat.) in
@@ -75028,10 +75028,10 @@ and, also, likewise
 anyone, anything; someone, something
 woman
 name
-0
-0
+
+
 city
-0
+
 I worship
 the
 God, god
@@ -75070,7 +75070,7 @@ house, dwelling
 I
 I remain, stay
 and, also, likewise
-0
+
 I
 I am, become, happen
 but, and (frequently untranslated)
@@ -75083,19 +75083,19 @@ female slave
 anyone, anything; someone, something
 I have, hold
 breath, spirit
-0
+
 I meet, fight, oppose
 I
-0
+
 practice, trade
-0
+
 I give, cause
 the
 master, lord, the Lord
 he, she, it; himself, herself, itself; even, very; same
-0
+
 this
-0
+
 the
 Paul
 and, also, likewise
@@ -75111,7 +75111,7 @@ God, god
 the
 highest, most exalted
 I am
-0
+
 I proclaim
 you
 way
@@ -75120,9 +75120,9 @@ this
 but, and (frequently untranslated)
 I do, make
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 day
-0
+
 but, and (frequently untranslated)
 Paul
 and, also, likewise
@@ -75178,7 +75178,7 @@ I say, tell
 this
 the
 human being, person
-0
+
 I
 the
 city
@@ -75197,7 +75197,7 @@ I do, make
 Roman
 I am
 and, also, likewise
-0
+
 the
 multitude
 (with gen.) down, against; (with acc.) according to, along
@@ -75205,13 +75205,13 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
 praetor, captain
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 garment
 I command, urge
-0
-0
+
+
 but, and (frequently untranslated)
 I put upon
 he, she, it; himself, herself, itself; even, very; same
@@ -75221,8 +75221,8 @@ into, in
 watch, guard
 I command
 the
-0
-0
+
+
 I keep, observe
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
@@ -75233,12 +75233,12 @@ I throw, place
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
-0
+
 watch, guard
 and, also, likewise
 the
 foot
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
@@ -75246,20 +75246,20 @@ wood, tree; cross
 (with gen.) down, against; (with acc.) according to, along
 but, and (frequently untranslated)
 the
-0
+
 Paul
 and, also, likewise
 Silas
 I pray
-0
+
 the
 God, god
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 the
 prisoner
-0
+
 but, and (frequently untranslated)
 shaking, earthquake
 I am, become, happen
@@ -75269,7 +75269,7 @@ I shake
 the
 foundation
 the
-0
+
 I open
 but, and (frequently untranslated)
 immediately
@@ -75280,12 +75280,12 @@ and, also, likewise
 all, every
 the
 bond, fetter
-0
-0
+
+
 but, and (frequently untranslated)
 I am, become, happen
 the
-0
+
 and, also, likewise
 I see
 I open
@@ -75293,11 +75293,11 @@ the
 door
 the
 watch, guard
-0
+
 the
 sword
 I am about to, intend
-0
+
 I take away, destroy
 I think, believe
 I escape
@@ -75320,9 +75320,9 @@ here
 I ask, ask for
 but, and (frequently untranslated)
 light
-0
+
 and, also, likewise
-0
+
 I am, become, happen
 I fall down before, fall upon
 the
@@ -75401,7 +75401,7 @@ I place beside, place around
 table
 and, also, likewise
 I exult, am glad
-0
+
 I believe (in), trust
 the
 God, god
@@ -75412,7 +75412,7 @@ I send away, send out
 the
 praetor, captain
 the
-0
+
 I say, tell
 I set free, let go, send away
 the
@@ -75421,7 +75421,7 @@ that
 I report, proclaim
 but, and (frequently untranslated)
 the
-0
+
 the
 word, Word
 this
@@ -75448,8 +75448,8 @@ I say
 he, she, it; himself, herself, itself; even, very; same
 I beat
 I
-0
-0
+
+
 human being, person
 Roman
 I exist, am present
@@ -75458,7 +75458,7 @@ into, in
 watch, guard
 and, also, likewise
 now
-0
+
 I
 I throw out, expel
 no, not
@@ -75473,7 +75473,7 @@ but, and (frequently untranslated)
 the
 praetor, captain
 the
-0
+
 the
 word, saying; thing, matter
 this
@@ -75502,7 +75502,7 @@ watch, guard
 I enter
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 and, also, likewise
 I see
 I invite; I exhort; I comfort
@@ -75510,13 +75510,13 @@ the
 brother
 and, also, likewise
 I go out, come out
-0
+
 but, and (frequently untranslated)
 the
-0
+
 and, also, likewise
 the
-0
+
 I come, go
 into, in
 Thessalonica
@@ -75528,7 +75528,7 @@ Judean, Jewish
 (with gen.) down, against; (with acc.) according to, along
 but, and (frequently untranslated)
 the
-0
+
 the
 Paul
 I enter
@@ -75573,7 +75573,7 @@ from, out of
 he, she, it; himself, herself, itself; even, very; same
 I convince, persuade; I trust in
 and, also, likewise
-0
+
 the
 Paul
 and, also, likewise
@@ -75584,11 +75584,11 @@ and
 I worship
 a Greek
 crowd, multitude
-0
+
 woman
 and
 the
-0
+
 no, not
 few, little
 I am zealous, jealous
@@ -75598,13 +75598,13 @@ Judean, Jewish
 and, also, likewise
 I receive, accept
 the
-0
+
 man
 anyone, anything; someone, something
 wicked, bad
 and, also, likewise
-0
-0
+
+
 the
 city
 and, also, likewise
@@ -75617,7 +75617,7 @@ he, she, it; himself, herself, itself; even, very; same
 I lead forward, go before
 into, in
 the
-0
+
 not
 I find, discover
 but, and (frequently untranslated)
@@ -75629,19 +75629,19 @@ anyone, anything; someone, something
 brother
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 I call, shout
 that, because, since
 the
 the
 the inhabited world
-0
+
 this
 and, also, likewise
 here
 I am present
 who, which, what
-0
+
 Jason
 and, also, likewise
 this
@@ -75662,7 +75662,7 @@ the
 multitude
 and, also, likewise
 the
-0
+
 I hear
 this
 and, also, likewise
@@ -75674,7 +75674,7 @@ the
 Jason
 and, also, likewise
 the
-0
+
 I set free, let go, send away
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -75683,7 +75683,7 @@ brother
 immediately
 (with gen.) through; (with acc.) because of, for the sake of
 night
-0
+
 the
 and
 Paul
@@ -75691,23 +75691,23 @@ and, also, likewise
 the
 Silas
 into, in
-0
-0
+
+
 I come, am present
 into, in
 the
 synagogue
 the
 Judean, Jewish
-0
+
 this
 but, and (frequently untranslated)
 I am
-0
+
 the
 (with dat.) in
 Thessalonica
-0
+
 I take, receive
 the
 word, Word
@@ -75724,7 +75724,7 @@ if
 I have, hold
 this
 in this manner, thus, so
-0
+
 indeed, on the one hand (but often untranslatable)
 therefore, then
 from, out of
@@ -75732,7 +75732,7 @@ he, she, it; himself, herself, itself; even, very; same
 I believe (in), trust
 and, also, likewise
 the
-0
+
 woman
 the
 prominent, of high repute
@@ -75752,7 +75752,7 @@ that, because, since
 and, also, likewise
 (with dat.) in
 the
-0
+
 I proclaim
 (with gen.) by; (with acc.) under
 the
@@ -75797,7 +75797,7 @@ the
 Paul
 I lead
 until
-0
+
 and, also, likewise
 I take, receive
 commandment, order
@@ -75809,27 +75809,27 @@ the
 Timothy
 in order that, that
 as, like, so
-0
+
 I come, go
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 but, and (frequently untranslated)
 the
-0
+
 I expect
 he, she, it; himself, herself, itself; even, very; same
 the
 Paul
-0
+
 the
 breath, spirit
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 I see, perceive
-0
+
 I am
 the
 city
@@ -75853,15 +75853,15 @@ all, every
 day
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 anyone, anything; someone, something
 but, and (frequently untranslated)
 and, also, likewise
 the
-0
+
 and, also, likewise
-0
-0
+
+
 I meet, discuss; (mid.) I help
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -75871,7 +75871,7 @@ who? which one? what?
 (an untranslatable conditional particle)
 I wish, will
 the
-0
+
 this
 I say, tell
 the
@@ -75879,7 +75879,7 @@ but, and (frequently untranslated)
 strange, foreign
 demon, evil spirit
 I think, believe; I seem
-0
+
 I am
 that, because, since
 the
@@ -75893,8 +75893,8 @@ but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
-0
+
+
 I lead
 I say, tell
 I can
@@ -75923,17 +75923,17 @@ who? which one? what?
 I wish, will
 this
 I am
-0
+
 but, and (frequently untranslated)
 all, every
 and, also, likewise
 the
-0
+
 strange, foreign
 into, in
 no one, nothing
 other, another, different
-0
+
 or, either
 I say, tell
 anyone, anything; someone, something
@@ -75947,36 +75947,36 @@ Paul
 (with dat.) in
 middle, in the middle
 the
-0
-0
+
+
 I say
 man
-0
+
 (with gen.) down, against; (with acc.) according to, along
 all, every
 as, like, so
-0
+
 you
 I see, perceive
 I go through
 for
 and, also, likewise
-0
+
 the
-0
+
 you
 I find, discover
 and, also, likewise
-0
+
 (with dat.) in
 who, which, what
 I write on
-0
+
 God, god
 who, which, what
 therefore, then
 I do not know
-0
+
 this
 I
 I proclaim
@@ -76008,14 +76008,14 @@ and not, nor; neither, nor
 hand
 human
 I care for, heal
-0
+
 anyone, anything; someone, something
 he, she, it; himself, herself, itself; even, very; same
 I give
 all, every
 life
 and, also, likewise
-0
+
 and, also, likewise
 the
 all, every
@@ -76037,17 +76037,17 @@ I order
 time, right time
 and, also, likewise
 the
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I seek, look for, ask
 the
 God, god
 if
-0
+
 (usually untranslatable particle, emphasizing the word it follows)
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I find, discover
@@ -76075,7 +76075,7 @@ the
 (with gen.) down, against; (with acc.) according to, along
 you
 doer, maker
-0
+
 the
 for
 and, also, likewise
@@ -76095,12 +76095,12 @@ silver
 or, either
 stone
 mark, stamp
-0
+
 and, also, likewise
-0
+
 human being, person
 the
-0
+
 I am
 like, similar
 the
@@ -76108,8 +76108,8 @@ indeed, on the one hand (but often untranslatable)
 therefore, then
 time
 the
-0
-0
+
+
 the
 God, god
 the
@@ -76148,7 +76148,7 @@ resurrection
 dead
 the
 indeed, on the one hand (but often untranslatable)
-0
+
 the
 but, and (frequently untranslated)
 I say, tell
@@ -76174,13 +76174,13 @@ I believe (in), trust
 (with dat.) in
 who, which, what
 and, also, likewise
-0
+
 the
-0
+
 and, also, likewise
 woman
 name
-0
+
 and, also, likewise
 other, another, different
 (with dat.) with
@@ -76190,7 +76190,7 @@ this
 I divide, separate
 from, out of
 the
-0
+
 I come, go
 into, in
 Corinth
@@ -76200,22 +76200,22 @@ anyone, anything; someone, something
 Judean, Jewish
 name
 Aquila
-0
+
 the
 race, stock
-0
+
 I come, go
 (with gen.) from, away from
 the
-0
+
 and, also, likewise
-0
+
 woman
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 the
 I order, direct
-0
+
 I divide, separate
 all, every
 the
@@ -76228,7 +76228,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 I am
 I remain, stay
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -76237,9 +76237,9 @@ and, also, likewise
 I work, do, accomplish
 I am
 for
-0
+
 the
-0
+
 I discuss, speak
 but, and (frequently untranslated)
 (with dat.) in
@@ -76282,7 +76282,7 @@ but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I blaspheme
-0
+
 the
 garment
 I say, tell
@@ -76312,8 +76312,8 @@ into, in
 household
 anyone, anything; someone, something
 name
-0
-0
+
+
 I worship
 the
 God, god
@@ -76321,10 +76321,10 @@ who, which, what
 the
 household
 I am
-0
+
 the
 synagogue
-0
+
 but, and (frequently untranslated)
 the
 head of a synagogue
@@ -76337,9 +76337,9 @@ the
 house, dwelling
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
-0
+
 I hear
 I believe (in), trust
 and, also, likewise
@@ -76377,7 +76377,7 @@ because, therefore
 people
 I am
 I
-0
+
 (with dat.) in
 the
 city
@@ -76395,13 +76395,13 @@ the
 word, Word
 the
 God, god
-0
+
 but, and (frequently untranslated)
 proconsul
 I am
 the
 Achaia
-0
+
 with one mind
 the
 Judean, Jewish
@@ -76418,7 +76418,7 @@ that, because, since
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 law
-0
+
 this
 the
 human being, person
@@ -76434,19 +76434,19 @@ the
 mouth
 I say, tell
 the
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 Judean, Jewish
 if
 indeed, on the one hand (but often untranslatable)
 I am
-0
+
 anyone, anything; someone, something
 or, either
-0
+
 wicked, bad
-0
+
 Judean, Jewish
 (with gen.) down, against; (with acc.) according to, along
 word, Word
@@ -76475,7 +76475,7 @@ no, not
 I wish, desire
 I am
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 the
@@ -76483,7 +76483,7 @@ step, judge’s bench, platform
 I take hold of, catch
 but, and (frequently untranslated)
 all, every
-0
+
 the
 head of a synagogue
 I strike, beat
@@ -76494,7 +76494,7 @@ and, also, likewise
 no one, nothing
 this
 the
-0
+
 it is a care
 the
 but, and (frequently untranslated)
@@ -76506,31 +76506,31 @@ sufficient, large
 the
 brother
 I say farewell, leave
-0
+
 into, in
 the
 Syria
 and, also, likewise
 (with dat.) with
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 Aquila
-0
+
 (with dat.) in
-0
+
 the
 head
 I have, hold
 for
-0
+
 I come to, approach
 but, and (frequently untranslated)
 into, in
 Ephesus
 and that one, and he
 I leave behind
-0
+
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
 I enter
@@ -76544,17 +76544,17 @@ I ask, request
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 time
 I remain, stay
 no, not
-0
+
 but, rather, yet
 I say farewell, leave
 and, also, likewise
 I say, tell
 again
-0
+
 (with dat.) near, at; (with acc.) to, toward
 you
 the
@@ -76584,10 +76584,10 @@ I go out, come out
 I go through
 in order, one after the other
 the
-0
+
 country, land
 and, also, likewise
-0
+
 I establish, strengthen
 all, every
 the
@@ -76597,11 +76597,11 @@ but, and (frequently untranslated)
 anyone, anything; someone, something
 Apollos
 name
-0
+
 the
 race, stock
 man
-0
+
 I come to, approach
 into, in
 Ephesus
@@ -76618,7 +76618,7 @@ way
 the
 master, lord, the Lord
 and, also, likewise
-0
+
 the
 breath, spirit
 I speak
@@ -76630,13 +76630,13 @@ the
 the
 Jesus, Joshua
 I know, understand
-0
+
 the
 baptism
 John
 this
 and
-0
+
 I speak freely, openly
 (with dat.) in
 the
@@ -76644,7 +76644,7 @@ synagogue
 I hear
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 Aquila
 I receive, accept
@@ -76652,7 +76652,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 accurately, carefully
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 way
 the
@@ -76664,7 +76664,7 @@ I go through
 into, in
 the
 Achaia
-0
+
 the
 brother
 I write
@@ -76675,18 +76675,18 @@ he, she, it; himself, herself, itself; even, very; same
 who, which, what
 I come, am present
 I meet, discuss; (mid.) I help
-0
+
 the
 I believe (in), trust
 (with gen.) through; (with acc.) because of, for the sake of
 the
 grace, favor
-0
+
 for
 the
 Judean, Jewish
-0
-0
+
+
 I show, point out
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -76707,7 +76707,7 @@ Corinth
 Paul
 I go through
 the
-0
+
 part
 I come, go
 into, in
@@ -76828,7 +76828,7 @@ anyone, anything; someone, something
 I harden
 and, also, likewise
 I disobey, am disobedient
-0
+
 the
 way
 before
@@ -76845,8 +76845,8 @@ day
 I discuss, speak
 (with dat.) in
 the
-0
-0
+
+
 this
 but, and (frequently untranslated)
 I am, become, happen
@@ -76888,13 +76888,13 @@ I am weak, sick
 I carry away
 (with gen.) from, away from
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 or, either
-0
+
 and, also, likewise
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -76905,14 +76905,14 @@ breath, spirit
 the
 wicked, bad
 I go out
-0
+
 but, and (frequently untranslated)
 anyone, anything; someone, something
 and, also, likewise
 the
-0
+
 Judean, Jewish
-0
+
 I name
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -76927,7 +76927,7 @@ the
 master, lord, the Lord
 Jesus, Joshua
 I say, tell
-0
+
 you
 the
 Jesus, Joshua
@@ -76937,7 +76937,7 @@ I proclaim, preach
 I am
 but, and (frequently untranslated)
 anyone, anything; someone, something
-0
+
 Judean, Jewish
 high priest, chief priest
 seven
@@ -76964,7 +76964,7 @@ but, and (frequently untranslated)
 who? which one? what?
 I am
 and, also, likewise
-0
+
 the
 human being, person
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -76976,7 +76976,7 @@ the
 breath, spirit
 the
 wicked, bad
-0
+
 both, all
 I am strong, powerful
 (with gen.) down, against; (with acc.) according to, along
@@ -76984,7 +76984,7 @@ he, she, it; himself, herself, itself; even, very; same
 therefore, so that
 naked
 and, also, likewise
-0
+
 I escape
 from, out of
 the
@@ -77016,7 +77016,7 @@ name
 the
 master, lord, the Lord
 Jesus, Joshua
-0
+
 and
 the
 I believe (in), trust
@@ -77031,7 +77031,7 @@ sufficient, large
 but, and (frequently untranslated)
 the
 the
-0
+
 I do, accomplish
 I help, am profitable
 the
@@ -77040,7 +77040,7 @@ I burn down, consume
 before
 all, every
 and, also, likewise
-0
+
 the
 price, value, honor
 he, she, it; himself, herself, itself; even, very; same
@@ -77100,7 +77100,7 @@ I wait at table, serve
 he, she, it; himself, herself, itself; even, very; same
 Timothy
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I hold fast; I aim at
 time
@@ -77113,29 +77113,29 @@ but, and (frequently untranslated)
 the
 time, right time
 that
-0
+
 no, not
 few, little
 (with gen.) about, concerning; (with acc.) around, near
 the
 way
-0
+
 for
 anyone, anything; someone, something
 name
-0
+
 I do, make
 temple
-0
+
 Artemis
 I give, cause
 the
-0
+
 no, not
 few, little
 practice, trade
 who, which, what
-0
+
 and, also, likewise
 the
 (with gen.) about, concerning; (with acc.) around, near
@@ -77151,7 +77151,7 @@ this
 the
 practice, trade
 the
-0
+
 I
 I am
 and, also, likewise
@@ -77160,10 +77160,10 @@ and, also, likewise
 I hear
 that, because, since
 no, not
-0
+
 Ephesus
 but, rather, yet
-0
+
 all, every
 the
 Asia
@@ -77184,24 +77184,24 @@ the
 hand
 I am, become, happen
 no, not
-0
+
 but, and (frequently untranslated)
 this
-0
+
 I
 the
 part
 into, in
-0
+
 I come, go
 but, rather, yet
 and, also, likewise
 the
 the
 large, great
-0
+
 Artemis
-0
+
 into, in
 no one, nothing
 I reckon, think
@@ -77210,7 +77210,7 @@ and
 and, also, likewise
 I tear down, destroy
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
 whole, complete
@@ -77237,19 +77237,19 @@ I fill, fulfill
 the
 city
 the
-0
+
 I set out, rush
 and
 with one mind
 into, in
 the
-0
-0
+
+
 Gaius
 and, also, likewise
 Aristarchus
 a Macedonian
-0
+
 Paul
 Paul
 but, and (frequently untranslated)
@@ -77257,7 +77257,7 @@ I wish, desire
 I enter
 into, in
 the
-0
+
 no, not
 I permit; I let go, leave alone
 he, she, it; himself, herself, itself; even, very; same
@@ -77267,7 +77267,7 @@ anyone, anything; someone, something
 but, and (frequently untranslated)
 and, also, likewise
 the
-0
+
 I am
 he, she, it; himself, herself, itself; even, very; same
 beloved, loving; (as a noun) friend
@@ -77277,10 +77277,10 @@ he, she, it; himself, herself, itself; even, very; same
 I invite; I exhort; I comfort
 not
 I give
-0
+
 into, in
 the
-0
+
 another, other
 indeed, on the one hand (but often untranslatable)
 therefore, then
@@ -77291,10 +77291,10 @@ I am
 for
 the
 church, congregation
-0
+
 and, also, likewise
 the
-0
+
 no, not
 I know
 who? which one? what?
@@ -77306,20 +77306,20 @@ the
 multitude
 I unite; I conclude
 Alexander
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 Judean, Jewish
 the
 but, and (frequently untranslated)
 Alexander
-0
+
 the
 hand
 I wish, will
 I defend myself
 the
-0
+
 I know, understand
 but, and (frequently untranslated)
 that, because, since
@@ -77339,7 +77339,7 @@ large, great
 the
 Artemis
 Ephesian
-0
+
 but, and (frequently untranslated)
 the
 scribe
@@ -77358,26 +77358,26 @@ I know
 the
 Ephesian
 city
-0
+
 I am
 the
 large, great
 Artemis
 and, also, likewise
 the
-0
-0
+
+
 therefore, then
 I am
 this
 it is necessary, one must
 I am
 you
-0
+
 I exist, am present
 and, also, likewise
 no one, nothing
-0
+
 I do, accomplish
 I lead
 for
@@ -77385,7 +77385,7 @@ the
 man
 this
 neither, nor
-0
+
 neither, nor
 I blaspheme
 the
@@ -77394,17 +77394,17 @@ I
 if
 indeed, on the one hand (but often untranslatable)
 therefore, then
-0
+
 and, also, likewise
 the
 (with dat.) with
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I have, hold
 (with dat.) near, at; (with acc.) to, toward
 anyone, anything; someone, something
 word, Word
-0
+
 I lead
 and, also, likewise
 proconsul
@@ -77414,16 +77414,16 @@ each other, one another
 if
 but, and (frequently untranslated)
 anyone, anything; someone, something
-0
+
 I search for, strive for
 (with dat.) in
 the
-0
+
 church, congregation
-0
+
 and, also, likewise
 for
-0
+
 I accuse, charge
 uprising, revolt
 (with gen.) about, concerning; (with acc.) around, near
@@ -77440,7 +77440,7 @@ I give away, give up; I render
 word, Word
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 this
 and, also, likewise
 this
@@ -77475,17 +77475,17 @@ and, also, likewise
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
 word, Word
-0
+
 I come, go
 into, in
 the
-0
+
 I do, make
 and
 month
 three
 I am, become, happen
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) by; (with acc.) under
 the
@@ -77501,27 +77501,27 @@ the
 I turn back, return
 (with gen.) through; (with acc.) because of, for the sake of
 Macedonia
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
-0
-0
-0
+
+
+
+
 but, and (frequently untranslated)
 Aristarchus
 and, also, likewise
-0
+
 and, also, likewise
 Gaius
-0
+
 and, also, likewise
 Timothy
-0
+
 but, and (frequently untranslated)
 Tychicus
 and, also, likewise
-0
+
 this
 but, and (frequently untranslated)
 I go forward, go before
@@ -77531,14 +77531,14 @@ I
 Troas
 I
 but, and (frequently untranslated)
-0
+
 (with gen.) with; (with acc.) after, behind
 the
 day
 the
 unleavened
 (with gen.) from, away from
-0
+
 and, also, likewise
 I come, go
 (with dat.) near, at; (with acc.) to, toward
@@ -77568,50 +77568,50 @@ Paul
 I discuss, speak
 he, she, it; himself, herself, itself; even, very; same
 I am about to, intend
-0
+
 the
 tomorrow
-0
+
 and
 the
 word, Word
 until
-0
+
 I am
 but, and (frequently untranslated)
 torch, lamp
 sufficient, large
 (with dat.) in
 the
-0
+
 where, whither
 I am
 I gather together
 I sit
 but, and (frequently untranslated)
 anyone, anything; someone, something
-0
+
 name
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
-0
+
+
 sleep
-0
+
 I discuss, speak
 the
 Paul
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
-0
+
+
 (with gen.) from, away from
 the
 sleep
 I fall
 (with gen.) from, away from
 the
-0
+
 below, downward
 and, also, likewise
 I lift up; I take away
@@ -77623,10 +77623,10 @@ Paul
 I fall upon
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 I say, tell
 not
-0
+
 the
 for
 soul
@@ -77645,9 +77645,9 @@ I taste; I come to know
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 sufficient, large
 and
-0
+
 until
-0
+
 in this manner, thus, so
 I go out, come out
 I lead
@@ -77658,7 +77658,7 @@ I live
 and, also, likewise
 I invite; I exhort; I comfort
 no, not
-0
+
 I
 but, and (frequently untranslated)
 I go forward, go before
@@ -77668,7 +77668,7 @@ boat, ship
 I lead up
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 from there
 I am about to, intend
 I take up
@@ -77680,50 +77680,50 @@ I order, direct
 I am
 I am about to, intend
 he, she, it; himself, herself, itself; even, very; same
-0
+
 as, like, so
 but, and (frequently untranslated)
 I meet, discuss; (mid.) I help
 I
 into, in
 the
-0
+
 I take up
 he, she, it; himself, herself, itself; even, very; same
 I come, go
 into, in
-0
+
 and from there
-0
+
 the
 I come after
 I come to, approach
-0
-0
+
+
 the
 but, and (frequently untranslated)
 other, another, different
-0
+
 into, in
-0
+
 the
 but, and (frequently untranslated)
 I have, hold
 I come, go
 into, in
-0
+
 I judge
 for
 the
 Paul
-0
+
 the
 Ephesus
 (adv.) how; (conj.) that, in order that
 not
 I am, become, happen
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 the
 Asia
@@ -77736,18 +77736,18 @@ he, she, it; himself, herself, itself; even, very; same
 the
 day
 the
-0
+
 I am, become, happen
 into, in
 Jerusalem
 (with gen.) from, away from
 but, and (frequently untranslated)
 the
-0
+
 I send
 into, in
 Ephesus
-0
+
 the
 old; (as a noun) elder
 the
@@ -77762,7 +77762,7 @@ he, she, it; himself, herself, itself; even, very; same
 you
 I know, understand
 (with gen.) from, away from
-0
+
 day
 (with gen.) from, away from
 who, which, what
@@ -77792,12 +77792,12 @@ I happen, come about
 I
 (with dat.) in
 the
-0
+
 the
 Judean, Jewish
 as, like, so
 no one, nothing
-0
+
 the
 I help, am profitable
 the
@@ -77807,7 +77807,7 @@ you
 and, also, likewise
 I teach
 you
-0
+
 and, also, likewise
 (with gen.) down, against; (with acc.) according to, along
 house, dwelling
@@ -77872,7 +77872,7 @@ myself
 as, like, so
 I complete, perfect
 the
-0
+
 I
 and, also, likewise
 the
@@ -77925,7 +77925,7 @@ blood
 all, every
 no, not
 for
-0
+
 the
 not
 I announce, proclaim
@@ -77936,7 +77936,7 @@ the
 God, god
 you
 I pay attention
-0
+
 and, also, likewise
 all, every
 the
@@ -77956,7 +77956,7 @@ church, congregation
 the
 God, god
 who, which, what
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 blood
@@ -77968,7 +77968,7 @@ that, because, since
 I enter
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 I
 wolf
 heavy
@@ -77987,16 +77987,16 @@ man
 I speak
 I make crooked, pervert
 the
-0
+
 the
 learner, disciple
 behind, back
-0
+
 therefore, for this reason
 I watch
 I remember, mention
 that, because, since
-0
+
 night
 and, also, likewise
 day
@@ -78049,7 +78049,7 @@ the
 I am
 (with gen.) with; (with acc.) after, behind
 I
-0
+
 the
 hand
 this
@@ -78060,7 +78060,7 @@ that, because, since
 in this manner, thus, so
 I work
 it is necessary, one must
-0
+
 the
 I am weak, sick
 I remember, mention
@@ -78104,13 +78104,13 @@ the
 Paul
 I kiss
 he, she, it; himself, herself, itself; even, very; same
-0
+
 most of all, especially
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 word, Word
 who, which, what
-0
+
 that, because, since
 no more, no longer
 I am about to, intend
@@ -78129,32 +78129,32 @@ but, and (frequently untranslated)
 I am, become, happen
 I lead up
 I
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I come, go
 into, in
 the
-0
+
 the
 but, and (frequently untranslated)
 on the next day
 into, in
 the
-0
+
 and from there
 into, in
-0
+
 and, also, likewise
 I find, discover
 boat, ship
 I cross over
 into, in
-0
+
 I go up, upon
 I lead up
-0
+
 but, and (frequently untranslated)
 the
 Cyprus
@@ -78169,23 +78169,23 @@ and, also, likewise
 I come down
 into, in
 Tyre
-0
+
 for
 the
 boat, ship
 I am
-0
+
 the
-0
-0
+
+
 but, and (frequently untranslated)
 the
 learner, disciple
 I remain, stay
-0
+
 day
 seven
-0
+
 the
 Paul
 I say, tell
@@ -78199,7 +78199,7 @@ Jerusalem
 when
 but, and (frequently untranslated)
 I am, become, happen
-0
+
 I
 the
 day
@@ -78224,7 +78224,7 @@ knee
 the
 shore
 I pray
-0
+
 each other, one another
 and, also, likewise
 I go in, embark
@@ -78240,13 +78240,13 @@ one’s own
 I
 but, and (frequently untranslated)
 the
-0
-0
+
+
 (with gen.) from, away from
 Tyre
 I come to, approach
 into, in
-0
+
 and, also, likewise
 I greet
 the
@@ -78270,7 +78270,7 @@ the
 house, dwelling
 Philip
 the
-0
+
 I am
 from, out of
 the
@@ -78288,7 +78288,7 @@ I prophesy
 I remain, stay
 but, and (frequently untranslated)
 day
-0
+
 I come down
 anyone, anything; someone, something
 (with gen.) from, away from
@@ -78296,7 +78296,7 @@ the
 Judea
 prophet
 name
-0
+
 and, also, likewise
 I come, go
 (with dat.) near, at; (with acc.) to, toward
@@ -78308,7 +78308,7 @@ belt, girdle
 the
 Paul
 I bind, tie
-0
+
 the
 foot
 and, also, likewise
@@ -78348,7 +78348,7 @@ I
 and
 and, also, likewise
 the
-0
+
 the
 not
 I go up, embark
@@ -78363,21 +78363,21 @@ who? which one? what?
 I do, make
 I weep, cry
 and, also, likewise
-0
+
 I
 the
 heart
 I
 for
 no, not
-0
+
 I bind, tie
 but, rather, yet
 and, also, likewise
 I die
 into, in
 Jerusalem
-0
+
 I have, hold
 (with gen.) on behalf of; (with acc.) above
 the
@@ -78401,7 +78401,7 @@ but, and (frequently untranslated)
 the
 day
 this
-0
+
 I go up, embark
 into, in
 Jerusalem
@@ -78418,9 +78418,9 @@ I lead
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 who, which, what
 I entertain; I surprise
-0
+
 anyone, anything; someone, something
-0
+
 ancient, old
 learner, disciple
 I am, become, happen
@@ -78428,7 +78428,7 @@ but, and (frequently untranslated)
 I
 into, in
 Jerusalem
-0
+
 I welcome, receive
 I
 the
@@ -78436,7 +78436,7 @@ brother
 the
 but, and (frequently untranslated)
 I come after
-0
+
 the
 Paul
 (with dat.) with
@@ -78496,7 +78496,7 @@ but, and (frequently untranslated)
 (with gen.) about, concerning; (with acc.) around, near
 you
 that, because, since
-0
+
 I teach
 (with gen.) from, away from
 Moses
@@ -78533,10 +78533,10 @@ I am
 I
 man
 four
-0
+
 I have, hold
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 this
 I take, take with
 I purify
@@ -78547,7 +78547,7 @@ I spend freely
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
-0
+
 the
 head
 and, also, likewise
@@ -78573,7 +78573,7 @@ the
 I believe (in), trust
 nation, the Gentiles
 I
-0
+
 I judge
 I watch, guard
 he, she, it; himself, herself, itself; even, very; same
@@ -78583,7 +78583,7 @@ offered to an idol
 and, also, likewise
 blood
 and, also, likewise
-0
+
 and, also, likewise
 prostitution, unchastity
 then
@@ -78598,17 +78598,17 @@ day
 (with dat.) with
 he, she, it; himself, herself, itself; even, very; same
 I purify
-0
+
 into, in
 the
-0
-0
+
+
 the
-0
+
 the
 day
 the
-0
+
 until
 who, which, what
 I bring to, offer
@@ -78634,8 +78634,8 @@ I see, look at
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
-0
-0
+
+
 all, every
 the
 multitude
@@ -78665,7 +78665,7 @@ the
 place
 this
 all, every
-0
+
 I teach
 yet, still
 and
@@ -78674,7 +78674,7 @@ a Greek
 I lead in
 into, in
 the
-0
+
 and, also, likewise
 I make common, defile
 the
@@ -78683,8 +78683,8 @@ place
 this
 I am
 for
-0
-0
+
+
 the
 Ephesian
 (with dat.) in
@@ -78697,7 +78697,7 @@ I think, believe
 that, because, since
 into, in
 the
-0
+
 I lead in
 the
 Paul
@@ -78708,7 +78708,7 @@ city
 whole, complete
 and, also, likewise
 I am, become, happen
-0
+
 the
 people
 and, also, likewise
@@ -78719,7 +78719,7 @@ I draw
 he, she, it; himself, herself, itself; even, very; same
 outside, out
 the
-0
+
 and, also, likewise
 immediately
 I shut, lock
@@ -78730,14 +78730,14 @@ and
 he, she, it; himself, herself, itself; even, very; same
 I kill
 I go up, embark
-0
+
 the
 leader of a thousand soldiers, tribune
 the
 cohort
 that, because, since
 whole, complete
-0
+
 Jerusalem
 who, which, what
 at once, immediately
@@ -78745,7 +78745,7 @@ I take, take with
 soldier
 and, also, likewise
 centurion, captain
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -78783,7 +78783,7 @@ another, other
 but, and (frequently untranslated)
 another, other
 anyone, anything; someone, something
-0
+
 (with dat.) in
 the
 multitude
@@ -78808,7 +78808,7 @@ but, and (frequently untranslated)
 I am, become, happen
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 I happen, come about
 I bear
 he, she, it; himself, herself, itself; even, very; same
@@ -78817,7 +78817,7 @@ the
 soldier
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
 multitude
 I follow
@@ -78850,10 +78850,10 @@ you
 the
 but, and (frequently untranslated)
 I say
-0
+
 I know
 no, not
-0
+
 you
 I am
 the
@@ -78863,7 +78863,7 @@ the
 this
 the
 day
-0
+
 and, also, likewise
 I lead out
 into, in
@@ -78873,7 +78873,7 @@ the
 four thousand
 man
 the
-0
+
 I say, tell
 but, and (frequently untranslated)
 the
@@ -78883,13 +78883,13 @@ human being, person
 indeed, on the one hand (but often untranslatable)
 I am
 Judean, Jewish
-0
+
 the
 Cilicia
 no, not
-0
+
 city
-0
+
 I ask
 but, and (frequently untranslated)
 you
@@ -78907,19 +78907,19 @@ Paul
 I place, set, stand
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
-0
+
+
 the
 hand
 the
 people
-0
+
 but, and (frequently untranslated)
-0
+
 I am, become, happen
 I call at, address
 the
-0
+
 language
 I say, tell
 man
@@ -78937,13 +78937,13 @@ I hear
 but, and (frequently untranslated)
 that, because, since
 the
-0
+
 language
 I call at, address
 he, she, it; himself, herself, itself; even, very; same
 more, rather
 I give, cause
-0
+
 and, also, likewise
 I say
 I
@@ -78952,10 +78952,10 @@ man
 Judean, Jewish
 I beget
 (with dat.) in
-0
+
 the
 Cilicia
-0
+
 but, and (frequently untranslated)
 (with dat.) in
 the
@@ -78964,12 +78964,12 @@ this
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 foot
-0
+
 I bring up, train
 (with gen.) down, against; (with acc.) according to, along
-0
+
 the
-0
+
 law
 zealot
 I exist, am present
@@ -78987,7 +78987,7 @@ way
 I hasten; I pursue, persecute
 until
 death
-0
+
 and, also, likewise
 I hand over, hand down, entrust
 into, in
@@ -79005,7 +79005,7 @@ I
 and, also, likewise
 all, every
 the
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 who, which, what
 and, also, likewise
@@ -79020,13 +79020,13 @@ I go, proceed
 I lead
 and, also, likewise
 the
-0
+
 I am
 I bind, tie
 into, in
 Jerusalem
 in order that, that
-0
+
 I am, become, happen
 but, and (frequently untranslated)
 I
@@ -79036,12 +79036,12 @@ I come near
 the
 Damascus
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 suddenly, unexpectedly
 from, out of
 the
 heaven
-0
+
 light
 sufficient, large
 (with gen.) about, concerning; (with acc.) around, near
@@ -79050,7 +79050,7 @@ I fall
 and
 into, in
 the
-0
+
 and, also, likewise
 I hear
 sound, voice
@@ -79130,10 +79130,10 @@ glory, brightness, splendor
 the
 light
 that
-0
+
 (with gen.) by; (with acc.) under
 the
-0
+
 I
 I come, go
 into, in
@@ -79142,7 +79142,7 @@ Ananias
 but, and (frequently untranslated)
 anyone, anything; someone, something
 man
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
 law
@@ -79177,7 +79177,7 @@ God, god
 the
 father
 I
-0
+
 you
 I know
 the
@@ -79212,7 +79212,7 @@ I am about to, intend
 I raise, rise, stand up
 I baptize
 and, also, likewise
-0
+
 the
 sin
 you
@@ -79231,7 +79231,7 @@ I pray
 I
 (with dat.) in
 the
-0
+
 I am, become, happen
 I
 (with dat.) in
@@ -79263,7 +79263,7 @@ I know, understand
 that, because, since
 I
 I am
-0
+
 and, also, likewise
 I beat
 (with gen.) down, against; (with acc.) according to, along
@@ -79278,7 +79278,7 @@ when
 I pour out
 the
 blood
-0
+
 the
 witness
 you
@@ -79328,14 +79328,14 @@ the
 of such a kind, such as this
 no, not
 for
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I live
 I cry out, shout
 and
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 garment
 and, also, likewise
@@ -79354,7 +79354,7 @@ the
 camp, army
 I say, tell
 scourging, torment
-0
+
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 I know, understand
@@ -79362,14 +79362,14 @@ I know, understand
 who, which, what
 cause, reason
 in this manner, thus, so
-0
+
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
 but, and (frequently untranslated)
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 I say, tell
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -79381,10 +79381,10 @@ if
 human being, person
 Roman
 and, also, likewise
-0
+
 it is permitted, possible
 you
-0
+
 I hear
 but, and (frequently untranslated)
 the
@@ -79423,10 +79423,10 @@ but, and (frequently untranslated)
 the
 leader of a thousand soldiers, tribune
 I
-0
-0
+
+
 the
-0
+
 this
 I acquire
 the
@@ -79445,7 +79445,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 I am about to, intend
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 the
 leader of a thousand soldiers, tribune
@@ -79504,7 +79504,7 @@ I
 all, every
 conscience
 good
-0
+
 the
 God, god
 until
@@ -79534,8 +79534,8 @@ you
 I am about to, intend
 the
 God, god
-0
-0
+
+
 and, also, likewise
 you
 I sit, sit down
@@ -79545,7 +79545,7 @@ I
 the
 law
 and, also, likewise
-0
+
 I command, urge
 I
 I strike, beat
@@ -79557,7 +79557,7 @@ the
 high priest, chief priest
 the
 God, god
-0
+
 I say
 and
 the
@@ -79576,7 +79576,7 @@ the
 people
 you
 no, not
-0
+
 wickedly, badly
 I know
 but, and (frequently untranslated)
@@ -79651,7 +79651,7 @@ the
 part
 the
 a Pharisee
-0
+
 I say, tell
 no one, nothing
 evil, bad
@@ -79667,7 +79667,7 @@ I speak
 he, she, it; himself, herself, itself; even, very; same
 or, either
 angel, messenger
-0
+
 but, and (frequently untranslated)
 I am, become, happen
 uprising, revolt
@@ -79675,7 +79675,7 @@ I fear
 the
 leader of a thousand soldiers, tribune
 not
-0
+
 the
 Paul
 (with gen.) by; (with acc.) under
@@ -79723,14 +79723,14 @@ I am, become, happen
 but, and (frequently untranslated)
 day
 I do, make
-0
+
 the
 Judean, Jewish
-0
-0
+
+
 I say, tell
 and not, neither, nor
-0
+
 and not, neither, nor
 I drink
 until
@@ -79740,14 +79740,14 @@ the
 Paul
 I am
 but, and (frequently untranslated)
-0
+
 forty
 the
 this
 the
-0
+
 I do, make
-0
+
 I go to, approach
 the
 high priest, chief priest
@@ -79756,8 +79756,8 @@ the
 old; (as a noun) elder
 I say, tell
 object of a curse
-0
-0
+
+
 no one, nothing
 I taste; I come to know
 until
@@ -79781,7 +79781,7 @@ into, in
 you
 as, like, so
 I am about to, intend
-0
+
 accurately, carefully
 the
 (with gen.) about, concerning; (with acc.) around, near
@@ -79805,7 +79805,7 @@ the
 sister
 Paul
 the
-0
+
 I come, am present
 and, also, likewise
 I enter
@@ -79824,9 +79824,9 @@ the
 centurion, captain
 I say
 the
-0
+
 this
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 leader of a thousand soldiers, tribune
@@ -79885,7 +79885,7 @@ but, and (frequently untranslated)
 that, because, since
 the
 Judean, Jewish
-0
+
 the
 I ask, request
 you
@@ -79909,19 +79909,19 @@ therefore, then
 not
 I convince, persuade; I trust in
 he, she, it; himself, herself, itself; even, very; same
-0
+
 for
 he, she, it; himself, herself, itself; even, very; same
 from, out of
 he, she, it; himself, herself, itself; even, very; same
 man
-0
+
 forty
-0
-0
-0
+
+
+
 and not, neither, nor
-0
+
 and not, neither, nor
 I drink
 until
@@ -79946,7 +79946,7 @@ the
 youth, young man
 I command
 no one, nothing
-0
+
 that, because, since
 this
 I reveal, make known
@@ -79967,21 +79967,21 @@ I go, proceed
 until
 Caesarea
 and, also, likewise
-0
-0
+
+
 and, also, likewise
-0
+
 two hundred
 (with gen.) from, away from
 third
 hour
 the
 night
-0
+
 and
 I am present, stand by
 in order that, that
-0
+
 the
 Paul
 I save
@@ -79995,10 +79995,10 @@ I have, hold
 the
 image, copy
 this
-0
-0
+
+
 the
-0
+
 governor, procurator
 Felix
 I rejoice, am glad
@@ -80052,11 +80052,11 @@ death
 or, either
 bond, fetter
 I have, hold
-0
-0
+
+
 but, and (frequently untranslated)
 I
-0
+
 into, in
 the
 man
@@ -80090,13 +80090,13 @@ I lead
 night
 into, in
 the
-0
+
 the
 but, and (frequently untranslated)
 tomorrow
 I permit; I let go, leave alone
 the
-0
+
 I go away
 (with dat.) with
 he, she, it; himself, herself, itself; even, very; same
@@ -80104,13 +80104,13 @@ I turn back, return
 into, in
 the
 camp, army
-0
+
 I enter
 into, in
 the
 Caesarea
 and, also, likewise
-0
+
 the
 letter, epistle
 the
@@ -80126,14 +80126,14 @@ and, also, likewise
 I ask (a question)
 from, out of
 of what kind? which? what?
-0
+
 I am
 and, also, likewise
 I ask
 that, because, since
 (with gen.) from, away from
 Cilicia
-0
+
 you
 I say
 whenever, when
@@ -80162,10 +80162,10 @@ Ananias
 old; (as a noun) elder
 anyone, anything; someone, something
 and, also, likewise
-0
-0
+
+
 anyone, anything; someone, something
-0
+
 I reveal, make known
 the
 governor, procurator
@@ -80175,18 +80175,18 @@ Paul
 I call
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I accuse
 the
-0
+
 I say, tell
-0
+
 peace
 I meet, happen
 (with gen.) through; (with acc.) because of, for the sake of
 you
 and, also, likewise
-0
+
 I am, become, happen
 the
 nation, the Gentiles
@@ -80194,13 +80194,13 @@ this
 (with gen.) through; (with acc.) because of, for the sake of
 the
 your, yours
-0
-0
+
+
 and
 and, also, likewise
 everywhere
 I welcome, receive
-0
+
 Felix
 (with gen.) with; (with acc.) after, behind
 all, every
@@ -80209,23 +80209,23 @@ in order that, that
 but, and (frequently untranslated)
 not
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 you
 I hinder, thwart
 I invite; I exhort; I comfort
 I hear
 you
 I
-0
+
 the
 your, yours
-0
+
 I find, discover
 for
 the
 man
 this
-0
+
 and, also, likewise
 I move
 uprising, revolt
@@ -80236,7 +80236,7 @@ the
 (with gen.) down, against; (with acc.) according to, along
 the
 the inhabited world
-0
+
 and
 the
 the
@@ -80245,9 +80245,9 @@ party, dissension
 who, which, what
 and, also, likewise
 the
-0
+
 I test, tempt
-0
+
 who, which, what
 and, also, likewise
 I take hold of, hold fast
@@ -80264,12 +80264,12 @@ who, which, what
 I
 I accuse
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 and, also, likewise
 the
 Judean, Jewish
-0
+
 this
 in this manner, thus, so
 I have, hold
@@ -80277,13 +80277,13 @@ I answer, reply
 and
 the
 Paul
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 governor, procurator
 I say, tell
 from, out of
-0
+
 year
 I am
 you
@@ -80292,7 +80292,7 @@ the
 nation, the Gentiles
 this
 I know, understand
-0
+
 the
 (with gen.) about, concerning; (with acc.) around, near
 myself
@@ -80302,7 +80302,7 @@ you
 I know, understand
 that, because, since
 no, not
-0
+
 I am
 I
 day
@@ -80317,14 +80317,14 @@ and, also, likewise
 neither, nor
 (with dat.) in
 the
-0
+
 I find, discover
 I
 (with dat.) near, at; (with acc.) to, toward
 anyone, anything; someone, something
 I discuss, speak
 or, either
-0
+
 I do, make
 multitude
 neither, nor
@@ -80358,7 +80358,7 @@ party, dissension
 in this manner, thus, so
 I serve
 the
-0
+
 God, god
 I believe (in), trust
 all, every
@@ -80393,8 +80393,8 @@ unjust
 this
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 conscience
 I have, hold
 (with dat.) near, at; (with acc.) to, toward
@@ -80408,7 +80408,7 @@ all, every
 (with gen.) through; (with acc.) because of, for the sake of
 year
 but, and (frequently untranslated)
-0
+
 alms
 I do, make
 into, in
@@ -80425,7 +80425,7 @@ I
 I purify
 (with dat.) in
 the
-0
+
 no, not
 (with gen.) with; (with acc.) after, behind
 multitude
@@ -80456,7 +80456,7 @@ this
 I say, tell
 who? which one? what?
 I find, discover
-0
+
 I place, set, stand
 I
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -80481,7 +80481,7 @@ I judge
 today
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 you
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -80494,11 +80494,11 @@ the
 way
 I say, tell
 whenever, when
-0
+
 the
 leader of a thousand soldiers, tribune
 I come down, go down
-0
+
 the
 (with gen.) down, against; (with acc.) according to, along
 you
@@ -80516,7 +80516,7 @@ I hinder, forbid
 the
 one’s own
 he, she, it; himself, herself, itself; even, very; same
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) with; (with acc.) after, behind
 but, and (frequently untranslated)
@@ -80526,7 +80526,7 @@ I come, am present
 the
 Felix
 (with dat.) with
-0
+
 the
 one’s own
 woman
@@ -80550,7 +80550,7 @@ he, she, it; himself, herself, itself; even, very; same
 (with gen.) about, concerning; (with acc.) around, near
 righteousness
 and, also, likewise
-0
+
 and, also, likewise
 the
 judgment, condemnation
@@ -80568,7 +80568,7 @@ I go, proceed
 time, right time
 but, and (frequently untranslated)
 I receive a share
-0
+
 you
 together
 and, also, likewise
@@ -80582,24 +80582,24 @@ the
 Paul
 therefore, for this reason
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I send for
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 but, and (frequently untranslated)
 I fill, make full, finish
 I take, receive
-0
+
 the
 Felix
-0
+
 Festus
 I wish, will
 and
 grace, favor
-0
+
 the
 Judean, Jewish
 the
@@ -80612,7 +80612,7 @@ Festus
 therefore, then
 I go up, upon
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 three
 day
@@ -80628,7 +80628,7 @@ the
 high priest, chief priest
 and, also, likewise
 the
-0
+
 the
 Judean, Jewish
 (with gen.) down, against; (with acc.) according to, along
@@ -80646,7 +80646,7 @@ I send for
 he, she, it; himself, herself, itself; even, very; same
 into, in
 Jerusalem
-0
+
 I do, make
 I take away, destroy
 he, she, it; himself, herself, itself; even, very; same
@@ -80663,7 +80663,7 @@ the
 Paul
 into, in
 Caesarea
-0
+
 but, and (frequently untranslated)
 I am about to, intend
 (with dat.) in
@@ -80675,14 +80675,14 @@ therefore, then
 you
 I say
 powerful
-0
+
 if
 anyone, anything; someone, something
 I am
 (with dat.) in
 the
 man
-0
+
 I accuse
 he, she, it; himself, herself, itself; even, very; same
 I spend; I stay
@@ -80691,7 +80691,7 @@ but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 day
 no, not
-0
+
 eight
 or, either
 ten
@@ -80711,22 +80711,22 @@ I lead
 I come, am present
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 (with gen.) from, away from
 Jerusalem
 I come down, go down
 Judean, Jewish
-0
+
 and, also, likewise
 heavy
-0
-0
+
+
 who, which, what
 no, not
 I am strong, powerful
-0
+
 the
 Paul
 I defend myself
@@ -80740,7 +80740,7 @@ Judean, Jewish
 neither, nor
 into, in
 the
-0
+
 neither, nor
 into, in
 emperor, Caesar
@@ -80753,7 +80753,7 @@ I wish, will
 the
 Judean, Jewish
 grace, favor
-0
+
 I answer, reply
 the
 Paul
@@ -80788,7 +80788,7 @@ I do wrong, treat unjustly
 as, like, so
 and, also, likewise
 you
-0
+
 I know, understand
 if
 indeed, on the one hand (but often untranslatable)
@@ -80833,13 +80833,13 @@ emperor, Caesar
 I go, proceed
 day
 but, and (frequently untranslated)
-0
+
 anyone, anything; someone, something
 Agrippa
 the
 king
 and, also, likewise
-0
+
 I come to, approach
 into, in
 Caesarea
@@ -80848,7 +80848,7 @@ the
 Festus
 as, like, so
 but, and (frequently untranslated)
-0
+
 day
 I spend; I stay
 there, to that place
@@ -80856,7 +80856,7 @@ the
 Festus
 the
 king
-0
+
 the
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -80886,7 +80886,7 @@ Judean, Jewish
 I ask, ask for
 (with gen.) down, against; (with acc.) according to, along
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) near, at; (with acc.) to, toward
 who, which, what
 I answer, reply
@@ -80913,11 +80913,11 @@ defense, reply
 I take, receive
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 I come with, go with, assemble
 therefore, then
 here
-0
+
 no one, nothing
 I do, make
 the
@@ -80940,7 +80940,7 @@ cause, reason
 I bear, carry
 who, which, what
 I
-0
+
 wicked, bad
 question, issue
 but, and (frequently untranslated)
@@ -80948,7 +80948,7 @@ anyone, anything; someone, something
 (with gen.) about, concerning; (with acc.) around, near
 the
 one’s own
-0
+
 I have, hold
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
@@ -80958,7 +80958,7 @@ anyone, anything; someone, something
 Jesus, Joshua
 I die
 who, which, what
-0
+
 the
 Paul
 I live
@@ -80988,8 +80988,8 @@ he, she, it; himself, herself, itself; even, very; same
 into, in
 the
 the
-0
-0
+
+
 I command, urge
 I keep, observe
 he, she, it; himself, herself, itself; even, very; same
@@ -81022,15 +81022,15 @@ the
 Agrippa
 and, also, likewise
 the
-0
+
 (with gen.) with; (with acc.) after, behind
-0
-0
+
+
 and, also, likewise
 I enter
 into, in
 the
-0
+
 (with dat.) with
 and
 leader of a thousand soldiers, tribune
@@ -81038,7 +81038,7 @@ and, also, likewise
 man
 the
 (with gen.) down, against; (with acc.) according to, along
-0
+
 the
 city
 and, also, likewise
@@ -81057,7 +81057,7 @@ king
 and, also, likewise
 all, every
 the
-0
+
 I
 man
 I see, perceive
@@ -81095,7 +81095,7 @@ but, and (frequently untranslated)
 this
 I name; (mid.) I call upon
 the
-0
+
 I judge
 I send
 (with gen.) about, concerning; (with acc.) around, near
@@ -81120,12 +81120,12 @@ king
 Agrippa
 (adv.) how; (conj.) that, in order that
 the
-0
+
 I am, become, happen
 I have, hold
 who? which one? what?
 I write
-0
+
 for
 I
 I think, believe; I seem
@@ -81173,7 +81173,7 @@ I am about to, intend
 today
 I defend myself
 most of all, especially
-0
+
 I am
 you
 all, every
@@ -81186,16 +81186,16 @@ and, also, likewise
 question, issue
 therefore, for this reason
 I ask
-0
+
 I hear
 I
 the
 indeed, on the one hand (but often untranslatable)
 therefore, then
-0
+
 I
 from, out of
-0
+
 the
 (with gen.) from, away from
 beginning; ruler, authority
@@ -81219,11 +81219,11 @@ I bear witness, testify
 that, because, since
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 party, dissension
 the
 our
-0
+
 I live
 a Pharisee
 and, also, likewise
@@ -81245,10 +81245,10 @@ I judge
 into, in
 who, which, what
 the
-0
+
 I
 (with dat.) in
-0
+
 night
 and, also, likewise
 day
@@ -81284,7 +81284,7 @@ Jesus, Joshua
 the
 Nazorean, Nazarene
 it is necessary, one must
-0
+
 against, opposed, hostile
 I do, accomplish
 who, which, what
@@ -81293,14 +81293,14 @@ I do, make
 (with dat.) in
 Jerusalem
 and, also, likewise
-0
+
 and
 the
 holy
 I
 (with dat.) in
 watch, guard
-0
+
 the
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
@@ -81310,21 +81310,21 @@ I take, receive
 I take away, destroy
 and
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 and, also, likewise
 (with gen.) down, against; (with acc.) according to, along
 all, every
 the
 synagogue
 many times, often
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I compel
 I blaspheme
-0
+
 and
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I hasten; I pursue, persecute
 until
@@ -81342,7 +81342,7 @@ Damascus
 (with gen.) with; (with acc.) after, behind
 power, authority
 and, also, likewise
-0
+
 the
 the
 high priest, chief priest
@@ -81353,13 +81353,13 @@ the
 way
 I see
 king
-0
+
 (with gen.) on behalf of; (with acc.) above
 the
-0
+
 the
 sun
-0
+
 I
 light
 and, also, likewise
@@ -81369,7 +81369,7 @@ I
 I go, proceed
 all, every
 and
-0
+
 I
 into, in
 the
@@ -81380,7 +81380,7 @@ I say, tell
 (with dat.) near, at; (with acc.) to, toward
 I
 the
-0
+
 language
 Saul
 Saul
@@ -81390,8 +81390,8 @@ I hasten; I pursue, persecute
 hard, difficult
 you
 (with dat.) near, at; (with acc.) to, toward
-0
-0
+
+
 I
 but, and (frequently untranslated)
 I say, tell
@@ -81421,7 +81421,7 @@ this
 for
 I see
 you
-0
+
 you
 servant, assistant
 and, also, likewise
@@ -81487,12 +81487,12 @@ I am, become, happen
 disobedient
 the
 heavenly
-0
+
 but, rather, yet
 the
 (with dat.) in
 Damascus
-0
+
 and
 and, also, likewise
 Jerusalem
@@ -81524,10 +81524,10 @@ Judean, Jewish
 I seize, I conceive
 (with dat.) in
 the
-0
-0
-0
-0
+
+
+
+
 therefore, then
 I meet, happen
 the
@@ -81557,11 +81557,11 @@ I am, become, happen
 and, also, likewise
 Moses
 if
-0
+
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 if
-0
+
 from, out of
 resurrection
 dead
@@ -81587,26 +81587,26 @@ I say
 I am mad
 Paul
 the
-0
+
 you
 letter (of the alphabet), writing
 into, in
-0
-0
+
+
 the
 but, and (frequently untranslated)
 Paul
 no, not
 I am mad
 I say
-0
+
 Festus
 but, rather, yet
 truth, truthfulness
 and, also, likewise
-0
+
 word, saying; thing, matter
-0
+
 I know, understand
 for
 (with gen.) about, concerning; (with acc.) around, near
@@ -81650,7 +81650,7 @@ Paul
 few, little
 I
 I convince, persuade; I trust in
-0
+
 I do, make
 the
 but, and (frequently untranslated)
@@ -81666,7 +81666,7 @@ and, also, likewise
 (with dat.) in
 large, great
 no, not
-0
+
 you
 but, rather, yet
 and, also, likewise
@@ -81681,7 +81681,7 @@ of what sort
 and, also, likewise
 I
 I am
-0
+
 the
 bond, fetter
 this
@@ -81694,10 +81694,10 @@ the
 governor, procurator
 the
 and
-0
+
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I go away, take refuge
@@ -81733,11 +81733,11 @@ as, like, so
 but, and (frequently untranslated)
 I judge
 the
-0
+
 I
 into, in
 the
-0
+
 I hand over, hand down, entrust
 the
 and
@@ -81745,16 +81745,16 @@ Paul
 and, also, likewise
 anyone, anything; someone, something
 other, another, different
-0
+
 centurion, captain
 name
-0
+
 cohort
-0
+
 I go up, upon
 but, and (frequently untranslated)
 boat, ship
-0
+
 I am about to, intend
 I sail
 into, in
@@ -81769,17 +81769,17 @@ I am
 I
 Aristarchus
 a Macedonian
-0
+
 the
 and
 other, another, different
 I lead down
 into, in
 Sidon
-0
+
 and
 the
-0
+
 the
 Paul
 I use
@@ -81788,11 +81788,11 @@ I permit
 the
 beloved, loving; (as a noun) friend
 I go, proceed
-0
+
 I meet, happen
 and from there
 I lead up
-0
+
 the
 Cyprus
 (with gen.) through; (with acc.) because of, for the sake of
@@ -81803,30 +81803,30 @@ I am
 against, opposed, hostile
 the
 and
-0
+
 the
 (with gen.) down, against; (with acc.) according to, along
 the
 Cilicia
 and, also, likewise
 Pamphylia
-0
+
 I come down
 into, in
-0
+
 the
-0
+
 and there
 I find, discover
 the
 centurion, captain
 boat, ship
-0
+
 I sail
 into, in
 the
-0
-0
+
+
 I
 into, in
 he, she, it; himself, herself, itself; even, very; same
@@ -81834,49 +81834,49 @@ he, she, it; himself, herself, itself; even, very; same
 sufficient, large
 but, and (frequently untranslated)
 day
-0
+
 and, also, likewise
 with difficulty, scarcely
 I am, become, happen
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 not
-0
+
 I
 the
 wind
-0
+
 the
 Crete
 (with gen.) down, against; (with acc.) according to, along
-0
+
 with difficulty, scarcely
 and
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I come, go
 into, in
 place
 anyone, anything; someone, something
 I call
-0
-0
+
+
 who, which, what
-0
+
 I am
 city
-0
+
 sufficient, large
 but, and (frequently untranslated)
 time
-0
+
 and, also, likewise
 I am
 now, already
-0
+
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 and, also, likewise
@@ -81884,7 +81884,7 @@ the
 fasting
 now, already
 I go by, (pass.) I pass away
-0
+
 the
 Paul
 I say, tell
@@ -81893,12 +81893,12 @@ man
 I see, perceive
 that, because, since
 (with gen.) with; (with acc.) after, behind
-0
+
 and, also, likewise
-0
-0
+
+
 no, not
-0
+
 the
 burden, load
 and, also, likewise
@@ -81912,15 +81912,15 @@ I
 I am about to, intend
 I am
 the
-0
+
 the
 but, and (frequently untranslated)
 centurion, captain
 the
-0
+
 and, also, likewise
 the
-0
+
 more, rather
 I convince, persuade; I trust in
 or, either
@@ -81928,15 +81928,15 @@ the
 (with gen.) by; (with acc.) under
 Paul
 I say, tell
-0
+
 but, and (frequently untranslated)
 the
-0
+
 I exist, am present
 (with dat.) near, at; (with acc.) to, toward
-0
+
 the
-0
+
 I put, place
 purpose, counsel
 I lead up
@@ -81946,18 +81946,18 @@ how?
 I can
 I come to, approach
 into, in
-0
-0
-0
+
+
+
 the
 Crete
 I see, look
 (with gen.) down, against; (with acc.) according to, along
-0
+
 and, also, likewise
 (with gen.) down, against; (with acc.) according to, along
-0
-0
+
+
 but, and (frequently untranslated)
 south, south wind
 I think, believe; I seem
@@ -81965,51 +81965,51 @@ the
 presentation; plan
 I take hold of, hold fast
 I lift up; I take away
-0
-0
+
+
 the
 Crete
 (with gen.) with; (with acc.) after, behind
 no, not
-0
+
 but, and (frequently untranslated)
 I throw, place
 (with gen.) down, against; (with acc.) according to, along
 he, she, it; himself, herself, itself; even, very; same
 wind
-0
+
 the
 I call
-0
-0
+
+
 but, and (frequently untranslated)
 the
 boat, ship
 and, also, likewise
 not
 I can
-0
+
 the
 wind
 I deliver, give away
 I bear, carry
-0
+
 but, and (frequently untranslated)
 anyone, anything; someone, something
-0
+
 I call
-0
+
 I am strong, powerful
 with difficulty, scarcely
-0
+
 I am, become, happen
 the
-0
+
 who, which, what
 I lift up; I take away
-0
+
 I use
-0
+
 the
 boat, ship
 I fear
@@ -82017,54 +82017,54 @@ and
 not
 into, in
 the
-0
+
 I fall off, fall from
 I let down
 the
 vessel, jar
 in this manner, thus, so
 I bear, carry
-0
+
 but, and (frequently untranslated)
-0
+
 I
 the
 on the next day
-0
+
 I do, make
 and, also, likewise
 the
 third
-0
+
 the
-0
+
 the
 boat, ship
-0
+
 and not, neither, nor
 but, and (frequently untranslated)
 sun
 and not, neither, nor
-0
-0
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 day
 winter, stormy weather
 and
 no, not
 few, little
 I lie upon, press upon
-0
-0
+
+
 hope
 all, every
 the
 I save, deliver
 I
-0
+
 and
-0
+
 I exist, am present
 then
 I place, set, stand
@@ -82076,9 +82076,9 @@ he, she, it; himself, herself, itself; even, very; same
 I say, tell
 it is necessary, one must
 indeed, on the one hand (but often untranslatable)
-0
+
 man
-0
+
 I
 not
 I lead up
@@ -82088,18 +82088,18 @@ Crete
 I gain
 and
 the
-0
+
 this
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
 now
-0
+
 you
-0
-0
+
+
 for
 soul
 no one, nothing
@@ -82143,7 +82143,7 @@ I sail
 (with gen.) with; (with acc.) after, behind
 you
 therefore, for this reason
-0
+
 man
 I believe (in), trust
 for
@@ -82166,58 +82166,58 @@ I
 I fall off, fall from
 as, like, so
 but, and (frequently untranslated)
-0
+
 night
 I am, become, happen
 I differ, am superior
 I
 (with dat.) in
 the
-0
+
 (with gen.) down, against; (with acc.) according to, along
 middle, in the middle
 the
 night
-0
+
 the
-0
+
 I bring, come near
 anyone, anything; someone, something
 he, she, it; himself, herself, itself; even, very; same
 country, land
 and, also, likewise
-0
+
 I find, discover
-0
-0
+
+
 short, little
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 again
-0
+
 I find, discover
-0
-0
+
+
 I fear
 and
 not
-0
+
 (with gen.) down, against; (with acc.) according to, along
-0
+
 place
 I fall off, fall from
 from, out of
-0
-0
-0
+
+
+
 four
 I pray
 day
 I am, become, happen
 the
 but, and (frequently untranslated)
-0
+
 I seek, look for, ask
 I flee
 from, out of
@@ -82226,15 +82226,15 @@ boat, ship
 and, also, likewise
 I let down
 the
-0
+
 into, in
 the
 sea
 pretext, excuse
 as, like, so
 from, out of
-0
-0
+
+
 I am about to, intend
 I extend
 I say, tell
@@ -82261,9 +82261,9 @@ I cut off
 the
 soldier
 the
-0
+
 the
-0
+
 and, also, likewise
 I permit; I let go, leave alone
 he, she, it; himself, herself, itself; even, very; same
@@ -82281,12 +82281,12 @@ all, every
 I receive a share
 food
 I say, tell
-0
+
 today
 day
 I wait for
-0
-0
+
+
 no one, nothing
 I receive, accept
 therefore, for this reason
@@ -82322,9 +82322,9 @@ before
 all, every
 and, also, likewise
 I break
-0
-0
-0
+
+
+
 but, and (frequently untranslated)
 I am, become, happen
 all, every
@@ -82341,12 +82341,12 @@ soul
 the
 boat, ship
 two hundred
-0
+
 six
-0
+
 but, and (frequently untranslated)
 food
-0
+
 the
 boat, ship
 I throw out, expel
@@ -82374,55 +82374,55 @@ who, which, what
 I resolve, decide
 if
 I can
-0
+
 the
 boat, ship
 and, also, likewise
 the
-0
-0
+
+
 I permit; I let go, leave alone
 into, in
 the
 sea
 together
-0
+
 the
-0
+
 the
-0
+
 and, also, likewise
 I lift up, hold up
 the
-0
+
 the
 I blow, breathe
 I hold back, hold fast
 into, in
 the
 shore
-0
+
 but, and (frequently untranslated)
 into, in
 place
-0
-0
+
+
 the
-0
+
 and, also, likewise
 the
 indeed, on the one hand (but often untranslatable)
-0
-0
+
+
 I remain, stay
-0
+
 the
 but, and (frequently untranslated)
-0
+
 I loose, set free
 (with gen.) by; (with acc.) under
 the
-0
+
 the
 but, and (frequently untranslated)
 soldier
@@ -82430,12 +82430,12 @@ purpose, counsel
 I am, become, happen
 in order that, that
 the
-0
+
 I kill
 not
 anyone, anything; someone, something
-0
-0
+
+
 the
 but, and (frequently untranslated)
 centurion, captain
@@ -82446,25 +82446,25 @@ Paul
 I hinder, forbid
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 I command, urge
 and
 the
 I can
-0
-0
-0
+
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
-0
+
 and, also, likewise
 the
-0
+
 who, which, what
 indeed, on the one hand (but often untranslatable)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 who, which, what
 but, and (frequently untranslated)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -82486,7 +82486,7 @@ I save
 then
 I know, understand
 that, because, since
-0
+
 the
 island
 I call
@@ -82497,11 +82497,11 @@ I give, cause
 no, not
 the
 I meet, happen
-0
+
 I
-0
+
 for
-0
+
 I receive, accept
 all, every
 I
@@ -82513,25 +82513,25 @@ I stand by, approach, appear
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
-0
+
+
 but, and (frequently untranslated)
 the
 Paul
-0
+
 anyone, anything; someone, something
 crowd, multitude
 and, also, likewise
 I put upon
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 viper
 (with gen.) from, away from
 the
-0
+
 I go out, come out
-0
+
 the
 hand
 he, she, it; himself, herself, itself; even, very; same
@@ -82562,14 +82562,14 @@ from, out of
 the
 sea
 the
-0
+
 I live
 no, not
 I permit; I let go, leave alone
 the
 indeed, on the one hand (but often untranslatable)
 therefore, then
-0
+
 the
 animal
 into, in
@@ -82583,24 +82583,24 @@ but, and (frequently untranslated)
 I wait for
 he, she, it; himself, herself, itself; even, very; same
 I am about to, intend
-0
+
 or, either
-0
-0
+
+
 dead
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 I wait for
 and, also, likewise
 I see, perceive
 no one, nothing
-0
+
 into, in
 he, she, it; himself, herself, itself; even, very; same
 I am, become, happen
-0
+
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 I am
@@ -82615,27 +82615,27 @@ that
 I exist, am present
 place, land, field
 the
-0
+
 the
 island
 name
-0
+
 who, which, what
-0
+
 I
 day
 three
-0
+
 I entertain; I surprise
 I am, become, happen
 but, and (frequently untranslated)
 the
 father
 the
-0
+
 fever
 and, also, likewise
-0
+
 I hold fast, oppress, attack
 I lie down
 (with dat.) near, at; (with acc.) to, toward
@@ -82656,7 +82656,7 @@ but, and (frequently untranslated)
 I am, become, happen
 and, also, likewise
 the
-0
+
 the
 (with dat.) in
 the
@@ -82668,7 +82668,7 @@ and, also, likewise
 I care for, heal
 who, which, what
 and, also, likewise
-0
+
 price, value, honor
 I honor
 I
@@ -82686,35 +82686,35 @@ month
 I lead up
 (with dat.) in
 boat, ship
-0
+
 (with dat.) in
 the
 island
-0
-0
-0
+
+
+
 and, also, likewise
 I lead down
 into, in
-0
+
 I remain, stay
 day
 three
 from where
-0
+
 I come to, approach
 into, in
-0
+
 and, also, likewise
 (with gen.) with; (with acc.) after, behind
 one
 day
-0
+
 south, south wind
-0
+
 I come, go
 into, in
-0
+
 where, whither
 I find, discover
 brother
@@ -82739,14 +82739,14 @@ the
 I
 I come, go
 into, in
-0
+
 I
 until
-0
-0
+
+
 and, also, likewise
 three
-0
+
 who, which, what
 I see
 the
@@ -82755,7 +82755,7 @@ I give thanks
 the
 God, god
 I take, receive
-0
+
 when
 but, and (frequently untranslated)
 I enter
@@ -82766,7 +82766,7 @@ the
 Paul
 I remain, stay
 (with gen.) down, against; (with acc.) according to, along
-0
+
 (with dat.) with
 the
 I watch, guard
@@ -82783,7 +82783,7 @@ the
 I am
 the
 Judean, Jewish
-0
+
 I come with, go with, assemble
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
@@ -82802,7 +82802,7 @@ or, either
 the
 custom, law
 the
-0
+
 prisoner
 from, out of
 Jerusalem
@@ -82812,7 +82812,7 @@ the
 hand
 the
 Roman
-0
+
 I question, examine
 I
 I wish, desire
@@ -82849,7 +82849,7 @@ I invite; I exhort; I comfort
 you
 I see
 and, also, likewise
-0
+
 (with gen.) because of, for the sake of
 for
 the
@@ -82914,10 +82914,10 @@ I come, go
 he, she, it; himself, herself, itself; even, very; same
 into, in
 the
-0
-0
+
+
 who, which, what
-0
+
 I solemnly declare
 the
 kingdom, reign
@@ -82940,7 +82940,7 @@ prophet
 (with gen.) from, away from
 early (in the morning)
 until
-0
+
 and, also, likewise
 the
 indeed, on the one hand (but often untranslatable)
@@ -82950,7 +82950,7 @@ I say, tell
 the
 but, and (frequently untranslated)
 I disbelieve, am unfaithful
-0
+
 but, and (frequently untranslated)
 I am
 (with dat.) near, at; (with acc.) to, toward
@@ -82997,7 +82997,7 @@ and, also, likewise
 no, not
 not
 I see
-0
+
 for
 the
 heart
@@ -83007,13 +83007,13 @@ this
 and, also, likewise
 the
 ear
-0
+
 I hear
 and, also, likewise
 the
 eye
 he, she, it; himself, herself, itself; even, very; same
-0
+
 not
 when?
 I see
@@ -83042,19 +83042,19 @@ nation, the Gentiles
 I send away, send out
 this
 the
-0
+
 the
 God, god
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I hear
-0
+
 but, and (frequently untranslated)
-0
+
 whole, complete
 (with dat.) in
 one’s own
-0
+
 and, also, likewise
 I welcome, receive
 all, every
@@ -83078,7 +83078,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 (with gen.) with; (with acc.) after, behind
 all, every
 openness, confidence
-0
+
 Paul
 slave
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -83090,7 +83090,7 @@ into, in
 the Good News, Gospel
 God, god
 who, which, what
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 prophet
@@ -83105,7 +83105,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 I am, become, happen
 from, out of
-0
+
 David
 (with gen.) down, against; (with acc.) according to, along
 flesh
@@ -83117,7 +83117,7 @@ God, god
 power, strength
 (with gen.) down, against; (with acc.) according to, along
 breath, spirit
-0
+
 from, out of
 resurrection
 dead
@@ -83131,7 +83131,7 @@ who, which, what
 I take, receive
 grace, favor
 and, also, likewise
-0
+
 into, in
 obedience
 faith, trust
@@ -83172,7 +83172,7 @@ and, also, likewise
 master, lord, the Lord
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 indeed, on the one hand (but often untranslatable)
 I give thanks
 the
@@ -83212,7 +83212,7 @@ the
 son
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
-0
+
 remembrance, memory
 you
 I do, make
@@ -83226,7 +83226,7 @@ if
 how?
 now, already
 once, formerly
-0
+
 (with dat.) in
 the
 will
@@ -83252,7 +83252,7 @@ you
 this
 but, and (frequently untranslated)
 I am
-0
+
 (with dat.) in
 you
 (with gen.) through; (with acc.) because of, for the sake of
@@ -83272,7 +83272,7 @@ I do not know
 brother
 that, because, since
 many times, often
-0
+
 I come, go
 (with dat.) near, at; (with acc.) to, toward
 you
@@ -83292,7 +83292,7 @@ as, just as
 and, also, likewise
 (with dat.) in
 the
-0
+
 nation, the Gentiles
 a Greek
 and
@@ -83308,7 +83308,7 @@ in this manner, thus, so
 the
 (with gen.) down, against; (with acc.) according to, along
 I
-0
+
 and, also, likewise
 you
 the
@@ -83331,7 +83331,7 @@ the
 I believe (in), trust
 Judean, Jewish
 and
-0
+
 and, also, likewise
 a Greek
 righteousness
@@ -83392,21 +83392,21 @@ he, she, it; himself, herself, itself; even, very; same
 creation, creature
 the world
 the
-0
+
 I perceive, understand
-0
+
 the
 and
-0
+
 he, she, it; himself, herself, itself; even, very; same
 power, strength
 and, also, likewise
-0
+
 into, in
 the
 I am
 he, she, it; himself, herself, itself; even, very; same
-0
+
 because, therefore
 I know
 the
@@ -83418,7 +83418,7 @@ I praise, honor, glorify
 or, either
 I give thanks
 but, rather, yet
-0
+
 (with dat.) in
 the
 thought, doubt, dispute
@@ -83429,10 +83429,10 @@ the
 foolish
 he, she, it; himself, herself, itself; even, very; same
 heart
-0
+
 I am
 wise
-0
+
 and, also, likewise
 I change
 the
@@ -83448,9 +83448,9 @@ human being, person
 and, also, likewise
 bird
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 therefore, for this reason
 I hand over, hand down, entrust
 he, she, it; himself, herself, itself; even, very; same
@@ -83471,8 +83471,8 @@ body
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 the
 truth, truthfulness
 the
@@ -83481,7 +83481,7 @@ God, god
 the
 lie
 and, also, likewise
-0
+
 and, also, likewise
 I serve
 the
@@ -83503,17 +83503,17 @@ he, she, it; himself, herself, itself; even, very; same
 the
 God, god
 into, in
-0
+
 dishonor
 the
 and
 for
 female; (as a noun) woman
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
-0
-0
+
+
 into, in
 the
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -83525,14 +83525,14 @@ the
 male
 I leave, let go, pardon
 the
-0
-0
+
+
 the
 female; (as a noun) woman
-0
+
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 each other, one another
@@ -83540,18 +83540,18 @@ male
 (with dat.) in
 male
 the
-0
+
 I achieve, bring about
 and, also, likewise
 the
-0
+
 who, which, what
 it is necessary, one must
 the
 wandering, error, deceit
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
+
 I receive
 and, also, likewise
 as, just as
@@ -83572,7 +83572,7 @@ understanding, mind
 I do, make
 the
 not
-0
+
 I fill, make full, finish
 all, every
 wrongdoing, unrighteousness
@@ -83584,22 +83584,22 @@ envy
 murder, killing
 strife, discord
 deceit
-0
-0
-0
-0
-0
+
+
+
+
+
 arrogant, haughty
-0
-0
+
+
 evil, bad
 parents
 disobedient
 foolish
-0
-0
-0
-0
+
+
+
+
 the
 requirement; righteous deed
 the
@@ -83614,7 +83614,7 @@ worthy, fit
 death
 I am
 no, not
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I do, make
 but, rather, yet
@@ -83623,9 +83623,9 @@ I agree with, approve of
 the
 I do, accomplish
 therefore, for this reason
-0
+
 I am
-0
+
 human being, person
 all, every
 the
@@ -83662,7 +83662,7 @@ I do, accomplish
 I reckon, think
 but, and (frequently untranslated)
 this
-0
+
 human being, person
 the
 I judge
@@ -83688,7 +83688,7 @@ goodness, usefulness
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
 patience, steadfastness
@@ -83706,10 +83706,10 @@ I lead
 (with gen.) down, against; (with acc.) according to, along
 but, and (frequently untranslated)
 the
-0
+
 you
 and, also, likewise
-0
+
 heart
 I store up
 yourself
@@ -83719,7 +83719,7 @@ day
 anger, indignation
 and, also, likewise
 revelation
-0
+
 the
 God, god
 who, which, what
@@ -83760,7 +83760,7 @@ and, also, likewise
 anger, wrath
 affliction, tribulation
 and, also, likewise
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 all, every
 soul
@@ -83771,7 +83771,7 @@ the
 evil, bad
 Judean, Jewish
 and
-0
+
 and, also, likewise
 a Greek
 glory, brightness, splendor
@@ -83787,21 +83787,21 @@ the
 good
 Judean, Jewish
 and
-0
+
 and, also, likewise
 a Greek
 no, not
 for
 I am
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 God, god
 as great, how great; as far, how far
 for
-0
+
 I sin
-0
+
 and, also, likewise
 I ruin, destroy
 and, also, likewise
@@ -83815,7 +83815,7 @@ I judge
 no, not
 for
 the
-0
+
 law
 righteous, just
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -83842,21 +83842,21 @@ this
 law
 not
 I have, hold
-0
+
 I am
 law
-0
+
 I show, demonstrate
 the
 work, deed
 the
 law
-0
+
 (with dat.) in
 the
 heart
 he, she, it; himself, herself, itself; even, very; same
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 conscience
@@ -83864,7 +83864,7 @@ and, also, likewise
 between
 each other, one another
 the
-0
+
 I accuse
 or, either
 and, also, likewise
@@ -83890,9 +83890,9 @@ if
 but, and (frequently untranslated)
 you
 Judean, Jewish
-0
+
 and, also, likewise
-0
+
 law
 and, also, likewise
 I boast, glory
@@ -83920,13 +83920,13 @@ light
 the
 (with dat.) in
 darkness
-0
+
 foolish, ignorant
 teacher
 infant, minor
 I have, hold
 the
-0
+
 the
 knowledge
 and, also, likewise
@@ -83953,10 +83953,10 @@ not
 I commit adultery
 I commit adultery
 the
-0
+
 the
 image, idol
-0
+
 who, which, what
 (with dat.) in
 law
@@ -84080,20 +84080,20 @@ Judean, Jewish
 or, either
 who? which one? what?
 the
-0
+
 the
 circumcision
-0
+
 (with gen.) down, against; (with acc.) according to, along
 all, every
 manner, kind
-0
+
 indeed, on the one hand (but often untranslatable)
 for
 that, because, since
 I believe (in), trust
 the
-0
+
 the
 God, god
 who? which one? what?
@@ -84116,7 +84116,7 @@ I am, become, happen
 but, and (frequently untranslated)
 the
 God, god
-TRUE
+True
 all, every
 but, and (frequently untranslated)
 human being, person
@@ -84145,13 +84145,13 @@ God, god
 righteousness
 I present, introduce
 who? which one? what?
-0
+
 not
 unjust
 the
 God, god
 the
-0
+
 the
 anger, indignation
 (with gen.) down, against; (with acc.) according to, along
@@ -84175,7 +84175,7 @@ God, god
 (with dat.) in
 the
 my, mine
-0
+
 I have an abundance, am rich
 into, in
 the
@@ -84208,14 +84208,14 @@ good
 who, which, what
 the
 judgment, condemnation
-0
+
 I am
 who? which one? what?
 therefore, then
-0
+
 no, not
 certainly
-0
+
 for
 Judean, Jewish
 and
@@ -84244,9 +84244,9 @@ I search for
 the
 God, god
 all, every
-0
+
 together
-0
+
 no, not
 I am
 the
@@ -84259,14 +84259,14 @@ one
 grave, tomb
 I open
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 tongue, language
 he, she, it; himself, herself, itself; even, very; same
-0
-0
-0
+
+
+
 (with gen.) by; (with acc.) under
 the
 lip
@@ -84274,9 +84274,9 @@ he, she, it; himself, herself, itself; even, very; same
 who, which, what
 the
 mouth
-0
+
 and, also, likewise
-0
+
 I am full
 sharp
 the
@@ -84284,9 +84284,9 @@ foot
 he, she, it; himself, herself, itself; even, very; same
 I pour out
 blood
-0
+
 and, also, likewise
-0
+
 (with dat.) in
 the
 way
@@ -84319,9 +84319,9 @@ I speak
 in order that, that
 all, every
 mouth
-0
+
 and, also, likewise
-0
+
 I am, become, happen
 all, every
 the
@@ -84371,7 +84371,7 @@ I believe (in), trust
 no, not
 for
 I am
-0
+
 all, every
 for
 I sin
@@ -84394,10 +84394,10 @@ the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
 who, which, what
-0
+
 the
 God, god
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 faith, trust
 (with dat.) in
@@ -84405,24 +84405,24 @@ the
 he, she, it; himself, herself, itself; even, very; same
 blood
 into, in
-0
+
 the
 righteousness
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
-0
-0
+
+
 (with dat.) in
 the
-0
+
 the
 God, god
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 the
 righteousness
 he, she, it; himself, herself, itself; even, very; same
@@ -84445,7 +84445,7 @@ where?
 therefore, then
 the
 boasting
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 of what kind? which? what?
 law
@@ -84468,14 +84468,14 @@ or, either
 Judean, Jewish
 the
 God, god
-0
+
 not
 and, also, likewise
 nation, the Gentiles
 yes, indeed
 and, also, likewise
 nation, the Gentiles
-0
+
 one
 the
 God, god
@@ -84502,11 +84502,11 @@ law
 I place, set, stand
 who? which one? what?
 therefore, then
-0
+
 I find, discover
 Abraham
 the
-0
+
 I
 (with gen.) down, against; (with acc.) according to, along
 flesh
@@ -84548,7 +84548,7 @@ I reckon, think
 grace, favor
 but, rather, yet
 (with gen.) down, against; (with acc.) according to, along
-0
+
 the
 but, and (frequently untranslated)
 not
@@ -84571,7 +84571,7 @@ and, also, likewise
 David
 I say, tell
 the
-0
+
 the
 human being, person
 who, which, what
@@ -84588,7 +84588,7 @@ the
 lawlessness
 and, also, likewise
 who, which, what
-0
+
 the
 sin
 blessed, happy
@@ -84600,7 +84600,7 @@ I reckon, think
 master, lord, the Lord
 sin
 the
-0
+
 therefore, then
 this
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -84671,13 +84671,13 @@ the
 no, not
 from, out of
 circumcision
-0
+
 but, rather, yet
 and, also, likewise
 the
 I hold to, follow
 the
-0
+
 the
 (with dat.) in
 uncircumcision, the Gentiles
@@ -84696,7 +84696,7 @@ the
 Abraham
 or, either
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 heir
@@ -84747,13 +84747,13 @@ the
 promise
 all, every
 the
-0
+
 no, not
 the
 from, out of
 the
 law
-0
+
 but, rather, yet
 and, also, likewise
 the
@@ -84769,7 +84769,7 @@ as, just as
 I write
 that, because, since
 father
-0
+
 nation, the Gentiles
 I put, place
 you
@@ -84799,15 +84799,15 @@ the
 I am, become, happen
 he, she, it; himself, herself, itself; even, very; same
 father
-0
+
 nation, the Gentiles
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 in this manner, thus, so
 I am
 the
-0
+
 you
 and, also, likewise
 not
@@ -84816,18 +84816,18 @@ the
 faith, trust
 I consider
 the
-0
+
 body
-0
-0
-0
+
+
+
 I exist, am present
 and, also, likewise
 the
-0
+
 the
-0
-0
+
+
 into, in
 but, and (frequently untranslated)
 the
@@ -84866,7 +84866,7 @@ I write
 but, and (frequently untranslated)
 (with gen.) through; (with acc.) because of, for the sake of
 he, she, it; himself, herself, itself; even, very; same
-0
+
 that, because, since
 I reckon, think
 he, she, it; himself, herself, itself; even, very; same
@@ -84898,7 +84898,7 @@ and, also, likewise
 I raise
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 I
 I justify
 therefore, then
@@ -84919,7 +84919,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 who, which, what
 and, also, likewise
 the
-0
+
 I have, hold
 the
 faith, trust
@@ -84939,7 +84939,7 @@ glory, brightness, splendor
 the
 God, god
 no, not
-0
+
 but, and (frequently untranslated)
 but, rather, yet
 and, also, likewise
@@ -85004,7 +85004,7 @@ I die
 for
 the
 good
-0
+
 anyone, anything; someone, something
 and, also, likewise
 I dare
@@ -85012,7 +85012,7 @@ I die
 I present, introduce
 but, and (frequently untranslated)
 the
-0
+
 love
 into, in
 I
@@ -85027,7 +85027,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 (with gen.) on behalf of; (with acc.) above
 I
 I die
-0
+
 therefore, then
 more, rather
 I justify
@@ -85055,7 +85055,7 @@ death
 the
 son
 he, she, it; himself, herself, itself; even, very; same
-0
+
 more, rather
 I reconcile
 I save, deliver
@@ -85064,7 +85064,7 @@ the
 life
 he, she, it; himself, herself, itself; even, very; same
 no, not
-0
+
 but, and (frequently untranslated)
 but, rather, yet
 and, also, likewise
@@ -85082,7 +85082,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 who, which, what
 now
 the
-0
+
 I take, receive
 (with gen.) through; (with acc.) because of, for the sake of
 this
@@ -85124,7 +85124,7 @@ the world
 sin
 but, and (frequently untranslated)
 no, not
-0
+
 not
 I am
 law
@@ -85168,9 +85168,9 @@ the
 one
 transgression, sin
 the
-0
+
 I die
-0
+
 more, rather
 the
 grace, favor
@@ -85189,7 +85189,7 @@ Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 into, in
 the
-0
+
 I have an abundance, am rich
 and, also, likewise
 no, not
@@ -85198,7 +85198,7 @@ as, like, so
 one
 I sin
 the
-0
+
 the
 indeed, on the one hand (but often untranslatable)
 for
@@ -85206,12 +85206,12 @@ judgment, condemnation
 from, out of
 one
 into, in
-0
+
 the
 but, and (frequently untranslated)
 a gift
 from, out of
-0
+
 transgression, sin
 into, in
 requirement; righteous deed
@@ -85227,11 +85227,11 @@ I rule
 (with gen.) through; (with acc.) because of, for the sake of
 the
 one
-0
+
 more, rather
 the
 the
-0
+
 the
 grace, favor
 and, also, likewise
@@ -85258,7 +85258,7 @@ into, in
 all, every
 human being, person
 into, in
-0
+
 in this manner, thus, so
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
@@ -85268,20 +85268,20 @@ into, in
 all, every
 human being, person
 into, in
-0
+
 life
 (just) as
 for
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
 one
 human being, person
 sinful
 I set, constitute
 the
-0
+
 in this manner, thus, so
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
@@ -85292,10 +85292,10 @@ one
 righteous, just
 I set, constitute
 the
-0
+
 law
 but, and (frequently untranslated)
-0
+
 in order that, that
 I am/become more; I increase
 the
@@ -85305,7 +85305,7 @@ but, and (frequently untranslated)
 I am/become more; I increase
 the
 sin
-0
+
 the
 grace, favor
 in order that, that
@@ -85334,7 +85334,7 @@ master, lord, the Lord
 I
 who? which one? what?
 therefore, then
-0
+
 I remain, stay
 the
 sin
@@ -85344,7 +85344,7 @@ grace, favor
 I am/become more; I increase
 not
 I am, become, happen
-0
+
 I die
 the
 sin
@@ -85366,7 +85366,7 @@ the
 death
 he, she, it; himself, herself, itself; even, very; same
 I baptize
-0
+
 therefore, then
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
@@ -85390,12 +85390,12 @@ in this manner, thus, so
 and, also, likewise
 I
 (with dat.) in
-0
+
 life
 I go about, walk around
 if
 for
-0
+
 I am, become, happen
 the
 likeness, form
@@ -85442,7 +85442,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 I believe (in), trust
 that, because, since
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I know
 that, because, since
@@ -85473,7 +85473,7 @@ in this manner, thus, so
 and, also, likewise
 you
 I reckon, think
-0
+
 I am
 dead
 indeed, on the one hand (but often untranslatable)
@@ -85513,7 +85513,7 @@ the
 sin
 but, rather, yet
 I am present, stand by
-0
+
 the
 God, god
 as, like
@@ -85559,7 +85559,7 @@ I know
 that, because, since
 who, which, what
 I am present, stand by
-0
+
 slave
 into, in
 obedience
@@ -85567,7 +85567,7 @@ slave
 I am
 who, which, what
 I obey
-0
+
 sin
 into, in
 death
@@ -85682,7 +85682,7 @@ life
 eternal
 the
 for
-0
+
 the
 sin
 death
@@ -85718,7 +85718,7 @@ time
 I live
 the
 for
-0
+
 woman
 the
 I live
@@ -85829,15 +85829,15 @@ therefore, so that
 I am a slave, serve
 I
 (with dat.) in
-0
+
 breath, spirit
 and, also, likewise
 no, not
-0
+
 letter (of the alphabet), writing
 who? which one? what?
 therefore, then
-0
+
 the
 law
 sin
@@ -85895,7 +85895,7 @@ the
 commandment, order
 the
 sin
-0
+
 I
 but, and (frequently untranslated)
 I die
@@ -85976,7 +85976,7 @@ spiritual
 I am
 I
 but, and (frequently untranslated)
-0
+
 I am
 I sell
 (with gen.) by; (with acc.) under
@@ -86005,11 +86005,11 @@ no, not
 I wish, will
 this
 I do, make
-0
+
 the
 law
 that, because, since
-0
+
 now
 but, and (frequently untranslated)
 no more, no longer
@@ -86039,13 +86039,13 @@ good
 the
 for
 I wish, will
-0
+
 I
 the
 but, and (frequently untranslated)
 I achieve, bring about
 the
-0
+
 no, not
 no, not
 for
@@ -86087,13 +86087,13 @@ I wish, will
 I
 I do, make
 the
-0
+
 that, because, since
 I
 the
 evil, bad
-0
-0
+
+
 for
 the
 law
@@ -86111,14 +86111,14 @@ law
 the
 member, part
 I
-0
+
 the
 law
 the
 understanding, mind
 I
 and, also, likewise
-0
+
 I
 (with dat.) in
 the
@@ -86131,7 +86131,7 @@ I am
 the
 member, part
 I
-0
+
 I
 human being, person
 who? which one? what?
@@ -86170,7 +86170,7 @@ sin
 no one, nothing
 so, then
 now
-0
+
 the
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -86209,7 +86209,7 @@ flesh
 the
 God, god
 the
-0
+
 son
 I send
 (with dat.) in
@@ -86259,13 +86259,13 @@ the
 breath, spirit
 the
 for
-0
+
 the
 flesh
 death
 the
 but, and (frequently untranslated)
-0
+
 the
 breath, spirit
 life
@@ -86273,7 +86273,7 @@ and, also, likewise
 peace
 because, therefore
 the
-0
+
 the
 flesh
 enmity
@@ -86307,7 +86307,7 @@ flesh
 but, rather, yet
 (with dat.) in
 breath, spirit
-0
+
 breath, spirit
 God, god
 I live, inhabit
@@ -86425,13 +86425,13 @@ adoption
 (with dat.) in
 who, which, what
 I cry, call out
-0
+
 the
 father
 he, she, it; himself, herself, itself; even, very; same
 the
 breath, spirit
-0
+
 the
 breath, spirit
 I
@@ -86447,14 +86447,14 @@ heir
 heir
 indeed, on the one hand (but often untranslatable)
 God, god
-0
+
 but, and (frequently untranslated)
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
-0
+
+
 in order that, that
 and, also, likewise
-0
+
 I reckon, think
 for
 that, because, since
@@ -86474,7 +86474,7 @@ into, in
 I
 the
 for
-0
+
 the
 creation, creature
 the
@@ -86486,12 +86486,12 @@ God, god
 I await eagerly
 the
 for
-0
+
 the
 creation, creature
 I subject, subordinate
 no, not
-0
+
 but, rather, yet
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -86524,14 +86524,14 @@ that, because, since
 all, every
 the
 creation, creature
-0
+
 and, also, likewise
-0
+
 until
 the
 now
 no, not
-0
+
 but, and (frequently untranslated)
 but, rather, yet
 and, also, likewise
@@ -86545,7 +86545,7 @@ I
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
+
 I sigh, groan
 adoption
 I await eagerly
@@ -86584,7 +86584,7 @@ but, and (frequently untranslated)
 and, also, likewise
 the
 breath, spirit
-0
+
 the
 weakness
 I
@@ -86592,7 +86592,7 @@ the
 for
 who? which one? what?
 I pray
-0
+
 it is necessary, one must
 no, not
 I know
@@ -86600,9 +86600,9 @@ but, rather, yet
 he, she, it; himself, herself, itself; even, very; same
 the
 breath, spirit
-0
-0
-0
+
+
+
 the
 but, and (frequently untranslated)
 I search, examine
@@ -86611,7 +86611,7 @@ heart
 I know
 who? which one? what?
 the
-0
+
 the
 breath, spirit
 that, because, since
@@ -86641,7 +86641,7 @@ who, which, what
 I know beforehand
 and, also, likewise
 I predestine
-0
+
 the
 image
 the
@@ -86653,7 +86653,7 @@ I am
 he, she, it; himself, herself, itself; even, very; same
 first-born
 (with dat.) in
-0
+
 brother
 who, which, what
 but, and (frequently untranslated)
@@ -86675,7 +86675,7 @@ and, also, likewise
 I praise, honor, glorify
 who? which one? what?
 therefore, then
-0
+
 (with dat.) near, at; (with acc.) to, toward
 this
 if
@@ -86747,13 +86747,13 @@ the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 affliction, tribulation
 or, either
-0
+
 or, either
 persecution
 or, either
 hunger, famine
 or, either
-0
+
 or, either
 danger
 or, either
@@ -86770,12 +86770,12 @@ day
 I reckon, think
 as, like, so
 sheep
-0
+
 but, rather, yet
 (with dat.) in
 this
 all, every
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 I love
@@ -86798,7 +86798,7 @@ I am about to, intend
 neither, nor
 power, strength
 neither, nor
-0
+
 neither, nor
 depth
 neither, nor
@@ -86826,7 +86826,7 @@ I say, tell
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 no, not
 I lie
-0
+
 I
 the
 conscience
@@ -86840,8 +86840,8 @@ I
 I am
 large, great
 and, also, likewise
-0
-0
+
+
 the
 heart
 I
@@ -86863,7 +86863,7 @@ related, akin to
 I
 (with gen.) down, against; (with acc.) according to, along
 flesh
-0
+
 I am
 an Israelite
 who, which, what
@@ -86877,7 +86877,7 @@ the
 will, testament, covenant
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
 service, worship
@@ -86925,7 +86925,7 @@ Israel
 and not, nor; neither, nor
 that, because, since
 I am
-0
+
 Abraham
 all, every
 child
@@ -86934,7 +86934,7 @@ but, rather, yet
 Issac
 I call
 you
-0
+
 this
 I am
 no, not
@@ -86953,7 +86953,7 @@ the
 promise
 I reckon, think
 into, in
-0
+
 promise
 for
 the
@@ -86967,23 +86967,23 @@ I come, go
 and, also, likewise
 I am
 the
-0
+
 son
 no, not
-0
+
 but, and (frequently untranslated)
 but, rather, yet
 and, also, likewise
-0
+
 from, out of
 one
-0
+
 I have, hold
 Issac
 the
 father
 I
-0
+
 for
 I beget
 and not, but not
@@ -87007,14 +87007,14 @@ but, rather, yet
 from, out of
 the
 I call
-0
+
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 the
 large, great
 I am a slave, serve
 the
-0
+
 as, just as
 I write
 the
@@ -87022,11 +87022,11 @@ Jacob
 I love
 the
 but, and (frequently untranslated)
-0
+
 I hate
 who? which one? what?
 therefore, then
-0
+
 not
 wrongdoing, unrighteousness
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -87043,10 +87043,10 @@ who, which, what
 (an untranslatable conditional particle)
 I have mercy
 and, also, likewise
-0
+
 who, which, what
 (an untranslatable conditional particle)
-0
+
 so, then
 therefore, then
 no, not
@@ -87057,7 +87057,7 @@ the
 I run
 but, rather, yet
 the
-0
+
 God, god
 I say, tell
 for
@@ -87069,7 +87069,7 @@ that, because, since
 into, in
 he, she, it; himself, herself, itself; even, very; same
 this
-0
+
 you
 (adv.) how; (conj.) that, in order that
 I show, demonstrate
@@ -87080,7 +87080,7 @@ power, strength
 I
 and, also, likewise
 (adv.) how; (conj.) that, in order that
-0
+
 the
 name
 I
@@ -87097,34 +87097,34 @@ who, which, what
 but, and (frequently untranslated)
 I wish, will
 I harden
-0
+
 I
 therefore, then
 who? which one? what?
 yet, still
-0
+
 the
 for
-0
+
 he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
 I oppose, resist
-0
+
 human being, person
-0
+
 you
 who? which one? what?
 I am
 the
-0
+
 the
 God, god
 not
-0
+
 the
-0
+
 the
-0
+
 who? which one? what?
 I
 I do, make
@@ -87134,7 +87134,7 @@ no, not
 I have, hold
 power, authority
 the
-0
+
 the
 clay, mud
 from, out of
@@ -87166,7 +87166,7 @@ powerful
 he, she, it; himself, herself, itself; even, very; same
 I bear, carry
 (with dat.) in
-0
+
 patience, steadfastness
 vessel, jar
 anger, indignation
@@ -87185,7 +87185,7 @@ he, she, it; himself, herself, itself; even, very; same
 vessel, jar
 mercy, compassion
 who, which, what
-0
+
 into, in
 glory, brightness, splendor
 who, which, what
@@ -87193,7 +87193,7 @@ and, also, likewise
 I call
 I
 no, not
-0
+
 from, out of
 Judean, Jewish
 but, rather, yet
@@ -87204,7 +87204,7 @@ as, like, so
 and, also, likewise
 (with dat.) in
 the
-0
+
 I say, tell
 I call
 the
@@ -87224,7 +87224,7 @@ I am
 the
 place
 where, whither
-0
+
 he, she, it; himself, herself, itself; even, very; same
 no, not
 people
@@ -87254,13 +87254,13 @@ sand
 the
 sea
 the
-0
+
 I save, deliver
 word, Word
 for
 I complete, fulfill
 and, also, likewise
-0
+
 I do, make
 master, lord, the Lord
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -87273,22 +87273,22 @@ Isaiah
 if
 not
 master, lord, the Lord
-0
+
 I leave behind, forsake
 I
-0
+
 as, like, so
 Sodom
 (an untranslatable conditional particle)
 I am, become, happen
 and, also, likewise
 as, like, so
-0
+
 (an untranslatable conditional particle)
 I liken, compare
 who? which one? what?
 therefore, then
-0
+
 that, because, since
 nation, the Gentiles
 the
@@ -87450,7 +87450,7 @@ I lead up
 but, rather, yet
 who? which one? what?
 I say, tell
-0
+
 you
 the
 word, saying; thing, matter
@@ -87519,7 +87519,7 @@ I put to shame, dishonor
 no, not
 for
 I am
-0
+
 Judean, Jewish
 and
 and, also, likewise
@@ -87571,7 +87571,7 @@ I send away, send out
 as, just as
 I write
 as, like, so
-0
+
 the
 foot
 the
@@ -87608,19 +87608,19 @@ I say, tell
 not
 no, not
 I hear
-0
+
 into, in
 all, every
 the
 earth
 I go out, come out
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 into, in
 the
-0
+
 the
 the inhabited world
 the
@@ -87632,11 +87632,11 @@ not
 Israel
 no, not
 I know
-0
+
 Moses
 I say, tell
 I
-0
+
 you
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 no, not
@@ -87644,11 +87644,11 @@ nation, the Gentiles
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 nation, the Gentiles
 foolish
-0
+
 you
 Isaiah
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 I say, tell
 I find, discover
@@ -87656,7 +87656,7 @@ the
 I
 not
 I seek, look for, ask
-0
+
 I am, become, happen
 the
 I
@@ -87670,7 +87670,7 @@ I say, tell
 whole, complete
 the
 day
-0
+
 the
 hand
 I
@@ -87696,10 +87696,10 @@ I
 an Israelite
 I am
 from, out of
-0
+
 Abraham
 tribe, nation
-0
+
 no, not
 I repudiate
 the
@@ -87733,10 +87733,10 @@ I kill
 the
 altar
 you
-0
+
 and I, but I
-0
-0
+
+
 and, also, likewise
 I seek, look for, ask
 the
@@ -87747,17 +87747,17 @@ who? which one? what?
 I say, tell
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 I leave behind
 myself
-0
+
 man
-0
+
 no, not
-0
+
 knee
 the
-0
+
 in this manner, thus, so
 therefore, then
 and, also, likewise
@@ -87765,7 +87765,7 @@ and, also, likewise
 the
 now
 time, right time
-0
+
 (with gen.) down, against; (with acc.) according to, along
 election
 grace, favor
@@ -87796,7 +87796,7 @@ election
 I obtain, attain to
 the
 but, and (frequently untranslated)
-0
+
 I harden
 as, just as
 I write
@@ -87805,7 +87805,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 God, god
 breath, spirit
-0
+
 eye
 the
 not
@@ -87830,13 +87830,13 @@ into, in
 trap
 and, also, likewise
 into, in
-0
+
 and, also, likewise
 into, in
 that which gives offense, temptation to sin
 and, also, likewise
 into, in
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am/become dark
 the
@@ -87847,11 +87847,11 @@ not
 I see, look
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 all, every
-0
+
 I say, tell
 therefore, then
 not
@@ -87870,7 +87870,7 @@ the
 nation, the Gentiles
 into, in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 if
 but, and (frequently untranslated)
@@ -87881,7 +87881,7 @@ riches
 the world
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 riches
 nation, the Gentiles
@@ -87909,7 +87909,7 @@ I
 I praise, honor, glorify
 if
 how?
-0
+
 I
 the
 flesh
@@ -87921,13 +87921,13 @@ he, she, it; himself, herself, itself; even, very; same
 if
 for
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the world
 who? which one? what?
 the
-0
+
 if
 not
 life
@@ -87954,30 +87954,30 @@ but, and (frequently untranslated)
 anyone, anything; someone, something
 the
 branch
-0
+
 you
 but, and (frequently untranslated)
-0
+
 I am
 I graft
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 root
 the
-0
+
 the
 olive tree
 I am, become, happen
 not
-0
+
 the
 branch
 if
 but, and (frequently untranslated)
-0
+
 no, not
 you
 the
@@ -87987,9 +87987,9 @@ but, rather, yet
 the
 root
 you
-0
+
 therefore, then
-0
+
 branch
 in order that, that
 I
@@ -87997,7 +87997,7 @@ I graft
 well, beautifully
 the
 unfaithfulness, unbelief
-0
+
 you
 but, and (frequently untranslated)
 the
@@ -88025,13 +88025,13 @@ I see
 therefore, then
 goodness, usefulness
 and, also, likewise
-0
+
 God, god
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 indeed, on the one hand (but often untranslatable)
 the
 I fall
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 but, and (frequently untranslated)
 you
@@ -88069,13 +88069,13 @@ the
 (with gen.) down, against; (with acc.) according to, along
 nature
 I cut off, cut down
-0
+
 and, also, likewise
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 nature
 I graft
 into, in
-0
+
 how great? how much? how many?
 more, rather
 this
@@ -88099,10 +88099,10 @@ in order that, that
 not
 I am
 (with dat.) in
-0
+
 sensible, thoughtful
 that, because, since
-0
+
 (with gen.) from, away from
 part
 the
@@ -88158,7 +88158,7 @@ beloved, dear
 (with gen.) through; (with acc.) because of, for the sake of
 the
 father
-0
+
 for
 the
 a gift
@@ -88193,7 +88193,7 @@ and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 now
 I have mercy
-0
+
 for
 the
 God, god
@@ -88205,7 +88205,7 @@ in order that, that
 the
 all, every
 I have mercy
-0
+
 depth
 riches
 and, also, likewise
@@ -88214,12 +88214,12 @@ and, also, likewise
 knowledge
 God, god
 as, like, so
-0
+
 the
 judgment, condemnation
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 the
 way
 he, she, it; himself, herself, itself; even, very; same
@@ -88230,12 +88230,12 @@ understanding, mind
 master, lord, the Lord
 or, either
 who? which one? what?
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am, become, happen
 or, either
 who? which one? what?
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I repay, return
@@ -88278,19 +88278,19 @@ the
 God, god
 pleasing, acceptable
 the
-0
+
 service, worship
 you
 and, also, likewise
 not
-0
+
 the
 age, eternity
 this
 but, rather, yet
-0
+
 the
-0
+
 the
 understanding, mind
 into, in
@@ -88322,7 +88322,7 @@ I am
 (with dat.) in
 you
 not
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 who, which, what
 it is necessary, one must
@@ -88344,7 +88344,7 @@ for
 (with dat.) in
 one
 body
-0
+
 member, part
 I have, hold
 the
@@ -88358,7 +88358,7 @@ I have, hold
 acting, deed
 in this manner, thus, so
 the
-0
+
 one
 body
 I am
@@ -88379,12 +88379,12 @@ grace, favor
 the
 I give
 I
-0
+
 if, whether
 prophecy
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 the
 faith, trust
 if, whether
@@ -88415,11 +88415,11 @@ haste; eagerness
 the
 I have mercy
 (with dat.) in
-0
+
 the
 love
 genuine, sincere
-0
+
 the
 wicked, bad
 I cling to, join
@@ -88429,18 +88429,18 @@ the
 love of brother or sister
 into, in
 each other, one another
-0
+
 the
 price, value, honor
 each other, one another
-0
+
 the
 haste; eagerness
 not
-0
+
 the
 breath, spirit
-0
+
 the
 master, lord, the Lord
 I am a slave, serve
@@ -88459,7 +88459,7 @@ the
 holy
 I share, participate
 the
-0
+
 I hasten; I pursue, persecute
 I bless
 the
@@ -88486,19 +88486,19 @@ I think
 but, rather, yet
 the
 lowly, humble
-0
+
 not
 I am, become, happen
 sensible, thoughtful
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
-0
+
 no one, nothing
 evil, bad
 (with gen.) in place of, for
 evil, bad
 I give away, give up; I render
-0
-0
+
+
 before
 all, every
 human being, person
@@ -88510,9 +88510,9 @@ you
 (with gen.) with; (with acc.) after, behind
 all, every
 human being, person
-0
+
 not
-0
+
 I avenge someone
 beloved, dear
 but, rather, yet
@@ -88534,7 +88534,7 @@ I hunger
 the
 hostile; (as a noun) enemy
 you
-0
+
 he, she, it; himself, herself, itself; even, very; same
 if
 I thirst
@@ -88543,9 +88543,9 @@ he, she, it; himself, herself, itself; even, very; same
 this
 for
 I do, make
-0
+
 fire
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 head
@@ -88590,12 +88590,12 @@ power, authority
 the
 the
 God, god
-0
+
 I oppose, resist
 the
 but, and (frequently untranslated)
 I oppose, resist
-0
+
 judgment, condemnation
 I take, receive
 the
@@ -88648,7 +88648,7 @@ God, god
 for
 deacon
 I am
-0
+
 into, in
 anger, indignation
 the
@@ -88659,7 +88659,7 @@ therefore, for this reason
 necessity, distress
 I subject, subordinate
 no, not
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 anger, indignation
@@ -88685,7 +88685,7 @@ I hold fast to
 I give away, give up; I render
 all, every
 the
-0
+
 the
 the
 tribute, tax
@@ -88740,7 +88740,7 @@ commandment, order
 the
 word, Word
 this
-0
+
 (with dat.) in
 the
 I love
@@ -88775,7 +88775,7 @@ sleep
 I raise
 now
 for
-0
+
 I
 the
 salvation, deliverance
@@ -88804,14 +88804,14 @@ light
 as, like, so
 (with dat.) in
 day
-0
+
 I go about, walk around
 not
-0
+
 and, also, likewise
-0
+
 not
-0
+
 and, also, likewise
 licentiousness, sensuality
 not
@@ -88827,7 +88827,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 and, also, likewise
 the
 flesh
-0
+
 not
 I do, make
 into, in
@@ -88840,31 +88840,31 @@ faith, trust
 I receive, accept
 not
 into, in
-0
+
 thought, doubt, dispute
 who, which, what
 indeed, on the one hand (but often untranslatable)
 I believe (in), trust
-0
+
 all, every
 the
 but, and (frequently untranslated)
 I am weak, sick
-0
-0
+
+
 the
-0
+
 the
 not
-0
+
 not
 I despise, reject
 the
 but, and (frequently untranslated)
 not
-0
+
 the
-0
+
 not
 I judge
 the
@@ -88878,7 +88878,7 @@ I am
 the
 I judge
 belonging to another, strange
-0
+
 the
 one’s own
 master, lord, the Lord
@@ -88887,7 +88887,7 @@ or, either
 I fall
 I place, set, stand
 but, and (frequently untranslated)
-0
+
 for
 the
 master, lord, the Lord
@@ -88919,9 +88919,9 @@ master, lord, the Lord
 I think
 and, also, likewise
 the
-0
+
 master, lord, the Lord
-0
+
 I give thanks
 for
 the
@@ -88929,10 +88929,10 @@ God, god
 and, also, likewise
 the
 not
-0
+
 master, lord, the Lord
 no, not
-0
+
 and, also, likewise
 I give thanks
 the
@@ -88940,11 +88940,11 @@ God, god
 no one, nothing
 for
 I
-0
+
 I live
 and, also, likewise
 no one, nothing
-0
+
 I die
 if
 and
@@ -89012,7 +89012,7 @@ I say, tell
 master, lord, the Lord
 that, because, since
 I
-0
+
 all, every
 knee
 and, also, likewise
@@ -89026,7 +89026,7 @@ therefore, then
 each, every
 I
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 word, Word
 I give
 the
@@ -89057,7 +89057,7 @@ that, because, since
 no one, nothing
 communal, common
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 if
 not
 the
@@ -89104,7 +89104,7 @@ the
 God, god
 eating, rust, food
 and, also, likewise
-0
+
 but, rather, yet
 righteousness
 and, also, likewise
@@ -89159,12 +89159,12 @@ human being, person
 the
 (with gen.) through; (with acc.) because of, for the sake of
 stumbling, offense
-0
-0
+
+
 the
 not
-0
-0
+
+
 and not, but not
 I drink
 wine
@@ -89189,7 +89189,7 @@ blessed, happy
 the
 not
 I judge
-0
+
 (with dat.) in
 who, which, what
 I test, examine, approve
@@ -89197,7 +89197,7 @@ the
 but, and (frequently untranslated)
 I differentiate; (mid.) I doubt
 if
-0
+
 I condemn
 that, because, since
 no, not
@@ -89217,13 +89217,13 @@ I
 the
 powerful
 the
-0
+
 the
 powerless
 I bear
 and, also, likewise
 not
-0
+
 I please
 each, every
 I
@@ -89240,7 +89240,7 @@ for
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 no, not
-0
+
 I please
 but, rather, yet
 as, just as
@@ -89255,7 +89255,7 @@ I fall upon
 I
 as great, how great; as far, how far
 for
-0
+
 into, in
 the
 our
@@ -89392,7 +89392,7 @@ Jesse
 and, also, likewise
 the
 I raise, rise, stand up
-0
+
 nation, the Gentiles
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
@@ -89437,7 +89437,7 @@ and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 full
 I am
-0
+
 I fill, make full, finish
 all, every
 the
@@ -89446,14 +89446,14 @@ I can
 and, also, likewise
 each other, one another
 I admonish, instruct
-0
+
 but, and (frequently untranslated)
 I write
 you
 (with gen.) from, away from
 part
 as, like, so
-0
+
 you
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -89474,7 +89474,7 @@ Jesus, Joshua
 into, in
 the
 nation, the Gentiles
-0
+
 the
 the Good News, Gospel
 the
@@ -89535,7 +89535,7 @@ and, also, likewise
 (all) around
 until
 the
-0
+
 I fill, make full, finish
 the
 the Good News, Gospel
@@ -89543,7 +89543,7 @@ the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 in this manner, thus, so
 but, and (frequently untranslated)
-0
+
 I preach the Good News
 no, not
 where, insofar as
@@ -89573,7 +89573,7 @@ therefore, for this reason
 and, also, likewise
 I hinder, thwart
 the
-0
+
 the
 I come, go
 (with dat.) near, at; (with acc.) to, toward
@@ -89585,9 +89585,9 @@ place
 I have, hold
 (with dat.) in
 the
-0
+
 this
-0
+
 but, and (frequently untranslated)
 I have, hold
 the
@@ -89602,7 +89602,7 @@ as, like, so
 I go, proceed
 into, in
 the
-0
+
 I hope, hope for
 for
 I go through
@@ -89615,10 +89615,10 @@ I accompany
 there, to that place
 if
 you
-0
+
 (with gen.) from, away from
 part
-0
+
 now
 but, and (frequently untranslated)
 I go, proceed
@@ -89662,7 +89662,7 @@ and, also, likewise
 (with dat.) in
 the
 fleshly, in the manner of flesh
-0
+
 he, she, it; himself, herself, itself; even, very; same
 this
 therefore, then
@@ -89677,7 +89677,7 @@ I go away
 (with gen.) through; (with acc.) because of, for the sake of
 you
 into, in
-0
+
 I know
 but, and (frequently untranslated)
 that, because, since
@@ -89705,7 +89705,7 @@ the
 love
 the
 breath, spirit
-0
+
 I
 (with dat.) in
 the
@@ -89743,7 +89743,7 @@ you
 (with gen.) through; (with acc.) because of, for the sake of
 will
 God, god
-0
+
 you
 the
 but, and (frequently untranslated)
@@ -89757,7 +89757,7 @@ so let it be, truly, amen
 I present, introduce
 but, and (frequently untranslated)
 you
-0
+
 the
 sister
 I
@@ -89767,7 +89767,7 @@ the
 church, congregation
 the
 (with dat.) in
-0
+
 in order that, that
 he, she, it; himself, herself, itself; even, very; same
 I receive, welcome; I wait for
@@ -89788,14 +89788,14 @@ deed, thing
 and, also, likewise
 for
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 I am, become, happen
 and, also, likewise
 I
 he, she, it; himself, herself, itself; even, very; same
 I greet
-0
+
 and, also, likewise
 Aquila
 the
@@ -89804,19 +89804,19 @@ I
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
-0
+
 (with gen.) on behalf of; (with acc.) above
 the
 soul
 I
 the
-0
+
 neck, throat
-0
+
 who, which, what
 no, not
 I
-0
+
 I give thanks
 but, rather, yet
 and, also, likewise
@@ -89832,7 +89832,7 @@ house, dwelling
 he, she, it; himself, herself, itself; even, very; same
 church, congregation
 I greet
-0
+
 the
 beloved, dear
 I
@@ -89845,24 +89845,24 @@ into, in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I greet
 Mary
-0
-0
+
+
 I work
 into, in
 you
 I greet
-0
+
 and, also, likewise
-0
+
 the
 related, akin to
 I
 and, also, likewise
-0
+
 I
-0
+
 I am
-0
+
 (with dat.) in
 the
 apostle
@@ -89874,26 +89874,26 @@ I am, become, happen
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I greet
-0
+
 the
 beloved, dear
 I
 (with dat.) in
 master, lord, the Lord
 I greet
-0
+
 the
 helper, fellow-worker
 I
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 and, also, likewise
-0
+
 the
 beloved, dear
 I
 I greet
-0
+
 the
 approved, genuine
 (with dat.) in
@@ -89902,9 +89902,9 @@ I greet
 the
 from, out of
 the
-0
+
 I greet
-0
+
 the
 related, akin to
 I
@@ -89912,30 +89912,30 @@ I greet
 the
 from, out of
 the
-0
+
 the
 I am
 (with dat.) in
 master, lord, the Lord
 I greet
-0
+
 and, also, likewise
-0
+
 the
 I work
 (with dat.) in
 master, lord, the Lord
 I greet
-0
+
 the
 beloved, dear
-0
-0
+
+
 I work
 (with dat.) in
 master, lord, the Lord
 I greet
-0
+
 the
 chosen, select
 (with dat.) in
@@ -89947,27 +89947,27 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I
 I greet
-0
-0
-0
-0
-0
+
+
+
+
+
 and, also, likewise
 the
 (with dat.) with
 he, she, it; himself, herself, itself; even, very; same
 brother
 I greet
-0
+
 and, also, likewise
-0
-0
+
+
 and, also, likewise
 the
 sister
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 and, also, likewise
 the
 (with dat.) with
@@ -89993,7 +89993,7 @@ brother
 I look out for, notice
 the
 the
-0
+
 and, also, likewise
 the
 that which gives offense, temptation to sin
@@ -90005,7 +90005,7 @@ you
 I learn
 I do, make
 and, also, likewise
-0
+
 (with gen.) from, away from
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -90019,26 +90019,26 @@ no, not
 I am a slave, serve
 but, rather, yet
 the
-0
+
 womb, belly
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 and, also, likewise
 praise, blessing
 I deceive, cheat
 the
 heart
 the
-0
+
 the
 for
 you
 obedience
 into, in
 all, every
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 you
 therefore, then
@@ -90051,7 +90051,7 @@ I am
 into, in
 the
 good
-0
+
 but, and (frequently untranslated)
 into, in
 the
@@ -90085,18 +90085,18 @@ the
 helper, fellow-worker
 I
 and, also, likewise
-0
+
 and, also, likewise
 Jason
 and, also, likewise
-0
+
 the
 related, akin to
 I
 I greet
 you
 I
-0
+
 the
 I write
 the
@@ -90115,13 +90115,13 @@ the
 church, congregation
 I greet
 you
-0
+
 the
 house steward
 the
 city
 and, also, likewise
-0
+
 the
 brother
 the
@@ -90150,7 +90150,7 @@ now
 (with gen.) through; (with acc.) because of, for the sake of
 and
 writing
-0
+
 (with gen.) down, against; (with acc.) according to, along
 order
 the
@@ -90164,7 +90164,7 @@ all, every
 the
 nation, the Gentiles
 I make known, reveal
-0
+
 wise
 God, god
 (with gen.) through; (with acc.) because of, for the sake of
@@ -90188,7 +90188,7 @@ Jesus, Joshua
 will
 God, god
 and, also, likewise
-0
+
 the
 brother
 the
@@ -90254,7 +90254,7 @@ Jesus, Joshua
 that, because, since
 (with dat.) in
 all, every
-0
+
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
@@ -90361,7 +90361,7 @@ brother
 I
 (with gen.) by; (with acc.) under
 the
-0
+
 that, because, since
 strife, discord
 (with dat.) in
@@ -90408,7 +90408,7 @@ you
 I baptize
 if
 not
-0
+
 and, also, likewise
 Gaius
 in order that, that
@@ -90425,9 +90425,9 @@ I baptize
 but, and (frequently untranslated)
 and, also, likewise
 the
-0
+
 house, dwelling
-0
+
 no, not
 I know
 if
@@ -90482,19 +90482,19 @@ and, also, likewise
 the
 understanding
 the
-0
+
 I reject
 where?
 wise
 where?
 scribe
 where?
-0
+
 the
 age, eternity
 this
 not
-0
+
 the
 God, god
 the
@@ -90587,16 +90587,16 @@ you
 brother
 that, because, since
 no, not
-0
+
 wise
 (with gen.) down, against; (with acc.) according to, along
 flesh
 no, not
-0
+
 powerful
 no, not
-0
-0
+
+
 but, rather, yet
 the
 foolish, stupid
@@ -90623,7 +90623,7 @@ the
 strong, powerful
 and, also, likewise
 the
-0
+
 the
 the world
 and, also, likewise
@@ -90683,7 +90683,7 @@ brother
 I come, go
 no, not
 (with gen.) down, against; (with acc.) according to, along
-0
+
 word, Word
 or, either
 wisdom
@@ -90716,7 +90716,7 @@ fear
 and, also, likewise
 (with dat.) in
 trembling
-0
+
 I am, become, happen
 (with dat.) near, at; (with acc.) to, toward
 you
@@ -90730,12 +90730,12 @@ proclamation, preaching
 I
 no, not
 (with dat.) in
-0
+
 wisdom
 word, Word
 but, rather, yet
 (with dat.) in
-0
+
 breath, spirit
 and, also, likewise
 power, strength
@@ -90779,7 +90779,7 @@ wisdom
 (with dat.) in
 mystery, secret rites
 the
-0
+
 who, which, what
 I predestine
 the
@@ -90907,17 +90907,17 @@ and, also, likewise
 I speak
 no, not
 (with dat.) in
-0
+
 human
 wisdom
 word, Word
 but, rather, yet
 (with dat.) in
-0
+
 breath, spirit
 spiritual
 spiritual
-0
+
 unspiritual
 but, and (frequently untranslated)
 human being, person
@@ -90937,7 +90937,7 @@ no, not
 I can
 I know
 that, because, since
-0
+
 I question, examine
 the
 but, and (frequently untranslated)
@@ -90973,7 +90973,7 @@ as, like, so
 spiritual
 but, rather, yet
 as, like, so
-0
+
 as, like, so
 infant, minor
 (with dat.) in
@@ -91086,7 +91086,7 @@ for
 I am
 helper, fellow-worker
 God, god
-0
+
 God, god
 building, edification; a building
 I am
@@ -91100,7 +91100,7 @@ I give
 I
 as, like, so
 wise
-0
+
 foundation
 I put, place
 another, other
@@ -91137,7 +91137,7 @@ stone
 valuable, precious
 wood, tree; cross
 grass, hay
-0
+
 each, every
 the
 work, deed
@@ -91216,11 +91216,11 @@ the
 God, god
 holy
 I am
-0
+
 I am
 you
 no one, nothing
-0
+
 I deceive, cheat
 if
 anyone, anything; someone, something
@@ -91252,7 +91252,7 @@ I am
 I write
 for
 the
-0
+
 the
 wise
 (with dat.) in
@@ -91315,7 +91315,7 @@ house steward
 mystery, secret rites
 God, god
 here
-0
+
 I seek, look for, ask
 (with dat.) in
 the
@@ -91327,7 +91327,7 @@ I find, discover
 I
 but, and (frequently untranslated)
 into, in
-0
+
 I am
 in order that, that
 (with gen.) by; (with acc.) under
@@ -91344,7 +91344,7 @@ I question, examine
 no one, nothing
 for
 myself
-0
+
 but, rather, yet
 no, not
 (with dat.) in
@@ -91438,7 +91438,7 @@ as, like, so
 not
 I take, receive
 now, already
-0
+
 I am
 now, already
 I am rich, become rich
@@ -91446,14 +91446,14 @@ without, apart from
 I
 I rule
 and, also, likewise
-0
+
 (usually untranslatable particle, emphasizing the word it follows)
 I rule
 in order that, that
 and, also, likewise
 I
 you
-0
+
 I think, believe; I seem
 for
 the
@@ -91462,11 +91462,11 @@ I
 the
 apostle
 last
-0
+
 as, like, so
-0
+
 that, because, since
-0
+
 I am, become, happen
 the
 the world
@@ -91489,10 +91489,10 @@ you
 but, and (frequently untranslated)
 strong, powerful
 you
-0
+
 I
 but, and (frequently untranslated)
-0
+
 until
 the
 now, just
@@ -91502,30 +91502,30 @@ I hunger
 and, also, likewise
 I thirst
 and, also, likewise
-0
+
 and, also, likewise
 I strike
 and, also, likewise
-0
+
 and, also, likewise
 I work
 I work, do, accomplish
 the
 one’s own
 hand
-0
+
 I bless
 I hasten; I pursue, persecute
 I endure
-0
+
 I invite; I exhort; I comfort
 as, like, so
-0
+
 the
 the world
 I am, become, happen
 all, every
-0
+
 until
 now, just
 no, not
@@ -91541,14 +91541,14 @@ beloved, dear
 I admonish, instruct
 if
 for
-0
-0
+
+
 I have, hold
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 but, rather, yet
 no, not
-0
+
 father
 (with dat.) in
 for
@@ -91649,7 +91649,7 @@ love
 breath, spirit
 and
 gentleness, humility, meekness
-0
+
 I hear
 (with dat.) in
 you
@@ -91657,7 +91657,7 @@ prostitution, unchastity
 and, also, likewise
 of such a kind, such as this
 prostitution, unchastity
-0
+
 and not, nor; neither, nor
 (with dat.) in
 the
@@ -91729,7 +91729,7 @@ of such a kind, such as this
 the
 the Adversary, Satan
 into, in
-0
+
 the
 flesh
 in order that, that
@@ -91742,7 +91742,7 @@ day
 the
 master, lord, the Lord
 no, not
-0
+
 the
 boast, object of boasting
 you
@@ -91754,8 +91754,8 @@ yeast, leaven
 whole, complete
 the
 dough
-0
-0
+
+
 the
 old
 yeast, leaven
@@ -91769,12 +91769,12 @@ unleavened
 and, also, likewise
 for
 the
-0
+
 I
 I sacrifice
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 therefore, so that
-0
+
 not
 (with dat.) in
 yeast, leaven
@@ -91788,7 +91788,7 @@ wickedness, sinfulness
 but, rather, yet
 (with dat.) in
 unleavened
-0
+
 and, also, likewise
 truth, truthfulness
 I write
@@ -91797,7 +91797,7 @@ you
 the
 letter, epistle
 not
-0
+
 a sexually immoral person
 no, not
 certainly
@@ -91808,7 +91808,7 @@ the world
 this
 or, either
 the
-0
+
 and, also, likewise
 rapacious; (as a noun) robber
 or, either
@@ -91825,7 +91825,7 @@ but, and (frequently untranslated)
 I write
 you
 not
-0
+
 if
 anyone, anything; someone, something
 brother
@@ -91833,13 +91833,13 @@ I name
 I am
 a sexually immoral person
 or, either
-0
+
 or, either
 idolater
 or, either
-0
+
 or, either
-0
+
 or, either
 rapacious; (as a noun) robber
 the
@@ -91863,7 +91863,7 @@ outside, out
 the
 God, god
 I judge
-0
+
 the
 wicked, bad
 from, out of
@@ -91902,21 +91902,21 @@ you
 I judge
 the
 the world
-0
+
 I am
-0
-0
+
+
 no, not
 I know
 that, because, since
 angel, messenger
 I judge
-0
-0
-0
+
+
+
 indeed, on the one hand (but often untranslatable)
 therefore, then
-0
+
 if
 I have, hold
 the
@@ -91927,7 +91927,7 @@ church, congregation
 this
 I sit down, cause to sit down; stay (intrans.)
 (with dat.) near, at; (with acc.) to, toward
-0
+
 you
 I say, tell
 in this manner, thus, so
@@ -91957,15 +91957,15 @@ faithless, unbelieving
 now, already
 indeed, on the one hand (but often untranslatable)
 therefore, then
-0
-0
+
+
 you
 I am
 that, because, since
 judgment, condemnation
 I have, hold
 (with gen.) with; (with acc.) after, behind
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 who? which one? what?
 not
@@ -92000,19 +92000,19 @@ a sexually immoral person
 neither, nor
 idolater
 neither, nor
-0
+
 neither, nor
-0
+
 neither, nor
-0
+
 neither, nor
 thief
 neither, nor
-0
+
 no, not
-0
+
 no, not
-0
+
 no, not
 rapacious; (as a noun) robber
 kingdom, reign
@@ -92023,7 +92023,7 @@ this
 anyone, anything; someone, something
 I am
 but, rather, yet
-0
+
 but, rather, yet
 I make holy, sanctify
 but, rather, yet
@@ -92055,7 +92055,7 @@ it is permitted, possible
 but, rather, yet
 no, not
 I
-0
+
 (with gen.) by; (with acc.) under
 anyone, anything; someone, something
 the
@@ -92098,7 +92098,7 @@ master, lord, the Lord
 I raise
 and, also, likewise
 I
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 power, strength
@@ -92154,7 +92154,7 @@ I flee
 the
 prostitution, unchastity
 all, every
-0
+
 who, which, what
 if
 I do, make
@@ -92192,7 +92192,7 @@ God, god
 and, also, likewise
 no, not
 I am
-0
+
 I buy
 for
 price, value, honor
@@ -92208,18 +92208,18 @@ you
 but, and (frequently untranslated)
 who, which, what
 I write
-0
+
 human being, person
 woman
 not
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 but, and (frequently untranslated)
 the
 prostitution, unchastity
 each, every
 the
-0
+
 woman
 I have, hold
 and, also, likewise
@@ -92233,7 +92233,7 @@ woman
 the
 man
 the
-0
+
 I give away, give up; I render
 likewise, so, similarly
 but, and (frequently untranslated)
@@ -92248,7 +92248,7 @@ the
 one’s own
 body
 no, not
-0
+
 but, rather, yet
 the
 man
@@ -92261,7 +92261,7 @@ the
 one’s own
 body
 no, not
-0
+
 but, rather, yet
 the
 woman
@@ -92272,11 +92272,11 @@ if
 (a usually untranslated particle in questions that expect a negative answer)
 (an untranslatable conditional particle)
 from, out of
-0
+
 (with dat.) near, at; (with acc.) to, toward
 time, right time
 in order that, that
-0
+
 the
 prayer
 and, also, likewise
@@ -92293,13 +92293,13 @@ the
 the Adversary, Satan
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 you
 this
 but, and (frequently untranslated)
 I say, tell
 (with gen.) down, against; (with acc.) according to, along
-0
+
 no, not
 (with gen.) down, against; (with acc.) according to, along
 order
@@ -92327,11 +92327,11 @@ in this manner, thus, so
 I say, tell
 but, and (frequently untranslated)
 the
-0
+
 and, also, likewise
 the
 widow
-0
+
 he, she, it; himself, herself, itself; even, very; same
 if
 I remain, stay
@@ -92340,9 +92340,9 @@ and I, but I
 if
 but, and (frequently untranslated)
 no, not
-0
+
 I marry
-0
+
 for
 I am
 I marry
@@ -92367,7 +92367,7 @@ but, and (frequently untranslated)
 and, also, likewise
 I divide, separate
 I remain, stay
-0
+
 or, either
 the
 man
@@ -92379,7 +92379,7 @@ not
 I leave, let go, pardon
 the
 but, and (frequently untranslated)
-0
+
 I say, tell
 I
 no, not
@@ -92402,7 +92402,7 @@ I leave, let go, pardon
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 woman
-0
+
 I have, hold
 man
 faithless, unbelieving
@@ -92509,7 +92509,7 @@ I circumcise
 anyone, anything; someone, something
 I call
 not
-0
+
 (with dat.) in
 uncircumcision, the Gentiles
 I call
@@ -92526,7 +92526,7 @@ uncircumcision, the Gentiles
 no one, nothing
 I am
 but, rather, yet
-0
+
 commandment, order
 God, god
 each, every
@@ -92557,7 +92557,7 @@ for
 master, lord, the Lord
 I call
 slave
-0
+
 master, lord, the Lord
 I am
 likewise, so, similarly
@@ -92603,14 +92603,14 @@ I am
 I think, believe
 therefore, then
 this
-0
+
 I exist, am present
 (with gen.) through; (with acc.) because of, for the sake of
 the
 I have come, am present
 necessity, distress
 that, because, since
-0
+
 human being, person
 the
 in this manner, thus, so
@@ -92619,7 +92619,7 @@ I bind, tie
 woman
 not
 I seek, look for, ask
-0
+
 I loose, set free
 (with gen.) from, away from
 woman
@@ -92656,10 +92656,10 @@ I say
 brother
 the
 time, right time
-0
+
 I am
 the
-0
+
 in order that, that
 and, also, likewise
 the
@@ -92694,21 +92694,21 @@ the
 the world
 as, like, so
 not
-0
+
 I go away, pass by
 for
 the
-0
+
 the
 the world
 this
 I wish, will
 but, and (frequently untranslated)
 you
-0
+
 I am
 the
-0
+
 I am anxious; I care for
 the
 the
@@ -92734,7 +92734,7 @@ and, also, likewise
 the
 woman
 the
-0
+
 and, also, likewise
 the
 virgin
@@ -92768,11 +92768,11 @@ but, and (frequently untranslated)
 the
 you
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I say, tell
 no, not
 in order that, that
-0
+
 you
 I put around, clothe
 but, rather, yet
@@ -92780,14 +92780,14 @@ but, rather, yet
 the
 prominent, of high repute
 and, also, likewise
-0
+
 the
 master, lord, the Lord
-0
+
 if
 but, and (frequently untranslated)
 anyone, anything; someone, something
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 virgin
@@ -92795,7 +92795,7 @@ he, she, it; himself, herself, itself; even, very; same
 I think, believe
 if
 I am
-0
+
 and, also, likewise
 in this manner, thus, so
 I owe
@@ -92813,7 +92813,7 @@ I place, set, stand
 the
 heart
 he, she, it; himself, herself, itself; even, very; same
-0
+
 not
 I have, hold
 necessity, distress
@@ -92833,7 +92833,7 @@ one’s own
 heart
 I keep, observe
 the
-0
+
 virgin
 well, beautifully
 I do, make
@@ -92842,7 +92842,7 @@ and, also, likewise
 the
 I give in marriage
 the
-0
+
 virgin
 well, beautifully
 I do, make
@@ -92850,7 +92850,7 @@ and, also, likewise
 the
 not
 I give in marriage
-0
+
 I do, make
 woman
 I bind, tie
@@ -92871,7 +92871,7 @@ I am
 who, which, what
 I wish, will
 I marry
-0
+
 (with dat.) in
 master, lord, the Lord
 blessed, happy
@@ -92947,7 +92947,7 @@ not
 one
 and, also, likewise
 for
-0
+
 I am
 I say, tell
 God, god
@@ -92960,10 +92960,10 @@ earth
 (just) as
 I am
 God, god
-0
+
 and, also, likewise
 master, lord, the Lord
-0
+
 but, rather, yet
 I
 one
@@ -93000,21 +93000,21 @@ knowledge
 anyone, anything; someone, something
 but, and (frequently untranslated)
 the
-0
+
 until
 now, just
 the
 image, idol
 as, like, so
 offered to an idol
-0
+
 and, also, likewise
 the
 conscience
 he, she, it; himself, herself, itself; even, very; same
 weak, powerless
 I am
-0
+
 food
 but, and (frequently untranslated)
 I
@@ -93025,11 +93025,11 @@ God, god
 neither, nor
 if
 not
-0
+
 I am in need, fail; (pass.) I lack
 neither, nor
 if
-0
+
 I have an abundance, am rich
 I see, look
 but, and (frequently untranslated)
@@ -93052,7 +93052,7 @@ the
 I have, hold
 knowledge
 (with dat.) in
-0
+
 I lie down
 not
 the
@@ -93065,7 +93065,7 @@ into, in
 the
 the
 offered to an idol
-0
+
 I ruin, destroy
 for
 the
@@ -93095,7 +93095,7 @@ I am weak, sick
 into, in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I sin
-0
+
 if
 food
 I cause to fall
@@ -93104,8 +93104,8 @@ brother
 I
 no, not
 not
-0
-0
+
+
 into, in
 the
 age, eternity
@@ -93149,7 +93149,7 @@ for
 seal
 I
 the
-0
+
 you
 I am
 (with dat.) in
@@ -93166,7 +93166,7 @@ not
 no, not
 I have, hold
 power, authority
-0
+
 and, also, likewise
 I drink
 not
@@ -93179,7 +93179,7 @@ I lead around, go around
 as, like, so
 and, also, likewise
 the
-0
+
 apostle
 and, also, likewise
 the
@@ -93189,7 +93189,7 @@ master, lord, the Lord
 and, also, likewise
 Cephas
 or, either
-0
+
 I
 and, also, likewise
 Barnabas
@@ -93201,7 +93201,7 @@ I work, do, accomplish
 who? which one? what?
 I serve in the army
 one’s own
-0
+
 once, formerly
 who? which one? what?
 I plant
@@ -93211,7 +93211,7 @@ the
 fruit
 he, she, it; himself, herself, itself; even, very; same
 no, not
-0
+
 or, either
 who? which one? what?
 I tend, pasture
@@ -93223,7 +93223,7 @@ milk
 the
 flock
 no, not
-0
+
 not
 (with gen.) down, against; (with acc.) according to, along
 human being, person
@@ -93243,9 +93243,9 @@ Moses
 law
 I write
 no, not
-0
+
 ox; (fem.) cow
-0
+
 not
 the
 ox; (fem.) cow
@@ -93266,11 +93266,11 @@ I owe
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 hope
 the
-0
-0
+
+
 and, also, likewise
 the
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 hope
 the
@@ -93305,11 +93305,11 @@ power, authority
 this
 but, rather, yet
 all, every
-0
+
 in order that, that
 not
 anyone, anything; someone, something
-0
+
 I give
 the
 the Good News, Gospel
@@ -93320,20 +93320,20 @@ I know
 that, because, since
 the
 the
-0
+
 I work, do, accomplish
 the
 from, out of
 the
-0
-0
+
+
 the
 the
 altar
-0
+
 the
 altar
-0
+
 in this manner, thus, so
 and, also, likewise
 the
@@ -93362,7 +93362,7 @@ in this manner, thus, so
 I am, become, happen
 (with dat.) in
 I
-0
+
 for
 I
 more, rather
@@ -93393,14 +93393,14 @@ not
 I preach the Good News
 if
 for
-0
+
 this
 I do, accomplish
 wages
 I have, hold
 if
 but, and (frequently untranslated)
-0
+
 management; plan
 I believe (in), trust
 who? which one? what?
@@ -93411,14 +93411,14 @@ the
 wages
 in order that, that
 I preach the Good News
-0
+
 I put, place
 the
 the Good News, Gospel
 into, in
 the
 not
-0
+
 the
 power, authority
 I
@@ -93435,7 +93435,7 @@ myself
 I enslave
 in order that, that
 the
-0
+
 I gain
 and, also, likewise
 I am, become, happen
@@ -93471,7 +93471,7 @@ I am
 lawless
 God, god
 but, rather, yet
-0
+
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 in order that, that
 I gain
@@ -93500,7 +93500,7 @@ I do, make
 the
 the Good News, Gospel
 in order that, that
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am, become, happen
 no, not
@@ -93517,7 +93517,7 @@ one
 but, and (frequently untranslated)
 I take, receive
 the
-0
+
 in this manner, thus, so
 I run
 in order that, that
@@ -93527,37 +93527,37 @@ but, and (frequently untranslated)
 the
 I struggle, fight
 all, every
-0
+
 that
 indeed, on the one hand (but often untranslatable)
 therefore, then
 in order that, that
 perishable, corruptible
-0
+
 I take, receive
 I
 but, and (frequently untranslated)
 imperishable, incorruptible
 I
-0
+
 in this manner, thus, so
 I run
 as, like, so
 no, not
-0
+
 in this manner, thus, so
-0
+
 as, like, so
 no, not
 air
 I beat
 but, rather, yet
-0
+
 I
 the
 body
 and, also, likewise
-0
+
 not
 how?
 another, other
@@ -93605,14 +93605,14 @@ the
 he, she, it; himself, herself, itself; even, very; same
 spiritual
 food
-0
+
 and, also, likewise
 all, every
 the
 he, she, it; himself, herself, itself; even, very; same
 spiritual
 I drink
-0
+
 I drink
 for
 from, out of
@@ -93629,12 +93629,12 @@ but, rather, yet
 no, not
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am pleased with
 the
 God, god
-0
+
 for
 (with dat.) in
 the
@@ -93649,7 +93649,7 @@ the
 not
 I am
 I
-0
+
 evil, bad
 as, just as
 and that one, and he
@@ -93665,12 +93665,12 @@ I write
 I sit down, cause to sit down; stay (intrans.)
 the
 people
-0
+
 and, also, likewise
 I drink
 and, also, likewise
 I raise, rise, stand up
-0
+
 and not, but not
 I practice prostitution, am sexually immoral
 as, just as
@@ -93681,10 +93681,10 @@ and, also, likewise
 I fall
 one
 day
-0
+
 (a group of) a thousand
 and not, but not
-0
+
 the
 master, lord, the Lord
 as, just as
@@ -93706,16 +93706,16 @@ and, also, likewise
 I ruin, destroy
 (with gen.) by; (with acc.) under
 the
-0
+
 this
 but, and (frequently untranslated)
-0
+
 I happen, come about
 that
 I write
 but, and (frequently untranslated)
 (with dat.) near, at; (with acc.) to, toward
-0
+
 I
 into, in
 who, which, what
@@ -93757,17 +93757,17 @@ the
 test, temptation
 and, also, likewise
 the
-0
+
 the
 I can
-0
-0
+
+
 beloved, dear
 I
 I flee
 (with gen.) from, away from
 the
-0
+
 as, like, so
 sensible, thoughtful
 I say, tell
@@ -93805,7 +93805,7 @@ bread
 one
 body
 the
-0
+
 I am
 the
 for
@@ -93822,7 +93822,7 @@ Israel
 flesh
 no, not
 the
-0
+
 the
 sacrifice, offering
 companion, partner
@@ -93875,7 +93875,7 @@ and, also, likewise
 table
 demon, evil spirit
 or, either
-0
+
 the
 master, lord, the Lord
 not
@@ -93896,7 +93896,7 @@ all, every
 I build
 no one, nothing
 the
-0
+
 I seek, look for, ask
 but, rather, yet
 the
@@ -93905,9 +93905,9 @@ other, another, different
 all, every
 the
 (with dat.) in
-0
+
 I sell
-0
+
 no one, nothing
 I question, examine
 (with gen.) through; (with acc.) because of, for the sake of
@@ -93935,7 +93935,7 @@ all, every
 the
 I place beside, place around
 you
-0
+
 no one, nothing
 I question, examine
 (with gen.) through; (with acc.) because of, for the sake of
@@ -93947,14 +93947,14 @@ anyone, anything; someone, something
 you
 I say, tell
 this
-0
+
 I am
 not
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 that
 the
-0
+
 and, also, likewise
 the
 conscience
@@ -93963,7 +93963,7 @@ but, and (frequently untranslated)
 I say, tell
 not
 the
-0
+
 but, rather, yet
 the
 the
@@ -93990,7 +93990,7 @@ I
 I give thanks
 if, whether
 therefore, then
-0
+
 if, whether
 I drink
 if, whether
@@ -94001,7 +94001,7 @@ into, in
 glory, brightness, splendor
 God, god
 I do, make
-0
+
 and, also, likewise
 Judean, Jewish
 I am, become, happen
@@ -94021,11 +94021,11 @@ not
 I seek, look for, ask
 the
 myself
-0
+
 but, rather, yet
 the
 the
-0
+
 in order that, that
 I save, deliver
 imitator
@@ -94089,7 +94089,7 @@ woman
 I pray
 or, either
 I prophesy
-0
+
 the
 head
 I put to shame, dishonor
@@ -94103,29 +94103,29 @@ and, also, likewise
 the
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 if
 for
 no, not
-0
+
 woman
 and, also, likewise
-0
+
 if
 but, and (frequently untranslated)
-0
+
 woman
 the
-0
+
 or, either
-0
-0
+
+
 man
 indeed, on the one hand (but often untranslatable)
 for
 no, not
 I owe
-0
+
 the
 head
 image
@@ -94213,7 +94213,7 @@ I judge
 I am fitting
 I am
 woman
-0
+
 the
 God, god
 I pray
@@ -94227,33 +94227,33 @@ that, because, since
 man
 indeed, on the one hand (but often untranslatable)
 if
-0
+
 dishonor
 he, she, it; himself, herself, itself; even, very; same
 I am
 woman
 but, and (frequently untranslated)
 if
-0
+
 glory, brightness, splendor
 he, she, it; himself, herself, itself; even, very; same
 I am
 that, because, since
 the
-0
+
 (with gen.) in place of, for
-0
+
 I give
 he, she, it; himself, herself, itself; even, very; same
 if
 but, and (frequently untranslated)
 anyone, anything; someone, something
 I think, believe; I seem
-0
+
 I am
 I
 of such a kind, such as this
-0
+
 no, not
 I have, hold
 and not, nor; neither, nor
@@ -94270,13 +94270,13 @@ that, because, since
 no, not
 into, in
 the
-0
+
 but, rather, yet
 into, in
 the
-0
+
 I come with, go with, assemble
-0
+
 indeed, on the one hand (but often untranslatable)
 for
 I come with, go with, assemble
@@ -94315,18 +94315,18 @@ the
 he, she, it; himself, herself, itself; even, very; same
 no, not
 I am
-0
+
 dinner, supper
-0
+
 each, every
 for
 the
 one’s own
 dinner, supper
-0
+
 (with dat.) in
 the
-0
+
 and, also, likewise
 who, which, what
 indeed, on the one hand (but often untranslatable)
@@ -94341,7 +94341,7 @@ no, not
 I have, hold
 into, in
 the
-0
+
 and, also, likewise
 I drink
 or, either
@@ -94403,14 +94403,14 @@ I do, make
 into, in
 the
 my, mine
-0
+
 likewise
 and, also, likewise
 the
 a drink
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 I say, tell
 this
 the
@@ -94425,17 +94425,17 @@ my, mine
 blood
 this
 I do, make
-0
+
 if
 I drink
 into, in
 the
 my, mine
-0
-0
+
+
 for
 if
-0
+
 the
 bread
 this
@@ -94454,7 +94454,7 @@ I come, go
 therefore, so that
 who, which, what
 (an untranslatable conditional particle)
-0
+
 the
 bread
 or, either
@@ -94463,7 +94463,7 @@ the
 a drink
 the
 master, lord, the Lord
-0
+
 liable, guilty
 I am
 the
@@ -94476,13 +94476,13 @@ master, lord, the Lord
 I test, examine, approve
 but, and (frequently untranslated)
 human being, person
-0
+
 and, also, likewise
 in this manner, thus, so
 from, out of
 the
 bread
-0
+
 and, also, likewise
 from, out of
 the
@@ -94490,12 +94490,12 @@ a drink
 I drink
 the
 for
-0
+
 and, also, likewise
 I drink
 judgment, condemnation
-0
-0
+
+
 and, also, likewise
 I drink
 not
@@ -94506,7 +94506,7 @@ body
 this
 (with dat.) in
 you
-0
+
 weak, powerless
 and, also, likewise
 sick
@@ -94515,7 +94515,7 @@ I sleep, fall asleep, die
 sufficient, large
 if
 but, and (frequently untranslated)
-0
+
 I differentiate; (mid.) I doubt
 no, not
 (an untranslatable conditional particle)
@@ -94538,7 +94538,7 @@ I
 I come with, go with, assemble
 into, in
 the
-0
+
 each other, one another
 I expect
 if
@@ -94546,7 +94546,7 @@ anyone, anything; someone, something
 I hunger
 (with dat.) in
 house, dwelling
-0
+
 in order that, that
 not
 into, in
@@ -94554,7 +94554,7 @@ judgment, condemnation
 I come with, go with, assemble
 the
 but, and (frequently untranslated)
-0
+
 as, like, so
 (an untranslatable conditional particle)
 I come, go
@@ -94577,11 +94577,11 @@ I am
 the
 image, idol
 the
-0
+
 as, like, so
 (an untranslatable conditional particle)
 I lead
-0
+
 therefore, for this reason
 I make known, reveal
 you
@@ -94605,7 +94605,7 @@ not
 (with dat.) in
 breath, spirit
 holy
-0
+
 but, and (frequently untranslated)
 a gift
 I am
@@ -94614,7 +94614,7 @@ but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 breath, spirit
 and, also, likewise
-0
+
 service
 I am
 and, also, likewise
@@ -94622,8 +94622,8 @@ the
 he, she, it; himself, herself, itself; even, very; same
 master, lord, the Lord
 and, also, likewise
-0
-0
+
+
 I am
 the
 but, and (frequently untranslated)
@@ -94639,7 +94639,7 @@ each, every
 but, and (frequently untranslated)
 I give
 the
-0
+
 the
 breath, spirit
 (with dat.) near, at; (with acc.) to, toward
@@ -94671,28 +94671,28 @@ breath, spirit
 another, other
 but, and (frequently untranslated)
 a gift
-0
+
 (with dat.) in
 the
 one
 breath, spirit
 another, other
 but, and (frequently untranslated)
-0
+
 power, strength
 another, other
 but, and (frequently untranslated)
 prophecy
 another, other
 but, and (frequently untranslated)
-0
+
 breath, spirit
 other, another, different
 race, stock
 tongue, language
 another, other
 but, and (frequently untranslated)
-0
+
 tongue, language
 all, every
 but, and (frequently untranslated)
@@ -94704,7 +94704,7 @@ and, also, likewise
 the
 he, she, it; himself, herself, itself; even, very; same
 breath, spirit
-0
+
 one’s own
 each, every
 as, just as
@@ -94717,7 +94717,7 @@ one
 I am
 and, also, likewise
 member, part
-0
+
 I have, hold
 all, every
 but, and (frequently untranslated)
@@ -94725,7 +94725,7 @@ the
 member, part
 the
 body
-0
+
 I am
 one
 I am
@@ -94767,7 +94767,7 @@ I am
 one
 member, part
 but, rather, yet
-0
+
 if
 I say, tell
 the
@@ -94824,7 +94824,7 @@ whole, complete
 hearing, ear, report
 where?
 the
-0
+
 now
 but, and (frequently untranslated)
 the
@@ -94852,7 +94852,7 @@ the
 body
 now
 but, and (frequently untranslated)
-0
+
 indeed, on the one hand (but often untranslatable)
 member, part
 one
@@ -94881,7 +94881,7 @@ you
 no, not
 I have, hold
 but, rather, yet
-0
+
 more, rather
 the
 I think, believe; I seem
@@ -94895,7 +94895,7 @@ I am
 and, also, likewise
 who, which, what
 I think, believe; I seem
-0
+
 I am
 the
 body
@@ -94905,9 +94905,9 @@ abundant, superfluous
 I put around
 and, also, likewise
 the
-0
+
 I
-0
+
 abundant, superfluous
 I have, hold
 the
@@ -94920,7 +94920,7 @@ I have, hold
 but, rather, yet
 the
 God, god
-0
+
 the
 body
 the
@@ -94948,7 +94948,7 @@ if, whether
 I suffer, endure
 one
 member, part
-0
+
 all, every
 the
 member, part
@@ -94977,7 +94977,7 @@ God, god
 (with dat.) in
 the
 church, congregation
-0
+
 apostle
 second
 prophet
@@ -94987,9 +94987,9 @@ then
 power, strength
 then
 a gift
-0
-0
-0
+
+
+
 race, stock
 tongue, language
 not
@@ -95008,7 +95008,7 @@ not
 all, every
 a gift
 I have, hold
-0
+
 not
 all, every
 tongue, language
@@ -95044,10 +95044,10 @@ not
 I have, hold
 I am, become, happen
 brass, bronze, money
-0
+
 or, either
-0
-0
+
+
 and, also, likewise
 if
 I have, hold
@@ -95078,7 +95078,7 @@ no one, nothing
 I am
 and, also, likewise
 if
-0
+
 all, every
 the
 I exist, am present
@@ -95100,7 +95100,7 @@ I help
 the
 love
 I wait patiently
-0
+
 the
 love
 no, not
@@ -95108,17 +95108,17 @@ I am zealous, jealous
 the
 love
 no, not
-0
+
 no, not
 I puff up, make proud
 no, not
-0
+
 no, not
 I seek, look for, ask
 the
-0
+
 no, not
-0
+
 no, not
 I reckon, think
 the
@@ -95133,7 +95133,7 @@ but, and (frequently untranslated)
 the
 truth, truthfulness
 all, every
-0
+
 all, every
 I believe (in), trust
 all, every
@@ -95194,9 +95194,9 @@ I see, look
 for
 now, just
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 (with dat.) in
-0
+
 then
 but, and (frequently untranslated)
 face
@@ -95262,11 +95262,11 @@ building, edification; a building
 and, also, likewise
 exhortation, comfort
 and, also, likewise
-0
+
 the
 I speak
 tongue, language
-0
+
 I build
 the
 but, and (frequently untranslated)
@@ -95327,37 +95327,37 @@ or, either
 prophecy
 or, either
 teaching
-0
+
 the
-0
+
 sound, voice
 I give
 if, whether
-0
+
 if, whether
-0
+
 if
-0
+
 the
-0
+
 not
 I give
 how?
 I know
 the
-0
+
 or, either
 the
-0
+
 and, also, likewise
 for
 if
-0
+
 trumpet
 sound, voice
 I give
 who? which one? what?
-0
+
 into, in
 war
 in this manner, thus, so
@@ -95368,7 +95368,7 @@ the
 tongue, language
 if
 not
-0
+
 word, Word
 I give
 how?
@@ -95390,7 +95390,7 @@ I am
 the world
 and, also, likewise
 no one, nothing
-0
+
 if
 therefore, then
 not
@@ -95475,7 +95475,7 @@ place
 the
 layman, amateur
 how?
-0
+
 the
 so let it be, truly, amen
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -95520,7 +95520,7 @@ and, also, likewise
 another, other
 I teach
 or, either
-0
+
 word, Word
 (with dat.) in
 tongue, language
@@ -95529,14 +95529,14 @@ not
 infant, young child
 I am, become, happen
 the
-0
+
 but, rather, yet
 the
 wickedness, malice
-0
+
 the
 but, and (frequently untranslated)
-0
+
 complete, perfect
 I am, become, happen
 (with dat.) in
@@ -95545,7 +95545,7 @@ law
 I write
 that, because, since
 (with dat.) in
-0
+
 and, also, likewise
 (with dat.) in
 lip
@@ -95601,7 +95601,7 @@ layman, amateur
 or, either
 faithless, unbelieving
 no, not
-0
+
 that, because, since
 I am mad
 if
@@ -95658,7 +95658,7 @@ revelation
 I have, hold
 tongue, language
 I have, hold
-0
+
 I have, hold
 all, every
 (with dat.) near, at; (with acc.) to, toward
@@ -95672,7 +95672,7 @@ I speak
 two
 or, either
 the
-0
+
 three
 and, also, likewise
 (with acc.) up; (with numbers) each, apiece
@@ -95684,11 +95684,11 @@ if
 but, and (frequently untranslated)
 not
 I am
-0
+
 I am silent, still
 (with dat.) in
 church, congregation
-0
+
 but, and (frequently untranslated)
 I speak
 and, also, likewise
@@ -95710,7 +95710,7 @@ another, other
 I reveal
 I sit, sit down
 the
-0
+
 I am silent, still
 I can
 for
@@ -95773,7 +95773,7 @@ the
 one’s own
 man
 I ask (a question)
-0
+
 for
 I am
 woman
@@ -95791,7 +95791,7 @@ I go out, come out
 or, either
 into, in
 you
-0
+
 I come to, approach
 if
 anyone, anything; someone, something
@@ -95827,7 +95827,7 @@ I hinder, forbid
 tongue, language
 all, every
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 (with gen.) down, against; (with acc.) according to, along
 order
@@ -95867,7 +95867,7 @@ I hand over, hand down, entrust
 for
 you
 (with dat.) in
-0
+
 who, which, what
 and, also, likewise
 I take, take with
@@ -95904,13 +95904,13 @@ twelve
 then
 I see
 above, over
-0
+
 brother
 once for all
 from, out of
 who, which, what
 the
-0
+
 I remain, stay
 until
 now, just
@@ -95927,16 +95927,16 @@ all, every
 last
 but, and (frequently untranslated)
 all, every
-0
+
 the
-0
+
 I see
 and I, but I
 I
 for
 I am
 the
-0
+
 the
 apostle
 who, which, what
@@ -96037,7 +96037,7 @@ you
 I find, discover
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 the
 God, god
 that, because, since
@@ -96052,7 +96052,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 who, which, what
 no, not
 I raise
-0
+
 so, then
 dead
 no, not
@@ -96096,8 +96096,8 @@ this
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I hope, hope for
 I am
-0
-0
+
+
 all, every
 human being, person
 I am
@@ -96139,7 +96139,7 @@ but, and (frequently untranslated)
 (with dat.) in
 the
 one’s own
-0
+
 first-fruits
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 then
@@ -96202,7 +96202,7 @@ I say, tell
 that, because, since
 all, every
 I subject, subordinate
-0
+
 that, because, since
 outside
 the
@@ -96243,7 +96243,7 @@ I baptize
 the
 dead
 if
-0
+
 dead
 no, not
 I raise
@@ -96255,13 +96255,13 @@ he, she, it; himself, herself, itself; even, very; same
 who? which one? what?
 and, also, likewise
 I
-0
+
 all, every
 hour
 (with gen.) down, against; (with acc.) according to, along
 day
 I die
-0
+
 the
 your
 boasting
@@ -96277,18 +96277,18 @@ I
 if
 (with gen.) down, against; (with acc.) according to, along
 human being, person
-0
+
 (with dat.) in
 Ephesus
 who? which one? what?
 I
 the
-0
+
 if
 dead
 no, not
 I raise
-0
+
 and, also, likewise
 I drink
 tomorrow
@@ -96297,26 +96297,26 @@ I die
 not
 I lead astray, deceive
 I destroy, ruin
-0
+
 useful, good
-0
+
 evil, bad
-0
+
 justly
 and, also, likewise
 not
 I sin
-0
+
 for
 God, god
 anyone, anything; someone, something
 I have, hold
 (with dat.) near, at; (with acc.) to, toward
-0
+
 you
 I speak
 but, rather, yet
-0
+
 anyone, anything; someone, something
 how?
 I raise
@@ -96353,7 +96353,7 @@ wheat, grain
 or, either
 anyone, anything; someone, something
 the
-0
+
 the
 but, and (frequently untranslated)
 God, god
@@ -96365,7 +96365,7 @@ I wish, will
 and, also, likewise
 each, every
 the
-0
+
 one’s own
 body
 no, not
@@ -96381,11 +96381,11 @@ human being, person
 another, other
 but, and (frequently untranslated)
 flesh
-0
+
 another, other
 but, and (frequently untranslated)
 flesh
-0
+
 another, other
 but, and (frequently untranslated)
 fish
@@ -96466,7 +96466,7 @@ and, also, likewise
 I write
 I am, become, happen
 the
-0
+
 human being, person
 Adam
 into, in
@@ -96480,7 +96480,7 @@ breath, spirit
 I make alive
 but, rather, yet
 no, not
-0
+
 the
 spiritual
 but, rather, yet
@@ -96490,11 +96490,11 @@ then
 the
 spiritual
 the
-0
+
 human being, person
 from, out of
 earth
-0
+
 the
 second
 human being, person
@@ -96502,11 +96502,11 @@ from, out of
 heaven
 of what sort, such as
 the
-0
+
 of such a kind, such as this
 and, also, likewise
 the
-0
+
 and, also, likewise
 of what sort, such as
 the
@@ -96521,7 +96521,7 @@ I bear, wear
 the
 image
 the
-0
+
 I bear, wear
 and, also, likewise
 the
@@ -96558,9 +96558,9 @@ all, every
 but, and (frequently untranslated)
 I change
 (with dat.) in
-0
+
 (with dat.) in
-0
+
 eye
 (with dat.) in
 the
@@ -96588,7 +96588,7 @@ the
 mortal
 this
 I clothe
-0
+
 whenever, when
 but, and (frequently untranslated)
 the
@@ -96601,7 +96601,7 @@ the
 mortal
 this
 I clothe
-0
+
 then
 I am, become, happen
 the
@@ -96612,20 +96612,20 @@ I drink down
 the
 death
 into, in
-0
+
 where?
 you
 death
 the
-0
+
 where?
 you
 death
 the
-0
+
 the
 but, and (frequently untranslated)
-0
+
 the
 death
 the
@@ -96645,7 +96645,7 @@ the
 I give
 I
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 master, lord, the Lord
@@ -96656,9 +96656,9 @@ therefore, so that
 brother
 I
 beloved, dear
-0
+
 I am, become, happen
-0
+
 I have an abundance, am rich
 (with dat.) in
 the
@@ -96679,7 +96679,7 @@ master, lord, the Lord
 (with gen.) about, concerning; (with acc.) around, near
 but, and (frequently untranslated)
 the
-0
+
 the
 into, in
 the
@@ -96689,7 +96689,7 @@ I order, direct
 the
 church, congregation
 the
-0
+
 in this manner, thus, so
 and, also, likewise
 you
@@ -96700,19 +96700,19 @@ Sabbath, week
 each, every
 you
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
-0
+
 I put, place
 I store up
 who, which, what
 anyone, anything; someone, something
 if
-0
+
 in order that, that
 not
 whenever, when
 I come, go
 then
-0
+
 I am, become, happen
 whenever, when
 but, and (frequently untranslated)
@@ -96754,10 +96754,10 @@ I go through
 you
 but, and (frequently untranslated)
 I meet, happen
-0
+
 or, either
 and, also, likewise
-0
+
 in order that, that
 you
 I
@@ -96771,7 +96771,7 @@ for
 you
 now, just
 (with dat.) in
-0
+
 I see
 I hope, hope for
 for
@@ -96790,24 +96790,24 @@ but, and (frequently untranslated)
 Ephesus
 until
 the
-0
+
 door
 for
 I
 I open
 large, great
 and, also, likewise
-0
+
 and, also, likewise
 I am opposed
-0
+
 if
 but, and (frequently untranslated)
 I come, go
 Timothy
 I see, look
 in order that, that
-0
+
 I am, become, happen
 (with dat.) near, at; (with acc.) to, toward
 you
@@ -96843,7 +96843,7 @@ but, and (frequently untranslated)
 Apollos
 the
 brother
-0
+
 I invite; I exhort; I comfort
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
@@ -96864,14 +96864,14 @@ I come, go
 I come, go
 but, and (frequently untranslated)
 whenever, when
-0
+
 I watch
 I stand, stand firm
 (with dat.) in
 the
 faith, trust
-0
-0
+
+
 all, every
 you
 (with dat.) in
@@ -96884,7 +96884,7 @@ brother
 I know
 the
 household
-0
+
 that, because, since
 I am
 first-fruits
@@ -96896,7 +96896,7 @@ service
 the
 holy
 I place, order
-0
+
 in order that, that
 and, also, likewise
 you
@@ -96914,11 +96914,11 @@ but, and (frequently untranslated)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 presence, coming
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 that, because, since
 the
 your
@@ -96947,10 +96947,10 @@ I greet
 you
 (with dat.) in
 master, lord, the Lord
-0
+
 Aquila
 and, also, likewise
-0
+
 (with dat.) with
 the
 (with gen.) down, against; (with acc.) according to, along
@@ -96981,8 +96981,8 @@ the
 master, lord, the Lord
 I am
 object of a curse
-0
-0
+
+
 the
 grace, favor
 the
@@ -97168,7 +97168,7 @@ excess, abundance
 power, strength
 I weigh down, burden
 therefore, so that
-0
+
 I
 and, also, likewise
 the
@@ -97176,9 +97176,9 @@ I live
 but, rather, yet
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
+
 the
-0
+
 the
 death
 I have, hold
@@ -97187,7 +97187,7 @@ not
 I convince, persuade; I trust in
 I am
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 but, rather, yet
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -97198,7 +97198,7 @@ the
 dead
 who, which, what
 from, out of
-0
+
 death
 I save
 I
@@ -97211,7 +97211,7 @@ that, because, since
 and, also, likewise
 yet, still
 I save
-0
+
 and, also, likewise
 you
 (with gen.) on behalf of; (with acc.) above
@@ -97220,14 +97220,14 @@ the
 prayer, entreaty
 in order that, that
 from, out of
-0
+
 face
 the
 into, in
 I
 a gift
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 I give thanks
 (with gen.) on behalf of; (with acc.) above
 I
@@ -97244,9 +97244,9 @@ conscience
 I
 that, because, since
 (with dat.) in
-0
+
 and, also, likewise
-0
+
 the
 God, god
 no, not
@@ -97261,7 +97261,7 @@ I act, live
 (with dat.) in
 the
 the world
-0
+
 but, and (frequently untranslated)
 (with dat.) near, at; (with acc.) to, toward
 you
@@ -97341,9 +97341,9 @@ this
 therefore, then
 I wish, desire
 (a usually untranslated particle in questions that expect a negative answer)
-0
+
 the
-0
+
 I use
 or, either
 who, which, what
@@ -97394,7 +97394,7 @@ I proclaim, preach
 (with gen.) through; (with acc.) because of, for the sake of
 I
 and, also, likewise
-0
+
 and, also, likewise
 Timothy
 no, not
@@ -97446,7 +97446,7 @@ I
 and, also, likewise
 I give
 the
-0
+
 the
 breath, spirit
 (with dat.) in
@@ -97541,15 +97541,15 @@ you
 I am
 from, out of
 for
-0
+
 affliction, tribulation
 and, also, likewise
-0
+
 heart
 I write
 you
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 tear
 no, not
 in order that, that
@@ -97561,7 +97561,7 @@ in order that, that
 I know
 who, which, what
 I have, hold
-0
+
 into, in
 you
 if
@@ -97576,21 +97576,21 @@ but, rather, yet
 part
 in order that, that
 not
-0
+
 all, every
 you
 sufficient, large
 the
 of such a kind, such as this
 the
-0
+
 this
 the
 (with gen.) by; (with acc.) under
 the
-0
+
 therefore, so that
-0
+
 more, rather
 you
 I give freely, forgive
@@ -97607,7 +97607,7 @@ of such a kind, such as this
 therefore, for this reason
 I invite; I exhort; I comfort
 you
-0
+
 into, in
 he, she, it; himself, herself, itself; even, very; same
 love
@@ -97624,7 +97624,7 @@ you
 if
 into, in
 all, every
-0
+
 I am
 who, which, what
 but, and (frequently untranslated)
@@ -97698,7 +97698,7 @@ God, god
 grace, favor
 the
 always
-0
+
 I
 (with dat.) in
 the
@@ -97717,7 +97717,7 @@ all, every
 place
 that, because, since
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 I am
 the
 God, god
@@ -97752,8 +97752,8 @@ for
 I am
 as, like, so
 the
-0
-0
+
+
 the
 word, Word
 the
@@ -97761,7 +97761,7 @@ God, god
 but, rather, yet
 as, like, so
 from, out of
-0
+
 but, rather, yet
 as, like, so
 from, out of
@@ -97771,16 +97771,16 @@ God, god
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I speak
-0
+
 again
-0
+
 I present, introduce
 or, either
 not
 I need
 as, like, so
 anyone, anything; someone, something
-0
+
 letter, epistle
 (with dat.) near, at; (with acc.) to, toward
 you
@@ -97792,7 +97792,7 @@ letter, epistle
 I
 you
 I am
-0
+
 (with dat.) in
 the
 heart
@@ -97811,22 +97811,22 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 I wait at table, serve
 (with gen.) by; (with acc.) under
 I
-0
+
 no, not
-0
+
 but, rather, yet
 breath, spirit
 God, god
 I live
 no, not
 (with dat.) in
-0
-0
+
+
 but, rather, yet
 (with dat.) in
-0
+
 heart
-0
+
 confidence
 but, and (frequently untranslated)
 of such a kind, such as this
@@ -97840,24 +97840,24 @@ God, god
 no, not
 that, because, since
 (with gen.) from, away from
-0
+
 sufficient, large
 I am
 I reckon, think
 anyone, anything; someone, something
 as, like, so
 from, out of
-0
+
 but, rather, yet
 the
-0
+
 I
 from, out of
 the
 God, god
 who, which, what
 and, also, likewise
-0
+
 I
 deacon
 new
@@ -97882,7 +97882,7 @@ the
 death
 (with dat.) in
 letter (of the alphabet), writing
-0
+
 stone
 I am, become, happen
 (with dat.) in
@@ -97921,9 +97921,9 @@ for
 the
 service
 the
-0
+
 glory, brightness, splendor
-0
+
 more, rather
 I have an abundance, am rich
 the
@@ -97951,7 +97951,7 @@ the
 I make ineffective, abolish
 (with gen.) through; (with acc.) because of, for the sake of
 glory, brightness, splendor
-0
+
 more, rather
 the
 I remain, stay
@@ -97961,7 +97961,7 @@ I have, hold
 therefore, then
 of such a kind, such as this
 hope
-0
+
 openness, confidence
 I use
 and, also, likewise
@@ -97969,7 +97969,7 @@ no, not
 as, just as
 Moses
 I put, place
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 face
@@ -97998,16 +97998,16 @@ today
 day
 the
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 old
 will, testament, covenant
 I remain, stay
 not
-0
+
 that, because, since
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -98015,25 +98015,25 @@ I make ineffective, abolish
 but, rather, yet
 until
 today
-0
+
 (an untranslatable conditional particle)
 I read
 Moses
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 heart
 he, she, it; himself, herself, itself; even, very; same
 I lie, recline
-0
+
 but, and (frequently untranslated)
 if
 I turn, turn around, turn back
 (with dat.) near, at; (with acc.) to, toward
 master, lord, the Lord
-0
+
 the
-0
+
 the
 but, and (frequently untranslated)
 master, lord, the Lord
@@ -98049,16 +98049,16 @@ freedom
 I
 but, and (frequently untranslated)
 all, every
-0
+
 face
 the
 glory, brightness, splendor
 master, lord, the Lord
-0
+
 the
 he, she, it; himself, herself, itself; even, very; same
 image
-0
+
 (with gen.) from, away from
 glory, brightness, splendor
 into, in
@@ -98078,7 +98078,7 @@ I have mercy
 no, not
 I become weary, lose heart
 but, rather, yet
-0
+
 the
 hidden, secret
 the
@@ -98088,18 +98088,18 @@ I go about, walk around
 (with dat.) in
 cunning, craftiness, trickery
 and not, but not
-0
+
 the
 word, Word
 the
 God, god
 but, rather, yet
 the
-0
+
 the
 truth, truthfulness
 I present, introduce
-0
+
 (with dat.) near, at; (with acc.) to, toward
 all, every
 conscience
@@ -98127,7 +98127,7 @@ God, god
 the
 age, eternity
 this
-0
+
 the
 thought, mind, design
 the
@@ -98135,9 +98135,9 @@ faithless, unbelieving
 into, in
 the
 not
-0
+
 the
-0
+
 the
 the Good News, Gospel
 the
@@ -98151,13 +98151,13 @@ the
 God, god
 no, not
 for
-0
+
 I proclaim, preach
 but, rather, yet
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
 master, lord, the Lord
-0
+
 but, and (frequently untranslated)
 slave
 you
@@ -98179,7 +98179,7 @@ the
 heart
 I
 (with dat.) near, at; (with acc.) to, toward
-0
+
 the
 knowledge
 the
@@ -98195,7 +98195,7 @@ the
 treasure
 this
 (with dat.) in
-0
+
 vessel, jar
 in order that, that
 the
@@ -98214,28 +98214,28 @@ all, every
 I afflict, oppress
 but, rather, yet
 no, not
-0
+
 I am in doubt
 but, rather, yet
 no, not
-0
+
 I hasten; I pursue, persecute
 but, rather, yet
 no, not
 I leave behind, forsake
-0
+
 but, rather, yet
 no, not
 I ruin, destroy
 always
 the
-0
+
 the
 Jesus, Joshua
 (with dat.) in
 the
 body
-0
+
 in order that, that
 and, also, likewise
 the
@@ -98326,7 +98326,7 @@ grace, favor
 I am/become more; I increase
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
 thanksgiving
 I have an abundance, am rich
@@ -98350,14 +98350,14 @@ but, rather, yet
 the
 in, inside
 I
-0
+
 day
 and, also, likewise
 day
 the
 for
-0
-0
+
+
 the
 affliction, tribulation
 (with gen.) down, against; (with acc.) according to, along
@@ -98381,7 +98381,7 @@ I see, look
 the
 for
 I see, look
-0
+
 the
 but, and (frequently untranslated)
 not
@@ -98396,14 +98396,14 @@ earthly
 I
 household
 the
-0
+
 I destroy, abolish
 building, edification; a building
 from, out of
 God, god
 I have, hold
 household
-0
+
 eternal
 (with dat.) in
 the
@@ -98414,12 +98414,12 @@ for
 this
 I sigh, groan
 the
-0
+
 I
 the
 from, out of
 heaven
-0
+
 I desire
 if
 (usually untranslatable particle, emphasizing the word it follows)
@@ -98434,7 +98434,7 @@ the
 I am
 (with dat.) in
 the
-0
+
 I sigh, groan
 I weigh down, burden
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -98443,7 +98443,7 @@ no, not
 I wish, will
 I strip, take off
 but, rather, yet
-0
+
 in order that, that
 I drink down
 the
@@ -98463,7 +98463,7 @@ the
 I give
 I
 the
-0
+
 the
 breath, spirit
 I am confident, courageous
@@ -98472,11 +98472,11 @@ always
 and, also, likewise
 I know
 that, because, since
-0
+
 (with dat.) in
 the
 body
-0
+
 (with gen.) from, away from
 the
 master, lord, the Lord
@@ -98492,22 +98492,22 @@ but, and (frequently untranslated)
 and, also, likewise
 I am pleased with
 more, rather
-0
+
 from, out of
 the
 body
 and, also, likewise
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 master, lord, the Lord
 therefore, for this reason
 and, also, likewise
-0
+
 if, whether
-0
+
 if, whether
-0
+
 pleasing, acceptable
 he, she, it; himself, herself, itself; even, very; same
 I am
@@ -98557,7 +98557,7 @@ you
 I reveal, make known
 no, not
 again
-0
+
 I present, introduce
 you
 but, rather, yet
@@ -98611,7 +98611,7 @@ in order that, that
 the
 I live
 no longer
-0
+
 I live
 but, rather, yet
 the
@@ -98661,7 +98661,7 @@ God, god
 the
 I reconcile
 I
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 and, also, likewise
@@ -98670,7 +98670,7 @@ I
 the
 service
 the
-0
+
 as, like, so
 that, because, since
 God, god
@@ -98679,7 +98679,7 @@ I am
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 the world
 I reconcile
-0
+
 not
 I reckon, think
 he, she, it; himself, herself, itself; even, very; same
@@ -98693,11 +98693,11 @@ I
 the
 word, Word
 the
-0
+
 (with gen.) on behalf of; (with acc.) above
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 therefore, then
-0
+
 as, like, so
 the
 God, god
@@ -98742,7 +98742,7 @@ I say, tell
 for
 time, right time
 acceptable, welcome
-0
+
 you
 and, also, likewise
 (with dat.) in
@@ -98762,29 +98762,29 @@ no one, nothing
 (with dat.) in
 no one, nothing
 I give
-0
+
 in order that, that
 not
-0
+
 the
 service
 but, rather, yet
 (with dat.) in
 all, every
 I present, introduce
-0
+
 as, like, so
 God, god
 deacon
 (with dat.) in
 patience, endurance
-0
+
 (with dat.) in
 affliction, tribulation
 (with dat.) in
 necessity, distress
 (with dat.) in
-0
+
 (with dat.) in
 blow, wound
 (with dat.) in
@@ -98794,11 +98794,11 @@ disturbance
 (with dat.) in
 trouble, work
 (with dat.) in
-0
+
 (with dat.) in
 fasting
 (with dat.) in
-0
+
 (with dat.) in
 knowledge
 (with dat.) in
@@ -98825,19 +98825,19 @@ righteousness
 the
 right (as opposed to left)
 and, also, likewise
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 glory, brightness, splendor
 and, also, likewise
 dishonor
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 and, also, likewise
-0
+
 as, like, so
 deceitful; (as a noun) deceiver, impostor
 and, also, likewise
-TRUE
+True
 as, like, so
 I do not know
 and, also, likewise
@@ -98859,9 +98859,9 @@ but, and (frequently untranslated)
 I rejoice, am glad
 as, like, so
 poor
-0
+
 but, and (frequently untranslated)
-0
+
 as, like, so
 no one, nothing
 I have, hold
@@ -98874,16 +98874,16 @@ I
 I open
 (with dat.) near, at; (with acc.) to, toward
 you
-0
+
 the
 heart
 I
-0
+
 no, not
-0
+
 (with dat.) in
 I
-0
+
 but, and (frequently untranslated)
 (with dat.) in
 the
@@ -98892,20 +98892,20 @@ you
 the
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 as, like, so
 child
 I say, tell
-0
+
 and, also, likewise
 you
 not
 I am, become, happen
-0
+
 faithless, unbelieving
 who? which one? what?
 for
-0
+
 righteousness
 and, also, likewise
 lawlessness
@@ -98917,10 +98917,10 @@ light
 darkness
 who? which one? what?
 but, and (frequently untranslated)
-0
+
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 (with dat.) near, at; (with acc.) to, toward
-0
+
 or, either
 who? which one? what?
 part, share
@@ -98929,7 +98929,7 @@ faithful
 faithless, unbelieving
 who? which one? what?
 but, and (frequently untranslated)
-0
+
 temple
 God, god
 (with gen.) with; (with acc.) after, behind
@@ -98949,7 +98949,7 @@ I live in
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 and, also, likewise
 I am
 he, she, it; himself, herself, itself; even, very; same
@@ -98971,9 +98971,9 @@ master, lord, the Lord
 and, also, likewise
 impure, unclean
 not
-0
+
 and I, but I
-0
+
 you
 and, also, likewise
 I am
@@ -98998,15 +98998,15 @@ the
 promise
 beloved, dear
 I make clean, purify
-0
+
 (with gen.) from, away from
 all, every
-0
+
 flesh
 and, also, likewise
 breath, spirit
 I end, complete
-0
+
 (with dat.) in
 fear
 God, god
@@ -99019,7 +99019,7 @@ I destroy, ruin
 no one, nothing
 I take advantage of, outwit
 (with dat.) near, at; (with acc.) to, toward
-0
+
 no, not
 I say, tell
 I tell beforehand
@@ -99032,15 +99032,15 @@ I
 I am
 into, in
 the
-0
+
 and, also, likewise
-0
-0
+
+
 I
 openness, confidence
 (with dat.) near, at; (with acc.) to, toward
 you
-0
+
 I
 boasting
 (with gen.) on behalf of; (with acc.) above
@@ -99048,7 +99048,7 @@ you
 I fill, make full, finish
 the
 exhortation, comfort
-0
+
 the
 joy
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -99073,7 +99073,7 @@ but, rather, yet
 all, every
 I afflict, oppress
 from the outside, outside
-0
+
 inside, within; from within
 fear
 but, rather, yet
@@ -99090,7 +99090,7 @@ the
 presence, coming
 Titus
 no, not
-0
+
 but, and (frequently untranslated)
 (with dat.) in
 the
@@ -99109,10 +99109,10 @@ I announce, proclaim
 I
 the
 you
-0
+
 the
 you
-0
+
 the
 you
 zeal, jealousy
@@ -99174,7 +99174,7 @@ grief, sorrow, pain
 repentance, conversion
 into, in
 salvation, deliverance
-0
+
 I work, do, accomplish
 the
 but, and (frequently untranslated)
@@ -99198,11 +99198,11 @@ haste; eagerness
 but, rather, yet
 defense, reply
 but, rather, yet
-0
+
 but, rather, yet
 fear
 but, rather, yet
-0
+
 but, rather, yet
 zeal, jealousy
 but, rather, yet
@@ -99210,7 +99210,7 @@ vengeance, punishment
 (with dat.) in
 all, every
 I present, introduce
-0
+
 pure, holy
 I am
 the
@@ -99251,7 +99251,7 @@ but, and (frequently untranslated)
 the
 exhortation, comfort
 I
-0
+
 more, rather
 I rejoice, am glad
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -99295,7 +99295,7 @@ and, also, likewise
 the
 heart; love, sympathy
 he, she, it; himself, herself, itself; even, very; same
-0
+
 into, in
 you
 I am
@@ -99335,11 +99335,11 @@ the
 Macedonia
 that, because, since
 (with dat.) in
-0
+
 character
 affliction, tribulation
 the
-0
+
 the
 joy
 he, she, it; himself, herself, itself; even, very; same
@@ -99347,7 +99347,7 @@ and, also, likewise
 the
 (with gen.) down, against; (with acc.) according to, along
 depth
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I have an abundance, am rich
 into, in
@@ -99363,9 +99363,9 @@ I bear witness, testify
 and, also, likewise
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 power, strength
-0
+
 (with gen.) with; (with acc.) after, behind
-0
+
 exhortation, comfort
 I ask
 I
@@ -99385,9 +99385,9 @@ no, not
 as, just as
 I hope, hope for
 but, rather, yet
-0
+
 I give
-0
+
 the
 master, lord, the Lord
 and, also, likewise
@@ -99402,7 +99402,7 @@ I
 Titus
 in order that, that
 as, just as
-0
+
 in this manner, thus, so
 and, also, likewise
 I end, complete
@@ -99453,7 +99453,7 @@ the
 the
 your
 love
-0
+
 I test, examine, approve
 I know
 for
@@ -99467,14 +99467,14 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 that, because, since
 (with gen.) through; (with acc.) because of, for the sake of
 you
-0
+
 rich
 I am
 in order that, that
 you
 the
 that
-0
+
 I am rich, become rich
 and, also, likewise
 purpose, opinion
@@ -99485,18 +99485,18 @@ this
 for
 you
 I help, am profitable
-0
+
 no, not
-0
+
 the
 I do, make
 but, rather, yet
 and, also, likewise
 the
 I wish, will
-0
+
 (with gen.) from, away from
-0
+
 now
 but, and (frequently untranslated)
 and, also, likewise
@@ -99521,12 +99521,12 @@ for
 the
 willingness, goodwill
 I lie before, am present
-0
+
 if
 I have, hold
 acceptable, welcome
 no, not
-0
+
 no, not
 I have, hold
 no, not
@@ -99538,7 +99538,7 @@ you
 affliction, tribulation
 but, rather, yet
 from, out of
-0
+
 (with dat.) in
 the
 now
@@ -99562,12 +99562,12 @@ you
 need
 (adv.) how; (conj.) that, in order that
 I am, become, happen
-0
+
 as, just as
 I write
 the
 the
-0
+
 no, not
 I am/become more; I increase
 and, also, likewise
@@ -99575,7 +99575,7 @@ the
 the
 few, little
 no, not
-0
+
 grace, favor
 but, and (frequently untranslated)
 the
@@ -99596,14 +99596,14 @@ the
 indeed, on the one hand (but often untranslatable)
 exhortation, comfort
 I take, receive
-0
+
 but, and (frequently untranslated)
 I exist, am present
-0
+
 I go out, come out
 (with dat.) near, at; (with acc.) to, toward
 you
-0
+
 but, and (frequently untranslated)
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
@@ -99620,15 +99620,15 @@ all, every
 the
 church, congregation
 no, not
-0
+
 but, and (frequently untranslated)
 but, rather, yet
 and, also, likewise
-0
+
 (with gen.) by; (with acc.) under
 the
 church, congregation
-0
+
 I
 (with dat.) in
 the
@@ -99647,32 +99647,32 @@ glory, brightness, splendor
 and, also, likewise
 willingness, goodwill
 I
-0
+
 this
 not
 anyone, anything; someone, something
 I
-0
+
 (with dat.) in
 the
-0
+
 this
 the
 I wait at table, serve
 (with gen.) by; (with acc.) under
 I
-0
+
 for
-0
+
 no, not
-0
+
 before
 master, lord, the Lord
 but, rather, yet
 and, also, likewise
 before
 human being, person
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -99681,16 +99681,16 @@ I
 who, which, what
 I test, examine, approve
 (with dat.) in
-0
+
 many times, often
-0
+
 I am
 now
 but, and (frequently untranslated)
-0
-0
+
+
 confidence
-0
+
 the
 into, in
 you
@@ -99712,7 +99712,7 @@ glory, brightness, splendor
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 the
 therefore, then
-0
+
 the
 love
 you
@@ -99755,16 +99755,16 @@ I boast, glory
 a Macedonian
 that, because, since
 Achaia
-0
+
 (with gen.) from, away from
-0
+
 and, also, likewise
 the
 you
 zeal, jealousy
-0
+
 the
-0
+
 I send
 but, and (frequently untranslated)
 the
@@ -99785,7 +99785,7 @@ this
 in order that, that
 as, just as
 I say, tell
-0
+
 I am
 not
 how?
@@ -99797,7 +99797,7 @@ a Macedonian
 and, also, likewise
 I find, discover
 you
-0
+
 I put to shame, dishonor
 I
 in order that, that
@@ -99819,9 +99819,9 @@ I go forward, go before
 into, in
 you
 and, also, likewise
-0
+
 the
-0
+
 praise, blessing
 you
 this
@@ -99838,8 +99838,8 @@ this
 but, and (frequently untranslated)
 the
 I sow
-0
-0
+
+
 and, also, likewise
 I harvest
 and, also, likewise
@@ -99853,7 +99853,7 @@ and, also, likewise
 I harvest
 each, every
 as, just as
-0
+
 the
 heart
 not
@@ -99862,13 +99862,13 @@ grief, sorrow, pain
 or, either
 from, out of
 necessity, distress
-0
+
 for
-0
+
 I love
 the
 God, god
-0
+
 but, and (frequently untranslated)
 the
 God, god
@@ -99882,7 +99882,7 @@ in order that, that
 all, every
 always
 all, every
-0
+
 I have, hold
 I have an abundance, am rich
 into, in
@@ -99894,7 +99894,7 @@ I write
 I scatter, distribute
 I give
 the
-0
+
 the
 righteousness
 he, she, it; himself, herself, itself; even, very; same
@@ -99905,14 +99905,14 @@ age, eternity
 the
 but, and (frequently untranslated)
 I provide, give, support
-0
+
 the
 I sow
 and, also, likewise
 bread
 into, in
 eating, rust, food
-0
+
 and, also, likewise
 I increase, multiply
 the
@@ -99921,17 +99921,17 @@ you
 and, also, likewise
 I grow, increase
 the
-0
+
 the
 righteousness
 you
 (with dat.) in
 all, every
-0
+
 into, in
 all, every
 sincerity
-0
+
 I achieve, bring about
 (with gen.) through; (with acc.) because of, for the sake of
 I
@@ -99945,9 +99945,9 @@ the
 service
 this
 no, not
-0
+
 I am
-0
+
 the
 need
 the
@@ -99956,7 +99956,7 @@ but, rather, yet
 and, also, likewise
 I have an abundance, am rich
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 thanksgiving
 the
 God, god
@@ -99971,7 +99971,7 @@ the
 God, god
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 confession
 you
@@ -100009,7 +100009,7 @@ the
 God, god
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 gift, bounty
 he, she, it; himself, herself, itself; even, very; same
@@ -100022,7 +100022,7 @@ you
 the
 gentleness, humility, meekness
 and, also, likewise
-0
+
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 who, which, what
@@ -100069,7 +100069,7 @@ the
 for
 weapon
 the
-0
+
 I
 no, not
 fleshly, in the manner of flesh
@@ -100078,13 +100078,13 @@ powerful
 the
 God, god
 (with dat.) near, at; (with acc.) to, toward
-0
-0
-0
+
+
+
 I tear down, destroy
 and, also, likewise
 all, every
-0
+
 I lift up, hold up
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -100092,7 +100092,7 @@ knowledge
 the
 God, god
 and, also, likewise
-0
+
 all, every
 thought, mind, design
 into, in
@@ -100106,7 +100106,7 @@ prepared
 I have, hold
 I avenge someone
 all, every
-0
+
 whenever, when
 I fill, make full, finish
 you
@@ -100119,14 +100119,14 @@ I see, look
 if
 anyone, anything; someone, something
 I convince, persuade; I trust in
-0
+
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I am
 this
 I reckon, think
 again
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 that, because, since
 as, just as
 he, she, it; himself, herself, itself; even, very; same
@@ -100153,7 +100153,7 @@ building, edification; a building
 and, also, likewise
 no, not
 into, in
-0
+
 you
 no, not
 I am ashamed
@@ -100162,7 +100162,7 @@ not
 I think, believe; I seem
 as, like, so
 (an untranslatable conditional particle)
-0
+
 you
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -100205,24 +100205,24 @@ work, deed
 no, not
 for
 I dare
-0
+
 or, either
-0
-0
+
+
 anyone, anything; someone, something
 the
-0
+
 I present, introduce
 but, rather, yet
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
-0
+
+
 I measure
 and, also, likewise
-0
-0
-0
+
+
+
 no, not
 I understand, comprehend
 I
@@ -100230,21 +100230,21 @@ but, and (frequently untranslated)
 no, not
 into, in
 the
-0
+
 I boast, glory
 but, rather, yet
 (with gen.) down, against; (with acc.) according to, along
 the
 measure
 the
-0
+
 who, which, what
 I divide, separate
 I
 the
 God, god
 measure
-0
+
 until
 and, also, likewise
 you
@@ -100252,11 +100252,11 @@ no, not
 for
 as, like, so
 not
-0
+
 into, in
 you
-0
-0
+
+
 until
 for
 and, also, likewise
@@ -100270,7 +100270,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 no, not
 into, in
 the
-0
+
 I boast, glory
 (with dat.) in
 belonging to another, strange
@@ -100287,19 +100287,19 @@ you
 I make large, magnify
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 I
 into, in
-0
+
 into, in
 the
-0
+
 you
 I preach the Good News
 no, not
 (with dat.) in
 belonging to another, strange
-0
+
 into, in
 the
 prepared
@@ -100313,7 +100313,7 @@ I boast, glory
 no, not
 for
 the
-0
+
 I present, introduce
 that
 I am
@@ -100323,12 +100323,12 @@ who, which, what
 the
 master, lord, the Lord
 I present, introduce
-0
+
 I endure
 I
 small
 anyone, anything; someone, something
-0
+
 but, rather, yet
 and, also, likewise
 I endure
@@ -100338,7 +100338,7 @@ for
 you
 God, god
 zeal, jealousy
-0
+
 for
 you
 one
@@ -100356,7 +100356,7 @@ as, like, so
 the
 snake, serpent
 I deceive, cheat
-0
+
 (with dat.) in
 the
 cunning, craftiness, trickery
@@ -100370,7 +100370,7 @@ the
 sincerity
 and, also, likewise
 the
-0
+
 the
 into, in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -100405,7 +100405,7 @@ for
 no one, nothing
 I am in need, fail; (pass.) I lack
 the
-0
+
 apostle
 if
 but, and (frequently untranslated)
@@ -100443,9 +100443,9 @@ I preach the Good News
 you
 another, other
 church, congregation
-0
+
 I take, receive
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 you
@@ -100457,13 +100457,13 @@ you
 and, also, likewise
 I am in need, fail; (pass.) I lack
 no, not
-0
+
 no one, nothing
 the
 for
 need
 I
-0
+
 the
 brother
 I come, go
@@ -100472,7 +100472,7 @@ Macedonia
 and, also, likewise
 (with dat.) in
 all, every
-0
+
 myself
 you
 I keep, observe
@@ -100488,12 +100488,12 @@ the
 boasting
 this
 no, not
-0
+
 into, in
 I
 (with dat.) in
 the
-0
+
 the
 Achaia
 (with gen.) through; (with acc.) because of, for the sake of
@@ -100528,16 +100528,16 @@ I
 the
 for
 of such a kind, such as this
-0
+
 workman, doer
-0
+
 I transform
 into, in
 apostle
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 and, also, likewise
 no, not
-0
+
 he, she, it; himself, herself, itself; even, very; same
 for
 the
@@ -100576,7 +100576,7 @@ foolish, ignorant
 I am
 if
 but, and (frequently untranslated)
-0
+
 and if, even if, if only
 as, like, so
 foolish, ignorant
@@ -100596,7 +100596,7 @@ I speak
 but, rather, yet
 as, like, so
 (with dat.) in
-0
+
 (with dat.) in
 this
 the
@@ -100604,14 +100604,14 @@ substantial nature, essence
 the
 boasting
 because, since, for
-0
+
 I boast, glory
 (with gen.) down, against; (with acc.) according to, along
 the
 flesh
 and I, but I
 I boast, glory
-0
+
 for
 I endure
 the
@@ -100623,7 +100623,7 @@ for
 if
 anyone, anything; someone, something
 you
-0
+
 if
 anyone, anything; someone, something
 I eat up, devour
@@ -100653,58 +100653,58 @@ but, and (frequently untranslated)
 anyone, anything; someone, something
 I dare
 (with dat.) in
-0
+
 I say, tell
 I dare
 and I, but I
-0
+
 I am
 and I, but I
 an Israelite
 I am
 and I, but I
-0
+
 Abraham
 I am
 and I, but I
 deacon
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I am
-0
+
 I speak
 (with gen.) on behalf of; (with acc.) above
 I
 (with dat.) in
 trouble, work
-0
+
 (with dat.) in
 watch, guard
-0
+
 (with dat.) in
 blow, wound
-0
+
 (with dat.) in
 death
 many times, often
 (with gen.) by; (with acc.) under
 Judean, Jewish
-0
+
 forty
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 one
 I take, receive
 three times
-0
+
 once
 I stone (a person)
 three times
-0
-0
+
+
 (with dat.) in
 the
-0
+
 I do, make
-0
+
 many times, often
 danger
 river, stream
@@ -100721,35 +100721,35 @@ danger
 city
 danger
 (with dat.) in
-0
+
 danger
 (with dat.) in
 sea
 danger
 (with dat.) in
-0
+
 trouble, work
 and, also, likewise
-0
+
 (with dat.) in
-0
+
 many times, often
 (with dat.) in
 hunger, famine
 and, also, likewise
-0
+
 (with dat.) in
 fasting
 many times, often
 (with dat.) in
-0
+
 and, also, likewise
-0
+
 without, apart from
 the
-0
+
 the
-0
+
 I
 the
 (with gen.) down, against; (with acc.) according to, along
@@ -100798,21 +100798,21 @@ I lie
 (with dat.) in
 Damascus
 the
-0
-0
+
+
 the
 king
-0
+
 the
 city
-0
+
 I seize, catch
 I
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 (with dat.) in
-0
+
 I let down
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -100830,7 +100830,7 @@ indeed, on the one hand (but often untranslatable)
 I come, go
 but, and (frequently untranslated)
 into, in
-0
+
 and, also, likewise
 revelation
 master, lord, the Lord
@@ -100882,10 +100882,10 @@ that, because, since
 I seize, steal
 into, in
 the
-0
+
 and, also, likewise
 I hear
-0
+
 word, saying; thing, matter
 who, which, what
 no, not
@@ -100915,7 +100915,7 @@ I am
 foolish, ignorant
 truth, truthfulness
 for
-0
+
 I spare
 but, and (frequently untranslated)
 not
@@ -100939,10 +100939,10 @@ revelation
 therefore, for this reason
 in order that, that
 not
-0
+
 I give
 I
-0
+
 the
 flesh
 angel, messenger
@@ -100952,7 +100952,7 @@ I
 I strike
 in order that, that
 not
-0
+
 (with gen.) on behalf of; (with acc.) above
 this
 three times
@@ -100964,7 +100964,7 @@ I go away
 (with gen.) from, away from
 I
 and, also, likewise
-0
+
 I
 I am enough, suffice
 you
@@ -100977,7 +100977,7 @@ power, strength
 (with dat.) in
 weakness
 I finish, carry out
-0
+
 therefore, then
 more, rather
 I boast, glory
@@ -100985,7 +100985,7 @@ I boast, glory
 the
 weakness
 in order that, that
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 I
 the
@@ -100997,13 +100997,13 @@ I am pleased with
 (with dat.) in
 weakness
 (with dat.) in
-0
+
 (with dat.) in
 necessity, distress
 (with dat.) in
 persecution
 and, also, likewise
-0
+
 (with gen.) on behalf of; (with acc.) above
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 whenever, when
@@ -101027,7 +101027,7 @@ no one, nothing
 for
 I am in need, fail; (pass.) I lack
 the
-0
+
 apostle
 if
 and, also, likewise
@@ -101054,10 +101054,10 @@ who? which one? what?
 for
 I am
 who, which, what
-0
+
 (with gen.) on behalf of; (with acc.) above
 the
-0
+
 church, congregation
 if
 not
@@ -101065,7 +101065,7 @@ that, because, since
 he, she, it; himself, herself, itself; even, very; same
 I
 no, not
-0
+
 you
 I give freely, forgive
 I
@@ -101075,14 +101075,14 @@ this
 I see
 third
 this
-0
+
 I have, hold
 I come, go
 (with dat.) near, at; (with acc.) to, toward
 you
 and, also, likewise
 no, not
-0
+
 no, not
 for
 I seek, look for, ask
@@ -101105,29 +101105,29 @@ the
 child
 I
 but, and (frequently untranslated)
-0
+
 I spend freely
 and, also, likewise
-0
+
 (with gen.) on behalf of; (with acc.) above
 the
 soul
 you
 if
-0
+
 you
 I love
-0
+
 I love
 I am
 but, and (frequently untranslated)
 I
 no, not
-0
+
 you
 but, rather, yet
 I exist, am present
-0
+
 deceit
 you
 I take, receive
@@ -101144,7 +101144,7 @@ you
 I invite; I exhort; I comfort
 Titus
 and, also, likewise
-0
+
 the
 brother
 (a usually untranslated particle in questions that expect a negative answer)
@@ -101159,7 +101159,7 @@ I go about, walk around
 no, not
 the
 he, she, it; himself, herself, itself; even, very; same
-0
+
 long ago, for a long time
 I think, believe; I seem
 that, because, since
@@ -101200,9 +101200,9 @@ strife, discord
 zeal, jealousy
 anger, wrath
 strife; selfishness
-0
-0
-0
+
+
+
 disturbance
 not
 again
@@ -101217,9 +101217,9 @@ I
 you
 and, also, likewise
 I grieve, mourn
-0
+
 the
-0
+
 and, also, likewise
 not
 I repent, am converted
@@ -101257,10 +101257,10 @@ and, also, likewise
 I am absent
 now
 the
-0
+
 and, also, likewise
 the
-0
+
 all, every
 that, because, since
 if
@@ -101284,7 +101284,7 @@ you
 no, not
 I am weak, sick
 but, rather, yet
-0
+
 (with dat.) in
 you
 and, also, likewise
@@ -101312,19 +101312,19 @@ power, strength
 God, god
 into, in
 you
-0
+
 I test, tempt
 if
 I am
 (with dat.) in
 the
 faith, trust
-0
+
 I test, examine, approve
 or, either
 no, not
 I know, understand
-0
+
 that, because, since
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -101362,7 +101362,7 @@ but, rather, yet
 in order that, that
 you
 the
-0
+
 I do, make
 I
 but, and (frequently untranslated)
@@ -101394,7 +101394,7 @@ and, also, likewise
 I pray
 the
 you
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 this
 this
@@ -101403,7 +101403,7 @@ I write
 in order that, that
 I am present
 not
-0
+
 I use
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -101418,8 +101418,8 @@ building, edification; a building
 and, also, likewise
 no, not
 into, in
-0
-0
+
+
 brother
 I rejoice, am glad
 I mend, fit, perfect
@@ -101427,7 +101427,7 @@ I invite; I exhort; I comfort
 the
 he, she, it; himself, herself, itself; even, very; same
 I think
-0
+
 and, also, likewise
 the
 God, god
@@ -101497,7 +101497,7 @@ brother
 the
 church, congregation
 the
-0
+
 grace, favor
 you
 and, also, likewise
@@ -101512,7 +101512,7 @@ Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 the
 I give
-0
+
 (with gen.) on behalf of; (with acc.) above
 the
 sin
@@ -101571,7 +101571,7 @@ I trouble
 you
 and, also, likewise
 I wish, will
-0
+
 the
 the Good News, Gospel
 the
@@ -101664,7 +101664,7 @@ way of life, conduct
 once, formerly
 (with dat.) in
 the
-0
+
 that, because, since
 (with gen.) down, against; (with acc.) according to, along
 excess, abundance
@@ -101674,25 +101674,25 @@ church, congregation
 the
 God, god
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I progress
 (with dat.) in
 the
-0
+
 (with gen.) on behalf of; (with acc.) above
-0
-0
+
+
 (with dat.) in
 the
 race, stock
 I
-0
+
 zealot
 I exist, am present
 the
-0
+
 I
 handing over, tradition
 when
@@ -101725,12 +101725,12 @@ the
 nation, the Gentiles
 immediately
 no, not
-0
+
 flesh
 and, also, likewise
 blood
 and not, nor; neither, nor
-0
+
 into, in
 Jerusalem
 (with dat.) near, at; (with acc.) to, toward
@@ -101741,7 +101741,7 @@ apostle
 but, rather, yet
 I go away
 into, in
-0
+
 and, also, likewise
 again
 I turn back, return
@@ -101751,17 +101751,17 @@ then
 (with gen.) with; (with acc.) after, behind
 three
 year
-0
+
 into, in
 Jerusalem
-0
+
 Cephas
 and, also, likewise
 I remain, stay
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 day
-0
+
 other, another, different
 but, and (frequently untranslated)
 the
@@ -101790,7 +101790,7 @@ then
 I come, go
 into, in
 the
-0
+
 the
 Syria
 and, also, likewise
@@ -101808,7 +101808,7 @@ Judea
 the
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 but, and (frequently untranslated)
 I hear
 I am
@@ -101823,7 +101823,7 @@ the
 faith, trust
 who, which, what
 once, formerly
-0
+
 and, also, likewise
 I praise, honor, glorify
 (with dat.) in
@@ -101840,7 +101840,7 @@ into, in
 Jerusalem
 (with gen.) with; (with acc.) after, behind
 Barnabas
-0
+
 and, also, likewise
 Titus
 I go up, embark
@@ -101848,7 +101848,7 @@ but, and (frequently untranslated)
 (with gen.) down, against; (with acc.) according to, along
 revelation
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 the Good News, Gospel
@@ -101882,11 +101882,11 @@ I circumcise
 (with gen.) through; (with acc.) because of, for the sake of
 but, and (frequently untranslated)
 the
-0
-0
-0
-0
-0
+
+
+
+
+
 the
 freedom
 I
@@ -101897,14 +101897,14 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 Jesus, Joshua
 in order that, that
 I
-0
+
 who, which, what
 and not, nor; neither, nor
 (with dat.) near, at; (with acc.) to, toward
 hour
-0
+
 the
-0
+
 in order that, that
 the
 truth, truthfulness
@@ -101936,9 +101936,9 @@ for
 the
 I think, believe; I seem
 no one, nothing
-0
+
 but, rather, yet
-0
+
 I see
 that, because, since
 I believe (in), trust
@@ -101955,7 +101955,7 @@ for
 I work, produce
 Peter
 into, in
-0
+
 the
 circumcision
 I work, produce
@@ -101978,7 +101978,7 @@ and, also, likewise
 John
 the
 I think, believe; I seem
-0
+
 I am
 right (as opposed to left)
 I give
@@ -101996,7 +101996,7 @@ but, and (frequently untranslated)
 into, in
 the
 circumcision
-0
+
 the
 poor
 in order that, that
@@ -102018,7 +102018,7 @@ face
 he, she, it; himself, herself, itself; even, very; same
 I oppose, resist
 that, because, since
-0
+
 I am
 (with gen.) before, in front of
 the
@@ -102034,25 +102034,25 @@ I eat with
 when
 but, and (frequently untranslated)
 I come, go
-0
+
 and, also, likewise
 I separate
-0
+
 I fear
 the
 from, out of
 circumcision
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
-0
+
 Judean, Jewish
 therefore, so that
 and, also, likewise
 Barnabas
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 hypocrisy
@@ -102061,7 +102061,7 @@ when
 I see
 that, because, since
 no, not
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 truth, truthfulness
@@ -102076,16 +102076,16 @@ if
 you
 Judean, Jewish
 I exist, am present
-0
+
 and, also, likewise
 no, not
-0
+
 I live
 how?
 the
 nation, the Gentiles
 I compel
-0
+
 I
 nature
 Judean, Jewish
@@ -102143,7 +102143,7 @@ I find, discover
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 sinful
-0
+
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 sin
 deacon
@@ -102198,7 +102198,7 @@ I love
 I
 and, also, likewise
 I hand over, hand down, entrust
-0
+
 (with gen.) on behalf of; (with acc.) above
 I
 no, not
@@ -102216,21 +102216,21 @@ so, then
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 freely
 I die
-0
+
 unintelligent, foolish
-0
+
 who? which one? what?
 you
-0
+
 who, which, what
 (with gen.) down, against; (with acc.) according to, along
 eye
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 I crucify
 this
-0
+
 I wish, will
 I learn
 (with gen.) from, away from
@@ -102248,7 +102248,7 @@ faith, trust
 in this manner, thus, so
 unintelligent, foolish
 I am
-0
+
 breath, spirit
 now
 flesh
@@ -102298,7 +102298,7 @@ this
 son
 I am
 Abraham
-0
+
 but, and (frequently untranslated)
 the
 writing
@@ -102310,11 +102310,11 @@ the
 nation, the Gentiles
 the
 God, god
-0
+
 the
 Abraham
 that, because, since
-0
+
 (with dat.) in
 you
 all, every
@@ -102341,11 +102341,11 @@ I am
 I write
 for
 that, because, since
-0
+
 all, every
 who, which, what
 no, not
-0
+
 all, every
 the
 I write
@@ -102366,7 +102366,7 @@ I justify
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 God, god
-0
+
 that, because, since
 the
 righteous, just
@@ -102389,7 +102389,7 @@ I live
 he, she, it; himself, herself, itself; even, very; same
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I
-0
+
 from, out of
 the
 curse
@@ -102401,7 +102401,7 @@ I
 curse
 that, because, since
 I write
-0
+
 all, every
 the
 I hang
@@ -102432,39 +102432,39 @@ brother
 (with gen.) down, against; (with acc.) according to, along
 human being, person
 I say, tell
-0
+
 human being, person
-0
+
 will, testament, covenant
 no one, nothing
 I reject
 or, either
-0
+
 the
 but, and (frequently untranslated)
 Abraham
-0
+
 the
 promise
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 no, not
 I say, tell
 and, also, likewise
 the
-0
+
 as, like, so
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 but, rather, yet
 as, like, so
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 one
 and, also, likewise
 the
-0
+
 you
 who, which, what
 I am
@@ -102473,20 +102473,20 @@ this
 but, and (frequently untranslated)
 I say, tell
 will, testament, covenant
-0
+
 (with gen.) by; (with acc.) under
 the
 God, god
 the
 (with gen.) with; (with acc.) after, behind
-0
+
 and, also, likewise
 thirty
 year
 I am, become, happen
 law
 no, not
-0
+
 into, in
 the
 I make ineffective, abolish
@@ -102521,7 +102521,7 @@ until
 (an untranslatable conditional particle)
 I come, go
 the
-0
+
 who, which, what
 I promise
 I order, direct
@@ -102566,7 +102566,7 @@ I am
 the
 righteousness
 but, rather, yet
-0
+
 the
 writing
 the
@@ -102591,8 +102591,8 @@ the
 faith, trust
 (with gen.) by; (with acc.) under
 law
-0
-0
+
+
 into, in
 the
 I am about to, intend
@@ -102601,7 +102601,7 @@ I reveal
 therefore, so that
 the
 law
-0
+
 I
 I am, become, happen
 into, in
@@ -102616,7 +102616,7 @@ the
 faith, trust
 no more, no longer
 (with gen.) by; (with acc.) under
-0
+
 I am
 all, every
 for
@@ -102666,7 +102666,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 so, then
 the
 Abraham
-0
+
 I am
 (with gen.) down, against; (with acc.) according to, along
 promise
@@ -102688,13 +102688,13 @@ all, every
 I am
 but, rather, yet
 (with gen.) by; (with acc.) under
-0
+
 I am
 and, also, likewise
 house steward
 until
 the
-0
+
 the
 father
 in this manner, thus, so
@@ -102733,7 +102733,7 @@ in order that, that
 the
 (with gen.) by; (with acc.) under
 law
-0
+
 in order that, that
 the
 adoption
@@ -102755,7 +102755,7 @@ the
 heart
 I
 I cry, call out
-0
+
 the
 father
 therefore, so that
@@ -102857,7 +102857,7 @@ I
 no, not
 I despise, reject
 and not, nor; neither, nor
-0
+
 but, rather, yet
 as, like, so
 angel, messenger
@@ -102870,7 +102870,7 @@ Jesus, Joshua
 where?
 therefore, then
 the
-0
+
 you
 I bear witness, testify
 for
@@ -102881,35 +102881,35 @@ powerful
 the
 eye
 you
-0
+
 I give
 I
 therefore, so that
 hostile; (as a noun) enemy
 you
 I am, become, happen
-0
+
 you
 I am zealous, jealous
 you
 no, not
 well, beautifully
 but, rather, yet
-0
+
 you
 I wish, will
 in order that, that
 he, she, it; himself, herself, itself; even, very; same
 I am zealous, jealous
-0
+
 but, and (frequently untranslated)
 I am zealous, jealous
 (with dat.) in
-0
+
 always
 and, also, likewise
 not
-0
+
 (with dat.) in
 the
 I am present
@@ -102920,10 +102920,10 @@ child
 I
 who, which, what
 again
-0
+
 until
 who, which, what
-0
+
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 (with dat.) in
 you
@@ -102986,9 +102986,9 @@ free
 (with gen.) through; (with acc.) because of, for the sake of
 the
 promise
-0
+
 I am
-0
+
 this
 for
 I am
@@ -102998,23 +102998,23 @@ one
 indeed, on the one hand (but often untranslatable)
 (with gen.) from, away from
 mountain, hill
-0
+
 into, in
 slavery
 I beget
-0
+
 I am
-0
+
 the
 but, and (frequently untranslated)
-0
-0
+
+
 mountain, hill
 I am
 (with dat.) in
 the
-0
-0
+
+
 but, and (frequently untranslated)
 the
 now
@@ -103031,7 +103031,7 @@ above, upward
 Jerusalem
 free
 I am
-0
+
 I am
 mother
 I
@@ -103047,9 +103047,9 @@ and, also, likewise
 I call, shout
 the
 no, not
-0
+
 that, because, since
-0
+
 the
 child
 the
@@ -103128,7 +103128,7 @@ not
 again
 yoke
 slavery
-0
+
 I see
 I
 Paul
@@ -103157,7 +103157,7 @@ I do, make
 I make ineffective, abolish
 (with gen.) from, away from
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 (with dat.) in
 law
 I justify
@@ -103196,7 +103196,7 @@ truth, truthfulness
 not
 I convince, persuade; I trust in
 the
-0
+
 no, not
 from, out of
 the
@@ -103207,7 +103207,7 @@ yeast, leaven
 whole, complete
 the
 dough
-0
+
 I
 I convince, persuade; I trust in
 into, in
@@ -103225,7 +103225,7 @@ you
 I bear
 the
 judgment, condemnation
-0
+
 if
 I am
 I
@@ -103244,11 +103244,11 @@ the
 that which gives offense, temptation to sin
 the
 cross
-0
+
 and, also, likewise
 I cut off
 the
-0
+
 you
 you
 for
@@ -103256,7 +103256,7 @@ for
 freedom
 I call
 brother
-0
+
 not
 the
 freedom
@@ -103289,14 +103289,14 @@ yourself
 if
 but, and (frequently untranslated)
 each other, one another
-0
+
 and, also, likewise
 I eat up, devour
 I see, look
 not
 (with gen.) by; (with acc.) under
 each other, one another
-0
+
 I say, tell
 but, and (frequently untranslated)
 breath, spirit
@@ -103346,23 +103346,23 @@ the
 work, deed
 the
 flesh
-0
+
 I am
 prostitution, unchastity
 impurity, immorality
 licentiousness, sensuality
-0
-0
+
+
 enmity
 strife, discord
 zeal, jealousy
 anger, wrath
 strife; selfishness
-0
+
 party, dissension
 envy
-0
-0
+
+
 and, also, likewise
 the
 like, similar
@@ -103392,10 +103392,10 @@ joy
 peace
 patience, steadfastness
 goodness, usefulness
-0
+
 faith, trust
 gentleness, humility, meekness
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
 of such a kind, such as this
@@ -103424,15 +103424,15 @@ and, also, likewise
 I hold to, follow
 not
 I am, become, happen
-0
+
 each other, one another
-0
+
 each other, one another
-0
+
 brother
 if
 and, also, likewise
-0
+
 human being, person
 (with dat.) in
 anyone, anything; someone, something
@@ -103471,19 +103471,19 @@ I am
 anyone, anything; someone, something
 no one, nothing
 I am
-0
-0
+
+
 the
 but, and (frequently untranslated)
 work, deed
-0
+
 I test, examine, approve
 each, every
 and, also, likewise
 then
 into, in
-0
-0
+
+
 the
 boast, object of boasting
 I have, hold
@@ -103513,7 +103513,7 @@ not
 I lead astray, deceive
 God, god
 no, not
-0
+
 who, which, what
 for
 if
@@ -103528,7 +103528,7 @@ I sow
 into, in
 the
 flesh
-0
+
 from, out of
 the
 flesh
@@ -103548,7 +103548,7 @@ life
 eternal
 the
 but, and (frequently untranslated)
-0
+
 I do, make
 not
 I become weary, lose heart
@@ -103572,11 +103572,11 @@ most of all, especially
 but, and (frequently untranslated)
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 the
 faith, trust
 I see
-0
+
 you
 letter (of the alphabet), writing
 I write
@@ -103585,14 +103585,14 @@ my, mine
 hand
 as great, how great; as far, how far
 I wish, will
-0
+
 (with dat.) in
 flesh
 this
 I compel
 you
 I circumcise
-0
+
 in order that, that
 the
 cross
@@ -103652,7 +103652,7 @@ creation, creature
 and, also, likewise
 as great, how great; as far, how far
 the
-0
+
 this
 I hold to, follow
 peace
@@ -103667,7 +103667,7 @@ Israel
 the
 God, god
 the
-0
+
 trouble, work
 I
 no one, nothing
@@ -103675,7 +103675,7 @@ I give, cause
 I
 for
 the
-0
+
 the
 Jesus, Joshua
 (with dat.) in
@@ -103761,7 +103761,7 @@ I
 holy
 and, also, likewise
 unblemished, blameless
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 love
@@ -103787,7 +103787,7 @@ the
 grace, favor
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
-0
+
 I
 (with dat.) in
 the
@@ -103819,7 +103819,7 @@ I
 all, every
 wisdom
 and, also, likewise
-0
+
 I make known, reveal
 I
 the
@@ -103832,7 +103832,7 @@ the
 goodwill, favor
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
-0
+
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 into, in
@@ -103841,7 +103841,7 @@ the
 fullness
 the
 time, right time
-0
+
 the
 all, every
 (with dat.) in
@@ -103861,7 +103861,7 @@ he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 who, which, what
 and, also, likewise
-0
+
 I predestine
 (with gen.) down, against; (with acc.) according to, along
 presentation; plan
@@ -103884,7 +103884,7 @@ praise
 glory, brightness, splendor
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 (with dat.) in
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -103915,7 +103915,7 @@ the
 holy
 who, which, what
 I am
-0
+
 the
 inheritance, possession
 I
@@ -104012,7 +104012,7 @@ and, also, likewise
 who? which one? what?
 the
 I surpass
-0
+
 the
 power, strength
 he, she, it; himself, herself, itself; even, very; same
@@ -104045,7 +104045,7 @@ he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
 heavenly
-0
+
 all, every
 beginning; ruler, authority
 and, also, likewise
@@ -104053,13 +104053,13 @@ power, authority
 and, also, likewise
 power, strength
 and, also, likewise
-0
+
 and, also, likewise
 all, every
 name
 I name
 no, not
-0
+
 (with dat.) in
 the
 age, eternity
@@ -104084,7 +104084,7 @@ head
 all, every
 the
 church, congregation
-0
+
 I am
 the
 body
@@ -104163,7 +104163,7 @@ anger, indignation
 as, like, so
 and, also, likewise
 the
-0
+
 the
 but, and (frequently untranslated)
 God, god
@@ -104173,7 +104173,7 @@ I am
 mercy, compassion
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 love
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
@@ -104185,16 +104185,16 @@ I
 dead
 the
 transgression, sin
-0
+
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 grace, favor
 I am
 I save, deliver
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 (with dat.) in
 the
 heavenly
@@ -104246,7 +104246,7 @@ I boast, glory
 he, she, it; himself, herself, itself; even, very; same
 for
 I am
-0
+
 I create
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -104255,7 +104255,7 @@ Jesus, Joshua
 work, deed
 good
 who, which, what
-0
+
 the
 God, god
 in order that, that
@@ -104288,9 +104288,9 @@ time, right time
 that
 without, apart from
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 the
-0
+
 the
 Israel
 and, also, likewise
@@ -104303,7 +104303,7 @@ hope
 not
 I have, hold
 and, also, likewise
-0
+
 (with dat.) in
 the
 the world
@@ -104318,7 +104318,7 @@ once, formerly
 I am
 far away
 I am, become, happen
-0
+
 (with dat.) in
 the
 blood
@@ -104337,9 +104337,9 @@ both, all
 one
 and, also, likewise
 the
-0
+
 the
-0
+
 I loose, set free
 the
 enmity
@@ -104359,7 +104359,7 @@ the
 two
 I create
 (with dat.) in
-0
+
 into, in
 one
 new
@@ -104367,7 +104367,7 @@ human being, person
 I do, make
 peace
 and, also, likewise
-0
+
 the
 both, all
 (with dat.) in
@@ -104393,13 +104393,13 @@ far away
 and, also, likewise
 peace
 the
-0
+
 that, because, since
 (with gen.) through; (with acc.) because of, for the sake of
 he, she, it; himself, herself, itself; even, very; same
 I have, hold
 the
-0
+
 the
 both, all
 (with dat.) in
@@ -104414,14 +104414,14 @@ no more, no longer
 I am
 strange, foreign
 and, also, likewise
-0
+
 but, rather, yet
 I am
-0
+
 the
 holy
 and, also, likewise
-0
+
 the
 God, god
 I build on
@@ -104433,7 +104433,7 @@ apostle
 and, also, likewise
 prophet
 I am
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
@@ -104441,7 +104441,7 @@ Jesus, Joshua
 who, which, what
 all, every
 building, edification; a building
-0
+
 I grow, increase
 into, in
 temple
@@ -104452,9 +104452,9 @@ master, lord, the Lord
 who, which, what
 and, also, likewise
 you
-0
+
 into, in
-0
+
 the
 God, god
 (with dat.) in
@@ -104494,7 +104494,7 @@ I
 the
 mystery, secret rites
 as, just as
-0
+
 (with dat.) in
 few, little
 (with dat.) near, at; (with acc.) to, toward
@@ -104533,11 +104533,11 @@ breath, spirit
 I am
 the
 nation, the Gentiles
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 the
 promise
 (with dat.) in
@@ -104567,7 +104567,7 @@ power, strength
 he, she, it; himself, herself, itself; even, very; same
 I
 the
-0
+
 all, every
 holy
 I give
@@ -104578,7 +104578,7 @@ the
 nation, the Gentiles
 I preach the Good News
 the
-0
+
 riches
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -104590,7 +104590,7 @@ management; plan
 the
 mystery, secret rites
 the
-0
+
 (with gen.) from, away from
 the
 age, eternity
@@ -104616,7 +104616,7 @@ heavenly
 the
 church, congregation
 the
-0
+
 wisdom
 the
 God, god
@@ -104639,7 +104639,7 @@ I have, hold
 the
 openness, confidence
 and, also, likewise
-0
+
 (with dat.) in
 confidence
 (with gen.) through; (with acc.) because of, for the sake of
@@ -104656,13 +104656,13 @@ affliction, tribulation
 I
 (with gen.) on behalf of; (with acc.) above
 you
-0
+
 I am
 glory, brightness, splendor
 you
 this
 for the sake of
-0
+
 the
 knee
 I
@@ -104672,7 +104672,7 @@ father
 from, out of
 who, which, what
 all, every
-0
+
 (with dat.) in
 heaven
 and, also, likewise
@@ -104689,7 +104689,7 @@ the
 glory, brightness, splendor
 he, she, it; himself, herself, itself; even, very; same
 power, strength
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 breath, spirit
@@ -104710,11 +104710,11 @@ heart
 you
 (with dat.) in
 love
-0
+
 and, also, likewise
 I lay a foundation
 in order that, that
-0
+
 I seize, win
 (with dat.) with
 all, every
@@ -104722,9 +104722,9 @@ the
 holy
 who? which one? what?
 the
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 height
 and, also, likewise
@@ -104752,7 +104752,7 @@ I can
 (with gen.) on behalf of; (with acc.) above
 all, every
 I do, make
-0
+
 who, which, what
 I ask, ask for
 or, either
@@ -104811,12 +104811,12 @@ love
 I hasten; I am eager
 I keep, observe
 the
-0
+
 the
 breath, spirit
 (with dat.) in
 the
-0
+
 the
 peace
 one
@@ -104872,10 +104872,10 @@ I say, tell
 I go up, embark
 into, in
 height
-0
-0
+
+
 I give
-0
+
 the
 human being, person
 the
@@ -104890,7 +104890,7 @@ and, also, likewise
 I come down, go down
 into, in
 the
-0
+
 part
 the
 earth
@@ -104901,7 +104901,7 @@ I am
 and, also, likewise
 the
 I go up, embark
-0
+
 all, every
 the
 heaven
@@ -104920,7 +104920,7 @@ but, and (frequently untranslated)
 prophet
 the
 but, and (frequently untranslated)
-0
+
 the
 but, and (frequently untranslated)
 shepherd
@@ -104928,7 +104928,7 @@ and, also, likewise
 teacher
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 the
 holy
 into, in
@@ -104946,7 +104946,7 @@ the
 all, every
 into, in
 the
-0
+
 the
 faith, trust
 and, also, likewise
@@ -104970,26 +104970,26 @@ in order that, that
 no longer
 I am
 infant, minor
-0
+
 and, also, likewise
-0
+
 all, every
 wind
 the
 teaching, instruction
 (with dat.) in
 the
-0
+
 the
 human being, person
 (with dat.) in
 cunning, craftiness, trickery
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 the
 wandering, error, deceit
-0
+
 but, and (frequently untranslated)
 (with dat.) in
 love
@@ -105008,14 +105008,14 @@ who, which, what
 all, every
 the
 body
-0
+
 and, also, likewise
 I unite; I conclude
 (with gen.) through; (with acc.) because of, for the sake of
 all, every
-0
+
 the
-0
+
 (with gen.) down, against; (with acc.) according to, along
 working, action
 (with dat.) in
@@ -105024,13 +105024,13 @@ one
 each, every
 part
 the
-0
+
 the
 body
 I do, make
 into, in
 building, edification; a building
-0
+
 (with dat.) in
 love
 this
@@ -105049,35 +105049,35 @@ the
 nation, the Gentiles
 I go about, walk around
 (with dat.) in
-0
+
 the
 understanding, mind
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 understanding, mind
 I am
-0
+
 the
 life
 the
 God, god
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
 I am
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
 heart
 he, she, it; himself, herself, itself; even, very; same
-0
-0
-0
+
+
+
 I hand over, hand down, entrust
 the
 licentiousness, sensuality
@@ -105124,7 +105124,7 @@ the
 desire, longing
 the
 deception, deceitfulness
-0
+
 but, and (frequently untranslated)
 the
 breath, spirit
@@ -105143,7 +105143,7 @@ I create
 (with dat.) in
 righteousness
 and, also, likewise
-0
+
 the
 truth, truthfulness
 therefore, for this reason
@@ -105168,9 +105168,9 @@ I sin
 the
 sun
 not
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 you
 and not, but not
 I give
@@ -105234,7 +105234,7 @@ into, in
 day
 release, redemption
 all, every
-0
+
 and, also, likewise
 anger, wrath
 and, also, likewise
@@ -105254,9 +105254,9 @@ but, and (frequently untranslated)
 into, in
 each other, one another
 useful, good
-0
+
 I give freely, forgive
-0
+
 as, just as
 and, also, likewise
 the
@@ -105285,7 +105285,7 @@ I love
 you
 and, also, likewise
 I hand over, hand down, entrust
-0
+
 (with gen.) on behalf of; (with acc.) above
 I
 offering, gift
@@ -105295,7 +105295,7 @@ the
 God, god
 into, in
 odor
-0
+
 prostitution, unchastity
 but, and (frequently untranslated)
 and, also, likewise
@@ -105311,14 +105311,14 @@ as, just as
 I am fitting
 holy
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 or, either
-0
+
 who, which, what
 no, not
-0
+
 but, rather, yet
 more, rather
 thanksgiving
@@ -105332,7 +105332,7 @@ a sexually immoral person
 or, either
 impure, unclean
 or, either
-0
+
 who, which, what
 I am
 idolater
@@ -105348,7 +105348,7 @@ and, also, likewise
 God, god
 no one, nothing
 you
-0
+
 empty
 word, Word
 (with gen.) through; (with acc.) because of, for the sake of
@@ -105367,7 +105367,7 @@ disobedience, disbelief
 not
 therefore, then
 I am, become, happen
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am
 for
@@ -105389,7 +105389,7 @@ the
 light
 (with dat.) in
 all, every
-0
+
 and, also, likewise
 righteousness
 and, also, likewise
@@ -105402,7 +105402,7 @@ the
 master, lord, the Lord
 and, also, likewise
 not
-0
+
 the
 work, deed
 the
@@ -105415,11 +105415,11 @@ and, also, likewise
 I expose, convict, convince
 the
 for
-0
+
 I am, become, happen
 (with gen.) by; (with acc.) under
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am
 and, also, likewise
 I say, tell
@@ -105448,7 +105448,7 @@ from, out of
 the
 dead
 and, also, likewise
-0
+
 you
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -105459,11 +105459,11 @@ how?
 I go about, walk around
 not
 as, like, so
-0
+
 but, rather, yet
 as, like, so
 wise
-0
+
 the
 time, right time
 that, because, since
@@ -105485,21 +105485,21 @@ the
 master, lord, the Lord
 and, also, likewise
 not
-0
+
 wine
 (with dat.) in
 who, which, what
 I am
-0
+
 but, rather, yet
 I fill, make full, finish
 (with dat.) in
 breath, spirit
 I speak
-0
+
 song of praise, psalm
 and, also, likewise
-0
+
 and, also, likewise
 song
 spiritual
@@ -105584,7 +105584,7 @@ I love
 the
 church, congregation
 and, also, likewise
-0
+
 I hand over, hand down, entrust
 (with gen.) on behalf of; (with acc.) above
 he, she, it; himself, herself, itself; even, very; same
@@ -105593,7 +105593,7 @@ he, she, it; himself, herself, itself; even, very; same
 I make holy, sanctify
 I make clean, purify
 the
-0
+
 the
 water
 (with dat.) in
@@ -105601,15 +105601,15 @@ word, saying; thing, matter
 in order that, that
 I am present, stand by
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 the
 church, congregation
 not
 I have, hold
-0
+
 or, either
-0
+
 or, either
 anyone, anything; someone, something
 the
@@ -105627,30 +105627,30 @@ the
 man
 I love
 the
-0
+
 woman
 as, like, so
 the
-0
+
 body
 the
 I love
 the
-0
+
 woman
-0
+
 I love
 no one, nothing
 for
 once, formerly
 the
-0
+
 flesh
 I hate
 but, rather, yet
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 as, just as
 and, also, likewise
@@ -105674,7 +105674,7 @@ and, also, likewise
 the
 mother
 and, also, likewise
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 woman
@@ -105708,12 +105708,12 @@ the
 one
 each, every
 the
-0
+
 woman
 in this manner, thus, so
 I love
 as, like, so
-0
+
 the
 but, and (frequently untranslated)
 woman
@@ -105740,10 +105740,10 @@ you
 and, also, likewise
 the
 mother
-0
+
 I am
 commandment, order
-0
+
 (with dat.) in
 promise
 in order that, that
@@ -105752,7 +105752,7 @@ you
 I am, become, happen
 and, also, likewise
 I am
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
@@ -105760,17 +105760,17 @@ and, also, likewise
 the
 father
 not
-0
+
 the
 child
 you
 but, rather, yet
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 upbringing, training
 and, also, likewise
-0
+
 master, lord, the Lord
 the
 slave
@@ -105793,9 +105793,9 @@ the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 not
 (with gen.) down, against; (with acc.) according to, along
-0
+
 as, like, so
-0
+
 but, rather, yet
 as, like, so
 slave
@@ -105808,7 +105808,7 @@ God, god
 from, out of
 soul
 (with gen.) with; (with acc.) after, behind
-0
+
 I am a slave, serve
 as, like, so
 the
@@ -105839,9 +105839,9 @@ he, she, it; himself, herself, itself; even, very; same
 I do, make
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
-0
+
 I know
 that, because, since
 and, also, likewise
@@ -105854,13 +105854,13 @@ I am
 (with dat.) in
 heaven
 and, also, likewise
-0
+
 no, not
 I am
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 I strengthen; (pass.) I become strong
 (with dat.) in
 master, lord, the Lord
@@ -105873,7 +105873,7 @@ strength, power
 he, she, it; himself, herself, itself; even, very; same
 I clothe
 the
-0
+
 the
 God, god
 (with dat.) near, at; (with acc.) to, toward
@@ -105883,7 +105883,7 @@ you
 I place, set, stand
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 the
 the devil
 that, because, since
@@ -105891,7 +105891,7 @@ no, not
 I am
 I
 the
-0
+
 (with dat.) near, at; (with acc.) to, toward
 blood
 and, also, likewise
@@ -105905,7 +105905,7 @@ the
 power, authority
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 the
 darkness
 this
@@ -105921,7 +105921,7 @@ heavenly
 this
 I take up
 the
-0
+
 the
 God, god
 in order that, that
@@ -105951,11 +105951,11 @@ breastplate
 the
 righteousness
 and, also, likewise
-0
+
 the
 foot
 (with dat.) in
-0
+
 the
 the Good News, Gospel
 the
@@ -105964,7 +105964,7 @@ peace
 all, every
 I take up
 the
-0
+
 the
 faith, trust
 (with dat.) in
@@ -105972,7 +105972,7 @@ who, which, what
 I can
 all, every
 the
-0
+
 the
 wicked, bad
 the
@@ -105980,9 +105980,9 @@ I burn, am inflamed
 I extinguish
 and, also, likewise
 the
-0
+
 the
-0
+
 I take, receive
 and, also, likewise
 the
@@ -106007,10 +106007,10 @@ breath, spirit
 and, also, likewise
 into, in
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 all, every
-0
+
 and, also, likewise
 prayer, entreaty
 (with gen.) about, concerning; (with acc.) around, near
@@ -106025,7 +106025,7 @@ I
 I give
 word, Word
 (with dat.) in
-0
+
 the
 mouth
 I
@@ -106038,7 +106038,7 @@ the
 the Good News, Gospel
 (with gen.) on behalf of; (with acc.) above
 who, which, what
-0
+
 (with dat.) in
 chain
 in order that, that
@@ -106130,7 +106130,7 @@ Jesus, Joshua
 the
 I am
 (with dat.) in
-0
+
 (with dat.) with
 overseer, bishop
 and, also, likewise
@@ -106178,7 +106178,7 @@ the
 the Good News, Gospel
 (with gen.) from, away from
 the
-0
+
 day
 until
 the
@@ -106188,7 +106188,7 @@ he, she, it; himself, herself, itself; even, very; same
 this
 that, because, since
 the
-0
+
 (with dat.) in
 you
 work, deed
@@ -106225,10 +106225,10 @@ and, also, likewise
 the
 defense, reply
 and, also, likewise
-0
+
 the
 the Good News, Gospel
-0
+
 I
 the
 grace, favor
@@ -106264,7 +106264,7 @@ I have an abundance, am rich
 knowledge, understanding
 and, also, likewise
 all, every
-0
+
 into, in
 the
 I test, examine, approve
@@ -106273,9 +106273,9 @@ the
 I differ, am superior
 in order that, that
 I am
-0
+
 and, also, likewise
-0
+
 into, in
 day
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -106302,7 +106302,7 @@ the
 I
 more, rather
 into, in
-0
+
 the
 the Good News, Gospel
 I come, go
@@ -106320,11 +106320,11 @@ the
 praetorium
 and, also, likewise
 the
-0
+
 all, every
 and, also, likewise
 the
-0
+
 the
 brother
 (with dat.) in
@@ -106333,9 +106333,9 @@ I convince, persuade; I trust in
 the
 bond, fetter
 I
-0
+
 I dare
-0
+
 the
 word, Word
 the
@@ -106375,8 +106375,8 @@ the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I proclaim
 no, not
-0
-0
+
+
 affliction, tribulation
 I raise
 the
@@ -106406,7 +106406,7 @@ for
 that, because, since
 this
 I
-0
+
 into, in
 salvation, deliverance
 (with gen.) through; (with acc.) because of, for the sake of
@@ -106414,14 +106414,14 @@ the
 you
 prayer, entreaty
 and, also, likewise
-0
+
 the
 breath, spirit
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 and, also, likewise
 hope
 I
@@ -106457,7 +106457,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 and, also, likewise
 the
 I die
-0
+
 if
 but, and (frequently untranslated)
 the
@@ -106470,7 +106470,7 @@ fruit
 work, deed
 and, also, likewise
 who? which one? what?
-0
+
 no, not
 I make known, reveal
 I hold fast, oppress, attack
@@ -106483,15 +106483,15 @@ desire, longing
 I have, hold
 into, in
 the
-0
+
 and, also, likewise
 (with dat.) with
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I am
-0
+
 for
 more, rather
-0
+
 the
 but, and (frequently untranslated)
 I remain, stay
@@ -106507,13 +106507,13 @@ I know
 that, because, since
 I remain, stay
 and, also, likewise
-0
+
 all, every
 you
 into, in
 the
 you
-0
+
 and, also, likewise
 joy
 the
@@ -106535,13 +106535,13 @@ presence, coming
 again
 (with dat.) near, at; (with acc.) to, toward
 you
-0
+
 worthily
 the
 the Good News, Gospel
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 in order that, that
 if, whether
 I come, go
@@ -106561,23 +106561,23 @@ one
 breath, spirit
 one
 soul
-0
+
 the
 faith, trust
 the
 the Good News, Gospel
 and, also, likewise
 not
-0
+
 (with dat.) in
 no one, nothing
 (with gen.) by; (with acc.) under
 the
 I am opposed
-0
+
 I am
 he, she, it; himself, herself, itself; even, very; same
-0
+
 destruction
 you
 but, and (frequently untranslated)
@@ -106593,7 +106593,7 @@ the
 (with gen.) on behalf of; (with acc.) above
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 no, not
-0
+
 the
 into, in
 he, she, it; himself, herself, itself; even, very; same
@@ -106625,7 +106625,7 @@ exhortation, comfort
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 if
 anyone, anything; someone, something
-0
+
 love
 if
 anyone, anything; someone, something
@@ -106648,7 +106648,7 @@ the
 he, she, it; himself, herself, itself; even, very; same
 love
 I have, hold
-0
+
 the
 one
 I think
@@ -106657,17 +106657,17 @@ no one, nothing
 strife; selfishness
 and not, but not
 (with gen.) down, against; (with acc.) according to, along
-0
+
 but, rather, yet
 the
 humility
 each other, one another
 I lead, guide; I think
 I surpass
-0
+
 not
 the
-0
+
 each, every
 I look out for, notice
 but, rather, yet
@@ -106686,20 +106686,20 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 Jesus, Joshua
 who, which, what
 (with dat.) in
-0
+
 God, god
 I exist, am present
 no, not
-0
+
 I lead, guide; I think
 the
 I am
 equal
 God, god
 but, rather, yet
-0
+
 I empty
-0
+
 slave
 I take, receive
 (with dat.) in
@@ -106707,14 +106707,14 @@ likeness, form
 human being, person
 I am, become, happen
 and, also, likewise
-0
+
 I find, discover
 as, like, so
 human being, person
 I make low, humble
-0
+
 I am, become, happen
-0
+
 until
 death
 death
@@ -106725,7 +106725,7 @@ and, also, likewise
 the
 God, god
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I give freely, forgive
 he, she, it; himself, herself, itself; even, very; same
@@ -106742,12 +106742,12 @@ name
 Jesus, Joshua
 all, every
 knee
-0
+
 heavenly
 and, also, likewise
 earthly
 and, also, likewise
-0
+
 and, also, likewise
 all, every
 tongue, language
@@ -106772,21 +106772,21 @@ as, like, so
 the
 presence, coming
 I
-0
+
 but, rather, yet
 now
-0
+
 more, rather
 (with dat.) in
 the
-0
+
 I
 (with gen.) with; (with acc.) after, behind
 fear
 and, also, likewise
 trembling
 the
-0
+
 salvation, deliverance
 I achieve, bring about
 God, god
@@ -106808,27 +106808,27 @@ goodwill, favor
 all, every
 I do, make
 without, apart from
-0
+
 and, also, likewise
 thought, doubt, dispute
 in order that, that
 I am, become, happen
 blameless, faultless
 and, also, likewise
-0
+
 child
 God, god
 unblemished, blameless
 middle, in the middle
 family, generation
-0
+
 and, also, likewise
 I make crooked, pervert
 (with dat.) in
 who, which, what
 I shine; (mid.) I appear, become visible
 as, like, so
-0
+
 (with dat.) in
 the world
 word, Word
@@ -106852,7 +106852,7 @@ I work
 but, rather, yet
 if
 and, also, likewise
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 sacrifice, offering
@@ -106886,7 +106886,7 @@ I send
 you
 in order that, that
 and I, but I
-0
+
 I know
 the
 (with gen.) about, concerning; (with acc.) around, near
@@ -106894,9 +106894,9 @@ you
 no one, nothing
 for
 I have, hold
-0
-0
-0
+
+
+
 the
 (with gen.) about, concerning; (with acc.) around, near
 you
@@ -106905,7 +106905,7 @@ the
 all, every
 for
 the
-0
+
 I seek, look for, ask
 no, not
 the
@@ -106933,7 +106933,7 @@ I hope, hope for
 I send
 as, like, so
 (an untranslatable conditional particle)
-0
+
 the
 (with gen.) about, concerning; (with acc.) around, near
 I
@@ -106950,13 +106950,13 @@ I come, go
 necessary
 but, and (frequently untranslated)
 I lead, guide; I think
-0
+
 the
 brother
 and, also, likewise
 helper, fellow-worker
 and, also, likewise
-0
+
 I
 you
 but, and (frequently untranslated)
@@ -106975,7 +106975,7 @@ I am
 all, every
 you
 and, also, likewise
-0
+
 because, therefore
 I hear
 that, because, since
@@ -106983,7 +106983,7 @@ I am weak, sick
 and, also, likewise
 for
 I am weak, sick
-0
+
 death
 but, rather, yet
 the
@@ -106993,7 +106993,7 @@ he, she, it; himself, herself, itself; even, very; same
 no, not
 he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
-0
+
 but, rather, yet
 and, also, likewise
 I
@@ -107003,7 +107003,7 @@ grief, sorrow, pain
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 grief, sorrow, pain
 I have, hold
-0
+
 therefore, then
 I send
 he, she, it; himself, herself, itself; even, very; same
@@ -107013,7 +107013,7 @@ he, she, it; himself, herself, itself; even, very; same
 again
 I rejoice, am glad
 and I, but I
-0
+
 I am
 I receive, welcome; I wait for
 therefore, then
@@ -107036,7 +107036,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 until
 death
 I come near
-0
+
 the
 soul
 in order that, that
@@ -107049,7 +107049,7 @@ the
 I
 service
 the
-0
+
 brother
 I
 I rejoice, am glad
@@ -107062,7 +107062,7 @@ you
 I
 indeed, on the one hand (but often untranslatable)
 no, not
-0
+
 you
 but, and (frequently untranslated)
 safe, firm
@@ -107075,7 +107075,7 @@ evil, bad
 workman, doer
 I see, look
 the
-0
+
 I
 for
 I am
@@ -107112,15 +107112,15 @@ flesh
 I
 more, rather
 circumcision
-0
+
 from, out of
 race, stock
 Israel
 tribe, nation
-0
-0
+
+
 from, out of
-0
+
 (with gen.) down, against; (with acc.) according to, along
 law
 a Pharisee
@@ -107137,16 +107137,16 @@ law
 I am, become, happen
 blameless, faultless
 but, rather, yet
-0
+
 I am
 I
-0
+
 this
 I lead, guide; I think
 (with gen.) through; (with acc.) because of, for the sake of
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 but, rather, yet
 indeed, on the one hand (but often untranslatable)
 therefore, then
@@ -107154,7 +107154,7 @@ therefore, then
 and, also, likewise
 I lead, guide; I think
 all, every
-0
+
 I am
 (with gen.) through; (with acc.) because of, for the sake of
 the
@@ -107173,7 +107173,7 @@ all, every
 I forfeit
 and, also, likewise
 I lead, guide; I think
-0
+
 in order that, that
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I gain
@@ -107213,7 +107213,7 @@ and, also, likewise
 communion, fellowship, participation
 suffering
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 death
 he, she, it; himself, herself, itself; even, very; same
@@ -107222,7 +107222,7 @@ how?
 I come to, approach
 into, in
 the
-0
+
 the
 from, out of
 dead
@@ -107260,13 +107260,13 @@ I forget
 the
 but, and (frequently untranslated)
 (adverb) in front, ahead; (prep., with gen.) in front of, before
-0
+
 (with gen.) down, against; (with acc.) according to, along
-0
+
 I hasten; I pursue, persecute
 into, in
 the
-0
+
 the
 above, upward
 calling, position
@@ -107283,7 +107283,7 @@ I think
 and, also, likewise
 if
 anyone, anything; someone, something
-0
+
 I think
 and, also, likewise
 this
@@ -107298,7 +107298,7 @@ I arrive; I precede
 the
 he, she, it; himself, herself, itself; even, very; same
 I hold to, follow
-0
+
 I
 I am, become, happen
 brother
@@ -107311,7 +107311,7 @@ as, just as
 I have, hold
 image, copy
 I
-0
+
 for
 I go about, walk around
 who, which, what
@@ -107352,7 +107352,7 @@ I think
 I
 for
 the
-0
+
 (with dat.) in
 heaven
 I exist, am present
@@ -107369,9 +107369,9 @@ I transform
 the
 body
 the
-0
+
 I
-0
+
 the
 body
 the
@@ -107393,20 +107393,20 @@ brother
 I
 beloved, dear
 and, also, likewise
-0
+
 joy
 and, also, likewise
-0
+
 I
 in this manner, thus, so
 I stand, stand firm
 (with dat.) in
 master, lord, the Lord
 beloved, dear
-0
+
 I invite; I exhort; I comfort
 and, also, likewise
-0
+
 I invite; I exhort; I comfort
 the
 he, she, it; himself, herself, itself; even, very; same
@@ -107417,22 +107417,22 @@ yes, indeed
 I ask, request
 and, also, likewise
 you
-0
-0
+
+
 I seize, I conceive
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 the
 the Good News, Gospel
-0
+
 I
 (with gen.) with; (with acc.) after, behind
 and, also, likewise
-0
+
 and, also, likewise
 the
-0
+
 helper, fellow-worker
 I
 who, which, what
@@ -107446,7 +107446,7 @@ I rejoice, am glad
 master, lord, the Lord
 always
 again
-0
+
 I rejoice, am glad
 the
 gentle
@@ -107456,7 +107456,7 @@ all, every
 human being, person
 the
 master, lord, the Lord
-0
+
 no one, nothing
 I am anxious; I care for
 but, rather, yet
@@ -107470,7 +107470,7 @@ prayer, entreaty
 (with gen.) with; (with acc.) after, behind
 thanksgiving
 the
-0
+
 you
 I make known, reveal
 (with dat.) near, at; (with acc.) to, toward
@@ -107485,7 +107485,7 @@ the
 I surpass
 all, every
 understanding, mind
-0
+
 the
 heart
 you
@@ -107497,21 +107497,21 @@ you
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
 the
-0
+
 brother
 as great, how great; as far, how far
 I am
-TRUE
+True
 as great, how great; as far, how far
-0
+
 as great, how great; as far, how far
 righteous, just
 as great, how great; as far, how far
 pure, holy
 as great, how great; as far, how far
-0
+
 as great, how great; as far, how far
-0
+
 if
 anyone, anything; someone, something
 virtue
@@ -107546,11 +107546,11 @@ I rejoice, am glad
 but, and (frequently untranslated)
 (with dat.) in
 master, lord, the Lord
-0
+
 that, because, since
 now, already
 once, formerly
-0
+
 the
 (with gen.) on behalf of; (with acc.) above
 I
@@ -107559,12 +107559,12 @@ I think
 who, which, what
 and, also, likewise
 I think
-0
+
 but, and (frequently untranslated)
 no, not
 that, because, since
 (with gen.) down, against; (with acc.) according to, along
-0
+
 I say, tell
 I
 for
@@ -107572,7 +107572,7 @@ I learn
 (with dat.) in
 who, which, what
 I am
-0
+
 I am
 I know
 and, also, likewise
@@ -107585,7 +107585,7 @@ all, every
 and, also, likewise
 (with dat.) in
 all, every
-0
+
 and, also, likewise
 I feed, fill; (pass.) I eat my fill
 and, also, likewise
@@ -107603,7 +107603,7 @@ I
 but, except
 well, beautifully
 I do, make
-0
+
 I
 the
 affliction, tribulation
@@ -107611,7 +107611,7 @@ I know
 but, and (frequently untranslated)
 and, also, likewise
 you
-0
+
 that, because, since
 (with dat.) in
 beginning; ruler, authority
@@ -107627,13 +107627,13 @@ church, congregation
 I share, participate
 into, in
 word, Word
-0
+
 and, also, likewise
-0
+
 if
 not
 you
-0
+
 that, because, since
 and, also, likewise
 (with dat.) in
@@ -107651,7 +107651,7 @@ no, not
 that, because, since
 I search for, strive for
 the
-0
+
 but, rather, yet
 I search for, strive for
 the
@@ -107669,12 +107669,12 @@ I have an abundance, am rich
 I fill, make full, finish
 I take, receive
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
-0
+
 the
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 you
 odor
-0
+
 sacrifice, offering
 acceptable, welcome
 pleasing, acceptable
@@ -107758,7 +107758,7 @@ the
 brother
 the
 (with dat.) in
-0
+
 holy
 and, also, likewise
 faithful
@@ -107806,13 +107806,13 @@ holy
 the
 hope
 the
-0
+
 you
 (with dat.) in
 the
 heaven
 who, which, what
-0
+
 (with dat.) in
 the
 word, Word
@@ -107853,7 +107853,7 @@ truth, truthfulness
 as, just as
 I learn
 (with gen.) from, away from
-0
+
 the
 beloved, dear
 fellow-slave
@@ -107909,7 +107909,7 @@ the
 master, lord, the Lord
 into, in
 all, every
-0
+
 (with dat.) in
 all, every
 work, deed
@@ -107924,7 +107924,7 @@ God, god
 (with dat.) in
 all, every
 power, strength
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
 power, rule
@@ -107942,7 +107942,7 @@ I give thanks
 the
 father
 the
-0
+
 you
 into, in
 the
@@ -108005,14 +108005,14 @@ and, also, likewise
 the
 earth
 the
-0
+
 and, also, likewise
 the
 unseen, invisible
 if, whether
 throne
 if, whether
-0
+
 if, whether
 beginning; ruler, authority
 if, whether
@@ -108057,7 +108057,7 @@ I am, become, happen
 (with dat.) in
 all, every
 he, she, it; himself, herself, itself; even, very; same
-0
+
 that, because, since
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
@@ -108069,12 +108069,12 @@ I live, dwell in
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 all, every
 into, in
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 blood
@@ -108097,7 +108097,7 @@ and, also, likewise
 you
 once, formerly
 I am
-0
+
 and, also, likewise
 hostile; (as a noun) enemy
 the
@@ -108109,7 +108109,7 @@ the
 wicked, bad
 now
 but, and (frequently untranslated)
-0
+
 (with dat.) in
 the
 body
@@ -108126,7 +108126,7 @@ and, also, likewise
 unblemished, blameless
 and, also, likewise
 blameless, irreproachable
-0
+
 he, she, it; himself, herself, itself; even, very; same
 if
 (usually untranslatable particle, emphasizing the word it follows)
@@ -108135,10 +108135,10 @@ the
 faith, trust
 I lay a foundation
 and, also, likewise
-0
+
 and, also, likewise
 not
-0
+
 (with gen.) from, away from
 the
 hope
@@ -108168,7 +108168,7 @@ suffering
 (with gen.) on behalf of; (with acc.) above
 you
 and, also, likewise
-0
+
 the
 need
 the
@@ -108209,7 +108209,7 @@ God, god
 the
 mystery, secret rites
 the
-0
+
 (with gen.) from, away from
 the
 age, eternity
@@ -108287,7 +108287,7 @@ I wish, will
 for
 you
 I know
-0
+
 contest, fight
 I have, hold
 (with gen.) on behalf of; (with acc.) above
@@ -108318,7 +108318,7 @@ into, in
 all, every
 riches
 the
-0
+
 the
 understanding
 into, in
@@ -108338,15 +108338,15 @@ the
 wisdom
 and, also, likewise
 knowledge
-0
+
 this
 I say, tell
 in order that, that
 no one, nothing
 you
-0
+
 (with dat.) in
-0
+
 if
 for
 and, also, likewise
@@ -108367,7 +108367,7 @@ the
 order
 and, also, likewise
 the
-0
+
 the
 into, in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -108384,7 +108384,7 @@ master, lord, the Lord
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 I go about, walk around
-0
+
 and, also, likewise
 I build on
 (with dat.) in
@@ -108404,10 +108404,10 @@ anyone, anything; someone, something
 you
 I am
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 and, also, likewise
 empty
 deception, deceitfulness
@@ -108433,8 +108433,8 @@ all, every
 the
 fullness
 the
-0
-0
+
+
 and, also, likewise
 I am
 (with dat.) in
@@ -108453,10 +108453,10 @@ who, which, what
 and, also, likewise
 I circumcise
 circumcision
-0
+
 (with dat.) in
 the
-0
+
 the
 body
 the
@@ -108466,7 +108466,7 @@ the
 circumcision
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
@@ -108474,7 +108474,7 @@ baptism
 (with dat.) in
 who, which, what
 and, also, likewise
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 faith, trust
@@ -108499,7 +108499,7 @@ uncircumcision, the Gentiles
 the
 flesh
 you
-0
+
 you
 (with dat.) with
 he, she, it; himself, herself, itself; even, very; same
@@ -108512,12 +108512,12 @@ I wipe away, remove
 the
 (with gen.) down, against; (with acc.) according to, along
 I
-0
+
 the
 decree; doctrine
 who, which, what
 I am
-0
+
 I
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
@@ -108525,20 +108525,20 @@ I lift up; I take away
 from, out of
 the
 middle, in the middle
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 cross
-0
+
 the
 beginning; ruler, authority
 and, also, likewise
 the
 power, authority
-0
+
 (with dat.) in
 openness, confidence
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
@@ -108551,13 +108551,13 @@ I judge
 eating, rust, food
 and, also, likewise
 (with dat.) in
-0
+
 or, either
 (with dat.) in
 part
-0
+
 or, either
-0
+
 or, either
 Sabbath, week
 who, which, what
@@ -108572,17 +108572,17 @@ the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 no one, nothing
 you
-0
+
 I wish, will
 (with dat.) in
 humility
 and, also, likewise
-0
+
 the
 angel, messenger
 who, which, what
 I see
-0
+
 in vain
 I puff up, make proud
 (with gen.) by; (with acc.) under
@@ -108603,15 +108603,15 @@ the
 body
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 and, also, likewise
-0
+
 I provide, give, support
 and, also, likewise
 I unite; I conclude
 I grow, increase
 the
-0
+
 the
 God, god
 if
@@ -108628,51 +108628,51 @@ as, like, so
 I live
 (with dat.) in
 the world
-0
+
 not
-0
+
 and not, but not
 I taste; I come to know
 and not, but not
-0
+
 who, which, what
 I am
 all, every
 into, in
 destruction
 the
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 and, also, likewise
 teaching, instruction
 the
 human being, person
-0
+
 I am
 word, Word
 indeed, on the one hand (but often untranslatable)
 I have, hold
 wisdom
 (with dat.) in
-0
+
 and, also, likewise
 humility
 and, also, likewise
-0
+
 body
 no, not
 (with dat.) in
 price, value, honor
 anyone, anything; someone, something
 (with dat.) near, at; (with acc.) to, toward
-0
+
 the
 flesh
 if
 therefore, then
-0
+
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 the
@@ -108723,7 +108723,7 @@ he, she, it; himself, herself, itself; even, very; same
 I reveal, make known
 (with dat.) in
 glory, brightness, splendor
-0
+
 therefore, then
 the
 member, part
@@ -108733,15 +108733,15 @@ the
 earth
 prostitution, unchastity
 impurity, immorality
-0
+
 desire, longing
 evil, bad
 and, also, likewise
 the
 greediness, covetousness
-0
+
 I am
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 who, which, what
 I come, go
@@ -108770,7 +108770,7 @@ anger, indignation
 anger, wrath
 wickedness, malice
 blasphemy
-0
+
 from, out of
 the
 mouth
@@ -108779,7 +108779,7 @@ not
 I lie
 into, in
 each other, one another
-0
+
 the
 old
 human being, person
@@ -108792,7 +108792,7 @@ I clothe
 the
 new, young
 the
-0
+
 into, in
 knowledge, understanding
 (with gen.) down, against; (with acc.) according to, along
@@ -108810,7 +108810,7 @@ circumcision
 and, also, likewise
 uncircumcision, the Gentiles
 strange, foreign
-0
+
 slave
 free
 but, rather, yet
@@ -108838,13 +108838,13 @@ I endure
 each other, one another
 and, also, likewise
 I give freely, forgive
-0
+
 if
 anyone, anything; someone, something
 (with dat.) near, at; (with acc.) to, toward
 anyone, anything; someone, something
 I have, hold
-0
+
 as, just as
 and, also, likewise
 the
@@ -108862,15 +108862,15 @@ the
 love
 who, which, what
 I am
-0
+
 the
-0
+
 and, also, likewise
 the
 peace
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 (with dat.) in
 the
 heart
@@ -108883,7 +108883,7 @@ I call
 one
 body
 and, also, likewise
-0
+
 I am, become, happen
 the
 word, Word
@@ -108892,16 +108892,16 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 I live in
 (with dat.) in
 you
-0
+
 (with dat.) in
 all, every
 wisdom
 I teach
 and, also, likewise
 I admonish, instruct
-0
+
 song of praise, psalm
-0
+
 song
 spiritual
 (with dat.) in
@@ -108942,7 +108942,7 @@ I subject, subordinate
 the
 man
 as, like, so
-0
+
 (with dat.) in
 master, lord, the Lord
 the
@@ -108952,7 +108952,7 @@ the
 woman
 and, also, likewise
 not
-0
+
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -108971,13 +108971,13 @@ master, lord, the Lord
 the
 father
 not
-0
+
 the
 child
 you
 in order that, that
 not
-0
+
 the
 slave
 I obey
@@ -108989,9 +108989,9 @@ flesh
 master, lord, the Lord
 not
 (with dat.) in
-0
+
 as, like, so
-0
+
 but, rather, yet
 (with dat.) in
 sincerity
@@ -109017,7 +109017,7 @@ that, because, since
 master, lord, the Lord
 I receive
 the
-0
+
 the
 inheritance, possession
 the
@@ -109033,14 +109033,14 @@ I do wrong, treat unjustly
 and, also, likewise
 no, not
 I am
-0
+
 the
 master, lord, the Lord
 the
 righteous, just
 and, also, likewise
 the
-0
+
 the
 slave
 I give, cause
@@ -109097,7 +109097,7 @@ the
 outside, out
 the
 time, right time
-0
+
 the
 word, Word
 you
@@ -109105,7 +109105,7 @@ always
 (with dat.) in
 grace, favor
 salt
-0
+
 I know
 how?
 it is necessary, one must
@@ -109148,7 +109148,7 @@ the
 heart
 you
 (with dat.) with
-0
+
 the
 faithful
 and, also, likewise
@@ -109167,12 +109167,12 @@ I greet
 you
 Aristarchus
 the
-0
+
 I
 and, also, likewise
 Mark
 the
-0
+
 Barnabas
 (with gen.) about, concerning; (with acc.) around, near
 who, which, what
@@ -109188,26 +109188,26 @@ and, also, likewise
 Jesus, Joshua
 the
 I say, tell
-0
+
 the
 I am
 from, out of
 circumcision
 this
-0
+
 helper, fellow-worker
 into, in
 the
 kingdom, reign
 the
 God, god
-0
+
 I am, become, happen
 I
-0
+
 I greet
 you
-0
+
 the
 from, out of
 you
@@ -109236,8 +109236,8 @@ for
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 I have, hold
-0
-0
+
+
 (with gen.) on behalf of; (with acc.) above
 you
 and, also, likewise
@@ -109247,23 +109247,23 @@ Laodicea
 and, also, likewise
 the
 (with dat.) in
-0
+
 I greet
 you
-0
+
 the
 physician
 the
 beloved, dear
 and, also, likewise
-0
+
 I greet
 the
 (with dat.) in
 Laodicea
 brother
 and, also, likewise
-0
+
 and, also, likewise
 the
 (with gen.) down, against; (with acc.) according to, along
@@ -109282,7 +109282,7 @@ in order that, that
 and, also, likewise
 (with dat.) in
 the
-0
+
 church, congregation
 I read
 and, also, likewise
@@ -109295,7 +109295,7 @@ you
 I read
 and, also, likewise
 I say, tell
-0
+
 I see, look
 the
 service
@@ -109322,12 +109322,12 @@ grace, favor
 you
 Paul
 and, also, likewise
-0
+
 and, also, likewise
 Timothy
 the
 church, congregation
-0
+
 (with dat.) in
 God, god
 father
@@ -109352,7 +109352,7 @@ I do, make
 the
 prayer
 I
-0
+
 I remember, mention
 you
 the
@@ -109399,7 +109399,7 @@ into, in
 you
 (with dat.) in
 word, Word
-0
+
 but, rather, yet
 and, also, likewise
 (with dat.) in
@@ -109409,8 +109409,8 @@ and, also, likewise
 breath, spirit
 holy
 and, also, likewise
-0
-0
+
+
 as, just as
 I know
 of what sort, such as
@@ -109432,7 +109432,7 @@ the
 word, Word
 (with dat.) in
 affliction, tribulation
-0
+
 (with gen.) with; (with acc.) after, behind
 joy
 breath, spirit
@@ -109454,13 +109454,13 @@ Achaia
 (with gen.) from, away from
 you
 for
-0
+
 the
 word, Word
 the
 master, lord, the Lord
 no, not
-0
+
 (with dat.) in
 the
 Macedonia
@@ -109508,9 +109508,9 @@ I am a slave, serve
 God, god
 I live
 and, also, likewise
-TRUE
+True
 and, also, likewise
-0
+
 the
 son
 he, she, it; himself, herself, itself; even, very; same
@@ -109546,13 +109546,13 @@ no, not
 empty
 I am, become, happen
 but, rather, yet
-0
+
 and, also, likewise
 I treat arrogantly, insult
 as, just as
 I know
 (with dat.) in
-0
+
 I speak freely, openly
 (with dat.) in
 the
@@ -109566,7 +109566,7 @@ the Good News, Gospel
 the
 God, god
 (with dat.) in
-0
+
 contest, fight
 the
 for
@@ -109608,7 +109608,7 @@ for
 once, formerly
 (with dat.) in
 word, Word
-0
+
 I am, become, happen
 as, just as
 I know
@@ -109638,25 +109638,25 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 apostle
 but, rather, yet
 I am, become, happen
-0
+
 (with dat.) in
 middle, in the middle
 you
 as, like, so
 if
-0
-0
+
+
 the
-0
+
 child
 in this manner, thus, so
-0
+
 you
 I am pleased with
 I impart, share
 you
 no, not
-0
+
 the
 the Good News, Gospel
 the
@@ -109664,7 +109664,7 @@ God, god
 but, rather, yet
 and, also, likewise
 the
-0
+
 soul
 because, therefore
 beloved, dear
@@ -109678,7 +109678,7 @@ trouble, work
 I
 and, also, likewise
 the
-0
+
 night
 and, also, likewise
 day
@@ -109686,7 +109686,7 @@ I work, do, accomplish
 (with dat.) near, at; (with acc.) to, toward
 the
 not
-0
+
 anyone, anything; someone, something
 you
 I proclaim, preach
@@ -109702,11 +109702,11 @@ and, also, likewise
 the
 God, god
 as, like, so
-0
+
 and, also, likewise
 justly
 and, also, likewise
-0
+
 you
 the
 I believe (in), trust
@@ -109720,11 +109720,11 @@ you
 as, like, so
 father
 child
-0
+
 I invite; I exhort; I comfort
 you
 and, also, likewise
-0
+
 and, also, likewise
 I testify, affirm
 into, in
@@ -109739,7 +109739,7 @@ I call
 you
 into, in
 the
-0
+
 kingdom, reign
 and, also, likewise
 glory, brightness, splendor
@@ -109751,7 +109751,7 @@ I
 I give thanks
 the
 God, god
-0
+
 that, because, since
 I take, take with
 word, Word
@@ -109803,7 +109803,7 @@ you
 (with gen.) by; (with acc.) under
 the
 one’s own
-0
+
 as, just as
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
@@ -109821,7 +109821,7 @@ the
 prophet
 and, also, likewise
 I
-0
+
 and, also, likewise
 God, god
 not
@@ -109855,7 +109855,7 @@ end
 I
 but, and (frequently untranslated)
 brother
-0
+
 (with gen.) from, away from
 you
 (with dat.) near, at; (with acc.) to, toward
@@ -109864,14 +109864,14 @@ hour
 face
 no, not
 heart
-0
+
 I hasten; I am eager
 the
 face
 you
 I see
 (with dat.) in
-0
+
 desire, longing
 because, therefore
 I wish, will
@@ -109897,7 +109897,7 @@ hope
 or, either
 joy
 or, either
-0
+
 boasting
 or, either
 not
@@ -109923,12 +109923,12 @@ the
 joy
 therefore, for this reason
 no longer
-0
+
 I am pleased with
 I leave behind
 (with dat.) in
-0
-0
+
+
 and, also, likewise
 I send
 Timothy
@@ -109956,7 +109956,7 @@ faith, trust
 you
 the
 no one, nothing
-0
+
 (with dat.) in
 the
 affliction, tribulation
@@ -109988,7 +109988,7 @@ I know
 this
 and I, but I
 no longer
-0
+
 I send
 into, in
 the
@@ -110089,7 +110089,7 @@ I
 night
 and, also, likewise
 day
-0
+
 I ask
 into, in
 the
@@ -110116,7 +110116,7 @@ the
 master, lord, the Lord
 I
 Jesus, Joshua
-0
+
 the
 way
 I
@@ -110149,7 +110149,7 @@ the
 heart
 blameless, faultless
 (with dat.) in
-0
+
 (adverb) in front, ahead; (prep., with gen.) in front of, before
 the
 God, god
@@ -110168,7 +110168,7 @@ all, every
 the
 holy
 he, she, it; himself, herself, itself; even, very; same
-0
+
 therefore, then
 brother
 I ask, request
@@ -110225,7 +110225,7 @@ I know
 each, every
 you
 the
-0
+
 vessel, jar
 I acquire
 (with dat.) in
@@ -110234,7 +110234,7 @@ and, also, likewise
 price, value, honor
 not
 (with dat.) in
-0
+
 desire, longing
 as, just as
 and, also, likewise
@@ -110247,7 +110247,7 @@ the
 God, god
 the
 not
-0
+
 and, also, likewise
 I take advantage of, outwit
 (with dat.) in
@@ -110257,7 +110257,7 @@ the
 brother
 he, she, it; himself, herself, itself; even, very; same
 because, therefore
-0
+
 master, lord, the Lord
 (with gen.) about, concerning; (with acc.) around, near
 all, every
@@ -110279,7 +110279,7 @@ impurity, immorality
 but, rather, yet
 (with dat.) in
 holiness, sanctification
-0
+
 the
 I reject
 no, not
@@ -110310,7 +110310,7 @@ you
 he, she, it; himself, herself, itself; even, very; same
 for
 you
-0
+
 I am
 into, in
 the
@@ -110335,7 +110335,7 @@ brother
 I have an abundance, am rich
 more, rather
 and, also, likewise
-0
+
 I am quiet
 and, also, likewise
 I do, accomplish
@@ -110351,7 +110351,7 @@ you
 I command
 in order that, that
 I go about, walk around
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 outside, out
@@ -110374,7 +110374,7 @@ I grieve; (pass.) I am sad, grieve
 as, just as
 and, also, likewise
 the
-0
+
 the
 not
 I have, hold
@@ -110411,7 +110411,7 @@ I
 the
 I live
 the
-0
+
 into, in
 the
 presence, coming
@@ -110427,10 +110427,10 @@ he, she, it; himself, herself, itself; even, very; same
 the
 master, lord, the Lord
 (with dat.) in
-0
+
 (with dat.) in
 sound, voice
-0
+
 and, also, likewise
 (with dat.) in
 trumpet
@@ -110444,13 +110444,13 @@ dead
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I raise, rise, stand up
-0
+
 then
 I
 the
 I live
 the
-0
+
 together
 (with dat.) with
 he, she, it; himself, herself, itself; even, very; same
@@ -110458,7 +110458,7 @@ I seize, steal
 (with dat.) in
 cloud
 into, in
-0
+
 the
 master, lord, the Lord
 into, in
@@ -110506,15 +110506,15 @@ whenever, when
 I say, tell
 peace
 and, also, likewise
-0
+
 then
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I know, understand
-0
+
 (just) as
 the
-0
+
 the
 (with dat.) in
 belly, womb
@@ -110557,7 +110557,7 @@ not
 I sleep
 as, like, so
 the
-0
+
 but, rather, yet
 I watch
 and, also, likewise
@@ -110569,7 +110569,7 @@ night
 I sleep
 and, also, likewise
 the
-0
+
 night
 I am drunk
 I
@@ -110583,7 +110583,7 @@ faith, trust
 and, also, likewise
 love
 and, also, likewise
-0
+
 hope
 salvation, deliverance
 that, because, since
@@ -110648,27 +110648,27 @@ you
 and, also, likewise
 I lead, guide; I think
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 love
 (with gen.) through; (with acc.) because of, for the sake of
 the
 work, deed
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
-0
+
 I invite; I exhort; I comfort
 but, and (frequently untranslated)
 you
 brother
 I admonish, instruct
 the
-0
-0
+
+
 the
-0
-0
+
+
 the
 weak, powerless
 I wait patiently
@@ -110694,7 +110694,7 @@ into, in
 all, every
 always
 I rejoice, am glad
-0
+
 I pray
 (with dat.) in
 all, every
@@ -110719,7 +110719,7 @@ all, every
 but, and (frequently untranslated)
 I test, examine, approve
 the
-0
+
 I hold back, hold fast
 (with gen.) from, away from
 all, every
@@ -110734,9 +110734,9 @@ the
 peace
 I make holy, sanctify
 you
-0
+
 and, also, likewise
-0
+
 you
 the
 breath, spirit
@@ -110746,7 +110746,7 @@ soul
 and, also, likewise
 the
 body
-0
+
 (with dat.) in
 the
 presence, coming
@@ -110774,7 +110774,7 @@ all, every
 (with dat.) in
 a kiss
 holy
-0
+
 you
 the
 master, lord, the Lord
@@ -110795,12 +110795,12 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 you
 Paul
 and, also, likewise
-0
+
 and, also, likewise
 Timothy
 the
 church, congregation
-0
+
 (with dat.) in
 God, god
 father
@@ -110832,7 +110832,7 @@ as, just as
 worthy, fit
 I am
 that, because, since
-0
+
 the
 faith, trust
 you
@@ -110851,7 +110851,7 @@ he, she, it; himself, herself, itself; even, very; same
 I
 (with dat.) in
 you
-0
+
 (with dat.) in
 the
 church, congregation
@@ -110873,7 +110873,7 @@ the
 affliction, tribulation
 who, which, what
 I endure
-0
+
 the
 righteous, just
 judging, judgment
@@ -110881,7 +110881,7 @@ the
 God, god
 into, in
 the
-0
+
 you
 the
 kingdom, reign
@@ -110891,7 +110891,7 @@ God, god
 who, which, what
 and, also, likewise
 I suffer, endure
-0
+
 righteous, just
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 God, god
@@ -110938,10 +110938,10 @@ the
 master, lord, the Lord
 I
 Jesus, Joshua
-0
-0
-0
-0
+
+
+
+
 eternal
 (with gen.) from, away from
 face
@@ -110956,7 +110956,7 @@ strength, power
 he, she, it; himself, herself, itself; even, very; same
 whenever, when
 I come, go
-0
+
 (with dat.) in
 the
 holy
@@ -110997,14 +110997,14 @@ and, also, likewise
 I fill, make full, finish
 all, every
 goodwill, favor
-0
+
 and, also, likewise
 work, deed
 faith, trust
 (with dat.) in
 power, strength
 (adv.) how; (conj.) that, in order that
-0
+
 the
 name
 the
@@ -111041,7 +111041,7 @@ Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 and, also, likewise
 I
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 into, in
@@ -111054,7 +111054,7 @@ you
 the
 understanding, mind
 and not, but not
-0
+
 and not, neither, nor
 (with gen.) through; (with acc.) because of, for the sake of
 breath, spirit
@@ -111086,8 +111086,8 @@ if
 not
 I come, go
 the
-0
-0
+
+
 and, also, likewise
 I reveal
 the
@@ -111101,13 +111101,13 @@ destruction
 the
 I am opposed
 and, also, likewise
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 all, every
 I say, tell
 God, god
 or, either
-0
+
 therefore, so that
 he, she, it; himself, herself, itself; even, very; same
 into, in
@@ -111116,8 +111116,8 @@ temple
 the
 God, god
 I sit down, cause to sit down; stay (intrans.)
-0
-0
+
+
 that, because, since
 I am
 God, god
@@ -111151,7 +111151,7 @@ now, already
 I work, produce
 the
 lawlessness
-0
+
 the
 I hold back, hold fast
 now, just
@@ -111257,7 +111257,7 @@ I love
 (with gen.) by; (with acc.) under
 master, lord, the Lord
 that, because, since
-0
+
 you
 the
 God, god
@@ -111343,7 +111343,7 @@ and, also, likewise
 word, Word
 good
 the
-0
+
 I pray
 brother
 (with gen.) about, concerning; (with acc.) around, near
@@ -111365,7 +111365,7 @@ in order that, that
 I save
 (with gen.) from, away from
 the
-0
+
 and, also, likewise
 wicked, bad
 human being, person
@@ -111403,7 +111403,7 @@ I do, make
 the
 but, and (frequently untranslated)
 master, lord, the Lord
-0
+
 you
 the
 heart
@@ -111428,12 +111428,12 @@ the
 master, lord, the Lord
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 you
 (with gen.) from, away from
 all, every
 brother
-0
+
 I go about, walk around
 and, also, likewise
 not
@@ -111449,24 +111449,24 @@ for
 I know
 how?
 it is necessary, one must
-0
+
 I
 that, because, since
 no, not
-0
+
 (with dat.) in
 you
 and not, nor; neither, nor
 freely
 bread
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 anyone, anything; someone, something
 but, rather, yet
 (with dat.) in
 trouble, work
 and, also, likewise
-0
+
 night
 and, also, likewise
 day
@@ -111474,7 +111474,7 @@ I work, do, accomplish
 (with dat.) near, at; (with acc.) to, toward
 the
 not
-0
+
 anyone, anything; someone, something
 you
 no, not
@@ -111484,13 +111484,13 @@ I have, hold
 power, authority
 but, rather, yet
 in order that, that
-0
+
 image, copy
 I give
 you
 into, in
 the
-0
+
 I
 and, also, likewise
 for
@@ -111508,18 +111508,18 @@ no, not
 I wish, will
 I work, do, accomplish
 and not, but not
-0
+
 I hear
 for
 anyone, anything; someone, something
 I go about, walk around
 (with dat.) in
 you
-0
+
 no one, nothing
 I work, do, accomplish
 but, rather, yet
-0
+
 the
 but, and (frequently untranslated)
 of such a kind, such as this
@@ -111532,18 +111532,18 @@ Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 in order that, that
 (with gen.) with; (with acc.) after, behind
-0
+
 I work, do, accomplish
 the
-0
+
 bread
-0
+
 you
 but, and (frequently untranslated)
 brother
 not
 I become weary, lose heart
-0
+
 if
 but, and (frequently untranslated)
 anyone, anything; someone, something
@@ -111556,9 +111556,9 @@ I
 the
 letter, epistle
 this
-0
+
 not
-0
+
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 I shame; (mid.) I respect
@@ -111631,7 +111631,7 @@ the
 hope
 I
 Timothy
-0
+
 child
 (with dat.) in
 faith, trust
@@ -111660,15 +111660,15 @@ in order that, that
 I command
 anyone, anything; someone, something
 not
-0
+
 and not, but not
 I pay attention
 tale, myth
 and, also, likewise
-0
-0
-0
-0
+
+
+
+
 I give, cause
 more, rather
 or, either
@@ -111695,13 +111695,13 @@ faith, trust
 genuine, sincere
 who, which, what
 anyone, anything; someone, something
-0
+
 I turn, turn away
 into, in
-0
+
 I wish, will
 I am
-0
+
 not
 I perceive, understand
 and not, neither, nor
@@ -111710,17 +111710,17 @@ I say, tell
 and not, neither, nor
 (with gen.) about, concerning; (with acc.) around, near
 who? which one? what?
-0
+
 I know
 but, and (frequently untranslated)
 that, because, since
-0
+
 the
 law
 if
 anyone, anything; someone, something
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I use
 I know
 this
@@ -111732,22 +111732,22 @@ I lie, recline
 lawless
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 godless, impious
 and, also, likewise
 sinful
-0
+
 and, also, likewise
 profane, godless
-0
+
 and, also, likewise
-0
-0
+
+
 a sexually immoral person
-0
-0
+
+
 liar
-0
+
 and, also, likewise
 if
 anyone, anything; someone, something
@@ -111787,11 +111787,11 @@ service
 the
 earlier, fromer
 I am
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 but, rather, yet
 I have mercy
 that, because, since
@@ -111799,7 +111799,7 @@ I do not know
 I do, make
 (with dat.) in
 unfaithfulness, unbelief
-0
+
 but, and (frequently untranslated)
 the
 grace, favor
@@ -111819,7 +111819,7 @@ the
 word, Word
 and, also, likewise
 all, every
-0
+
 worthy, fit
 that, because, since
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -111831,7 +111831,7 @@ the world
 sinful
 I save, deliver
 who, which, what
-0
+
 I am
 I
 but, rather, yet
@@ -111841,7 +111841,7 @@ I have mercy
 in order that, that
 (with dat.) in
 I
-0
+
 I show, demonstrate
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -111849,7 +111849,7 @@ the
 all, every
 patience, steadfastness
 (with dat.) near, at; (with acc.) to, toward
-0
+
 the
 I am about to, intend
 I believe (in), trust
@@ -111865,7 +111865,7 @@ the
 age, eternity
 imperishable, incorruptible
 unseen, invisible
-0
+
 God, god
 price, value, honor
 and, also, likewise
@@ -111894,8 +111894,8 @@ I serve in the army
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 the
-0
-0
+
+
 I have, hold
 faith, trust
 and, also, likewise
@@ -111907,10 +111907,10 @@ I repudiate
 (with gen.) about, concerning; (with acc.) around, near
 the
 faith, trust
-0
+
 who, which, what
 I am
-0
+
 and, also, likewise
 Alexander
 who, which, what
@@ -111923,12 +111923,12 @@ not
 I blaspheme
 I invite; I exhort; I comfort
 therefore, then
-0
+
 all, every
 I do, make
 prayer, entreaty
 prayer
-0
+
 thanksgiving
 (with gen.) on behalf of; (with acc.) above
 all, every
@@ -111939,23 +111939,23 @@ and, also, likewise
 all, every
 the
 (with dat.) in
-0
+
 I am
 in order that, that
-0
+
 and, also, likewise
-0
+
 life
-0
+
 (with dat.) in
 all, every
 piety, godliness
 and, also, likewise
-0
+
 this
-0
+
 and, also, likewise
-0
+
 before
 the
 savior, deliverer
@@ -111985,8 +111985,8 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 Jesus, Joshua
 the
 I give
-0
-0
+
+
 (with gen.) on behalf of; (with acc.) above
 all, every
 the
@@ -111997,7 +111997,7 @@ into, in
 who, which, what
 I put, place
 I
-0
+
 and, also, likewise
 apostle
 truth, truthfulness
@@ -112028,62 +112028,62 @@ thought, doubt, dispute
 likewise
 woman
 (with dat.) in
-0
-0
+
+
 (with gen.) with; (with acc.) after, behind
-0
+
 and, also, likewise
-0
+
 I adorn, beautify
-0
+
 not
 (with dat.) in
-0
+
 and, also, likewise
 gold
 or, either
 pearl
 or, either
 clothing
-0
+
 but, rather, yet
 who, which, what
 I am fitting
 woman
 I promise
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 work, deed
 good
 woman
 (with dat.) in
-0
+
 I learn
 (with dat.) in
 all, every
-0
+
 I teach
 but, and (frequently untranslated)
 woman
 no, not
 I permit
 and not, nor; neither, nor
-0
+
 man
 but, rather, yet
 I am
 (with dat.) in
-0
+
 Adam
 for
-0
-0
+
+
 then, next
-0
+
 and, also, likewise
 Adam
 no, not
-0
+
 the
 but, and (frequently untranslated)
 woman
@@ -112095,7 +112095,7 @@ I save, deliver
 but, and (frequently untranslated)
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 if
 I remain, stay
 (with dat.) in
@@ -112105,39 +112105,39 @@ love
 and, also, likewise
 holiness, sanctification
 (with gen.) with; (with acc.) after, behind
-0
+
 faithful
 the
 word, Word
 if
 anyone, anything; someone, something
-0
-0
-0
+
+
+
 work, deed
 I desire, long for
 it is necessary, one must
 therefore, then
 the
 overseer, bishop
-0
+
 I am
 one
 woman
 man
-0
-0
-0
-0
-0
+
+
+
+
+
 not
-0
+
 not
-0
+
 but, rather, yet
 gentle
-0
-0
+
+
 the
 one’s own
 house, dwelling
@@ -112146,10 +112146,10 @@ I rule, direct; I care for
 child
 I have, hold
 (with dat.) in
-0
+
 (with gen.) with; (with acc.) after, behind
 all, every
-0
+
 if
 but, and (frequently untranslated)
 anyone, anything; someone, something
@@ -112162,12 +112162,12 @@ I know
 how?
 church, congregation
 God, god
-0
+
 not
-0
+
 in order that, that
 not
-0
+
 into, in
 judgment, condemnation
 I fall in, fall into
@@ -112177,7 +112177,7 @@ it is necessary, one must
 but, and (frequently untranslated)
 and, also, likewise
 testimony
-0
+
 I have, hold
 (with gen.) from, away from
 the
@@ -112193,15 +112193,15 @@ the
 the devil
 deacon
 likewise
-0
+
 not
-0
+
 not
 wine
-0
+
 I pay attention
 not
-0
+
 I have, hold
 the
 mystery, secret rites
@@ -112214,17 +112214,17 @@ and, also, likewise
 this
 but, and (frequently untranslated)
 I test, examine, approve
-0
+
 then, next
 I wait at table, serve
 blameless, irreproachable
 I am
 woman
 likewise
-0
+
 not
 the devil
-0
+
 faithful
 (with dat.) in
 all, every
@@ -112244,12 +112244,12 @@ the
 for
 well, beautifully
 I wait at table, serve
-0
-0
-0
-0
+
+
+
+
 and, also, likewise
-0
+
 openness, confidence
 (with dat.) in
 faith, trust
@@ -112264,10 +112264,10 @@ I hope, hope for
 I come, go
 (with dat.) near, at; (with acc.) to, toward
 you
-0
+
 if
 but, and (frequently untranslated)
-0
+
 in order that, that
 I know
 how?
@@ -112276,18 +112276,18 @@ it is necessary, one must
 house, dwelling
 God, god
 I act, live
-0
+
 I am
 church, congregation
 God, god
 I live
-0
+
 and, also, likewise
-0
+
 the
 truth, truthfulness
 and, also, likewise
-0
+
 large, great
 I am
 the
@@ -112315,11 +112315,11 @@ glory, brightness, splendor
 the
 but, and (frequently untranslated)
 breath, spirit
-0
+
 I say, tell
 that, because, since
 (with dat.) in
-0
+
 time, right time
 I go away
 anyone, anything; someone, something
@@ -112333,8 +112333,8 @@ teaching, instruction
 demon, evil spirit
 (with dat.) in
 hypocrisy
-0
-0
+
+
 the
 one’s own
 conscience
@@ -112347,7 +112347,7 @@ the
 God, god
 I create
 into, in
-0
+
 (with gen.) with; (with acc.) after, behind
 thanksgiving
 the
@@ -112358,12 +112358,12 @@ the
 truth, truthfulness
 that, because, since
 all, every
-0
+
 God, god
-0
+
 and, also, likewise
 no one, nothing
-0
+
 (with gen.) with; (with acc.) after, behind
 thanksgiving
 I take, receive
@@ -112373,53 +112373,53 @@ for
 word, Word
 God, god
 and, also, likewise
-0
+
 this
-0
+
 the
 brother
-0
+
 I am
 deacon
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
-0
+
 the
 word, Word
 the
 faith, trust
 and, also, likewise
 the
-0
+
 teaching, instruction
 who, which, what
-0
+
 the
 but, and (frequently untranslated)
 profane, godless
 and, also, likewise
-0
+
 tale, myth
 I ask for; I refuse
-0
+
 but, and (frequently untranslated)
 yourself
 (with dat.) near, at; (with acc.) to, toward
 piety, godliness
 the
 for
-0
-0
+
+
 (with dat.) near, at; (with acc.) to, toward
 few, little
 I am
-0
+
 the
 but, and (frequently untranslated)
 piety, godliness
 (with dat.) near, at; (with acc.) to, toward
 all, every
-0
+
 I am
 promise
 I have, hold
@@ -112434,7 +112434,7 @@ the
 word, Word
 and, also, likewise
 all, every
-0
+
 worthy, fit
 into, in
 this
@@ -112461,7 +112461,7 @@ I teach
 no one, nothing
 you
 the
-0
+
 I despise, scorn
 but, rather, yet
 image, copy
@@ -112477,18 +112477,18 @@ love
 (with dat.) in
 faith, trust
 (with dat.) in
-0
+
 until
 I come, go
 I pay attention
 the
-0
+
 the
 exhortation, comfort
 the
 teaching, instruction
 not
-0
+
 the
 (with dat.) in
 you
@@ -112499,20 +112499,20 @@ you
 (with gen.) through; (with acc.) because of, for the sake of
 prophecy
 (with gen.) with; (with acc.) after, behind
-0
+
 the
 hand
 the
-0
+
 this
-0
+
 (with dat.) in
 this
 I am
 in order that, that
 you
 the
-0
+
 visible, clear
 I am
 all, every
@@ -112535,7 +112535,7 @@ I hear
 you
 old; (as a noun) elder
 not
-0
+
 but, rather, yet
 I invite; I exhort; I comfort
 as, like, so
@@ -112551,7 +112551,7 @@ as, like, so
 sister
 (with dat.) in
 all, every
-0
+
 widow
 I honor
 the
@@ -112563,23 +112563,23 @@ anyone, anything; someone, something
 widow
 child
 or, either
-0
+
 I have, hold
 I learn
-0
+
 the
 one’s own
 house, dwelling
-0
+
 and, also, likewise
-0
+
 I give away, give up; I render
 the
-0
+
 this
 for
 I am
-0
+
 before
 the
 God, god
@@ -112588,7 +112588,7 @@ but, and (frequently untranslated)
 really, certainly, in truth
 widow
 and, also, likewise
-0
+
 I hope, hope for
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 God, god
@@ -112604,14 +112604,14 @@ and, also, likewise
 day
 the
 but, and (frequently untranslated)
-0
+
 I live
 I die
 and, also, likewise
 this
 I command
 in order that, that
-0
+
 I am
 if
 but, and (frequently untranslated)
@@ -112620,9 +112620,9 @@ the
 one’s own
 and, also, likewise
 most of all, especially
-0
+
 no, not
-0
+
 the
 faith, trust
 I deny
@@ -112631,9 +112631,9 @@ I am
 faithless, unbelieving
 worse
 widow
-0
+
 not
-0
+
 year
 sixty
 I am, become, happen
@@ -112642,31 +112642,31 @@ man
 woman
 (with dat.) in
 work, deed
-0
+
 I bear witness, testify
 if
-0
+
 if
-0
+
 if
 holy
 foot
 I wash
 if
 I afflict, oppress
-0
+
 if
 all, every
 work, deed
 good
-0
+
 new, young
 but, and (frequently untranslated)
 widow
 I ask for; I refuse
 whenever, when
 for
-0
+
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I marry
@@ -112675,7 +112675,7 @@ I have, hold
 judgment, condemnation
 that, because, since
 the
-0
+
 faith, trust
 I reject
 together
@@ -112683,18 +112683,18 @@ but, and (frequently untranslated)
 and, also, likewise
 idle
 I learn
-0
+
 the
 household
 no, not
-0
+
 but, and (frequently untranslated)
 idle
 but, rather, yet
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 I speak
 the
 not
@@ -112703,14 +112703,14 @@ I wish, desire
 therefore, then
 new, young
 I marry
-0
-0
+
+
 no one, nothing
 occasion, opportunity
 I give
 the
 I am opposed
-0
+
 for the sake of
 now, already
 for
@@ -112724,7 +112724,7 @@ anyone, anything; someone, something
 faithful
 I have, hold
 widow
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 not
@@ -112735,12 +112735,12 @@ in order that, that
 the
 really, certainly, in truth
 widow
-0
+
 the
 well, beautifully
 I rule, direct; I care for
 old; (as a noun) elder
-0
+
 price, value, honor
 I deem worthy
 most of all, especially
@@ -112755,7 +112755,7 @@ for
 the
 writing
 ox; (fem.) cow
-0
+
 no, not
 I muzzle; (pass.) I am silenced
 and, also, likewise
@@ -112767,7 +112767,7 @@ wages
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) down, against; (with acc.) according to, along
 old; (as a noun) elder
-0
+
 not
 I receive
 outside
@@ -112786,7 +112786,7 @@ I expose, convict, convince
 in order that, that
 and, also, likewise
 the
-0
+
 fear
 I have, hold
 I solemnly declare
@@ -112804,11 +112804,11 @@ in order that, that
 this
 I watch, guard
 without, apart from
-0
+
 no one, nothing
 I do, make
 (with gen.) down, against; (with acc.) according to, along
-0
+
 hand
 quickly
 no one, nothing
@@ -112821,24 +112821,24 @@ yourself
 pure, holy
 I keep, observe
 no longer
-0
+
 but, rather, yet
 wine
 few, little
 I use
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 and, also, likewise
 the
-0
+
 you
 weakness
 anyone, anything; someone, something
 human being, person
 the
 sin
-0
+
 I am
 I lead forward, go before
 into, in
@@ -112846,17 +112846,17 @@ judging, judgment
 anyone, anything; someone, something
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 likewise
 and, also, likewise
 the
 work, deed
 the
-0
-0
+
+
 and, also, likewise
 the
-0
+
 I have, hold
 I hide
 no, not
@@ -112903,15 +112903,15 @@ and, also, likewise
 beloved, dear
 the
 the
-0
-0
+
+
 this
 I teach
 and, also, likewise
 I invite; I exhort; I comfort
 if
 anyone, anything; someone, something
-0
+
 and, also, likewise
 not
 I go to, approach
@@ -112928,24 +112928,24 @@ the
 (with gen.) down, against; (with acc.) according to, along
 piety, godliness
 teaching, instruction
-0
+
 no one, nothing
 I know, understand
 but, rather, yet
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 investigation
 and, also, likewise
-0
+
 from, out of
 who, which, what
 I am, become, happen
 envy
 strife, discord
 blasphemy
-0
+
 wicked, bad
-0
+
 I destroy, ruin
 human being, person
 the
@@ -112955,18 +112955,18 @@ I steal
 the
 truth, truthfulness
 I think, believe
-0
+
 I am
 the
 piety, godliness
 I am
 but, and (frequently untranslated)
-0
+
 large, great
 the
 piety, godliness
 (with gen.) with; (with acc.) after, behind
-0
+
 no one, nothing
 for
 I bring in
@@ -112980,9 +112980,9 @@ anyone, anything; someone, something
 I can
 I have, hold
 but, and (frequently untranslated)
-0
+
 and, also, likewise
-0
+
 this
 I am enough, suffice
 the
@@ -112996,16 +112996,16 @@ and, also, likewise
 trap
 and, also, likewise
 desire, longing
-0
+
 unintelligent, foolish
 and, also, likewise
-0
-0
-0
+
+
+
 the
 human being, person
 into, in
-0
+
 and, also, likewise
 destruction
 root
@@ -113015,22 +113015,22 @@ the
 evil, bad
 I am
 the
-0
+
 who, which, what
 anyone, anything; someone, something
-0
-0
+
+
 (with gen.) from, away from
 the
 faith, trust
 and, also, likewise
-0
-0
-0
-0
+
+
+
+
 you
 but, and (frequently untranslated)
-0
+
 human being, person
 God, god
 this
@@ -113042,10 +113042,10 @@ piety, godliness
 faith, trust
 love
 patience, endurance
-0
+
 I struggle, fight
 the
-0
+
 contest, fight
 the
 faith, trust
@@ -113059,17 +113059,17 @@ I call
 and, also, likewise
 I confess
 the
-0
+
 confession
 before
-0
+
 witness
 I command
 before
 the
 God, god
 the
-0
+
 the
 all, every
 and, also, likewise
@@ -113078,17 +113078,17 @@ Jesus, Joshua
 the
 I bear witness, testify
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 Pilate
 the
-0
+
 confession
 I keep, observe
 you
 the
 commandment, order
-0
-0
+
+
 until
 the
 appearance, appearing
@@ -113104,8 +113104,8 @@ I point out, show
 the
 blessed, happy
 and, also, likewise
-0
-0
+
+
 the
 king
 the
@@ -113115,12 +113115,12 @@ master, lord, the Lord
 the
 I am lord, I lord it over
 the
-0
+
 I have, hold
-0
+
 light
 I live, inhabit
-0
+
 who, which, what
 I see
 no one, nothing
@@ -113142,12 +113142,12 @@ now
 age, eternity
 I command
 not
-0
+
 and not, but not
 I hope, hope for
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 riches
-0
+
 but, rather, yet
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 God, god
@@ -113155,21 +113155,21 @@ the
 I give, cause
 I
 all, every
-0
+
 into, in
-0
-0
+
+
 I am rich, become rich
 (with dat.) in
 work, deed
-0
-0
+
+
 I am
-0
-0
-0
+
+
+
 foundation
-0
+
 into, in
 the
 I am about to, intend
@@ -113178,19 +113178,19 @@ I take hold of, catch
 the
 really, certainly, in truth
 life
-0
+
 Timothy
 the
-0
+
 I watch, guard
 I turn, turn away
 the
 profane, godless
-0
+
 and, also, likewise
-0
+
 the
-0
+
 knowledge
 who, which, what
 anyone, anything; someone, something
@@ -113198,7 +113198,7 @@ I promise
 (with gen.) about, concerning; (with acc.) around, near
 the
 faith, trust
-0
+
 the
 grace, favor
 (with gen.) with; (with acc.) after, behind
@@ -113239,12 +113239,12 @@ God, god
 who, which, what
 I serve
 (with gen.) from, away from
-0
+
 (with dat.) in
 clean, pure
 conscience
 as, like, so
-0
+
 I have, hold
 the
 (with gen.) about, concerning; (with acc.) around, near
@@ -113267,26 +113267,26 @@ tear
 in order that, that
 joy
 I fill, make full, finish
-0
+
 I take, receive
 the
 (with dat.) in
 you
 genuine, sincere
 faith, trust
-0
+
 I live in
-0
+
 (with dat.) in
 the
-0
+
 you
-0
+
 and, also, likewise
 the
 mother
 you
-0
+
 I convince, persuade; I trust in
 but, and (frequently untranslated)
 that, because, since
@@ -113298,7 +113298,7 @@ who, which, what
 cause, reason
 I remind
 you
-0
+
 the
 a gift
 the
@@ -113309,7 +113309,7 @@ I am
 you
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
 hand
 I
@@ -113320,13 +113320,13 @@ I
 the
 God, god
 breath, spirit
-0
+
 but, rather, yet
 power, strength
 and, also, likewise
 love
 and, also, likewise
-0
+
 not
 therefore, then
 I am ashamed
@@ -113341,7 +113341,7 @@ the
 prisoner
 he, she, it; himself, herself, itself; even, very; same
 but, rather, yet
-0
+
 the
 the Good News, Gospel
 (with gen.) down, against; (with acc.) according to, along
@@ -113401,7 +113401,7 @@ into, in
 who, which, what
 I put, place
 I
-0
+
 and, also, likewise
 apostle
 and, also, likewise
@@ -113425,14 +113425,14 @@ that, because, since
 powerful
 I am
 the
-0
+
 I
 I watch, guard
 into, in
 that
 the
 day
-0
+
 I have, hold
 I am healthy, sound
 word, Word
@@ -113449,8 +113449,8 @@ the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
 the
-0
-0
+
+
 I watch, guard
 (with gen.) through; (with acc.) because of, for the sake of
 breath, spirit
@@ -113471,20 +113471,20 @@ the
 Asia
 who, which, what
 I am
-0
+
 and, also, likewise
-0
+
 I give
 mercy, compassion
 the
 master, lord, the Lord
 the
-0
+
 house, dwelling
 that, because, since
 many times, often
 I
-0
+
 and, also, likewise
 the
 chain
@@ -113495,7 +113495,7 @@ but, rather, yet
 I am, become, happen
 (with dat.) in
 Rome
-0
+
 I seek, look for, ask
 I
 and, also, likewise
@@ -113517,7 +113517,7 @@ as great, how great; as far, how far
 (with dat.) in
 Ephesus
 I wait at table, serve
-0
+
 you
 I know
 you
@@ -113538,51 +113538,51 @@ I hear
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 I
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 witness
 this
 I place beside, place around
 faithful
 human being, person
-0
+
 sufficient, large
 I am
 and, also, likewise
 other, another, different
 I teach
-0
+
 as, like, so
-0
+
 soldier
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
 no one, nothing
 I serve in the army
-0
+
 the
 the
 life
-0
+
 in order that, that
 the
-0
+
 I please
 if
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 anyone, anything; someone, something
 no, not
-0
+
 if
 not
-0
-0
+
+
 the
 I work
 farmer
 it is necessary, one must
-0
+
 the
 fruit
 I receive a share
@@ -113604,7 +113604,7 @@ I raise
 from, out of
 dead
 from, out of
-0
+
 David
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -113612,11 +113612,11 @@ the Good News, Gospel
 I
 (with dat.) in
 who, which, what
-0
+
 until
 bond, fetter
 as, like, so
-0
+
 but, rather, yet
 the
 word, Word
@@ -113648,13 +113648,13 @@ the
 word, Word
 if
 for
-0
+
 and, also, likewise
-0
+
 if
 I remain, endure
 and, also, likewise
-0
+
 if
 I deny
 and that one, and he
@@ -113667,7 +113667,7 @@ faithful
 I remain, stay
 I deny
 for
-0
+
 no, not
 I can
 this
@@ -113677,12 +113677,12 @@ before
 the
 God, god
 not
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 no one, nothing
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 the
 I hear
 I hasten; I am eager
@@ -113692,8 +113692,8 @@ I am present, stand by
 the
 God, god
 workman, doer
-0
-0
+
+
 the
 word, Word
 the
@@ -113701,10 +113701,10 @@ truth, truthfulness
 the
 but, and (frequently untranslated)
 profane, godless
-0
-0
+
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 for
 I progress
 ungodliness, impiety
@@ -113713,31 +113713,31 @@ the
 word, Word
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
-0
-0
+
+
 I have, hold
 who, which, what
 I am
-0
+
 and, also, likewise
-0
-0
+
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 truth, truthfulness
-0
+
 I say, tell
 resurrection
 now, already
 I am, become, happen
 and, also, likewise
-0
+
 the
 anyone, anything; someone, something
 faith, trust
 the
 though, indeed
-0
+
 foundation
 the
 God, god
@@ -113767,16 +113767,16 @@ but, and (frequently untranslated)
 household
 no, not
 I am
-0
+
 vessel, jar
 golden
 and, also, likewise
-0
+
 but, rather, yet
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 who, which, what
 indeed, on the one hand (but often untranslatable)
@@ -113789,8 +113789,8 @@ dishonor
 if
 therefore, then
 anyone, anything; someone, something
-0
-0
+
+
 (with gen.) from, away from
 this
 I am
@@ -113798,7 +113798,7 @@ vessel, jar
 into, in
 price, value, honor
 I make holy, sanctify
-0
+
 the
 lord, master
 into, in
@@ -113808,7 +113808,7 @@ good
 I prepare
 the
 but, and (frequently untranslated)
-0
+
 desire, longing
 I flee
 I hasten; I pursue, persecute
@@ -113829,31 +113829,31 @@ the
 but, and (frequently untranslated)
 foolish, stupid
 and, also, likewise
-0
+
 investigation
 I ask for; I refuse
 I know
 that, because, since
 I beget
-0
+
 slave
 but, and (frequently untranslated)
 master, lord, the Lord
 no, not
 it is necessary, one must
-0
+
 but, rather, yet
-0
+
 I am
 (with dat.) near, at; (with acc.) to, toward
 all, every
-0
-0
+
+
 (with dat.) in
 gentleness, humility, meekness
 I bring up, train
 the
-0
+
 not
 when?
 I give
@@ -113865,13 +113865,13 @@ into, in
 knowledge, understanding
 truth, truthfulness
 and, also, likewise
-0
+
 from, out of
 the
 the
 the devil
 trap
-0
+
 (with gen.) by; (with acc.) under
 he, she, it; himself, herself, itself; even, very; same
 into, in
@@ -113887,35 +113887,35 @@ last
 day
 I have come, am present
 time, right time
-0
+
 I am
 for
 the
 human being, person
-0
-0
-0
+
+
+
 arrogant, haughty
-0
+
 parents
 disobedient
-0
-0
-0
-0
+
+
+
+
 the devil
-0
-0
-0
-0
-0
-0
-0
+
+
+
+
+
+
+
 more, rather
 or, either
-0
+
 I have, hold
-0
+
 piety, godliness
 the
 but, and (frequently untranslated)
@@ -113924,20 +113924,20 @@ he, she, it; himself, herself, itself; even, very; same
 I deny
 and, also, likewise
 this
-0
+
 from, out of
 this
 for
 I am
 the
-0
+
 into, in
 the
 household
 and, also, likewise
-0
-0
-0
+
+
+
 sin
 I lead
 desire, longing
@@ -113945,7 +113945,7 @@ manifold
 always
 I learn
 and, also, likewise
-0
+
 into, in
 knowledge, understanding
 truth, truthfulness
@@ -113954,9 +113954,9 @@ I can
 who, which, what
 manner, kind
 but, and (frequently untranslated)
-0
+
 and, also, likewise
-0
+
 I oppose, resist
 Moses
 in this manner, thus, so
@@ -113966,7 +113966,7 @@ I oppose, resist
 the
 truth, truthfulness
 human being, person
-0
+
 the
 understanding, mind
 worthless
@@ -113977,12 +113977,12 @@ but, rather, yet
 no, not
 I progress
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 the
 for
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am
 all, every
 as, like, so
@@ -113992,12 +113992,12 @@ that
 I am, become, happen
 you
 but, and (frequently untranslated)
-0
+
 I
 the
 teaching, instruction
 the
-0
+
 the
 presentation; plan
 the
@@ -114023,7 +114023,7 @@ Iconium
 Lystra
 of what sort, such as
 persecution
-0
+
 and, also, likewise
 from, out of
 all, every
@@ -114037,7 +114037,7 @@ but, and (frequently untranslated)
 the
 I wish, will
 I live
-0
+
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
@@ -114046,7 +114046,7 @@ wicked, bad
 but, and (frequently untranslated)
 human being, person
 and, also, likewise
-0
+
 I progress
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -114061,7 +114061,7 @@ I remain, stay
 who, which, what
 I learn
 and, also, likewise
-0
+
 I know
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 who? which one? what?
@@ -114070,13 +114070,13 @@ and, also, likewise
 that, because, since
 (with gen.) from, away from
 baby
-0
+
 letter (of the alphabet), writing
 I know
 the
 I can
 you
-0
+
 into, in
 salvation, deliverance
 (with gen.) through; (with acc.) because of, for the sake of
@@ -114087,22 +114087,22 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 Jesus, Joshua
 all, every
 writing
-0
+
 and, also, likewise
-0
+
 (with dat.) near, at; (with acc.) to, toward
 teaching, instruction
 (with dat.) near, at; (with acc.) to, toward
-0
+
 (with dat.) near, at; (with acc.) to, toward
-0
+
 (with dat.) near, at; (with acc.) to, toward
 upbringing, training
 the
 (with dat.) in
 righteousness
 in order that, that
-0
+
 I am
 the
 the
@@ -114112,7 +114112,7 @@ human being, person
 all, every
 work, deed
 good
-0
+
 I solemnly declare
 before
 the
@@ -114138,8 +114138,8 @@ I proclaim, preach
 the
 word, Word
 I stand by, approach, appear
-0
-0
+
+
 I expose, convict, convince
 I rebuke, reprove
 I invite; I exhort; I comfort
@@ -114162,10 +114162,10 @@ but, rather, yet
 the
 one’s own
 desire, longing
-0
-0
+
+
 teacher
-0
+
 the
 hearing, ear, report
 and, also, likewise
@@ -114186,10 +114186,10 @@ but, and (frequently untranslated)
 I am sober, self-controlled
 (with dat.) in
 all, every
-0
+
 work, deed
 I do, make
-0
+
 the
 service
 you
@@ -114197,31 +114197,31 @@ I fill, fulfill
 I
 for
 now, already
-0
+
 and, also, likewise
 the
 time, right time
 the
-0
+
 I
 I stand by, approach, appear
 the
-0
+
 contest, fight
 I struggle, fight
 the
-0
+
 I finish, carry out
 the
 faith, trust
 I keep, observe
-0
-0
+
+
 I
 the
 the
 righteousness
-0
+
 who, which, what
 I give away, give up; I render
 I
@@ -114235,7 +114235,7 @@ the
 righteous, just
 judge
 no, not
-0
+
 but, and (frequently untranslated)
 I
 but, rather, yet
@@ -114251,7 +114251,7 @@ I come, go
 (with dat.) near, at; (with acc.) to, toward
 I
 quickly
-0
+
 for
 I
 I leave behind, forsake
@@ -114263,15 +114263,15 @@ and, also, likewise
 I go, proceed
 into, in
 Thessalonica
-0
+
 into, in
-0
+
 Titus
 into, in
-0
-0
+
+
 I am
-0
+
 (with gen.) with; (with acc.) after, behind
 I
 Mark
@@ -114282,7 +114282,7 @@ yourself
 I am
 for
 I
-0
+
 into, in
 service
 Tychicus
@@ -114291,13 +114291,13 @@ I send away, send out
 into, in
 Ephesus
 the
-0
+
 who, which, what
 I leave (behind); I remain
 (with dat.) in
 Troas
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
-0
+
 I come, go
 I bear, carry
 and, also, likewise
@@ -114305,11 +114305,11 @@ the
 book, scroll
 most of all, especially
 the
-0
+
 Alexander
 the
-0
-0
+
+
 I
 evil, bad
 I show, demonstrate
@@ -114333,7 +114333,7 @@ our
 word, Word
 (with dat.) in
 the
-0
+
 I
 defense, reply
 no one, nothing
@@ -114396,22 +114396,22 @@ the
 age, eternity
 so let it be, truly, amen
 I greet
-0
+
 and, also, likewise
 Aquila
 and, also, likewise
 the
-0
+
 house, dwelling
-0
+
 I remain, stay
 (with dat.) in
 Corinth
-0
+
 but, and (frequently untranslated)
 I leave (behind); I remain
 (with dat.) in
-0
+
 I am weak, sick
 I hasten; I am eager
 (with gen.) before, in front of
@@ -114419,13 +114419,13 @@ winter, stormy weather
 I come, go
 I greet
 you
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 the
 brother
@@ -114464,7 +114464,7 @@ eternal
 who, which, what
 I promise
 the
-0
+
 God, god
 (with gen.) before, in front of
 time
@@ -114488,7 +114488,7 @@ savior, deliverer
 I
 God, god
 Titus
-0
+
 child
 (with gen.) down, against; (with acc.) according to, along
 communal, common
@@ -114514,7 +114514,7 @@ Crete
 in order that, that
 the
 I lack, fall short
-0
+
 and, also, likewise
 I set, constitute
 (with gen.) down, against; (with acc.) according to, along
@@ -114536,10 +114536,10 @@ I have, hold
 faithful
 not
 (with dat.) in
-0
-0
+
+
 or, either
-0
+
 it is necessary, one must
 for
 the
@@ -114550,23 +114550,23 @@ as, like, so
 God, god
 house steward
 not
-0
+
 not
-0
+
 not
-0
+
 not
-0
+
 not
-0
+
 but, rather, yet
-0
-0
-0
+
+
+
 righteous, just
 devout, holy
-0
-0
+
+
 the
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -114589,11 +114589,11 @@ I object to
 I expose, convict, convince
 I am
 for
-0
-0
-0
+
+
+
 and, also, likewise
-0
+
 most of all, especially
 the
 from, out of
@@ -114601,17 +114601,17 @@ the
 circumcision
 who, which, what
 it is necessary, one must
-0
-0
+
+
 whole, complete
 house, dwelling
-0
+
 I teach
 who, which, what
 not
 it is necessary, one must
-0
-0
+
+
 for the sake of
 I say, tell
 anyone, anything; someone, something
@@ -114620,7 +114620,7 @@ he, she, it; himself, herself, itself; even, very; same
 one’s own
 he, she, it; himself, herself, itself; even, very; same
 prophet
-0
+
 always
 liar
 evil, bad
@@ -114631,13 +114631,13 @@ the
 testimony
 this
 I am
-TRUE
+True
 (with gen.) through; (with acc.) because of, for the sake of
 who, which, what
 cause, reason
 I expose, convict, convince
 he, she, it; himself, herself, itself; even, very; same
-0
+
 in order that, that
 I am healthy, sound
 (with dat.) in
@@ -114645,7 +114645,7 @@ the
 faith, trust
 not
 I pay attention
-0
+
 tale, myth
 and, also, likewise
 commandment, order
@@ -114680,7 +114680,7 @@ the
 but, and (frequently untranslated)
 work, deed
 I deny
-0
+
 I am
 and, also, likewise
 disobedient
@@ -114698,11 +114698,11 @@ I am fitting
 the
 I am healthy, sound
 teaching, instruction
-0
-0
+
+
 I am
-0
-0
+
+
 I am healthy, sound
 the
 faith, trust
@@ -114710,28 +114710,28 @@ the
 love
 the
 patience, endurance
-0
+
 likewise
 (with dat.) in
-0
-0
+
+
 not
 the devil
 and not, but not
 wine
-0
+
 I enslave
-0
+
 in order that, that
-0
+
 the
 new, young
-0
+
 I am
-0
-0
+
+
 pure, holy
-0
+
 good
 I subject, subordinate
 the
@@ -114754,16 +114754,16 @@ all, every
 yourself
 I give, cause
 image, copy
-0
+
 work, deed
 (with dat.) in
 the
 teaching, instruction
-0
-0
+
+
 word, Word
 healthy, sound
-0
+
 in order that, that
 the
 from, out of
@@ -114786,7 +114786,7 @@ I am
 not
 I object to
 not
-0
+
 but, rather, yet
 all, every
 faith, trust
@@ -114803,13 +114803,13 @@ God, god
 I adorn, beautify
 (with dat.) in
 all, every
-0
+
 for
 the
 grace, favor
 the
 God, god
-0
+
 all, every
 human being, person
 I bring up, train
@@ -114820,13 +114820,13 @@ the
 ungodliness, impiety
 and, also, likewise
 the
-0
+
 desire, longing
-0
+
 and, also, likewise
 justly
 and, also, likewise
-0
+
 I live
 (with dat.) in
 the
@@ -114850,22 +114850,22 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 Jesus, Joshua
 who, which, what
 I give
-0
+
 (with gen.) on behalf of; (with acc.) above
 I
 in order that, that
-0
+
 I
 (with gen.) from, away from
 all, every
 lawlessness
 and, also, likewise
 I make clean, purify
-0
+
 people
-0
+
 zealot
-0
+
 work, deed
 this
 I speak
@@ -114878,13 +114878,13 @@ all, every
 order
 no one, nothing
 you
-0
+
 I remind
 he, she, it; himself, herself, itself; even, very; same
 beginning; ruler, authority
 power, authority
 I subject, subordinate
-0
+
 (with dat.) near, at; (with acc.) to, toward
 all, every
 work, deed
@@ -114893,7 +114893,7 @@ prepared
 I am
 no one, nothing
 I blaspheme
-0
+
 I am
 gentle
 all, every
@@ -114919,8 +114919,8 @@ manifold
 wickedness, malice
 and, also, likewise
 envy
-0
-0
+
+
 I hate
 each other, one another
 when
@@ -114929,8 +114929,8 @@ the
 goodness, usefulness
 and, also, likewise
 the
-0
-0
+
+
 the
 savior, deliverer
 I
@@ -114952,17 +114952,17 @@ mercy, compassion
 I save, deliver
 I
 (with gen.) through; (with acc.) because of, for the sake of
-0
-0
+
+
 and, also, likewise
-0
+
 breath, spirit
 holy
 who, which, what
 I pour out
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 I
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -114988,10 +114988,10 @@ and, also, likewise
 this
 I wish, desire
 you
-0
+
 in order that, that
-0
-0
+
+
 work, deed
 I rule, direct; I care for
 the
@@ -114999,47 +114999,47 @@ I believe (in), trust
 God, god
 this
 I am
-0
+
 and, also, likewise
-0
+
 the
 human being, person
 foolish, stupid
 but, and (frequently untranslated)
 investigation
 and, also, likewise
-0
+
 and, also, likewise
 strife, discord
 and, also, likewise
-0
+
 legal; (as a noun) lawyer
-0
+
 I am
 for
-0
+
 and, also, likewise
 idle, useless
-0
+
 human being, person
 (with gen.) with; (with acc.) after, behind
 one
 and, also, likewise
 second
-0
+
 I ask for; I refuse
 I know
 that, because, since
-0
+
 the
 of such a kind, such as this
 and, also, likewise
 I sin
 I am
-0
+
 whenever, when
 I send
-0
+
 (with dat.) near, at; (with acc.) to, toward
 you
 or, either
@@ -115049,17 +115049,17 @@ I come, go
 (with dat.) near, at; (with acc.) to, toward
 I
 into, in
-0
+
 there, to that place
 for
 I judge
-0
-0
+
+
 the
 legal; (as a noun) lawyer
 and, also, likewise
 Apollos
-0
+
 I accompany
 in order that, that
 no one, nothing
@@ -115070,7 +115070,7 @@ but, and (frequently untranslated)
 and, also, likewise
 the
 our
-0
+
 work, deed
 I rule, direct; I care for
 into, in
@@ -115106,20 +115106,20 @@ and, also, likewise
 Timothy
 the
 brother
-0
+
 the
 beloved, dear
 and, also, likewise
 helper, fellow-worker
 I
 and, also, likewise
-0
+
 the
 sister
 and, also, likewise
-0
+
 the
-0
+
 I
 and, also, likewise
 the
@@ -115175,7 +115175,7 @@ communion, fellowship, participation
 the
 faith, trust
 you
-0
+
 I am, become, happen
 (with dat.) in
 knowledge, understanding
@@ -115188,7 +115188,7 @@ into, in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 joy
 for
-0
+
 I have, hold
 and, also, likewise
 exhortation, comfort
@@ -115206,7 +115206,7 @@ I give rest, refresh
 you
 brother
 therefore, for this reason
-0
+
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 openness, confidence
@@ -115214,7 +115214,7 @@ I have, hold
 I order
 you
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 love
@@ -115224,7 +115224,7 @@ of such a kind, such as this
 I am
 as, like, so
 Paul
-0
+
 now
 but, and (frequently untranslated)
 and, also, likewise
@@ -115242,18 +115242,18 @@ I beget
 (with dat.) in
 the
 bond, fetter
-0
+
 the
 once, formerly
 you
-0
+
 now
 but, and (frequently untranslated)
 and, also, likewise
 you
 and, also, likewise
 I
-0
+
 who, which, what
 I send up
 you
@@ -115298,8 +115298,8 @@ you
 I am
 but, rather, yet
 (with gen.) down, against; (with acc.) according to, along
-0
-0
+
+
 for
 (with gen.) through; (with acc.) because of, for the sake of
 this
@@ -115348,7 +115348,7 @@ or, either
 I owe
 this
 I
-0
+
 I
 Paul
 I write
@@ -115356,7 +115356,7 @@ the
 my, mine
 hand
 I
-0
+
 in order that, that
 not
 I say, tell
@@ -115365,12 +115365,12 @@ that, because, since
 and, also, likewise
 yourself
 I
-0
+
 yes, indeed
 brother
 I
 you
-0
+
 (with dat.) in
 master, lord, the Lord
 I give rest, refresh
@@ -115397,7 +115397,7 @@ but, and (frequently untranslated)
 and, also, likewise
 I prepare
 I
-0
+
 I hope, hope for
 for
 that, because, since
@@ -115409,17 +115409,17 @@ I give freely, forgive
 you
 I greet
 you
-0
+
 the
-0
+
 I
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 Jesus, Joshua
 Mark
 Aristarchus
-0
-0
+
+
 the
 helper, fellow-worker
 I
@@ -115433,9 +115433,9 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 the
 breath, spirit
 you
-0
+
 and, also, likewise
-0
+
 long ago, for a long time
 the
 God, god
@@ -115466,11 +115466,11 @@ the
 age, eternity
 who, which, what
 I am
-0
+
 the
 glory, brightness, splendor
 and, also, likewise
-0
+
 the
 substantial nature, essence
 he, she, it; himself, herself, itself; even, very; same
@@ -115491,16 +115491,16 @@ I sit down, cause to sit down; stay (intrans.)
 (with dat.) in
 right (as opposed to left)
 the
-0
+
 (with dat.) in
 high
 so great, so far, so much
-0
+
 I am, become, happen
 the
 angel, messenger
 as great, how great; as far, how far
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 he, she, it; himself, herself, itself; even, very; same
 I inherit, acquire
@@ -115584,7 +115584,7 @@ and, also, likewise
 the
 rod, staff
 the
-0
+
 rod, staff
 the
 kingdom, reign
@@ -115634,11 +115634,11 @@ and, also, likewise
 all, every
 as, like, so
 garment
-0
+
 and, also, likewise
 as, like
-0
-0
+
+
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
 garment
@@ -115654,13 +115654,13 @@ the
 year
 you
 no, not
-0
+
 (with dat.) near, at; (with acc.) to, toward
 who? which one? what?
 but, and (frequently untranslated)
 the
 angel, messenger
-0
+
 once, formerly
 I sit, sit down
 from, out of
@@ -115679,7 +115679,7 @@ you
 not
 all, every
 I am
-0
+
 breath, spirit
 into, in
 service
@@ -115692,14 +115692,14 @@ salvation, deliverance
 (with gen.) through; (with acc.) because of, for the sake of
 this
 it is necessary, one must
-0
+
 I pay attention
 I
 the
 I hear
 not
 when?
-0
+
 if
 for
 the
@@ -115713,17 +115713,17 @@ and, also, likewise
 all, every
 overstepping, transgression
 and, also, likewise
-0
+
 I take, receive
-0
-0
+
+
 how?
 I
 I escape
-0
-0
+
+
 salvation, deliverance
-0
+
 beginning; ruler, authority
 I take, receive
 I speak
@@ -115736,7 +115736,7 @@ I hear
 into, in
 I
 I make firm, establish, confirm
-0
+
 the
 God, god
 sign
@@ -115749,11 +115749,11 @@ power, strength
 and, also, likewise
 breath, spirit
 holy
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
 he, she, it; himself, herself, itself; even, very; same
-0
+
 no, not
 for
 angel, messenger
@@ -115767,7 +115767,7 @@ who, which, what
 I speak
 I solemnly declare
 but, and (frequently untranslated)
-0
+
 anyone, anything; someone, something
 I say, tell
 who? which one? what?
@@ -115782,7 +115782,7 @@ human being, person
 that, because, since
 I oversee, care for
 he, she, it; himself, herself, itself; even, very; same
-0
+
 he, she, it; himself, herself, itself; even, very; same
 short, little
 anyone, anything; someone, something
@@ -115791,7 +115791,7 @@ angel, messenger
 glory, brightness, splendor
 and, also, likewise
 price, value, honor
-0
+
 he, she, it; himself, herself, itself; even, very; same
 all, every
 I subject, subordinate
@@ -115809,7 +115809,7 @@ all, every
 no one, nothing
 I leave, let go, pardon
 he, she, it; himself, herself, itself; even, very; same
-0
+
 now
 but, and (frequently untranslated)
 not yet
@@ -115824,7 +115824,7 @@ short, little
 anyone, anything; someone, something
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 angel, messenger
-0
+
 I see, look
 Jesus, Joshua
 (with gen.) through; (with acc.) because of, for the sake of
@@ -115835,7 +115835,7 @@ death
 glory, brightness, splendor
 and, also, likewise
 price, value, honor
-0
+
 (adv.) how; (conj.) that, in order that
 grace, favor
 God, god
@@ -115855,13 +115855,13 @@ and, also, likewise
 who, which, what
 the
 all, every
-0
+
 son
 into, in
 glory, brightness, splendor
 I lead
 the
-0
+
 the
 salvation, deliverance
 he, she, it; himself, herself, itself; even, very; same
@@ -115897,7 +115897,7 @@ I
 (with dat.) in
 middle, in the middle
 church, congregation
-0
+
 you
 and, also, likewise
 again
@@ -115928,7 +115928,7 @@ and, also, likewise
 flesh
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I share, participate in
 the
 he, she, it; himself, herself, itself; even, very; same
@@ -115948,7 +115948,7 @@ I am
 the
 the devil
 and, also, likewise
-0
+
 this
 as great, how great; as far, how far
 fear
@@ -115962,11 +115962,11 @@ I am
 slavery
 no, not
 for
-0
+
 angel, messenger
 I take hold of, catch
 but, rather, yet
-0
+
 Abraham
 I take hold of, catch
 from where
@@ -115977,7 +115977,7 @@ the
 brother
 I liken, compare
 in order that, that
-0
+
 I am, become, happen
 and, also, likewise
 faithful
@@ -115988,7 +115988,7 @@ the
 God, god
 into, in
 the
-0
+
 the
 sin
 the
@@ -116031,7 +116031,7 @@ whole, complete
 the
 house, dwelling
 he, she, it; himself, herself, itself; even, very; same
-0
+
 for
 this
 glory, brightness, splendor
@@ -116040,7 +116040,7 @@ Moses
 I deem worthy
 (with gen.) down, against; (with acc.) according to, along
 as great, how great; as far, how far
-0
+
 price, value, honor
 I have, hold
 the
@@ -116069,7 +116069,7 @@ the
 house, dwelling
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
-0
+
 into, in
 testimony, proof
 the
@@ -116119,7 +116119,7 @@ you
 as, like, so
 (with dat.) in
 the
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
 day
@@ -116134,7 +116134,7 @@ the
 father
 you
 (with dat.) in
-0
+
 and, also, likewise
 I see
 the
@@ -116143,7 +116143,7 @@ I
 forty
 year
 therefore, for this reason
-0
+
 the
 family, generation
 this
@@ -116191,7 +116191,7 @@ God, god
 I live
 but, rather, yet
 I invite; I exhort; I comfort
-0
+
 (with gen.) down, against; (with acc.) according to, along
 each, every
 day
@@ -116214,7 +116214,7 @@ for
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I am, become, happen
-0
+
 the
 beginning; ruler, authority
 the
@@ -116240,11 +116240,11 @@ you
 as, like, so
 (with dat.) in
 the
-0
+
 who? which one? what?
 for
 I hear
-0
+
 but, rather, yet
 no, not
 all, every
@@ -116256,7 +116256,7 @@ Egypt
 Moses
 who? which one? what?
 but, and (frequently untranslated)
-0
+
 forty
 year
 not
@@ -116264,7 +116264,7 @@ the
 I sin
 who, which, what
 the
-0
+
 I fall
 (with dat.) in
 the
@@ -116321,7 +116321,7 @@ the
 hearing, ear, report
 that
 not
-0
+
 the
 faith, trust
 the
@@ -116334,7 +116334,7 @@ rest, resting place
 the
 I believe (in), trust
 as, just as
-0
+
 as, like, so
 I swear, take an oath
 (with dat.) in
@@ -116347,22 +116347,22 @@ into, in
 the
 rest, resting place
 I
-0
+
 the
 work, deed
 (with gen.) from, away from
 foundation
 the world
 I am, become, happen
-0
+
 for
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 seventh
 in this manner, thus, so
 and, also, likewise
-0
+
 the
 God, god
 (with dat.) in
@@ -116428,7 +116428,7 @@ if
 for
 he, she, it; himself, herself, itself; even, very; same
 Jesus, Joshua
-0
+
 no, not
 (an untranslatable conditional particle)
 (with gen.) about, concerning; (with acc.) around, near
@@ -116439,7 +116439,7 @@ this
 day
 so, then
 I leave (behind); I remain
-0
+
 the
 people
 the
@@ -116453,7 +116453,7 @@ rest, resting place
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) from, away from
 the
 work, deed
@@ -116488,42 +116488,42 @@ word, Word
 the
 God, god
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 (with gen.) on behalf of; (with acc.) above
 all, every
 sword
-0
+
 and, also, likewise
-0
+
 until
-0
+
 soul
 and, also, likewise
 breath, spirit
-0
+
 and
 and, also, likewise
-0
+
 and, also, likewise
-0
-0
+
+
 and, also, likewise
-0
+
 heart
 and, also, likewise
 no, not
 I am
 creation, creature
-0
+
 before
 he, she, it; himself, herself, itself; even, very; same
 all, every
 but, and (frequently untranslated)
 naked
 and, also, likewise
-0
+
 the
 eye
 he, she, it; himself, herself, itself; even, very; same
@@ -116553,7 +116553,7 @@ I have, hold
 high priest, chief priest
 not
 I can
-0
+
 the
 weakness
 I
@@ -116562,7 +116562,7 @@ but, and (frequently untranslated)
 (with gen.) down, against; (with acc.) according to, along
 all, every
 (with gen.) down, against; (with acc.) according to, along
-0
+
 without, apart from
 sin
 I go to, approach
@@ -116580,8 +116580,8 @@ and, also, likewise
 grace, favor
 I find, discover
 into, in
-0
-0
+
+
 all, every
 for
 high priest, chief priest
@@ -116603,7 +116603,7 @@ and, also, likewise
 sacrifice, offering
 (with gen.) on behalf of; (with acc.) above
 sin
-0
+
 I can
 the
 I do not know
@@ -116625,13 +116625,13 @@ people
 in this manner, thus, so
 and, also, likewise
 (with gen.) about, concerning; (with acc.) around, near
-0
+
 I bring to, offer
 (with gen.) about, concerning; (with acc.) around, near
 sin
 and, also, likewise
 no, not
-0
+
 anyone, anything; someone, something
 I take, receive
 the
@@ -116649,7 +116649,7 @@ and, also, likewise
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 no, not
-0
+
 I praise, honor, glorify
 I am, become, happen
 high priest, chief priest
@@ -116690,7 +116690,7 @@ he, she, it; himself, herself, itself; even, very; same
 prayer, entreaty
 and
 and, also, likewise
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 I can
@@ -116708,7 +116708,7 @@ and, also, likewise
 I listen to
 (with gen.) from, away from
 the
-0
+
 although
 I am
 son
@@ -116728,7 +116728,7 @@ he, she, it; himself, herself, itself; even, very; same
 responsible, guilty
 salvation, deliverance
 eternal
-0
+
 (with gen.) by; (with acc.) under
 the
 God, god
@@ -116739,15 +116739,15 @@ order
 Melchizedek
 (with gen.) about, concerning; (with acc.) around, near
 who, which, what
-0
+
 I
 the
 word, Word
 and, also, likewise
-0
+
 I say, tell
 because, since, for
-0
+
 I am, become, happen
 the
 hearing, ear, report
@@ -116771,7 +116771,7 @@ element; heavenly body
 the
 beginning; ruler, authority
 the
-0
+
 the
 God, god
 and, also, likewise
@@ -116780,14 +116780,14 @@ need, necessity
 I have, hold
 milk
 no, not
-0
+
 food
 all, every
 for
 the
 I share, participate in
 milk
-0
+
 word, Word
 righteousness
 infant, minor
@@ -116797,19 +116797,19 @@ complete, perfect
 but, and (frequently untranslated)
 I am
 the
-0
+
 food
 the
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
+
 the
-0
-0
+
+
 I have, hold
 (with dat.) near, at; (with acc.) to, toward
-0
-0
+
+
 and
 and, also, likewise
 evil, bad
@@ -116823,12 +116823,12 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 word, Word
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 I bear, carry
 not
 again
 foundation
-0
+
 repentance, conversion
 (with gen.) from, away from
 dead
@@ -116837,9 +116837,9 @@ and, also, likewise
 faith, trust
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 God, god
-0
+
 teaching
-0
+
 and
 hand
 resurrection
@@ -116850,7 +116850,7 @@ eternal
 and, also, likewise
 this
 I do, make
-0
+
 I permit
 the
 God, god
@@ -116871,7 +116871,7 @@ I am, become, happen
 breath, spirit
 holy
 and, also, likewise
-0
+
 I taste; I come to know
 God, god
 word, saying; thing, matter
@@ -116880,19 +116880,19 @@ and
 I am about to, intend
 age, eternity
 and, also, likewise
-0
+
 again
-0
+
 into, in
 repentance, conversion
-0
-0
+
+
 the
 son
 the
 God, god
 and, also, likewise
-0
+
 earth
 for
 the
@@ -116905,13 +116905,13 @@ many times, often
 rain
 and, also, likewise
 I give birth to
-0
-0
+
+
 that
 (with gen.) through; (with acc.) because of, for the sake of
 who, which, what
 and, also, likewise
-0
+
 I receive a share
 praise, blessing
 (with gen.) from, away from
@@ -116921,23 +116921,23 @@ I carry out, send out
 but, and (frequently untranslated)
 thorn-plant
 and, also, likewise
-0
+
 worthless
 and, also, likewise
 curse
-0
+
 who, which, what
 the
 end
 into, in
-0
+
 I convince, persuade; I trust in
 but, and (frequently untranslated)
 (with gen.) about, concerning; (with acc.) around, near
 you
 beloved, dear
 the
-0
+
 and, also, likewise
 I have, hold
 salvation, deliverance
@@ -116978,14 +116978,14 @@ I show, demonstrate
 haste; eagerness
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 the
 hope
 until
 end
 in order that, that
 not
-0
+
 I am, become, happen
 imitator
 but, and (frequently untranslated)
@@ -117011,10 +117011,10 @@ large, great
 I swear, take an oath
 I swear, take an oath
 (with gen.) down, against; (with acc.) according to, along
-0
+
 I say, tell
 if
-0
+
 I bless
 I bless
 you
@@ -117037,10 +117037,10 @@ I swear, take an oath
 and, also, likewise
 all, every
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 into, in
-0
+
 the
 oath
 (with dat.) in
@@ -117055,17 +117055,17 @@ heir
 the
 promise
 the
-0
+
 the
 purpose, counsel
 he, she, it; himself, herself, itself; even, very; same
-0
+
 oath
 in order that, that
 (with gen.) through; (with acc.) because of, for the sake of
 two
 deed, thing
-0
+
 (with dat.) in
 who, which, what
 powerless
@@ -117075,14 +117075,14 @@ strong, powerful
 exhortation, comfort
 I have, hold
 the
-0
+
 I take hold of, hold fast
 the
 I lie before, am present
 hope
 who, which, what
 as, like, so
-0
+
 I have, hold
 the
 soul
@@ -117094,11 +117094,11 @@ and, also, likewise
 I enter
 into, in
 the
-0
+
 the
 curtain
 where, insofar as
-0
+
 (with gen.) on behalf of; (with acc.) above
 I
 I enter
@@ -117117,7 +117117,7 @@ for
 the
 Melchizedek
 king
-0
+
 priest
 the
 God, god
@@ -117129,7 +117129,7 @@ Abraham
 I turn back, return
 (with gen.) from, away from
 the
-0
+
 the
 king
 and, also, likewise
@@ -117137,28 +117137,28 @@ I bless
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
 and, also, likewise
-0
+
 (with gen.) from, away from
 all, every
 I divide, separate
 Abraham
-0
+
 indeed, on the one hand (but often untranslatable)
-0
+
 king
 righteousness
 then
 but, and (frequently untranslated)
 and, also, likewise
 king
-0
+
 who, which, what
 I am
 king
 peace
-0
-0
-0
+
+
+
 and not, neither, nor
 beginning; ruler, authority
 day
@@ -117166,7 +117166,7 @@ and not, neither, nor
 life
 end
 I have, hold
-0
+
 but, and (frequently untranslated)
 the
 son
@@ -117176,33 +117176,33 @@ I remain, stay
 priest
 into, in
 the
-0
+
 I see, perceive
 but, and (frequently untranslated)
-0
+
 this
 who, which, what
-0
+
 Abraham
 I give
 from, out of
 the
-0
+
 the
-0
+
 and, also, likewise
 the
 indeed, on the one hand (but often untranslatable)
 from, out of
 the
 son
-0
+
 the
-0
+
 I take, receive
 commandment, order
 I have, hold
-0
+
 the
 people
 (with gen.) down, against; (with acc.) according to, along
@@ -117222,10 +117222,10 @@ Abraham
 the
 but, and (frequently untranslated)
 not
-0
+
 from, out of
 he, she, it; himself, herself, itself; even, very; same
-0
+
 Abraham
 and, also, likewise
 the
@@ -117236,17 +117236,17 @@ I bless
 without, apart from
 but, and (frequently untranslated)
 all, every
-0
+
 the
-0
+
 (with gen.) by; (with acc.) under
 the
-0
+
 I bless
 and, also, likewise
 here
 indeed, on the one hand (but often untranslatable)
-0
+
 I die
 human being, person
 I take, receive
@@ -117257,16 +117257,16 @@ that, because, since
 I live
 and, also, likewise
 as, like, so
-0
+
 I say, tell
 (with gen.) through; (with acc.) because of, for the sake of
 Abraham
 and, also, likewise
-0
+
 the
-0
+
 I take, receive
-0
+
 yet, still
 for
 (with dat.) in
@@ -117282,18 +117282,18 @@ Melchizedek
 if
 indeed, on the one hand (but often untranslatable)
 therefore, then
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
-0
-0
+
+
 I am
 the
 people
 for
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
-0
+
 who? which one? what?
 yet, still
 need, necessity
@@ -117314,12 +117314,12 @@ I say, tell
 I remove, change
 for
 the
-0
+
 from, out of
 necessity, distress
 and, also, likewise
 law
-0
+
 I am, become, happen
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 who, which, what
@@ -117335,11 +117335,11 @@ no one, nothing
 I pay attention
 the
 altar
-0
+
 for
 that, because, since
 from, out of
-0
+
 I rise up
 the
 master, lord, the Lord
@@ -117355,12 +117355,12 @@ I speak
 and, also, likewise
 abundant, superfluous
 yet, still
-0
+
 I am
 if
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 Melchizedek
 I raise, rise, stand up
 priest
@@ -117370,13 +117370,13 @@ no, not
 (with gen.) down, against; (with acc.) according to, along
 law
 commandment, order
-0
+
 I am, become, happen
 but, rather, yet
 (with gen.) down, against; (with acc.) according to, along
 power, strength
 life
-0
+
 I bear witness, testify
 for
 that, because, since
@@ -117389,7 +117389,7 @@ age, eternity
 the
 order
 Melchizedek
-0
+
 indeed, on the one hand (but often untranslatable)
 for
 I am, become, happen
@@ -117400,15 +117400,15 @@ the
 he, she, it; himself, herself, itself; even, very; same
 weak, powerless
 and, also, likewise
-0
+
 no one, nothing
 for
 I complete, perfect
 the
 law
-0
+
 but, and (frequently untranslated)
-0
+
 hope
 (with gen.) through; (with acc.) because of, for the sake of
 who, which, what
@@ -117420,19 +117420,19 @@ and, also, likewise
 as great, how great; as far, how far
 no, not
 without, apart from
-0
+
 the
 indeed, on the one hand (but often untranslatable)
 for
 without, apart from
-0
+
 I am
 priest
 I am, become, happen
 the
 but, and (frequently untranslated)
 (with gen.) with; (with acc.) after, behind
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 I say, tell
@@ -117451,15 +117451,15 @@ age, eternity
 (with gen.) down, against; (with acc.) according to, along
 so great, so far, so much
 and, also, likewise
-0
+
 will, testament, covenant
 I am, become, happen
-0
+
 Jesus, Joshua
 and, also, likewise
 the
 indeed, on the one hand (but often untranslatable)
-0
+
 I am
 I am, become, happen
 priest
@@ -117467,7 +117467,7 @@ priest
 the
 death
 I hinder, forbid
-0
+
 the
 but, and (frequently untranslated)
 (with gen.) through; (with acc.) because of, for the sake of
@@ -117477,16 +117477,16 @@ he, she, it; himself, herself, itself; even, very; same
 into, in
 the
 age, eternity
-0
+
 I have, hold
 the
-0
+
 from where
 and, also, likewise
 I save, deliver
 into, in
 the
-0
+
 I can
 the
 I go to, approach
@@ -117508,8 +117508,8 @@ and, also, likewise
 I am fitting
 high priest, chief priest
 devout, holy
-0
-0
+
+
 I divide, separate
 (with gen.) from, away from
 the
@@ -117543,7 +117543,7 @@ this
 for
 I do, make
 once for all
-0
+
 I bring up, take up
 the
 law
@@ -117557,7 +117557,7 @@ the
 word, Word
 but, and (frequently untranslated)
 the
-0
+
 the
 (with gen.) with; (with acc.) after, behind
 the
@@ -117567,7 +117567,7 @@ into, in
 the
 age, eternity
 I complete, perfect
-0
+
 but, and (frequently untranslated)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -117582,7 +117582,7 @@ right (as opposed to left)
 the
 throne
 the
-0
+
 (with dat.) in
 the
 heaven
@@ -117593,9 +117593,9 @@ and, also, likewise
 the
 tent, dwelling, tabernacle
 the
-TRUE
+True
 who, which, what
-0
+
 the
 master, lord, the Lord
 no, not
@@ -117636,7 +117636,7 @@ I bring to, offer
 law
 the
 gift
-0
+
 example, pattern
 and, also, likewise
 shade, shadow
@@ -117666,24 +117666,24 @@ the
 mountain, hill
 now
 but, and (frequently untranslated)
-0
+
 I meet, happen
 service
 as great, how great; as far, how far
 and, also, likewise
-0
+
 I am
 will, testament, covenant
 mediator
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 promise
-0
+
 if
 for
 the
-0
+
 that
 I am
 blameless, faultless
@@ -117692,7 +117692,7 @@ no, not
 second
 I seek, look for, ask
 place
-0
+
 for
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
@@ -117711,7 +117711,7 @@ and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 house, dwelling
-0
+
 will, testament, covenant
 new
 no, not
@@ -117738,13 +117738,13 @@ Egypt
 that, because, since
 he, she, it; himself, herself, itself; even, very; same
 no, not
-0
+
 (with dat.) in
 the
 will, testament, covenant
 I
 and I, but I
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 master, lord, the Lord
@@ -117793,7 +117793,7 @@ not
 I teach
 each, every
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 each, every
@@ -117814,7 +117814,7 @@ until
 large, great
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
-0
+
 I am
 the
 wrongdoing, unrighteousness
@@ -117831,33 +117831,33 @@ yet, still
 the
 I say, tell
 new
-0
+
 the
-0
+
 the
 but, and (frequently untranslated)
-0
+
 and, also, likewise
-0
-0
-0
+
+
+
 I have, hold
 indeed, on the one hand (but often untranslatable)
 therefore, then
 and, also, likewise
 the
-0
+
 requirement; righteous deed
 service, worship
 the
 and
 holy
-0
+
 tent, dwelling, tabernacle
 for
 I prepare, furnish
 the
-0
+
 (with dat.) in
 who, which, what
 the
@@ -117871,7 +117871,7 @@ the
 presentation; plan
 the
 bread
-0
+
 I say, tell
 holy
 (with gen.) with; (with acc.) after, behind
@@ -117886,41 +117886,41 @@ holy
 holy
 golden
 I have, hold
-0
+
 and, also, likewise
 the
 ark
 the
 will, testament, covenant
-0
-0
+
+
 gold
 (with dat.) in
 who, which, what
-0
+
 golden
 I have, hold
 the
-0
+
 and, also, likewise
 the
 rod, staff
 Aaron
 the
-0
+
 and, also, likewise
 the
-0
+
 the
 will, testament, covenant
-0
+
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
-0
+
 glory, brightness, splendor
-0
+
 the
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 who, which, what
 no, not
@@ -117936,11 +117936,11 @@ I prepare, furnish
 into, in
 indeed, on the one hand (but often untranslatable)
 the
-0
+
 tent, dwelling, tabernacle
 (with gen.) through; (with acc.) because of, for the sake of
 all, every
-0
+
 the
 priest
 the
@@ -117953,7 +117953,7 @@ second
 once
 the
 year
-0
+
 the
 high priest, chief priest
 no, not
@@ -117962,19 +117962,19 @@ blood
 who, which, what
 I bring to, offer
 (with gen.) on behalf of; (with acc.) above
-0
+
 and, also, likewise
 the
 the
 people
-0
+
 this
 I make clear
 the
 breath, spirit
 the
 holy
-0
+
 I reveal, make known
 the
 the
@@ -117982,11 +117982,11 @@ holy
 way
 yet, still
 the
-0
+
 tent, dwelling, tabernacle
 I have, hold
 uprising, revolt
-0
+
 parable
 into, in
 the
@@ -118007,19 +118007,19 @@ conscience
 I complete, perfect
 the
 I serve
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 food
 and, also, likewise
-0
+
 and, also, likewise
-0
-0
+
+
 requirement; righteous deed
 flesh
 until
 time, right time
-0
+
 I lie upon, press upon
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 but, and (frequently untranslated)
@@ -118045,7 +118045,7 @@ creation, creature
 and not, nor; neither, nor
 (with gen.) through; (with acc.) because of, for the sake of
 blood
-0
+
 and, also, likewise
 calf
 (with gen.) through; (with acc.) because of, for the sake of
@@ -118059,19 +118059,19 @@ into, in
 the
 holy
 eternal
-0
+
 I find, discover
 if
 for
 the
 blood
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
-0
-0
+
+
+
 the
 I make common, defile
 I make holy, sanctify
@@ -118079,7 +118079,7 @@ I make holy, sanctify
 the
 the
 flesh
-0
+
 how great? how much? how many?
 more, rather
 the
@@ -118090,7 +118090,7 @@ who, which, what
 (with gen.) through; (with acc.) because of, for the sake of
 breath, spirit
 eternal
-0
+
 I bring to, offer
 unblemished, blameless
 the
@@ -118122,7 +118122,7 @@ release, redemption
 the
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 will, testament, covenant
 overstepping, transgression
 the
@@ -118157,10 +118157,10 @@ I decree, make a will
 from where
 and not, nor; neither, nor
 the
-0
+
 without, apart from
 blood
-0
+
 I speak
 for
 all, every
@@ -118180,14 +118180,14 @@ the
 calf
 and, also, likewise
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 water
 and, also, likewise
-0
+
 red, scarlet
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and
 the
@@ -118196,7 +118196,7 @@ and, also, likewise
 all, every
 the
 people
-0
+
 I say, tell
 this
 the
@@ -118222,9 +118222,9 @@ service
 the
 blood
 likewise, so, similarly
-0
+
 and, also, likewise
-0
+
 (with dat.) in
 blood
 all, every
@@ -118234,7 +118234,7 @@ the
 law
 and, also, likewise
 without, apart from
-0
+
 no, not
 I am, become, happen
 pardon, forgiveness
@@ -118253,7 +118253,7 @@ he, she, it; himself, herself, itself; even, very; same
 but, and (frequently untranslated)
 the
 heavenly
-0
+
 sacrifice, offering
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 this
@@ -118264,9 +118264,9 @@ made by human hands
 I enter
 holy
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 the
-TRUE
+True
 but, rather, yet
 into, in
 he, she, it; himself, herself, itself; even, very; same
@@ -118284,7 +118284,7 @@ and not, nor; neither, nor
 in order that, that
 many times, often
 I bring to, offer
-0
+
 (just) as
 the
 high priest, chief priest
@@ -118313,7 +118313,7 @@ completion, close
 the
 age, eternity
 into, in
-0
+
 the
 sin
 (with gen.) through; (with acc.) because of, for the sake of
@@ -118324,7 +118324,7 @@ I reveal, make known
 and, also, likewise
 (with gen.) down, against; (with acc.) according to, along
 as great, how great; as far, how far
-0
+
 the
 human being, person
 once
@@ -118341,7 +118341,7 @@ once
 I bring to, offer
 into, in
 the
-0
+
 I bring up, take up
 sin
 from, out of
@@ -118377,7 +118377,7 @@ who, which, what
 I bring to, offer
 into, in
 the
-0
+
 never
 I can
 the
@@ -118402,16 +118402,16 @@ I make clean, purify
 but, rather, yet
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
-0
+
 sin
 (with gen.) down, against; (with acc.) according to, along
 year
 powerless
 for
 blood
-0
+
 and, also, likewise
-0
+
 I take away
 sin
 therefore, for this reason
@@ -118429,7 +118429,7 @@ body
 but, and (frequently untranslated)
 I mend, fit, perfect
 I
-0
+
 and, also, likewise
 (with gen.) about, concerning; (with acc.) around, near
 sin
@@ -118440,7 +118440,7 @@ I say, tell
 I see
 I have come, am present
 (with dat.) in
-0
+
 book, scroll
 I write
 (with gen.) about, concerning; (with acc.) around, near
@@ -118452,14 +118452,14 @@ God, god
 the
 will
 you
-0
+
 I say, tell
 that, because, since
 sacrifice, offering
 and, also, likewise
 offering, gift
 and, also, likewise
-0
+
 and, also, likewise
 (with gen.) about, concerning; (with acc.) around, near
 sin
@@ -118467,12 +118467,12 @@ no, not
 I wish, will
 and not, nor; neither, nor
 I am pleased with
-0
+
 (with gen.) down, against; (with acc.) according to, along
 law
 I bring to, offer
 then
-0
+
 I see
 I have come, am present
 the
@@ -118482,7 +118482,7 @@ will
 you
 I take away, destroy
 the
-0
+
 in order that, that
 the
 second
@@ -118507,17 +118507,17 @@ priest
 I place, set, stand
 (with gen.) down, against; (with acc.) according to, along
 day
-0
+
 and, also, likewise
 the
 he, she, it; himself, herself, itself; even, very; same
 many times, often
 I bring to, offer
 sacrifice, offering
-0
+
 never
 I can
-0
+
 sin
 this
 but, and (frequently untranslated)
@@ -118528,14 +118528,14 @@ I bring to, offer
 sacrifice, offering
 into, in
 the
-0
+
 I sit down, cause to sit down; stay (intrans.)
 (with dat.) in
 right (as opposed to left)
 the
 God, god
 the
-0
+
 I expect
 until
 I put, place
@@ -118552,7 +118552,7 @@ offering, gift
 I complete, perfect
 into, in
 the
-0
+
 the
 I make holy, sanctify
 I bear witness, testify
@@ -118566,7 +118566,7 @@ holy
 (with gen.) with; (with acc.) after, behind
 for
 the
-0
+
 this
 the
 will, testament, covenant
@@ -118627,10 +118627,10 @@ the
 blood
 Jesus, Joshua
 who, which, what
-0
+
 I
 way
-0
+
 and, also, likewise
 I live
 (with gen.) through; (with acc.) because of, for the sake of
@@ -118651,12 +118651,12 @@ the
 God, god
 I go to, approach
 (with gen.) with; (with acc.) after, behind
-TRUE
+True
 heart
 (with dat.) in
-0
+
 faith, trust
-0
+
 the
 heart
 (with gen.) from, away from
@@ -118673,7 +118673,7 @@ the
 confession
 the
 hope
-0
+
 faithful
 for
 the
@@ -118682,16 +118682,16 @@ and, also, likewise
 I consider
 each other, one another
 into, in
-0
+
 love
 and, also, likewise
-0
+
 work, deed
 not
 I leave behind, forsake
 the
-0
-0
+
+
 as, just as
 custom, law
 anyone, anything; someone, something
@@ -118705,7 +118705,7 @@ I see, look
 I come near
 the
 day
-0
+
 for
 I sin
 I
@@ -118721,18 +118721,18 @@ no more, no longer
 sin
 I leave (behind); I remain
 sacrifice, offering
-0
+
 but, and (frequently untranslated)
 anyone, anything; someone, something
-0
+
 judging, judgment
 and, also, likewise
 fire
 zeal, jealousy
-0
+
 I am about to, intend
 the
-0
+
 I reject
 anyone, anything; someone, something
 law
@@ -118749,7 +118749,7 @@ how great? how much? how many?
 I think, believe; I seem
 worse
 I deem worthy
-0
+
 the
 the
 son
@@ -118771,7 +118771,7 @@ the
 breath, spirit
 the
 grace, favor
-0
+
 I know
 for
 the
@@ -118787,7 +118787,7 @@ master, lord, the Lord
 the
 people
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 I fall in, fall into
 into, in
@@ -118802,8 +118802,8 @@ day
 (with dat.) in
 who, which, what
 I illuminate
-0
-0
+
+
 I remain, endure
 suffering
 this
@@ -118812,7 +118812,7 @@ reproach, insult
 and
 and, also, likewise
 affliction, tribulation
-0
+
 this
 but, and (frequently untranslated)
 companion, partner
@@ -118824,10 +118824,10 @@ and, also, likewise
 for
 the
 prisoner
-0
+
 and, also, likewise
 the
-0
+
 the
 I exist, am present
 you
@@ -118836,21 +118836,21 @@ joy
 I receive, welcome; I wait for
 I know
 I have, hold
-0
-0
-0
+
+
+
 and, also, likewise
 I remain, stay
 not
-0
+
 therefore, then
 the
 openness, confidence
 you
-0
+
 I have, hold
 large, great
-0
+
 patience, endurance
 for
 I have, hold
@@ -118884,7 +118884,7 @@ faith, trust
 I live
 and, also, likewise
 if
-0
+
 no, not
 I am pleased with
 the
@@ -118896,7 +118896,7 @@ I
 but, and (frequently untranslated)
 no, not
 I am
-0
+
 into, in
 destruction
 but, rather, yet
@@ -118910,7 +118910,7 @@ faith, trust
 I hope, hope for
 substantial nature, essence
 deed, thing
-0
+
 no, not
 I see, look
 (with dat.) in
@@ -118935,11 +118935,11 @@ the
 I see, look
 I am, become, happen
 faith, trust
-0
+
 sacrifice, offering
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
-0
+
 I bring to, offer
 the
 God, god
@@ -118962,7 +118962,7 @@ I die
 yet, still
 I speak
 faith, trust
-0
+
 I remove, change
 the
 not
@@ -118979,16 +118979,16 @@ God, god
 (with gen.) before, in front of
 for
 the
-0
+
 I bear witness, testify
-0
+
 the
 God, god
 without, apart from
 but, and (frequently untranslated)
 faith, trust
 powerless
-0
+
 I believe (in), trust
 for
 it is necessary, one must
@@ -119002,16 +119002,16 @@ and, also, likewise
 the
 I search for
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am, become, happen
 faith, trust
 I reveal; I bear a name
 Noah
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 I see, look
-0
+
 I prepare, furnish
 ark
 into, in
@@ -119050,7 +119050,7 @@ I know, understand
 where?
 I come, go
 faith, trust
-0
+
 into, in
 earth
 the
@@ -119065,7 +119065,7 @@ Issac
 and, also, likewise
 Jacob
 the
-0
+
 the
 promise
 the
@@ -119078,19 +119078,19 @@ foundation
 I have, hold
 city
 who, which, what
-0
+
 and, also, likewise
-0
+
 the
 God, god
 faith, trust
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 power, strength
 into, in
 foundation
-0
+
 I take, receive
 and, also, likewise
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -119108,10 +119108,10 @@ one
 I beget
 and, also, likewise
 this
-0
+
 as, just as
 the
-0
+
 the
 heaven
 the
@@ -119127,7 +119127,7 @@ lip
 the
 sea
 the
-0
+
 (with gen.) down, against; (with acc.) according to, along
 faith, trust
 I die
@@ -119138,7 +119138,7 @@ I receive
 the
 promise
 but, rather, yet
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I see
 and, also, likewise
@@ -119148,7 +119148,7 @@ I confess
 that, because, since
 strange, foreign
 and, also, likewise
-0
+
 I am
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -119168,15 +119168,15 @@ that
 I remember, mention
 (with gen.) from, away from
 who, which, what
-0
+
 I have, hold
 (an untranslatable conditional particle)
 time, right time
-0
+
 now
 but, and (frequently untranslated)
-0
-0
+
+
 this
 I am
 heavenly
@@ -119206,7 +119206,7 @@ I bring to, offer
 the
 the
 promise
-0
+
 (with dat.) near, at; (with acc.) to, toward
 who, which, what
 I speak
@@ -119215,7 +119215,7 @@ that, because, since
 Issac
 I call
 you
-0
+
 I reckon, think
 that, because, since
 and, also, likewise
@@ -119241,7 +119241,7 @@ the
 Jacob
 and, also, likewise
 the
-0
+
 faith, trust
 Jacob
 I die
@@ -119263,7 +119263,7 @@ Joseph
 I die
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 the
 son
 Israel
@@ -119271,28 +119271,28 @@ I remember, mention
 and, also, likewise
 (with gen.) about, concerning; (with acc.) around, near
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I command, order
 faith, trust
 Moses
 I beget
 I hide
-0
+
 (with gen.) by; (with acc.) under
 the
 father
 he, she, it; himself, herself, itself; even, very; same
 because, therefore
 I see
-0
+
 the
 infant, young child
 and, also, likewise
 no, not
 I fear
 the
-0
+
 the
 king
 faith, trust
@@ -119305,17 +119305,17 @@ son
 daughter
 Pharaoh
 more, rather
-0
-0
+
+
 the
 people
 the
 God, god
 or, either
-0
+
 I have, hold
 sin
-0
+
 large, great
 riches
 I lead, guide; I think
@@ -119326,11 +119326,11 @@ the
 reproach, insult
 the
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 for
 into, in
 the
-0
+
 faith, trust
 I leave behind
 Egypt
@@ -119345,35 +119345,35 @@ for
 unseen, invisible
 as, like, so
 I see
-0
+
 faith, trust
 I do, make
 the
-0
+
 and, also, likewise
 the
-0
+
 the
 blood
 in order that, that
 not
 the
-0
+
 the
 first-born
-0
+
 he, she, it; himself, herself, itself; even, very; same
 faith, trust
-0
+
 the
-0
+
 sea
 as, like, so
 (with gen.) through; (with acc.) because of, for the sake of
 dry
 earth
 who, which, what
-0
+
 I take, receive
 the
 Egyptian
@@ -119383,55 +119383,55 @@ the
 (city) wall
 Jericho
 I fall
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 seven
 day
 faith, trust
-0
+
 the
 prostitute
 no, not
-0
+
 the
 I disobey, am disobedient
 I take, receive
 the
-0
+
 (with gen.) with; (with acc.) after, behind
 peace
 and, also, likewise
 who? which one? what?
 yet, still
 I say, tell
-0
+
 I
 for
 I tell, relate
 the
 time
 (with gen.) about, concerning; (with acc.) around, near
-0
-0
-0
-0
+
+
+
+
 David
 and
 and, also, likewise
-0
+
 and, also, likewise
 the
 prophet
 who, which, what
 (with gen.) through; (with acc.) because of, for the sake of
 faith, trust
-0
+
 kingdom, reign
 I work, do, accomplish
 righteousness
 I obtain, attain to
 promise
-0
+
 mouth
 lion
 I extinguish
@@ -119440,7 +119440,7 @@ fire
 I flee
 mouth
 sword
-0
+
 (with gen.) from, away from
 weakness
 I am, become, happen
@@ -119459,21 +119459,21 @@ dead
 he, she, it; himself, herself, itself; even, very; same
 another, other
 but, and (frequently untranslated)
-0
+
 no, not
 I receive, welcome; I wait for
 the
 release, redemption
 in order that, that
-0
+
 resurrection
 I meet, happen
 other, another, different
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 scourging, torment
-0
+
 I take, receive
 yet, still
 but, and (frequently untranslated)
@@ -119482,20 +119482,20 @@ and, also, likewise
 watch, guard
 I stone (a person)
 I test, tempt
-0
+
 (with dat.) in
 murder, killing
 sword
 I die
-0
+
 (with dat.) in
-0
+
 (with dat.) in
-0
-0
+
+
 I am in need, fail; (pass.) I lack
 I afflict, oppress
-0
+
 who, which, what
 no, not
 I am
@@ -119503,7 +119503,7 @@ worthy, fit
 the
 the world
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
-0
+
 I lead astray, deceive
 and, also, likewise
 mountain, hill
@@ -119511,7 +119511,7 @@ and, also, likewise
 cave, den
 and, also, likewise
 the
-0
+
 the
 earth
 and, also, likewise
@@ -119529,29 +119529,29 @@ the
 God, god
 (with gen.) about, concerning; (with acc.) around, near
 I
-0
+
 anyone, anything; someone, something
-0
+
 in order that, that
 not
 without, apart from
 I
 I complete, perfect
-0
+
 and, also, likewise
 I
 so great, so far, so much
 I have, hold
 I lie around; I wear
 I
-0
+
 witness
-0
+
 I put off, lay aside
 all, every
 and, also, likewise
 the
-0
+
 sin
 (with gen.) through; (with acc.) because of, for the sake of
 patience, endurance
@@ -119560,14 +119560,14 @@ the
 I lie before, am present
 I
 contest, fight
-0
+
 into, in
 the
 the
 faith, trust
-0
+
 and, also, likewise
-0
+
 Jesus, Joshua
 who, which, what
 (with gen.) in place of, for
@@ -119587,7 +119587,7 @@ throne
 the
 God, god
 I sit down, cause to sit down; stay (intrans.)
-0
+
 for
 the
 of such a kind, such as this
@@ -119596,11 +119596,11 @@ I remain, endure
 the
 sinful
 into, in
-0
-0
+
+
 in order that, that
 not
-0
+
 the
 soul
 you
@@ -119608,16 +119608,16 @@ you
 not yet
 until
 blood
-0
+
 (with dat.) near, at; (with acc.) to, toward
 the
 sin
-0
+
 and, also, likewise
-0
+
 the
 exhortation, comfort
-0
+
 you
 as, like, so
 son
@@ -119625,7 +119625,7 @@ I discuss, speak
 son
 I
 not
-0
+
 upbringing, training
 master, lord, the Lord
 and not, but not
@@ -119670,7 +119670,7 @@ sharing in
 I am, become, happen
 all, every
 so, then
-0
+
 and, also, likewise
 no, not
 son
@@ -119683,11 +119683,11 @@ flesh
 I
 father
 I have, hold
-0
+
 and, also, likewise
 I shame; (mid.) I respect
 no, not
-0
+
 more, rather
 I subject, subordinate
 the
@@ -119716,7 +119716,7 @@ into, in
 the
 I receive a share
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 all, every
 indeed, on the one hand (but often untranslatable)
@@ -119731,28 +119731,28 @@ joy
 I am
 but, rather, yet
 grief, sorrow, pain
-0
+
 but, and (frequently untranslated)
 fruit
-0
+
 the
 (with gen.) through; (with acc.) because of, for the sake of
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I give away, give up; I render
 righteousness
 therefore, for this reason
 the
-0
+
 hand
 and, also, likewise
 the
 I am disabled
 knee
-0
+
 and, also, likewise
-0
-0
+
+
 I do, make
 the
 foot
@@ -119778,7 +119778,7 @@ no one, nothing
 I see
 the
 master, lord, the Lord
-0
+
 not
 anyone, anything; someone, something
 I am in need, fail; (pass.) I lack
@@ -119790,36 +119790,36 @@ God, god
 not
 anyone, anything; someone, something
 root
-0
+
 above, upward
-0
-0
+
+
 and, also, likewise
 (with gen.) through; (with acc.) because of, for the sake of
 this
 I defile
 the
-0
+
 not
 anyone, anything; someone, something
 a sexually immoral person
 or, either
 profane, godless
 as, like, so
-0
+
 who, which, what
 (with gen.) in place of, for
 eating, rust, food
 one
 I give away, give up; I render
 the
-0
-0
+
+
 I know
 for
 that, because, since
 and, also, likewise
-0
+
 I wish, will
 I inherit, acquire
 the
@@ -119838,19 +119838,19 @@ he, she, it; himself, herself, itself; even, very; same
 no, not
 for
 I go to, approach
-0
+
 and, also, likewise
 I burn
 fire
 and, also, likewise
-0
+
 and, also, likewise
 darkness
 and, also, likewise
-0
+
 and, also, likewise
 trumpet
-0
+
 and, also, likewise
 sound, voice
 word, saying; thing, matter
@@ -119869,22 +119869,22 @@ the
 I order
 and if, even if, if only
 animal
-0
+
 the
 mountain, hill
 I stone
 and, also, likewise
 in this manner, thus, so
-0
+
 I am
 the
-0
+
 Moses
 I say, tell
-0
+
 I am
 and, also, likewise
-0
+
 but, rather, yet
 I go to, approach
 Zion
@@ -119898,11 +119898,11 @@ heavenly
 and, also, likewise
 ten thousand, myriad
 angel, messenger
-0
+
 and, also, likewise
 church, congregation
 first-born
-0
+
 (with dat.) in
 heaven
 and, also, likewise
@@ -119920,12 +119920,12 @@ mediator
 Jesus, Joshua
 and, also, likewise
 blood
-0
-0
+
+
 I speak
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
-0
+
 I see, look
 not
 I ask for; I refuse
@@ -119941,7 +119941,7 @@ earth
 I ask for; I refuse
 the
 I reveal; I bear a name
-0
+
 more, rather
 I
 the
@@ -119965,7 +119965,7 @@ once
 I
 I shake, agitate
 no, not
-0
+
 the
 earth
 but, rather, yet
@@ -119980,7 +119980,7 @@ I make clear
 the
 the
 I shake
-0
+
 as, like, so
 I do, make
 in order that, that
@@ -119990,32 +119990,32 @@ not
 I shake
 therefore, for this reason
 kingdom, reign
-0
+
 I take, take with
 I have, hold
 grace, favor
 (with gen.) through; (with acc.) because of, for the sake of
 who, which, what
 I serve
-0
+
 the
 God, god
 (with gen.) with; (with acc.) after, behind
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 for
 the
 God, god
 I
 fire
-0
+
 the
 love of brother or sister
 I remain, stay
 the
-0
+
 not
 I forget
 (with gen.) through; (with acc.) because of, for the sake of
@@ -120029,9 +120029,9 @@ I remember
 the
 prisoner
 as, like, so
-0
+
 the
-0
+
 as, like, so
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
@@ -120045,16 +120045,16 @@ marriage
 all, every
 and, also, likewise
 the
-0
-0
+
+
 a sexually immoral person
 for
 and, also, likewise
-0
+
 I judge
 the
 God, god
-0
+
 the
 manner, kind
 I am enough, suffice
@@ -120062,11 +120062,11 @@ the
 I am present
 he, she, it; himself, herself, itself; even, very; same
 for
-0
+
 no, not
 not
 you
-0
+
 and not, nor; neither, nor
 no, not
 not
@@ -120078,7 +120078,7 @@ I
 I say, tell
 master, lord, the Lord
 I
-0
+
 no, not
 I fear
 who? which one? what?
@@ -120089,7 +120089,7 @@ I remember, mention
 the
 I lead, guide; I think
 you
-0
+
 I speak
 you
 the
@@ -120097,17 +120097,17 @@ word, Word
 the
 God, god
 who, which, what
-0
+
 the
-0
+
 the
 way of life, conduct
-0
+
 the
 faith, trust
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 and, also, likewise
 today
 the
@@ -120121,8 +120121,8 @@ manifold
 and, also, likewise
 strange, foreign
 not
-0
-0
+
+
 for
 grace, favor
 I make firm, establish, confirm
@@ -120140,7 +120140,7 @@ I have, hold
 altar
 from, out of
 who, which, what
-0
+
 no, not
 I have, hold
 power, authority
@@ -120184,7 +120184,7 @@ outside, out
 the
 gate, door
 I suffer, endure
-0
+
 I go out, come out
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
@@ -120210,7 +120210,7 @@ he, she, it; himself, herself, itself; even, very; same
 therefore, then
 I bring up, take up
 sacrifice, offering
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 all, every
 the
@@ -120225,7 +120225,7 @@ name
 he, she, it; himself, herself, itself; even, very; same
 the
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 communion, fellowship, participation
 not
@@ -120233,7 +120233,7 @@ I forget
 of such a kind, such as this
 for
 sacrifice, offering
-0
+
 the
 God, god
 I convince, persuade; I trust in
@@ -120241,10 +120241,10 @@ the
 I lead, guide; I think
 you
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 for
-0
+
 (with gen.) on behalf of; (with acc.) above
 the
 soul
@@ -120260,7 +120260,7 @@ I do, make
 and, also, likewise
 not
 I sigh, groan
-0
+
 for
 you
 this
@@ -120270,7 +120270,7 @@ I
 I convince, persuade; I trust in
 for
 that, because, since
-0
+
 conscience
 I have, hold
 (with dat.) in
@@ -120278,13 +120278,13 @@ all, every
 well, beautifully
 I wish, will
 I act, live
-0
+
 but, and (frequently untranslated)
 I invite; I exhort; I comfort
 this
 I do, make
 in order that, that
-0
+
 I restore, reestablish
 you
 the
@@ -120353,7 +120353,7 @@ and, also, likewise
 for
 (with gen.) through; (with acc.) because of, for the sake of
 short, little
-0
+
 you
 I know
 the
@@ -120364,7 +120364,7 @@ I set free, let go, send away
 (with gen.) with; (with acc.) after, behind
 who, which, what
 if
-0
+
 I come, go
 I see
 you
@@ -120382,7 +120382,7 @@ you
 the
 (with gen.) from, away from
 the
-0
+
 the
 grace, favor
 (with gen.) with; (with acc.) after, behind
@@ -120401,7 +120401,7 @@ tribe, nation
 the
 (with dat.) in
 the
-0
+
 I rejoice, am glad
 all, every
 joy
@@ -120410,12 +120410,12 @@ brother
 I
 whenever, when
 test, temptation
-0
+
 manifold
 I know
 that, because, since
 the
-0
+
 you
 the
 faith, trust
@@ -120431,7 +120431,7 @@ in order that, that
 I am
 complete, perfect
 and, also, likewise
-0
+
 (with dat.) in
 no one, nothing
 I lack, fall short
@@ -120447,7 +120447,7 @@ the
 I give
 God, god
 all, every
-0
+
 and, also, likewise
 not
 I reproach, insult
@@ -120463,15 +120463,15 @@ I differentiate; (mid.) I doubt
 the
 for
 I differentiate; (mid.) I doubt
-0
-0
+
+
 sea
-0
+
 and, also, likewise
-0
+
 not
 for
-0
+
 the
 human being, person
 that
@@ -120482,8 +120482,8 @@ anyone, anything; someone, something
 the
 master, lord, the Lord
 man
-0
-0
+
+
 (with dat.) in
 all, every
 the
@@ -120504,11 +120504,11 @@ but, and (frequently untranslated)
 rich
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 as, like, so
-0
+
 grass, hay
 I go by, (pass.) I pass away
 I rise up
@@ -120517,19 +120517,19 @@ the
 sun
 (with dat.) with
 the
-0
+
 and, also, likewise
 I dry, dry up
 the
 grass, hay
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I fall off, fall from
 and, also, likewise
 the
-0
+
 the
 face
 he, she, it; himself, herself, itself; even, very; same
@@ -120540,9 +120540,9 @@ the
 rich
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 blessed, happy
 man
 who, which, what
@@ -120553,7 +120553,7 @@ approved, genuine
 I am, become, happen
 I take, receive
 the
-0
+
 the
 life
 who, which, what
@@ -120571,7 +120571,7 @@ I test, tempt
 the
 for
 God, god
-0
+
 I am
 evil, bad
 I test, tempt
@@ -120585,9 +120585,9 @@ I test, tempt
 the
 one’s own
 desire, longing
-0
+
 and, also, likewise
-0
+
 then, next
 the
 desire, longing
@@ -120597,8 +120597,8 @@ sin
 the
 but, and (frequently untranslated)
 sin
-0
-0
+
+
 death
 not
 I lead astray, deceive
@@ -120606,11 +120606,11 @@ brother
 I
 beloved, dear
 all, every
-0
+
 good
 and, also, likewise
 all, every
-0
+
 complete, perfect
 from above, again
 I am
@@ -120624,12 +120624,12 @@ light
 who, which, what
 no, not
 there is (used only after a negative)
-0
+
 or, either
-0
-0
+
+
 I wish, desire
-0
+
 I
 word, Word
 truth, truthfulness
@@ -120641,7 +120641,7 @@ first-fruits
 anyone, anything; someone, something
 the
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I know
 brother
 I
@@ -120650,15 +120650,15 @@ I am
 but, and (frequently untranslated)
 all, every
 human being, person
-0
+
 into, in
 the
 I hear
-0
+
 into, in
 the
 I speak
-0
+
 into, in
 anger, indignation
 anger, indignation
@@ -120671,15 +120671,15 @@ I work, do, accomplish
 therefore, for this reason
 I put off, lay aside
 all, every
-0
+
 and, also, likewise
-0
+
 wickedness, malice
 (with dat.) in
 gentleness, humility, meekness
 I take, receive
 the
-0
+
 word, Word
 the
 I can
@@ -120693,21 +120693,21 @@ doer, maker
 word, Word
 and, also, likewise
 not
-0
-0
-0
-0
+
+
+
+
 that, because, since
 if
 anyone, anything; someone, something
-0
+
 word, Word
 I am
 and, also, likewise
 no, not
 doer, maker
 this
-0
+
 man
 I consider
 the
@@ -120716,10 +120716,10 @@ the
 beginning
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
+
 I consider
 for
-0
+
 and, also, likewise
 I go away
 and, also, likewise
@@ -120737,10 +120737,10 @@ the
 the
 freedom
 and, also, likewise
-0
+
 no, not
-0
-0
+
+
 I am, become, happen
 but, rather, yet
 doer, maker
@@ -120749,30 +120749,30 @@ this
 blessed, happy
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am
 if
 anyone, anything; someone, something
 I think, believe; I seem
-0
+
 I am
 not
-0
+
 tongue, language
-0
+
 but, rather, yet
-0
+
 heart
-0
+
 this
 idle, useless
 the
-0
-0
+
+
 clean, pure
 and, also, likewise
-0
+
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 the
 God, god
@@ -120781,15 +120781,15 @@ father
 this
 I am
 I oversee, care for
-0
+
 and, also, likewise
 widow
 (with dat.) in
 the
 affliction, tribulation
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 I keep, observe
 (with gen.) from, away from
 the
@@ -120798,7 +120798,7 @@ brother
 I
 not
 (with dat.) in
-0
+
 I have, hold
 the
 faith, trust
@@ -120816,7 +120816,7 @@ into, in
 synagogue
 you
 man
-0
+
 (with dat.) in
 clothing
 bright, shining
@@ -120825,9 +120825,9 @@ but, and (frequently untranslated)
 and, also, likewise
 poor
 (with dat.) in
-0
+
 clothing
-0
+
 but, and (frequently untranslated)
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -120858,7 +120858,7 @@ I
 no, not
 I differentiate; (mid.) I doubt
 (with dat.) in
-0
+
 and, also, likewise
 I am, become, happen
 judge
@@ -120896,19 +120896,19 @@ poor
 no, not
 the
 rich
-0
+
 you
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I draw
 you
 into, in
-0
+
 no, not
 he, she, it; himself, herself, itself; even, very; same
 I blaspheme
 the
-0
+
 name
 the
 I name; (mid.) I call upon
@@ -120932,7 +120932,7 @@ well, beautifully
 I do, make
 if
 but, and (frequently untranslated)
-0
+
 sin
 I work, do, accomplish
 I expose, convict, convince
@@ -120941,7 +120941,7 @@ the
 law
 as, like, so
 transgressor, sinner
-0
+
 for
 whole, complete
 the
@@ -120986,17 +120986,17 @@ I judge
 the
 for
 judging, judgment
-0
+
 the
 not
 I do, make
 mercy, compassion
-0
+
 mercy, compassion
 judging, judgment
 who? which one? what?
 the
-0
+
 brother
 I
 if
@@ -121023,7 +121023,7 @@ I exist, am present
 and, also, likewise
 I lack, fall short
 the
-0
+
 food
 I say, tell
 but, and (frequently untranslated)
@@ -121042,12 +121042,12 @@ I give
 but, and (frequently untranslated)
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 the
 body
 who? which one? what?
 the
-0
+
 in this manner, thus, so
 and, also, likewise
 the
@@ -121059,9 +121059,9 @@ work, deed
 dead
 I am
 (with gen.) down, against; (with acc.) according to, along
-0
+
 but, rather, yet
-0
+
 anyone, anything; someone, something
 you
 faith, trust
@@ -121100,11 +121100,11 @@ the
 demon, evil spirit
 I believe (in), trust
 and, also, likewise
-0
+
 I wish, will
 but, and (frequently untranslated)
 I know
-0
+
 human being, person
 empty
 that, because, since
@@ -121176,18 +121176,18 @@ and, also, likewise
 no, not
 from, out of
 faith, trust
-0
+
 likewise, so, similarly
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 the
 prostitute
 no, not
 from, out of
 work, deed
 I justify
-0
+
 the
 angel, messenger
 and, also, likewise
@@ -121211,7 +121211,7 @@ work, deed
 dead
 I am
 not
-0
+
 teacher
 I am, become, happen
 brother
@@ -121221,7 +121221,7 @@ that, because, since
 large, great
 judgment, condemnation
 I take, receive
-0
+
 for
 I stumble
 all, every
@@ -121235,7 +121235,7 @@ this
 complete, perfect
 man
 powerful
-0
+
 and, also, likewise
 whole, complete
 the
@@ -121245,7 +121245,7 @@ but, and (frequently untranslated)
 the
 horse
 the
-0
+
 into, in
 the
 mouth
@@ -121260,27 +121260,27 @@ whole, complete
 the
 body
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I see
 and, also, likewise
 the
 boat, ship
-0
+
 I am
 and, also, likewise
 (with gen.) by; (with acc.) under
 wind
 hard, difficult
 I drive, row
-0
+
 (with gen.) by; (with acc.) under
-0
-0
+
+
 where, insofar as
 the
-0
+
 the
-0
+
 I wish, desire
 in this manner, thus, so
 and, also, likewise
@@ -121291,13 +121291,13 @@ member, part
 I am
 and, also, likewise
 large, great
-0
+
 I see
-0
+
 fire
-0
-0
-0
+
+
+
 and, also, likewise
 the
 tongue, language
@@ -121314,18 +121314,18 @@ the
 member, part
 I
 the
-0
+
 whole, complete
 the
 body
 and, also, likewise
-0
+
 the
-0
+
 the
 beginning
 and, also, likewise
-0
+
 (with gen.) by; (with acc.) under
 the
 Gehenna, hell
@@ -121336,13 +121336,13 @@ animal
 and
 and, also, likewise
 bird
-0
+
 and
 and, also, likewise
-0
-0
+
+
 and, also, likewise
-0
+
 the
 nature
 the
@@ -121351,14 +121351,14 @@ the
 but, and (frequently untranslated)
 tongue, language
 no one, nothing
-0
+
 I can
 human being, person
-0
+
 evil, bad
 full
-0
-0
+
+
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 I bless
@@ -121374,7 +121374,7 @@ the
 human being, person
 the
 (with gen.) down, against; (with acc.) according to, along
-0
+
 God, god
 I am, become, happen
 from, out of
@@ -121386,7 +121386,7 @@ praise, blessing
 and, also, likewise
 curse
 no, not
-0
+
 brother
 I
 this
@@ -121398,13 +121398,13 @@ spring, fountain
 from, out of
 the
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 the
-0
+
 and, also, likewise
 the
-0
+
 not
 I can
 brother
@@ -121414,22 +121414,22 @@ olive tree
 I do, make
 or, either
 vine
-0
+
 neither, nor
-0
-0
+
+
 I do, make
 water
 who? which one? what?
 wise
 and, also, likewise
-0
+
 (with dat.) in
 you
 I point out, show
 from, out of
 the
-0
+
 way of life, conduct
 the
 work, deed
@@ -121440,7 +121440,7 @@ wisdom
 if
 but, and (frequently untranslated)
 zeal, jealousy
-0
+
 I have, hold
 and, also, likewise
 strife; selfishness
@@ -121449,7 +121449,7 @@ the
 heart
 you
 not
-0
+
 and, also, likewise
 I lie
 (with gen.) down, against; (with acc.) according to, along
@@ -121465,7 +121465,7 @@ I come down
 but, rather, yet
 earthly
 unspiritual
-0
+
 where, insofar as
 for
 zeal, jealousy
@@ -121481,20 +121481,20 @@ the
 but, and (frequently untranslated)
 from above, again
 wisdom
-0
+
 indeed, on the one hand (but often untranslatable)
 pure, holy
 I am
 then
-0
+
 gentle
-0
+
 full
 mercy, compassion
 and, also, likewise
 fruit
 good
-0
+
 genuine, sincere
 fruit
 but, and (frequently untranslated)
@@ -121509,7 +121509,7 @@ whence?
 war
 and, also, likewise
 whence?
-0
+
 (with dat.) in
 you
 no, not
@@ -121535,7 +121535,7 @@ and, also, likewise
 no, not
 I can
 I obtain, attain to
-0
+
 and, also, likewise
 I make war
 no, not
@@ -121563,7 +121563,7 @@ no, not
 I know
 that, because, since
 the
-0
+
 the
 the world
 enmity
@@ -121585,7 +121585,7 @@ I set, constitute
 or, either
 I think, believe; I seem
 that, because, since
-0
+
 the
 writing
 I say, tell
@@ -121595,7 +121595,7 @@ I desire
 the
 breath, spirit
 who, which, what
-0
+
 (with dat.) in
 I
 large, great
@@ -121636,23 +121636,23 @@ sinful
 and, also, likewise
 I purify
 heart
-0
-0
+
+
 and, also, likewise
 I grieve, mourn
 and, also, likewise
 I weep, cry
 the
-0
+
 you
 into, in
 grief, mourning
-0
+
 and, also, likewise
 the
 joy
 into, in
-0
+
 I make low, humble
 before
 master, lord, the Lord
@@ -121688,7 +121688,7 @@ but, rather, yet
 judge
 one
 I am
-0
+
 and, also, likewise
 judge
 the
@@ -121721,10 +121721,10 @@ I do, make
 there, to that place
 year
 and, also, likewise
-0
+
 and, also, likewise
 I gain
-0
+
 no, not
 I know, understand
 the
@@ -121733,7 +121733,7 @@ of what kind? which? what?
 the
 life
 you
-0
+
 for
 I am
 the
@@ -121763,7 +121763,7 @@ but, and (frequently untranslated)
 I boast, glory
 (with dat.) in
 the
-0
+
 you
 all, every
 boasting
@@ -121772,7 +121772,7 @@ wicked, bad
 I am
 I know
 therefore, then
-0
+
 I do, make
 and, also, likewise
 not
@@ -121785,22 +121785,22 @@ now
 the
 rich
 I weep, cry
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 you
 the
 I come, come upon
 the
 riches
 you
-0
+
 and, also, likewise
 the
 garment
 you
-0
+
 I am, become, happen
 the
 gold
@@ -121808,17 +121808,17 @@ you
 and, also, likewise
 the
 silver
-0
+
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 into, in
 testimony, proof
 you
 I am
 and, also, likewise
-0
+
 the
 flesh
 you
@@ -121834,39 +121834,39 @@ wages
 the
 workman, doer
 the
-0
+
 the
 country, land
 you
 the
-0
+
 (with gen.) from, away from
 you
 I cry, call out
 and, also, likewise
 the
-0
+
 the
 I harvest
 into, in
 the
 ear
 master, lord, the Lord
-0
+
 I enter
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
 and, also, likewise
-0
+
 I feed, support
 the
 heart
 you
 (with dat.) in
 day
-0
+
 I condemn
 I murder, kill
 the
@@ -121896,9 +121896,9 @@ I wait patiently
 he, she, it; himself, herself, itself; even, very; same
 until
 I take, receive
-0
+
 and, also, likewise
-0
+
 I wait patiently
 and, also, likewise
 you
@@ -121931,7 +121931,7 @@ example, pattern
 I take, receive
 brother
 the
-0
+
 and, also, likewise
 the
 patience, steadfastness
@@ -121944,12 +121944,12 @@ the
 name
 master, lord, the Lord
 I see
-0
+
 the
 I remain, endure
 the
 patience, endurance
-0
+
 I hear
 and, also, likewise
 the
@@ -121957,12 +121957,12 @@ end
 master, lord, the Lord
 I see
 that, because, since
-0
+
 I am
 the
 master, lord, the Lord
 and, also, likewise
-0
+
 (with gen.) before, in front of
 all, every
 but, and (frequently untranslated)
@@ -121995,12 +121995,12 @@ not
 (with gen.) by; (with acc.) under
 judging, judgment
 I fall
-0
+
 anyone, anything; someone, something
 (with dat.) in
 you
 I pray
-0
+
 anyone, anything; someone, something
 I sing
 I am weak, sick
@@ -122025,12 +122025,12 @@ the
 master, lord, the Lord
 and, also, likewise
 the
-0
+
 the
 faith, trust
 I save, deliver
 the
-0
+
 and, also, likewise
 I raise
 he, she, it; himself, herself, itself; even, very; same
@@ -122053,7 +122053,7 @@ I pray
 each other, one another
 (adv.) how; (conj.) that, in order that
 I heal
-0
+
 I am strong, powerful
 prayer, entreaty
 righteous, just
@@ -122061,7 +122061,7 @@ I work, produce
 Elijah
 human being, person
 I am
-0
+
 I
 and, also, likewise
 prayer
@@ -122091,7 +122091,7 @@ I give
 and, also, likewise
 the
 earth
-0
+
 the
 fruit
 he, she, it; himself, herself, itself; even, very; same
@@ -122132,16 +122132,16 @@ apostle
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 chosen, select
-0
-0
-0
-0
-0
+
+
+
+
+
 Asia
 and, also, likewise
-0
+
 (with gen.) down, against; (with acc.) according to, along
-0
+
 God, god
 father
 (with dat.) in
@@ -122150,7 +122150,7 @@ breath, spirit
 into, in
 obedience
 and, also, likewise
-0
+
 blood
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -122172,10 +122172,10 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 the
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 mercy, compassion
-0
+
 I
 into, in
 hope
@@ -122190,9 +122190,9 @@ into, in
 inheritance, possession
 imperishable, incorruptible
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 I keep, observe
 (with dat.) in
 heaven
@@ -122202,7 +122202,7 @@ the
 (with dat.) in
 power, strength
 God, god
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 faith, trust
 into, in
@@ -122225,11 +122225,11 @@ manifold
 test, temptation
 in order that, that
 the
-0
+
 you
 the
 faith, trust
-0
+
 gold
 the
 I ruin, destroy
@@ -122261,7 +122261,7 @@ I believe (in), trust
 but, and (frequently untranslated)
 I exult, am glad
 joy
-0
+
 and, also, likewise
 I praise, honor, glorify
 I receive
@@ -122276,7 +122276,7 @@ who, which, what
 salvation, deliverance
 I search for
 and, also, likewise
-0
+
 prophet
 the
 (with gen.) about, concerning; (with acc.) around, near
@@ -122297,7 +122297,7 @@ the
 he, she, it; himself, herself, itself; even, very; same
 breath, spirit
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
-0
+
 the
 into, in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -122311,7 +122311,7 @@ who, which, what
 I reveal
 that, because, since
 no, not
-0
+
 you
 but, and (frequently untranslated)
 I wait at table, serve
@@ -122336,14 +122336,14 @@ I desire, long for
 angel, messenger
 I bend over
 therefore, for this reason
-0
+
 the
 waist, loins
 the
 understanding, mind
 you
 I am sober, self-controlled
-0
+
 I hope, hope for
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -122358,12 +122358,12 @@ as, like, so
 child
 obedience
 not
-0
+
 the
 earlier, fromer
 (with dat.) in
 the
-0
+
 you
 desire, longing
 but, rather, yet
@@ -122391,7 +122391,7 @@ if
 father
 I name; (mid.) I call upon
 the
-0
+
 I judge
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -122401,7 +122401,7 @@ work, deed
 fear
 the
 the
-0
+
 you
 time
 I act, live
@@ -122412,21 +122412,21 @@ perishable, corruptible
 silver
 or, either
 gold
-0
+
 from, out of
 the
 idle, useless
 you
 way of life, conduct
-0
+
 but, rather, yet
 valuable, precious
 blood
 as, like, so
-0
+
 unblemished, blameless
 and, also, likewise
-0
+
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 I know beforehand
 indeed, on the one hand (but often untranslatable)
@@ -122481,8 +122481,8 @@ from, out of
 heart
 each other, one another
 I love
-0
-0
+
+
 no, not
 from, out of
 seed
@@ -122505,14 +122505,14 @@ all, every
 glory, brightness, splendor
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
-0
+
 grass, hay
 I dry, dry up
 the
 grass, hay
 and, also, likewise
 the
-0
+
 I fall off, fall from
 the
 but, and (frequently untranslated)
@@ -122544,13 +122544,13 @@ and, also, likewise
 envy
 and, also, likewise
 all, every
-0
+
 as, like, so
-0
+
 baby
 the
-0
-0
+
+
 milk
 I desire
 in order that, that
@@ -122588,7 +122588,7 @@ I build
 house, dwelling
 spiritual
 into, in
-0
+
 holy
 I bring up, take up
 spiritual
@@ -122599,7 +122599,7 @@ God, god
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 because, therefore
-0
+
 (with dat.) in
 writing
 I see
@@ -122608,7 +122608,7 @@ I put, place
 Zion
 stone
 chosen, select
-0
+
 honored, valuable
 and, also, likewise
 the
@@ -122655,8 +122655,8 @@ you
 but, and (frequently untranslated)
 race, stock
 chosen, select
-0
-0
+
+
 nation, the Gentiles
 holy
 people
@@ -122665,7 +122665,7 @@ preserving, possessing
 (adv.) how; (conj.) that, in order that
 the
 virtue
-0
+
 the
 from, out of
 darkness
@@ -122693,14 +122693,14 @@ I have mercy
 beloved, dear
 I invite; I exhort; I comfort
 as, like, so
-0
+
 and, also, likewise
-0
+
 I receive; I am distant; I abstain
 the
 fleshly, in the manner of flesh
 desire, longing
-0
+
 I serve in the army
 (with gen.) down, against; (with acc.) according to, along
 the
@@ -122712,25 +122712,25 @@ you
 the
 nation, the Gentiles
 I have, hold
-0
+
 in order that, that
 (with dat.) in
 who, which, what
 I speak against, slander
 you
 as, like, so
-0
+
 from, out of
 the
-0
+
 work, deed
-0
+
 I praise, honor, glorify
 the
 God, god
 (with dat.) in
 day
-0
+
 I subject, subordinate
 all, every
 human
@@ -122750,10 +122750,10 @@ he, she, it; himself, herself, itself; even, very; same
 I send
 into, in
 vengeance, punishment
-0
+
 praise
 but, and (frequently untranslated)
-0
+
 that, because, since
 in this manner, thus, so
 I am
@@ -122767,13 +122767,13 @@ the
 the
 foolish, ignorant
 human being, person
-0
+
 as, like, so
 free
 and, also, likewise
 not
 as, like, so
-0
+
 I have, hold
 the
 wickedness, malice
@@ -122786,7 +122786,7 @@ slave
 all, every
 I honor
 the
-0
+
 I love
 the
 God, god
@@ -122795,7 +122795,7 @@ the
 king
 I honor
 the
-0
+
 I subject, subordinate
 (with dat.) in
 all, every
@@ -122803,7 +122803,7 @@ fear
 the
 lord, master
 no, not
-0
+
 the
 good
 and, also, likewise
@@ -122811,7 +122811,7 @@ gentle
 but, rather, yet
 and, also, likewise
 the
-0
+
 this
 for
 grace, favor
@@ -122819,14 +122819,14 @@ if
 (with gen.) through; (with acc.) because of, for the sake of
 conscience
 God, god
-0
+
 anyone, anything; someone, something
 grief, sorrow, pain
 I suffer, endure
-0
+
 of what kind? which? what?
 for
-0
+
 if
 I sin
 and, also, likewise
@@ -122853,12 +122853,12 @@ I suffer, endure
 (with gen.) on behalf of; (with acc.) above
 you
 you
-0
-0
+
+
 in order that, that
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
 sin
@@ -122872,12 +122872,12 @@ the
 mouth
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
-0
+
 no, not
-0
+
 I suffer, endure
 no, not
-0
+
 I hand over, hand down, entrust
 but, and (frequently untranslated)
 the
@@ -122899,13 +122899,13 @@ wood, tree; cross
 in order that, that
 the
 sin
-0
+
 the
 righteousness
 I live
 who, which, what
 the
-0
+
 I heal
 I am
 for
@@ -122941,10 +122941,10 @@ the
 the
 woman
 way of life, conduct
-0
+
 word, Word
 I gain
-0
+
 the
 (with dat.) in
 fear
@@ -122956,13 +122956,13 @@ I am
 no, not
 the
 from the outside, outside
-0
+
 hair
 and, also, likewise
-0
+
 gold
 or, either
-0
+
 garment
 the world
 but, rather, yet
@@ -122975,16 +122975,16 @@ human being, person
 the
 imperishable, incorruptible
 the
-0
+
 and, also, likewise
-0
+
 breath, spirit
 who, which, what
 I am
 before
 the
 God, god
-0
+
 in this manner, thus, so
 for
 once, formerly
@@ -122997,13 +122997,13 @@ I hope, hope for
 into, in
 God, god
 I adorn, beautify
-0
+
 I subject, subordinate
 the
 one’s own
 man
 as, like, so
-0
+
 I obey
 the
 Abraham
@@ -123018,23 +123018,23 @@ and, also, likewise
 not
 I fear
 no one, nothing
-0
+
 the
 man
 likewise, so, similarly
-0
+
 (with gen.) down, against; (with acc.) according to, along
 knowledge
 as, like, so
 weak, powerless
 vessel, jar
 the
-0
-0
+
+
 price, value, honor
 as, like, so
 and, also, likewise
-0
+
 grace, favor
 life
 into, in
@@ -123048,21 +123048,21 @@ the
 but, and (frequently untranslated)
 end
 all, every
-0
-0
-0
-0
-0
+
+
+
+
+
 not
 I give away, give up; I render
 evil, bad
 (with gen.) in place of, for
 evil, bad
 or, either
-0
+
 (with gen.) in place of, for
-0
-0
+
+
 but, and (frequently untranslated)
 I bless
 that, because, since
@@ -123092,7 +123092,7 @@ the
 not
 I speak
 deceit
-0
+
 but, and (frequently untranslated)
 (with gen.) from, away from
 evil, bad
@@ -123183,14 +123183,14 @@ who, which, what
 I speak against, slander
 I put to shame, dishonor
 the
-0
+
 you
 the
 good
 (with dat.) in
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 way of life, conduct
-0
+
 for
 I do good
 if
@@ -123201,7 +123201,7 @@ the
 God, god
 I suffer, endure
 or, either
-0
+
 that, because, since
 and, also, likewise
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
@@ -123258,18 +123258,18 @@ water
 who, which, what
 and, also, likewise
 you
-0
+
 now
 I save, deliver
 baptism
 no, not
 flesh
-0
-0
+
+
 but, rather, yet
 conscience
 good
-0
+
 into, in
 God, god
 (with gen.) through; (with acc.) because of, for the sake of
@@ -123299,8 +123299,8 @@ and, also, likewise
 you
 the
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 that, because, since
 the
 I suffer, endure
@@ -123316,18 +123316,18 @@ but, rather, yet
 will
 God, god
 the
-0
+
 (with dat.) in
 flesh
-0
+
 time
-0
+
 for
 the
 I go by, (pass.) I pass away
 time
 the
-0
+
 the
 nation, the Gentiles
 I achieve, bring about
@@ -123335,30 +123335,30 @@ I go, proceed
 (with dat.) in
 licentiousness, sensuality
 desire, longing
-0
-0
-0
+
+
+
 and, also, likewise
-0
-0
+
+
 (with dat.) in
 who, which, what
 I entertain; I surprise
 not
-0
+
 you
 into, in
 the
 he, she, it; himself, herself, itself; even, very; same
 the
-0
-0
+
+
 I blaspheme
 who, which, what
 I give away, give up; I render
 word, Word
 the
-0
+
 I have, hold
 I judge
 I live
@@ -123396,30 +123396,30 @@ prayer
 all, every
 the
 into, in
-0
+
 love
-0
+
 I have, hold
 that, because, since
 love
 I cover, hide
 crowd, multitude
 sin
-0
+
 into, in
 each other, one another
-0
-0
+
+
 each, every
 as, just as
 I take, receive
 a gift
 into, in
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I wait at table, serve
 as, like, so
-0
+
 house steward
 manifold
 grace, favor
@@ -123428,7 +123428,7 @@ if
 anyone, anything; someone, something
 I speak
 as, like, so
-0
+
 God, god
 if
 anyone, anything; someone, something
@@ -123437,7 +123437,7 @@ as, like, so
 from, out of
 strength, power
 who, which, what
-0
+
 the
 God, god
 in order that, that
@@ -123468,7 +123468,7 @@ I entertain; I surprise
 the
 (with dat.) in
 you
-0
+
 (with dat.) near, at; (with acc.) to, toward
 test, temptation
 you
@@ -123478,7 +123478,7 @@ strange, foreign
 you
 I happen, come about
 but, rather, yet
-0
+
 I share, participate
 the
 the
@@ -123523,14 +123523,14 @@ murderer
 or, either
 thief
 or, either
-0
+
 or, either
 as, like, so
-0
+
 if
 but, and (frequently untranslated)
 as, like, so
-0
+
 not
 I am ashamed
 I praise, honor, glorify
@@ -123545,7 +123545,7 @@ that, because, since
 the
 time, right time
 the
-0
+
 the
 judgment, condemnation
 (with gen.) from, away from
@@ -123555,7 +123555,7 @@ the
 God, god
 if
 but, and (frequently untranslated)
-0
+
 (with gen.) from, away from
 I
 who? which one? what?
@@ -123589,20 +123589,20 @@ will
 the
 God, god
 faithful
-0
+
 I place beside, place around
 the
 soul
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
-0
+
 old; (as a noun) elder
 therefore, then
 (with dat.) in
 you
 I invite; I exhort; I comfort
 the
-0
+
 and, also, likewise
 witness
 the
@@ -123624,18 +123624,18 @@ flock
 the
 God, god
 not
-0
+
 but, rather, yet
-0
+
 (with gen.) down, against; (with acc.) according to, along
 God, god
 and not, but not
-0
+
 but, rather, yet
-0
+
 and not, but not
 as, like, so
-0
+
 the
 lot, share
 but, rather, yet
@@ -123646,13 +123646,13 @@ flock
 and, also, likewise
 I reveal, make known
 the
-0
+
 I receive
 the
-0
+
 the
 glory, brightness, splendor
-0
+
 likewise, so, similarly
 new, young
 I subject, subordinate
@@ -123662,7 +123662,7 @@ but, and (frequently untranslated)
 each other, one another
 the
 humility
-0
+
 that, because, since
 the
 God, god
@@ -123676,7 +123676,7 @@ I make low, humble
 therefore, then
 (with gen.) by; (with acc.) under
 the
-0
+
 hand
 the
 God, god
@@ -123689,7 +123689,7 @@ all, every
 the
 anxiety, care
 you
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
@@ -123705,14 +123705,14 @@ you
 the devil
 as, like, so
 lion
-0
+
 I go about, walk around
 I seek, look for, ask
 anyone, anything; someone, something
 I drink down
 who, which, what
 I oppose, resist
-0
+
 the
 faith, trust
 I know
@@ -123725,7 +123725,7 @@ the
 the
 the world
 you
-0
+
 I end, complete
 the
 but, and (frequently untranslated)
@@ -123747,7 +123747,7 @@ I suffer, endure
 he, she, it; himself, herself, itself; even, very; same
 I mend, fit, perfect
 I establish, strengthen
-0
+
 I lay a foundation
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -123759,7 +123759,7 @@ the
 age, eternity
 so let it be, truly, amen
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 you
 the
 faithful
@@ -123771,10 +123771,10 @@ few, little
 I write
 I invite; I exhort; I comfort
 and, also, likewise
-0
+
 this
 I am
-TRUE
+True
 grace, favor
 the
 God, god
@@ -123786,7 +123786,7 @@ you
 the
 (with dat.) in
 Babylon
-0
+
 and, also, likewise
 Mark
 the
@@ -123811,9 +123811,9 @@ apostle
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 the
-0
+
 I
-0
+
 faith, trust
 (with dat.) in
 righteousness
@@ -123843,7 +123843,7 @@ the
 all, every
 I
 the
-0
+
 power, strength
 he, she, it; himself, herself, itself; even, very; same
 the
@@ -123851,7 +123851,7 @@ the
 life
 and, also, likewise
 piety, godliness
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 knowledge, understanding
@@ -123869,16 +123869,16 @@ valuable, precious
 and, also, likewise
 large, great
 I
-0
-0
+
+
 in order that, that
 (with gen.) through; (with acc.) because of, for the sake of
 this
 I am, become, happen
-0
+
 companion, partner
 nature
-0
+
 the
 (with dat.) in
 the
@@ -123892,7 +123892,7 @@ this
 but, and (frequently untranslated)
 haste; eagerness
 all, every
-0
+
 I provide, give, support
 (with dat.) in
 the
@@ -123911,11 +123911,11 @@ but, and (frequently untranslated)
 the
 knowledge
 the
-0
+
 (with dat.) in
 but, and (frequently untranslated)
 the
-0
+
 the
 patience, endurance
 (with dat.) in
@@ -123962,8 +123962,8 @@ I am present
 this
 blind
 I am
-0
-0
+
+
 I take, receive
 the
 purification
@@ -123991,7 +123991,7 @@ I stumble
 once, formerly
 in this manner, thus, so
 for
-0
+
 I provide, give, support
 you
 the
@@ -124031,19 +124031,19 @@ I am
 (with dat.) in
 this
 the
-0
+
 I wake (someone) up
 you
 (with dat.) in
-0
+
 I know
 that, because, since
-0
+
 I am
 the
-0
+
 the
-0
+
 I
 as, just as
 and, also, likewise
@@ -124057,22 +124057,22 @@ I
 I hasten; I am eager
 but, and (frequently untranslated)
 and, also, likewise
-0
+
 I have, hold
 you
 (with gen.) with; (with acc.) after, behind
 the
 my, mine
-0
+
 the
 this
-0
+
 I do, make
 no, not
 for
-0
+
 tale, myth
-0
+
 I make known, reveal
 you
 the
@@ -124085,11 +124085,11 @@ power, strength
 and, also, likewise
 presence, coming
 but, rather, yet
-0
+
 I am, become, happen
 the
 that
-0
+
 I take, receive
 for
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -124101,10 +124101,10 @@ glory, brightness, splendor
 sound, voice
 I bear, carry
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) by; (with acc.) under
 the
-0
+
 glory, brightness, splendor
 the
 son
@@ -124138,7 +124138,7 @@ and, also, likewise
 I have, hold
 firm, secure, certain
 the
-0
+
 word, Word
 who, which, what
 well, beautifully
@@ -124148,28 +124148,28 @@ as, like, so
 lamp
 I shine; (mid.) I appear, become visible
 (with dat.) in
-0
+
 place
 until
 who, which, what
 day
-0
+
 and, also, likewise
-0
+
 I rise up
 (with dat.) in
 the
 heart
 you
 this
-0
+
 I know
 that, because, since
 all, every
 prophecy
 writing
 one’s own
-0
+
 no, not
 I am, become, happen
 no, not
@@ -124200,9 +124200,9 @@ and, also, likewise
 (with dat.) in
 you
 I am
-0
-0
-0
+
+
+
 party, dissension
 destruction
 and, also, likewise
@@ -124211,13 +124211,13 @@ I buy
 he, she, it; himself, herself, itself; even, very; same
 lord, master
 I deny
-0
-0
-0
+
+
+
 destruction
 and, also, likewise
-0
-0
+
+
 he, she, it; himself, herself, itself; even, very; same
 the
 licentiousness, sensuality
@@ -124231,22 +124231,22 @@ I blaspheme
 and, also, likewise
 (with dat.) in
 greediness, covetousness
-0
+
 word, Word
 you
-0
+
 who, which, what
 the
 judgment, condemnation
-0
+
 no, not
-0
+
 and, also, likewise
 the
 destruction
 he, she, it; himself, herself, itself; even, very; same
 no, not
-0
+
 if
 for
 the
@@ -124256,9 +124256,9 @@ I sin
 no, not
 I spare
 but, rather, yet
-0
+
 darkness
-0
+
 I hand over, hand down, entrust
 into, in
 judging, judgment
@@ -124272,43 +124272,43 @@ but, rather, yet
 eighth
 Noah
 righteousness
-0
+
 I watch, guard
-0
+
 the world
 godless, impious
-0
+
 and, also, likewise
 city
 Sodom
 and, also, likewise
-0
-0
-0
+
+
+
 I condemn
 example, pattern
 I am about to, intend
-0
+
 I put, place
 and, also, likewise
 righteous, just
-0
-0
+
+
 (with gen.) by; (with acc.) under
 the
 the
-0
+
 (with dat.) in
 licentiousness, sensuality
 way of life, conduct
 I save
-0
+
 for
 and, also, likewise
 hearing, ear, report
 the
 righteous, just
-0
+
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 day
@@ -124321,7 +124321,7 @@ work, deed
 I torture, torment
 I know
 master, lord, the Lord
-0
+
 from, out of
 test, temptation
 I save
@@ -124330,7 +124330,7 @@ but, and (frequently untranslated)
 into, in
 day
 judging, judgment
-0
+
 I keep, observe
 most of all, especially
 but, and (frequently untranslated)
@@ -124339,16 +124339,16 @@ behind, back
 flesh
 (with dat.) in
 desire, longing
-0
+
 I go, proceed
 and, also, likewise
-0
+
 I despise, scorn
-0
-0
+
+
 glory, brightness, splendor
 no, not
-0
+
 I blaspheme
 where, insofar as
 angel, messenger
@@ -124363,17 +124363,17 @@ I bear, carry
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
 master, lord, the Lord
-0
+
 judging, judgment
 this
 but, and (frequently untranslated)
 as, like, so
-0
+
 living thing; animal
 I beget
-0
+
 into, in
-0
+
 and, also, likewise
 destruction
 (with dat.) in
@@ -124394,29 +124394,29 @@ I lead, guide; I think
 the
 (with dat.) in
 day
-0
-0
+
+
 and, also, likewise
-0
-0
+
+
 (with dat.) in
 the
 deception, deceitfulness
 he, she, it; himself, herself, itself; even, very; same
-0
+
 you
 eye
 I have, hold
 full
 adulteress
 and, also, likewise
-0
+
 sin
-0
+
 soul
-0
+
 heart
-0
+
 greediness, covetousness
 I have, hold
 curse
@@ -124425,41 +124425,41 @@ I leave behind
 immediately
 way
 I lead astray, deceive
-0
+
 the
 way
 the
-0
+
 the
-0
+
 who, which, what
 wages
 wrongdoing, unrighteousness
 I love
-0
+
 but, and (frequently untranslated)
 I have, hold
 one’s own
-0
-0
-0
+
+
+
 (with dat.) in
 human being, person
 sound, voice
-0
+
 I hinder, forbid
 the
 the
 prophet
-0
+
 this
 I am
 spring, fountain
-0
+
 and, also, likewise
-0
+
 (with gen.) by; (with acc.) under
-0
+
 I drive, row
 who, which, what
 the
@@ -124467,18 +124467,18 @@ darkness
 the
 darkness
 I keep, observe
-0
+
 for
-0
-0
-0
+
+
+
 (with dat.) in
 desire, longing
 flesh
 licentiousness, sensuality
 the
-0
-0
+
+
 the
 (with dat.) in
 wandering, error, deceit
@@ -124494,14 +124494,14 @@ destruction
 who, which, what
 for
 anyone, anything; someone, something
-0
+
 this
 I enslave
 if
 for
-0
+
 the
-0
+
 the
 the world
 (with dat.) in
@@ -124515,16 +124515,16 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 this
 but, and (frequently untranslated)
 again
-0
-0
+
+
 I am, become, happen
 he, she, it; himself, herself, itself; even, very; same
 the
 last
 worse
 the
-0
-0
+
+
 for
 I am
 he, she, it; himself, herself, itself; even, very; same
@@ -124547,20 +124547,20 @@ I happen, come about
 he, she, it; himself, herself, itself; even, very; same
 the
 the
-TRUE
+True
 proverb, figure
 dog
 I turn, turn around, turn back
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 one’s own
-0
+
 and, also, likewise
-0
+
 I wash, bathe
 into, in
-0
-0
+
+
 this
 now, already
 beloved, dear
@@ -124573,9 +124573,9 @@ who, which, what
 I wake (someone) up
 you
 (with dat.) in
-0
+
 the
-0
+
 understanding, mind
 I remember
 the
@@ -124596,7 +124596,7 @@ master, lord, the Lord
 and, also, likewise
 savior, deliverer
 this
-0
+
 I know
 that, because, since
 I come, go
@@ -124605,8 +124605,8 @@ last
 the
 day
 (with dat.) in
-0
-0
+
+
 (with gen.) down, against; (with acc.) according to, along
 the
 one’s own
@@ -124642,7 +124642,7 @@ I wish, will
 that, because, since
 heaven
 I am
-0
+
 and, also, likewise
 earth
 from, out of
@@ -124661,7 +124661,7 @@ the
 then
 the world
 water
-0
+
 I ruin, destroy
 the
 but, and (frequently untranslated)
@@ -124707,13 +124707,13 @@ as, like, so
 day
 one
 no, not
-0
+
 master, lord, the Lord
 the
 promise
 as, like, so
 anyone, anything; someone, something
-0
+
 I lead, guide; I think
 but, rather, yet
 I wait patiently
@@ -124738,11 +124738,11 @@ thief
 who, which, what
 the
 heaven
-0
+
 I go by, (pass.) I pass away
 element; heavenly body
 but, and (frequently untranslated)
-0
+
 I loose, set free
 and, also, likewise
 earth
@@ -124781,8 +124781,8 @@ I burn, am inflamed
 I loose, set free
 and, also, likewise
 element; heavenly body
-0
-0
+
+
 new
 but, and (frequently untranslated)
 heaven
@@ -124791,7 +124791,7 @@ earth
 new
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I wait for
 (with dat.) in
@@ -124803,9 +124803,9 @@ beloved, dear
 this
 I wait for
 I hasten; I am eager
-0
+
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I find, discover
 (with dat.) in
@@ -124845,18 +124845,18 @@ this
 (with dat.) in
 who, which, what
 I am
-0
+
 anyone, anything; someone, something
 who, which, what
 the
-0
+
 and, also, likewise
-0
-0
+
+
 as, like, so
 and, also, likewise
 the
-0
+
 writing
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -124872,13 +124872,13 @@ in order that, that
 not
 the
 the
-0
+
 wandering, error, deceit
-0
+
 I fall off, fall from
 the
 one’s own
-0
+
 I grow, increase
 but, and (frequently untranslated)
 (with dat.) in
@@ -124918,7 +124918,7 @@ and, also, likewise
 the
 hand
 I
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 word, Word
@@ -124939,7 +124939,7 @@ the
 life
 the
 eternal
-0
+
 I am
 (with dat.) near, at; (with acc.) to, toward
 the
@@ -124991,7 +124991,7 @@ and, also, likewise
 I am
 this
 the
-0
+
 who, which, what
 I hear
 (with gen.) from, away from
@@ -125063,7 +125063,7 @@ that, because, since
 sin
 no, not
 I have, hold
-0
+
 I lead astray, deceive
 and, also, likewise
 the
@@ -125130,7 +125130,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 righteous, just
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am
 (with gen.) about, concerning; (with acc.) around, near
 the
@@ -125141,7 +125141,7 @@ no, not
 the
 our
 but, and (frequently untranslated)
-0
+
 but, rather, yet
 and, also, likewise
 (with gen.) about, concerning; (with acc.) around, near
@@ -125244,7 +125244,7 @@ I write
 you
 who, which, what
 I am
-TRUE
+True
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -125258,7 +125258,7 @@ and, also, likewise
 the
 light
 the
-TRUE
+True
 now, already
 I shine; (mid.) I appear, become visible
 the
@@ -125311,12 +125311,12 @@ I go about, walk around
 and, also, likewise
 no, not
 I know
-0
+
 I go, go away
 that, because, since
 the
 darkness
-0
+
 the
 eye
 he, she, it; himself, herself, itself; even, very; same
@@ -125419,7 +125419,7 @@ the
 eye
 and, also, likewise
 the
-0
+
 the
 life
 no, not
@@ -125464,7 +125464,7 @@ I come, go
 and, also, likewise
 now
 antichrist
-0
+
 I am, become, happen
 from where
 I know
@@ -125500,7 +125500,7 @@ from, out of
 I
 and, also, likewise
 you
-0
+
 I have, hold
 (with gen.) from, away from
 the
@@ -125620,7 +125620,7 @@ you
 and, also, likewise
 you
 the
-0
+
 who, which, what
 I take, receive
 (with gen.) from, away from
@@ -125640,13 +125640,13 @@ but, rather, yet
 as, like, so
 the
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I teach
 you
 (with gen.) about, concerning; (with acc.) around, near
 all, every
 and, also, likewise
-TRUE
+True
 I am
 and, also, likewise
 no, not
@@ -125751,7 +125751,7 @@ this
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 I purify
-0
+
 as, just as
 that
 pure, holy
@@ -125853,7 +125853,7 @@ sin
 no, not
 I do, make
 that, because, since
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 he, she, it; himself, herself, itself; even, very; same
@@ -125901,7 +125901,7 @@ that, because, since
 this
 I am
 the
-0
+
 who, which, what
 I hear
 (with gen.) from, away from
@@ -125911,7 +125911,7 @@ I love
 each other, one another
 no, not
 as, just as
-0
+
 from, out of
 the
 wicked, bad
@@ -125973,13 +125973,13 @@ I hate
 the
 brother
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I am
 and, also, likewise
 I know
 that, because, since
 all, every
-0
+
 no, not
 I have, hold
 life
@@ -126068,7 +126068,7 @@ heart
 I
 that, because, since
 if
-0
+
 I
 the
 heart
@@ -126088,7 +126088,7 @@ if
 the
 heart
 not
-0
+
 openness, confidence
 I have, hold
 (with dat.) near, at; (with acc.) to, toward
@@ -126108,7 +126108,7 @@ he, she, it; himself, herself, itself; even, very; same
 I keep, observe
 and, also, likewise
 the
-0
+
 before
 he, she, it; himself, herself, itself; even, very; same
 I do, make
@@ -126176,7 +126176,7 @@ the
 God, god
 I am
 that, because, since
-0
+
 false prophet
 I go out, come out
 into, in
@@ -126380,7 +126380,7 @@ I send away, send out
 the
 son
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with gen.) about, concerning; (with acc.) around, near
 the
 sin
@@ -126545,7 +126545,7 @@ fear
 that, because, since
 the
 fear
-0
+
 I have, hold
 the
 but, and (frequently untranslated)
@@ -126559,7 +126559,7 @@ I
 I love
 that, because, since
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I love
 I
 if
@@ -126684,7 +126684,7 @@ and, also, likewise
 this
 I am
 the
-0
+
 the
 I conquer
 the
@@ -126723,7 +126723,7 @@ no, not
 (with dat.) in
 the
 water
-0
+
 but, rather, yet
 (with dat.) in
 the
@@ -126800,7 +126800,7 @@ I have, hold
 the
 testimony
 (with dat.) in
-0
+
 the
 not
 I believe (in), trust
@@ -126912,7 +126912,7 @@ I know
 that, because, since
 I have, hold
 the
-0
+
 who, which, what
 I ask, ask for
 (with gen.) from, away from
@@ -126980,7 +126980,7 @@ and, also, likewise
 the
 wicked, bad
 no, not
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I know
 that, because, since
@@ -127011,12 +127011,12 @@ understanding, mind
 in order that, that
 I know
 the
-TRUE
+True
 and, also, likewise
 I am
 (with dat.) in
 the
-TRUE
+True
 (with dat.) in
 the
 son
@@ -127026,21 +127026,21 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 this
 I am
 the
-TRUE
+True
 God, god
 and, also, likewise
 life
 eternal
 little child
 I watch, guard
-0
+
 (with gen.) from, away from
 the
 image, idol
 the
 old; (as a noun) elder
 chosen, select
-0
+
 and, also, likewise
 the
 child
@@ -127053,7 +127053,7 @@ truth, truthfulness
 and, also, likewise
 no, not
 I
-0
+
 but, rather, yet
 and, also, likewise
 all, every
@@ -127117,7 +127117,7 @@ and, also, likewise
 now
 I ask, request
 you
-0
+
 no, not
 as, like, so
 commandment, order
@@ -127156,7 +127156,7 @@ in order that, that
 he, she, it; himself, herself, itself; even, very; same
 I go about, walk around
 that, because, since
-0
+
 deceitful; (as a noun) deceiver, impostor
 I go out, come out
 into, in
@@ -127178,7 +127178,7 @@ and, also, likewise
 the
 antichrist
 I see, look
-0
+
 in order that, that
 not
 I ruin, destroy
@@ -127247,16 +127247,16 @@ work, deed
 he, she, it; himself, herself, itself; even, very; same
 the
 wicked, bad
-0
+
 I have, hold
 you
 I write
 no, not
 I wish, desire
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 and, also, likewise
-0
+
 but, rather, yet
 I hope, hope for
 I am, become, happen
@@ -127297,11 +127297,11 @@ beloved, dear
 all, every
 I pray
 you
-0
+
 and, also, likewise
 I am healthy, sound
 as, just as
-0
+
 you
 the
 soul
@@ -127369,7 +127369,7 @@ no one, nothing
 I take, receive
 (with gen.) from, away from
 the
-0
+
 I
 therefore, then
 I owe
@@ -127387,11 +127387,11 @@ the
 church, congregation
 but, rather, yet
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 no, not
-0
+
 I
 (with gen.) through; (with acc.) because of, for the sake of
 this
@@ -127405,7 +127405,7 @@ who, which, what
 I do, make
 word, Word
 wicked, bad
-0
+
 I
 and, also, likewise
 not
@@ -127414,7 +127414,7 @@ I am enough, suffice
 this
 neither, nor
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 brother
 and, also, likewise
@@ -127428,7 +127428,7 @@ church, congregation
 I throw out, expel
 beloved, dear
 not
-0
+
 the
 evil, bad
 but, rather, yet
@@ -127441,12 +127441,12 @@ the
 God, god
 I am
 the
-0
+
 no, not
 I see
 the
 God, god
-0
+
 I bear witness, testify
 (with gen.) by; (with acc.) under
 all, every
@@ -127465,9 +127465,9 @@ that, because, since
 the
 testimony
 I
-TRUE
+True
 I am
-0
+
 I have, hold
 I write
 you
@@ -127475,7 +127475,7 @@ but, rather, yet
 no, not
 I wish, will
 (with gen.) through; (with acc.) because of, for the sake of
-0
+
 and, also, likewise
 reed
 you
@@ -127501,7 +127501,7 @@ the
 beloved, loving; (as a noun) friend
 (with gen.) down, against; (with acc.) according to, along
 name
-0
+
 Jesus, Joshua
 the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστος]
 slave
@@ -127541,20 +127541,20 @@ I have, hold
 I write
 you
 I invite; I exhort; I comfort
-0
+
 the
 once
 I hand over, hand down, entrust
 the
 holy
 faith, trust
-0
+
 for
 anyone, anything; someone, something
 human being, person
 the
 long ago, for a long time
-0
+
 into, in
 this
 the
@@ -127570,7 +127570,7 @@ into, in
 licentiousness, sensuality
 and, also, likewise
 the
-0
+
 lord, master
 and, also, likewise
 master, lord, the Lord
@@ -127604,26 +127604,26 @@ the
 not
 I keep, observe
 the
-0
+
 beginning; ruler, authority
 but, rather, yet
 I leave (behind); I remain
 the
 one’s own
-0
+
 into, in
 judging, judgment
 large, great
 day
 bond, fetter
-0
+
 (with gen.) by; (with acc.) under
 darkness
 I keep, observe
 as, like, so
 Sodom
 and, also, likewise
-0
+
 and, also, likewise
 the
 (with gen.) about, concerning; (with acc.) around, near
@@ -127633,27 +127633,27 @@ the
 like, similar
 manner, kind
 this
-0
+
 and, also, likewise
 I go away
 behind, back
 flesh
 other, another, different
 I lie before, am present
-0
+
 fire
 eternal
-0
-0
+
+
 likewise, so, similarly
 though, indeed
 and, also, likewise
 this
-0
+
 flesh
 indeed, on the one hand (but often untranslatable)
 I defile
-0
+
 but, and (frequently untranslated)
 I reject
 glory, brightness, splendor
@@ -127661,9 +127661,9 @@ but, and (frequently untranslated)
 I blaspheme
 the
 but, and (frequently untranslated)
-0
+
 the
-0
+
 when
 the
 the devil
@@ -127676,7 +127676,7 @@ body
 no, not
 I dare
 judging, judgment
-0
+
 blasphemy
 but, rather, yet
 I say, tell
@@ -127692,10 +127692,10 @@ I know
 I blaspheme
 as great, how great; as far, how far
 but, and (frequently untranslated)
-0
+
 as, like, so
 the
-0
+
 living thing; animal
 I know, understand
 (with dat.) in
@@ -127707,20 +127707,20 @@ that, because, since
 the
 way
 the
-0
+
 I go, proceed
 and, also, likewise
 the
 wandering, error, deceit
 the
-0
+
 wages
 I pour out
 and, also, likewise
 the
-0
+
 the
-0
+
 I ruin, destroy
 this
 I am
@@ -127729,31 +127729,31 @@ the
 the
 love
 you
-0
-0
-0
-0
+
+
+
+
 I tend, pasture
 cloud
-0
+
 (with gen.) by; (with acc.) under
 wind
-0
+
 tree
-0
+
 unfruitful
 twice
 I die
-0
+
 wave
-0
+
 sea
-0
+
 the
-0
+
 shame
 star
-0
+
 who, which, what
 the
 darkness
@@ -127769,7 +127769,7 @@ this
 seventh
 (with gen.) from, away from
 Adam
-0
+
 I say, tell
 I see
 I come, go
@@ -127794,7 +127794,7 @@ work, deed
 ungodliness, impiety
 he, she, it; himself, herself, itself; even, very; same
 who, which, what
-0
+
 and, also, likewise
 (with gen.) about, concerning; (with acc.) around, near
 all, every
@@ -127808,8 +127808,8 @@ sinful
 godless, impious
 this
 I am
-0
-0
+
+
 (with gen.) down, against; (with acc.) according to, along
 the
 desire, longing
@@ -127820,10 +127820,10 @@ the
 mouth
 he, she, it; himself, herself, itself; even, very; same
 I speak
-0
+
 I wonder, marvel
 face
-0
+
 for the sake of
 you
 but, and (frequently untranslated)
@@ -127849,10 +127849,10 @@ last
 the
 time
 I am
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
-0
+
 desire, longing
 I go, proceed
 the
@@ -127860,7 +127860,7 @@ ungodliness, impiety
 this
 I am
 the
-0
+
 unspiritual
 breath, spirit
 not
@@ -127869,7 +127869,7 @@ you
 but, and (frequently untranslated)
 beloved, dear
 I build on
-0
+
 the
 holy
 you
@@ -127878,7 +127878,7 @@ faith, trust
 breath, spirit
 holy
 I pray
-0
+
 (with dat.) in
 love
 God, god
@@ -127897,7 +127897,7 @@ eternal
 and, also, likewise
 who, which, what
 indeed, on the one hand (but often untranslatable)
-0
+
 I differentiate; (mid.) I doubt
 I save, deliver
 from, out of
@@ -127905,7 +127905,7 @@ fire
 I seize, steal
 who, which, what
 but, and (frequently untranslated)
-0
+
 (with dat.) in
 fear
 I hate
@@ -127914,24 +127914,24 @@ the
 (with gen.) from, away from
 the
 flesh
-0
+
 tunic
 the
 but, and (frequently untranslated)
 I can
 I watch, guard
 you
-0
+
 and, also, likewise
 I place, set, stand
-0
+
 the
 glory, brightness, splendor
 he, she, it; himself, herself, itself; even, very; same
 unblemished, blameless
 (with dat.) in
 exultation, joy
-0
+
 God, god
 savior, deliverer
 I
@@ -127942,7 +127942,7 @@ the
 master, lord, the Lord
 I
 glory, brightness, splendor
-0
+
 power, rule
 and, also, likewise
 power, authority
@@ -128018,7 +128018,7 @@ I write
 the
 for
 time, right time
-0
+
 John
 the
 seven
@@ -128116,9 +128116,9 @@ he, she, it; himself, herself, itself; even, very; same
 all, every
 eye
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I cut
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
@@ -128133,10 +128133,10 @@ so let it be, truly, amen
 I
 I am
 the
-0
+
 and, also, likewise
 the
-0
+
 I say, tell
 master, lord, the Lord
 the
@@ -128157,7 +128157,7 @@ the
 brother
 you
 and, also, likewise
-0
+
 (with dat.) in
 the
 affliction, tribulation
@@ -128173,7 +128173,7 @@ the
 island
 the
 I call
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 word, Word
@@ -128188,7 +128188,7 @@ I am, become, happen
 breath, spirit
 (with dat.) in
 the
-0
+
 day
 and, also, likewise
 I hear
@@ -128213,19 +128213,19 @@ into, in
 Ephesus
 and, also, likewise
 into, in
-0
+
 and, also, likewise
 into, in
-0
+
 and, also, likewise
 into, in
-0
+
 and, also, likewise
 into, in
-0
+
 and, also, likewise
 into, in
-0
+
 and, also, likewise
 into, in
 Laodicea
@@ -128234,7 +128234,7 @@ I turn, turn around, turn back
 I see, look
 the
 sound, voice
-0
+
 I speak
 (with gen.) with; (with acc.) after, behind
 I
@@ -128253,12 +128253,12 @@ like, similar
 son
 human being, person
 I clothe
-0
+
 and, also, likewise
 I gird about
 (with dat.) near, at; (with acc.) to, toward
 the
-0
+
 belt, girdle
 golden
 the
@@ -128270,10 +128270,10 @@ the
 hair
 white
 as, like, so
-0
+
 white
 as, like, so
-0
+
 and, also, likewise
 the
 eye
@@ -128286,10 +128286,10 @@ the
 foot
 he, she, it; himself, herself, itself; even, very; same
 like, similar
-0
+
 as, like, so
 (with dat.) in
-0
+
 I burn, am inflamed
 and, also, likewise
 the
@@ -128298,7 +128298,7 @@ he, she, it; himself, herself, itself; even, very; same
 as, like, so
 sound, voice
 water
-0
+
 and, also, likewise
 I have, hold
 (with dat.) in
@@ -128314,12 +128314,12 @@ the
 mouth
 he, she, it; himself, herself, itself; even, very; same
 sword
-0
+
 sharp
 I go out
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
 the
@@ -128353,7 +128353,7 @@ I fear
 I
 I am
 the
-0
+
 and, also, likewise
 the
 last
@@ -128380,7 +128380,7 @@ the
 death
 and, also, likewise
 the
-0
+
 I write
 therefore, then
 who, which, what
@@ -128475,7 +128475,7 @@ and, also, likewise
 I test, tempt
 the
 I say, tell
-0
+
 apostle
 and, also, likewise
 no, not
@@ -128483,7 +128483,7 @@ I am
 and, also, likewise
 I find, discover
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 patience, endurance
 I have, hold
@@ -128505,7 +128505,7 @@ the
 love
 you
 the
-0
+
 I leave, let go, pardon
 I remember, mention
 therefore, then
@@ -128515,7 +128515,7 @@ and, also, likewise
 I repent, am converted
 and, also, likewise
 the
-0
+
 work, deed
 I do, make
 if
@@ -128543,7 +128543,7 @@ I hate
 the
 work, deed
 the
-0
+
 who, which, what
 and I, but I
 I hate
@@ -128561,7 +128561,7 @@ the
 I conquer
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 from, out of
 the
 wood, tree; cross
@@ -128571,7 +128571,7 @@ who, which, what
 I am
 (with dat.) in
 the
-0
+
 the
 God, god
 and, also, likewise
@@ -128579,13 +128579,13 @@ the
 angel, messenger
 the
 (with dat.) in
-0
+
 church, congregation
 I write
 this
 I say, tell
 the
-0
+
 and, also, likewise
 the
 last
@@ -128600,7 +128600,7 @@ the
 affliction, tribulation
 and, also, likewise
 the
-0
+
 but, rather, yet
 rich
 I am
@@ -128612,7 +128612,7 @@ the
 I say, tell
 Judean, Jewish
 I am
-0
+
 and, also, likewise
 no, not
 I am
@@ -128649,7 +128649,7 @@ and, also, likewise
 I give
 you
 the
-0
+
 the
 life
 the
@@ -128677,7 +128677,7 @@ the
 angel, messenger
 the
 (with dat.) in
-0
+
 church, congregation
 I write
 this
@@ -128687,7 +128687,7 @@ I have, hold
 the
 sword
 the
-0
+
 the
 sharp
 I know
@@ -128713,7 +128713,7 @@ and, also, likewise
 (with dat.) in
 the
 day
-0
+
 the
 witness
 I
@@ -128739,18 +128739,18 @@ there, to that place
 I take hold of, hold fast
 the
 teaching
-0
+
 who, which, what
 I teach
 the
-0
+
 I throw, place
 that which gives offense, temptation to sin
 before
 the
 son
 Israel
-0
+
 offered to an idol
 and, also, likewise
 I practice prostitution, am sexually immoral
@@ -128762,7 +128762,7 @@ I take hold of, hold fast
 the
 teaching
 the
-0
+
 likewise, so, similarly
 I repent, am converted
 therefore, then
@@ -128771,7 +128771,7 @@ but, and (frequently untranslated)
 not
 I come, go
 you
-0
+
 and, also, likewise
 I make war
 (with gen.) with; (with acc.) after, behind
@@ -128797,18 +128797,18 @@ I conquer
 I give
 he, she, it; himself, herself, itself; even, very; same
 the
-0
+
 the
 I hide
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 white
 and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 name
 new
 I write
@@ -128824,7 +128824,7 @@ the
 angel, messenger
 the
 (with dat.) in
-0
+
 church, congregation
 I write
 this
@@ -128846,7 +128846,7 @@ the
 foot
 he, she, it; himself, herself, itself; even, very; same
 like, similar
-0
+
 I know
 you
 the
@@ -128870,9 +128870,9 @@ work, deed
 you
 the
 last
-0
+
 the
-0
+
 but, rather, yet
 I have, hold
 (with gen.) down, against; (with acc.) according to, along
@@ -128881,11 +128881,11 @@ that, because, since
 I leave, let go, pardon
 the
 woman
-0
+
 the
 I say, tell
-0
-0
+
+
 and, also, likewise
 I teach
 and, also, likewise
@@ -128895,7 +128895,7 @@ my, mine
 slave
 I practice prostitution, am sexually immoral
 and, also, likewise
-0
+
 offered to an idol
 and, also, likewise
 I give
@@ -128948,7 +128948,7 @@ I
 I am
 the
 I search, examine
-0
+
 and, also, likewise
 heart
 and, also, likewise
@@ -128963,21 +128963,21 @@ you
 but, and (frequently untranslated)
 I say, tell
 the
-0
+
 the
 (with dat.) in
-0
+
 as great, how great; as far, how far
 no, not
 I have, hold
 the
 teaching
 this
-0
+
 no, not
 I know
 the
-0
+
 the
 the Adversary, Satan
 as, like, so
@@ -129023,7 +129023,7 @@ as, like, so
 the
 vessel, jar
 the
-0
+
 I shatter, break
 as, like, so
 and I, but I
@@ -129038,7 +129038,7 @@ he, she, it; himself, herself, itself; even, very; same
 the
 star
 the
-0
+
 the
 I have, hold
 ear
@@ -129054,7 +129054,7 @@ the
 angel, messenger
 the
 (with dat.) in
-0
+
 church, congregation
 I write
 this
@@ -129087,7 +129087,7 @@ I watch
 and, also, likewise
 I establish, strengthen
 the
-0
+
 who, which, what
 I am about to, intend
 I die
@@ -129132,10 +129132,10 @@ I have, hold
 few, little
 name
 (with dat.) in
-0
+
 who, which, what
 no, not
-0
+
 the
 garment
 he, she, it; himself, herself, itself; even, very; same
@@ -129196,7 +129196,7 @@ the
 angel, messenger
 the
 (with dat.) in
-0
+
 church, congregation
 I write
 this
@@ -129204,7 +129204,7 @@ I say, tell
 the
 holy
 the
-TRUE
+True
 the
 I have, hold
 the
@@ -129259,7 +129259,7 @@ the
 the Adversary, Satan
 the
 I say, tell
-0
+
 Judean, Jewish
 I am
 and, also, likewise
@@ -129313,7 +129313,7 @@ I live, dwell in
 the
 earth
 I come, go
-0
+
 I take hold of, hold fast
 who, which, what
 I have, hold
@@ -129321,13 +129321,13 @@ in order that, that
 no one, nothing
 I take, receive
 the
-0
+
 you
 the
 I conquer
 I do, make
 he, she, it; himself, herself, itself; even, very; same
-0
+
 (with dat.) in
 the
 temple
@@ -129402,7 +129402,7 @@ witness
 the
 faithful
 and, also, likewise
-TRUE
+True
 the
 beginning; ruler, authority
 the
@@ -129415,27 +129415,27 @@ the
 work, deed
 that, because, since
 neither, nor
-0
+
 I am
 neither, nor
-0
-0
-0
+
+
+
 I am
 or, either
-0
+
 in this manner, thus, so
 that, because, since
-0
+
 I am
 and, also, likewise
 neither, nor
-0
+
 neither, nor
-0
+
 I am about to, intend
 you
-0
+
 from, out of
 the
 mouth
@@ -129458,16 +129458,16 @@ that, because, since
 you
 I am
 the
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 poor
 and, also, likewise
 blind
 and, also, likewise
 naked
-0
+
 you
 I buy
 (with gen.) from; (with dat.) at, by; (with acc.) by, near
@@ -129489,11 +129489,11 @@ I reveal, make known
 the
 shame
 the
-0
+
 you
 and, also, likewise
-0
-0
+
+
 the
 eye
 you
@@ -129506,7 +129506,7 @@ I love, like; I kiss
 I expose, convict, convince
 and, also, likewise
 I bring up, train
-0
+
 therefore, then
 and, also, likewise
 I repent, am converted
@@ -129531,7 +129531,7 @@ I enter
 (with dat.) near, at; (with acc.) to, toward
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
@@ -129586,7 +129586,7 @@ and, also, likewise
 the
 sound, voice
 the
-0
+
 who, which, what
 I hear
 as, like, so
@@ -129625,31 +129625,31 @@ and, also, likewise
 the
 I sit, sit down
 like, similar
-0
+
 stone
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
-0
+
+
 the
 throne
 like, similar
-0
-0
+
+
 and, also, likewise
-0
+
 the
 throne
 throne
-0
+
 four
 and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 throne
-0
+
 four
 old; (as a noun) elder
 I sit, sit down
@@ -129662,7 +129662,7 @@ and, also, likewise
 the
 head
 he, she, it; himself, herself, itself; even, very; same
-0
+
 golden
 and, also, likewise
 from, out of
@@ -129695,9 +129695,9 @@ the
 throne
 as, like, so
 sea
-0
+
 like, similar
-0
+
 and, also, likewise
 (with dat.) in
 middle, in the middle
@@ -129718,7 +129718,7 @@ and, also, likewise
 the
 living thing; animal
 the
-0
+
 like, similar
 lion
 and, also, likewise
@@ -129755,7 +129755,7 @@ I have, hold
 (with acc.) up; (with numbers) each, apiece
 wing
 six
-0
+
 and, also, likewise
 inside, within; from within
 I am full
@@ -129808,7 +129808,7 @@ the
 age, eternity
 I fall
 the
-0
+
 four
 old; (as a noun) elder
 before
@@ -129829,7 +129829,7 @@ age, eternity
 and, also, likewise
 I throw, place
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 before
 the
@@ -129880,7 +129880,7 @@ I write
 inside, within; from within
 and, also, likewise
 from behind
-0
+
 seal
 seven
 and, also, likewise
@@ -129923,7 +129923,7 @@ I see, look
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I weep, cry
-0
+
 that, because, since
 no one, nothing
 worthy, fit
@@ -129951,7 +129951,7 @@ the
 from, out of
 the
 tribe, nation
-0
+
 the
 root
 David
@@ -130022,7 +130022,7 @@ four
 living thing; animal
 and, also, likewise
 the
-0
+
 four
 old; (as a noun) elder
 I fall
@@ -130031,7 +130031,7 @@ the
 sheep, lamb
 I have, hold
 each, every
-0
+
 and, also, likewise
 bowl
 golden
@@ -130097,7 +130097,7 @@ and, also, likewise
 I hear
 sound, voice
 angel, messenger
-0
+
 (all) around
 the
 throne
@@ -130143,7 +130143,7 @@ and, also, likewise
 praise, blessing
 and, also, likewise
 all, every
-0
+
 who, which, what
 (with dat.) in
 the
@@ -130239,11 +130239,11 @@ I sit, sit down
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 he, she, it; himself, herself, itself; even, very; same
 I have, hold
-0
+
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 I go out, come out
 I conquer
@@ -130267,7 +130267,7 @@ and, also, likewise
 I go out, come out
 another, other
 horse
-0
+
 and, also, likewise
 the
 I sit, sit down
@@ -130308,7 +130308,7 @@ I see
 and, also, likewise
 I see
 horse
-0
+
 and, also, likewise
 the
 I sit, sit down
@@ -130330,13 +130330,13 @@ the
 four
 living thing; animal
 I say, tell
-0
+
 wheat, grain
 denarius
 and, also, likewise
 three
-0
-0
+
+
 denarius
 and, also, likewise
 the
@@ -130365,7 +130365,7 @@ I see
 and, also, likewise
 I see
 horse
-0
+
 and, also, likewise
 the
 I sit, sit down
@@ -130377,7 +130377,7 @@ the
 death
 and, also, likewise
 the
-0
+
 I follow
 (with gen.) with; (with acc.) after, behind
 he, she, it; himself, herself, itself; even, very; same
@@ -130409,7 +130409,7 @@ and, also, likewise
 when
 I open
 the
-0
+
 seal
 I see
 under
@@ -130442,7 +130442,7 @@ lord, master
 the
 holy
 and, also, likewise
-TRUE
+True
 no, not
 I judge
 and, also, likewise
@@ -130463,7 +130463,7 @@ each, every
 robe
 white
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 I give rest, refresh
@@ -130502,10 +130502,10 @@ and, also, likewise
 the
 sun
 I am, become, happen
-0
+
 as, like, so
-0
-0
+
+
 and, also, likewise
 the
 moon
@@ -130526,7 +130526,7 @@ as, like, so
 fig tree
 I throw, place
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) by; (with acc.) under
 wind
@@ -130535,10 +130535,10 @@ I shake, agitate
 and, also, likewise
 the
 heaven
-0
+
 as, like, so
 book, scroll
-0
+
 and, also, likewise
 all, every
 mountain, hill
@@ -130556,7 +130556,7 @@ the
 earth
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
 leader of a thousand soldiers, tribune
@@ -130572,7 +130572,7 @@ slave
 and, also, likewise
 free
 I hide
-0
+
 into, in
 the
 cave, den
@@ -130722,33 +130722,33 @@ son
 Israel
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 I seal
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 from, out of
@@ -130758,17 +130758,17 @@ twelve
 (a group of) a thousand
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 from, out of
@@ -130778,7 +130778,7 @@ twelve
 (a group of) a thousand
 from, out of
 tribe, nation
-0
+
 twelve
 (a group of) a thousand
 I seal
@@ -130788,9 +130788,9 @@ I see
 and, also, likewise
 I see
 multitude
-0
+
 who, which, what
-0
+
 he, she, it; himself, herself, itself; even, very; same
 no one, nothing
 I can
@@ -130815,7 +130815,7 @@ I put on, clothe
 robe
 white
 and, also, likewise
-0
+
 (with dat.) in
 the
 hand
@@ -130918,7 +130918,7 @@ and, also, likewise
 whence?
 I come, go
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 master, lord, the Lord
 I
@@ -130937,12 +130937,12 @@ affliction, tribulation
 the
 large, great
 and, also, likewise
-0
+
 the
 robe
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with dat.) in
 the
@@ -130991,7 +130991,7 @@ the
 sun
 and not, nor; neither, nor
 all, every
-0
+
 that, because, since
 the
 sheep, lamb
@@ -131027,12 +131027,12 @@ seal
 the
 seventh
 I am, become, happen
-0
+
 (with dat.) in
 the
 heaven
 as, like, so
-0
+
 and, also, likewise
 I see
 the
@@ -131058,13 +131058,13 @@ I place, set, stand
 the
 altar
 I have, hold
-0
+
 golden
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
 incense, incense offering
-0
+
 in order that, that
 I give
 the
@@ -131103,7 +131103,7 @@ I take, receive
 the
 angel, messenger
 the
-0
+
 and, also, likewise
 I fill
 he, she, it; himself, herself, itself; even, very; same
@@ -131136,19 +131136,19 @@ the
 seven
 trumpet
 I prepare
-0
+
 in order that, that
 I trumpet
 and, also, likewise
 the
-0
+
 I trumpet
 and, also, likewise
 I am, become, happen
-0
+
 and, also, likewise
 fire
-0
+
 (with dat.) in
 blood
 and, also, likewise
@@ -131171,7 +131171,7 @@ I burn down, consume
 and, also, likewise
 all, every
 grass, hay
-0
+
 I burn down, consume
 and, also, likewise
 the
@@ -131200,7 +131200,7 @@ I die
 the
 third
 the
-0
+
 the
 (with dat.) in
 the
@@ -131249,7 +131249,7 @@ the
 star
 I say, tell
 the
-0
+
 and, also, likewise
 I am, become, happen
 the
@@ -131257,9 +131257,9 @@ third
 the
 water
 into, in
-0
+
 and, also, likewise
-0
+
 the
 human being, person
 I die
@@ -131267,14 +131267,14 @@ from, out of
 the
 water
 that, because, since
-0
+
 and, also, likewise
 the
 fourth
 angel, messenger
 I trumpet
 and, also, likewise
-0
+
 the
 third
 the
@@ -131314,7 +131314,7 @@ one
 eagle
 I fly
 (with dat.) in
-0
+
 I say, tell
 sound, voice
 large, great
@@ -131328,7 +131328,7 @@ the
 earth
 from, out of
 the
-0
+
 sound, voice
 the
 trumpet
@@ -131340,7 +131340,7 @@ I am about to, intend
 I trumpet
 and, also, likewise
 the
-0
+
 angel, messenger
 I trumpet
 and, also, likewise
@@ -131376,10 +131376,10 @@ the
 a well
 as, like, so
 smoke
-0
+
 large, great
 and, also, likewise
-0
+
 the
 sun
 and, also, likewise
@@ -131395,7 +131395,7 @@ from, out of
 the
 smoke
 I go out, come out
-0
+
 into, in
 the
 earth
@@ -131411,7 +131411,7 @@ scorpion
 the
 earth
 and, also, likewise
-0
+
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 not
@@ -131422,7 +131422,7 @@ the
 earth
 and not, nor; neither, nor
 all, every
-0
+
 and not, nor; neither, nor
 all, every
 tree
@@ -131430,7 +131430,7 @@ if
 not
 the
 human being, person
-0
+
 no, not
 I have, hold
 the
@@ -131490,7 +131490,7 @@ and, also, likewise
 the
 likeness, form
 the
-0
+
 like, similar
 horse
 I prepare
@@ -131502,7 +131502,7 @@ the
 head
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
-0
+
 like, similar
 gold
 and, also, likewise
@@ -131539,9 +131539,9 @@ wing
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
 sound, voice
-0
+
 horse
-0
+
 I run
 into, in
 war
@@ -131551,7 +131551,7 @@ tail
 like, similar
 scorpion
 and, also, likewise
-0
+
 and, also, likewise
 (with dat.) in
 the
@@ -131576,14 +131576,14 @@ abyss, underworld
 name
 he, she, it; himself, herself, itself; even, very; same
 in Hebrew or Aramaic
-0
+
 and, also, likewise
 (with dat.) in
 the
-0
+
 name
 I have, hold
-0
+
 the
 woe, alas
 the
@@ -131636,7 +131636,7 @@ the
 river, stream
 the
 large, great
-0
+
 and, also, likewise
 I loose, set free
 the
@@ -131665,8 +131665,8 @@ number
 the
 army
 the
-0
-0
+
+
 ten thousand, myriad
 I hear
 the
@@ -131679,7 +131679,7 @@ the
 horse
 (with dat.) in
 the
-0
+
 and, also, likewise
 the
 I sit, sit down
@@ -131687,11 +131687,11 @@ I sit, sit down
 he, she, it; himself, herself, itself; even, very; same
 I have, hold
 breastplate
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 the
 head
@@ -131765,7 +131765,7 @@ he, she, it; himself, herself, itself; even, very; same
 I do wrong, treat unjustly
 and, also, likewise
 the
-0
+
 the
 human being, person
 who, which, what
@@ -131795,16 +131795,16 @@ the
 golden
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
-0
+
 who, which, what
 neither, nor
 I see, look
@@ -131823,7 +131823,7 @@ he, she, it; himself, herself, itself; even, very; same
 neither, nor
 from, out of
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 neither, nor
 from, out of
@@ -131833,7 +131833,7 @@ he, she, it; himself, herself, itself; even, very; same
 neither, nor
 from, out of
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I see
@@ -131848,7 +131848,7 @@ I put on, clothe
 cloud
 and, also, likewise
 the
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 head
@@ -131865,7 +131865,7 @@ the
 foot
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
-0
+
 fire
 and, also, likewise
 I have, hold
@@ -131873,7 +131873,7 @@ I have, hold
 the
 hand
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I open
 and, also, likewise
 I put, place
@@ -131897,7 +131897,7 @@ sound, voice
 large, great
 (just) as
 lion
-0
+
 and, also, likewise
 when
 I cry, call out
@@ -131906,7 +131906,7 @@ the
 seven
 thunder
 the
-0
+
 sound, voice
 and, also, likewise
 when
@@ -132012,7 +132012,7 @@ God, god
 as, like, so
 I preach the Good News
 the
-0
+
 slave
 the
 prophet
@@ -132060,7 +132060,7 @@ he, she, it; himself, herself, itself; even, very; same
 I give
 I
 the
-0
+
 and, also, likewise
 I say, tell
 I
@@ -132069,7 +132069,7 @@ and, also, likewise
 I eat up, devour
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 you
 the
 womb, belly
@@ -132079,13 +132079,13 @@ the
 mouth
 you
 I am
-0
+
 as, like, so
-0
+
 and, also, likewise
 I take, receive
 the
-0
+
 from, out of
 the
 hand
@@ -132101,13 +132101,13 @@ the
 mouth
 I
 as, like, so
-0
-0
+
+
 and, also, likewise
 when
-0
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 womb, belly
 I
@@ -132126,7 +132126,7 @@ and, also, likewise
 tongue, language
 and, also, likewise
 king
-0
+
 and, also, likewise
 I give
 I
@@ -132188,7 +132188,7 @@ thousands
 two hundred
 sixty
 I put on, clothe
-0
+
 this
 I am
 the
@@ -132265,7 +132265,7 @@ earth
 (with dat.) in
 all, every
 blow, wound
-0
+
 if
 I wish, will
 and, also, likewise
@@ -132297,14 +132297,14 @@ corpse
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 city
 the
 large, great
-0
+
 I call
-0
+
 Sodom
 and, also, likewise
 Egypt
@@ -132431,7 +132431,7 @@ shaking, earthquake
 large, great
 and, also, likewise
 the
-0
+
 the
 city
 I fall
@@ -132446,7 +132446,7 @@ human being, person
 seven
 and, also, likewise
 the
-0
+
 afraid
 I am, become, happen
 and, also, likewise
@@ -132467,7 +132467,7 @@ woe, alas
 the
 third
 I come, go
-0
+
 and, also, likewise
 the
 seventh
@@ -132502,7 +132502,7 @@ the
 age, eternity
 and, also, likewise
 the
-0
+
 four
 old; (as a noun) elder
 the
@@ -132620,7 +132620,7 @@ thunder
 and, also, likewise
 shaking, earthquake
 and, also, likewise
-0
+
 large, great
 and, also, likewise
 sign
@@ -132645,7 +132645,7 @@ and, also, likewise
 the
 head
 he, she, it; himself, herself, itself; even, very; same
-0
+
 star
 twelve
 and, also, likewise
@@ -132654,7 +132654,7 @@ belly, womb
 I have, hold
 and, also, likewise
 I cry, call out
-0
+
 and, also, likewise
 I torture, torment
 I give birth to
@@ -132668,7 +132668,7 @@ heaven
 and, also, likewise
 I see
 dragon
-0
+
 large, great
 I have, hold
 head
@@ -132682,7 +132682,7 @@ the
 head
 he, she, it; himself, herself, itself; even, very; same
 seven
-0
+
 and, also, likewise
 the
 tail
@@ -132773,7 +132773,7 @@ war
 the
 heaven
 the
-0
+
 and, also, likewise
 the
 angel, messenger
@@ -132944,7 +132944,7 @@ earth
 I hasten; I pursue, persecute
 the
 woman
-0
+
 I give birth to
 the
 male
@@ -132997,7 +132997,7 @@ as, like, so
 river, stream
 in order that, that
 he, she, it; himself, herself, itself; even, very; same
-0
+
 I do, make
 and, also, likewise
 I aid, help
@@ -133037,9 +133037,9 @@ I do, make
 war
 (with gen.) with; (with acc.) after, behind
 the
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 the
 I keep, observe
@@ -133078,7 +133078,7 @@ the
 horn
 he, she, it; himself, herself, itself; even, very; same
 ten
-0
+
 and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
@@ -133093,13 +133093,13 @@ who, which, what
 I see
 I am
 like, similar
-0
+
 and, also, likewise
 the
 foot
 he, she, it; himself, herself, itself; even, very; same
 as, like, so
-0
+
 and, also, likewise
 the
 mouth
@@ -133270,9 +133270,9 @@ I hear
 if
 anyone, anything; someone, something
 into, in
-0
+
 into, in
-0
+
 I go, go away
 if
 anyone, anything; someone, something
@@ -133315,7 +133315,7 @@ and, also, likewise
 the
 power, authority
 the
-0
+
 animal
 all, every
 I do, make
@@ -133335,7 +133335,7 @@ I worship
 the
 animal
 the
-0
+
 who, which, what
 I care for, heal
 the
@@ -133490,7 +133490,7 @@ I am
 the
 I have, hold
 understanding, mind
-0
+
 the
 number
 the
@@ -133503,7 +133503,7 @@ and, also, likewise
 the
 number
 he, she, it; himself, herself, itself; even, very; same
-0
+
 sixty
 six
 and, also, likewise
@@ -133548,7 +133548,7 @@ heaven
 as, like, so
 sound, voice
 water
-0
+
 and, also, likewise
 as, like, so
 sound, voice
@@ -133560,11 +133560,11 @@ sound, voice
 who, which, what
 I hear
 as, like, so
-0
-0
+
+
 (with dat.) in
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I sing
@@ -133605,7 +133605,7 @@ who, which, what
 (with gen.) with; (with acc.) after, behind
 woman
 no, not
-0
+
 virgin
 for
 I am
@@ -133644,7 +133644,7 @@ another, other
 angel, messenger
 I fly
 (with dat.) in
-0
+
 I have, hold
 the Good News, Gospel
 eternal
@@ -133763,8 +133763,8 @@ anger, wrath
 the
 God, god
 the
-0
-0
+
+
 (with dat.) in
 the
 a drink
@@ -133849,7 +133849,7 @@ the
 (with dat.) in
 master, lord, the Lord
 I die
-0
+
 yes, indeed
 I say, tell
 the
@@ -133886,7 +133886,7 @@ I have, hold
 the
 head
 he, she, it; himself, herself, itself; even, very; same
-0
+
 golden
 and, also, likewise
 (with dat.) in
@@ -133992,17 +133992,17 @@ sickle
 the
 sharp
 and, also, likewise
-0
+
 the
-0
+
 the
 vine
 the
 earth
 that, because, since
-0
+
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I throw, place
@@ -134015,7 +134015,7 @@ into, in
 the
 earth
 and, also, likewise
-0
+
 the
 vine
 the
@@ -134046,13 +134046,13 @@ the
 wine-press
 until
 the
-0
+
 the
 horse
 (with gen.) from, away from
 stade, 192 meters
 thousands
-0
+
 and, also, likewise
 I see
 another, other
@@ -134082,8 +134082,8 @@ and, also, likewise
 I see
 as, like, so
 sea
-0
-0
+
+
 fire
 and, also, likewise
 the
@@ -134108,9 +134108,9 @@ I place, set, stand
 the
 sea
 the
-0
+
 I have, hold
-0
+
 the
 God, god
 and, also, likewise
@@ -134141,7 +134141,7 @@ the
 the Almighty
 righteous, just
 and, also, likewise
-TRUE
+True
 the
 way
 you
@@ -134160,7 +134160,7 @@ the
 name
 you
 that, because, since
-0
+
 devout, holy
 that, because, since
 all, every
@@ -134205,7 +134205,7 @@ from, out of
 the
 temple
 I clothe
-0
+
 clean, pure
 bright, shining
 and, also, likewise
@@ -134297,7 +134297,7 @@ earth
 and, also, likewise
 I go away
 the
-0
+
 and, also, likewise
 I pour out
 the
@@ -134308,7 +134308,7 @@ the
 earth
 and, also, likewise
 I am, become, happen
-0
+
 evil, bad
 and, also, likewise
 wicked, bad
@@ -134412,7 +134412,7 @@ the
 God, god
 the
 the Almighty
-TRUE
+True
 and, also, likewise
 righteous, just
 the
@@ -134431,16 +134431,16 @@ sun
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
-0
+
 the
 human being, person
 (with dat.) in
 fire
 and, also, likewise
-0
+
 the
 human being, person
-0
+
 large, great
 and, also, likewise
 I blaspheme
@@ -134464,7 +134464,7 @@ he, she, it; himself, herself, itself; even, very; same
 glory, brightness, splendor
 and, also, likewise
 the
-0
+
 I pour out
 the
 bowl
@@ -134479,15 +134479,15 @@ I am, become, happen
 the
 kingdom, reign
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
-0
+
 the
 tongue, language
 he, she, it; himself, herself, itself; even, very; same
 from, out of
 the
-0
+
 and, also, likewise
 I blaspheme
 the
@@ -134496,12 +134496,12 @@ the
 heaven
 from, out of
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 from, out of
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 no, not
@@ -134522,7 +134522,7 @@ the
 river, stream
 the
 large, great
-0
+
 and, also, likewise
 I dry, dry up
 the
@@ -134561,7 +134561,7 @@ breath, spirit
 three
 impure, unclean
 as, like, so
-0
+
 I am
 for
 breath, spirit
@@ -134608,7 +134608,7 @@ I go about, walk around
 and, also, likewise
 I see, look
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I gather together
@@ -134619,7 +134619,7 @@ place
 the
 I call
 in Hebrew or Aramaic
-0
+
 and, also, likewise
 the
 seventh
@@ -134663,7 +134663,7 @@ I am, become, happen
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 earth
-0
+
 shaking, earthquake
 in this manner, thus, so
 large, great
@@ -134710,10 +134710,10 @@ mountain, hill
 no, not
 I find, discover
 and, also, likewise
-0
+
 large, great
 as, like, so
-0
+
 I come down, go down
 from, out of
 the
@@ -134731,7 +134731,7 @@ from, out of
 the
 blow, wound
 the
-0
+
 that, because, since
 large, great
 I am
@@ -134769,7 +134769,7 @@ the
 I sit, sit down
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 water
-0
+
 (with gen.) with; (with acc.) after, behind
 who, which, what
 I practice prostitution, am sexually immoral
@@ -134778,7 +134778,7 @@ king
 the
 earth
 and, also, likewise
-0
+
 the
 I live, dwell in
 the
@@ -134817,11 +134817,11 @@ the
 woman
 I am
 I put on, clothe
-0
+
 and, also, likewise
 red, scarlet
 and, also, likewise
-0
+
 gold
 and, also, likewise
 stone
@@ -134884,7 +134884,7 @@ and, also, likewise
 I wonder, marvel
 I see
 he, she, it; himself, herself, itself; even, very; same
-0
+
 large, great
 and, also, likewise
 I say, tell
@@ -134895,7 +134895,7 @@ angel, messenger
 who? which one? what?
 I wonder, marvel
 I
-0
+
 you
 the
 mystery, secret rites
@@ -135033,7 +135033,7 @@ I see
 ten
 king
 I am
-0
+
 kingdom, reign
 not yet
 I take, receive
@@ -135128,7 +135128,7 @@ and, also, likewise
 the
 flesh
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I burn down, consume
@@ -135214,7 +135214,7 @@ the
 large, great
 and, also, likewise
 I am, become, happen
-0
+
 demon, evil spirit
 and, also, likewise
 watch, guard
@@ -135224,7 +135224,7 @@ impure, unclean
 and, also, likewise
 watch, guard
 all, every
-0
+
 impure, unclean
 and, also, likewise
 I hate
@@ -135258,7 +135258,7 @@ from, out of
 the
 power, strength
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I am rich, become rich
 and, also, likewise
@@ -135277,7 +135277,7 @@ from, out of
 he, she, it; himself, herself, itself; even, very; same
 in order that, that
 not
-0
+
 the
 sin
 he, she, it; himself, herself, itself; even, very; same
@@ -135302,7 +135302,7 @@ I remember, mention
 the
 God, god
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I give away, give up; I render
 he, she, it; himself, herself, itself; even, very; same
@@ -135311,9 +135311,9 @@ and, also, likewise
 he, she, it; himself, herself, itself; even, very; same
 I give away, give up; I render
 and, also, likewise
-0
+
 the
-0
+
 (with gen.) down, against; (with acc.) according to, along
 the
 work, deed
@@ -135322,15 +135322,15 @@ he, she, it; himself, herself, itself; even, very; same
 the
 a drink
 who, which, what
-0
-0
+
+
 he, she, it; himself, herself, itself; even, very; same
-0
+
 as great, how great; as far, how far
 I praise, honor, glorify
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
-0
+
 so great, so far, so much
 I give
 he, she, it; himself, herself, itself; even, very; same
@@ -135345,7 +135345,7 @@ he, she, it; himself, herself, itself; even, very; same
 I say, tell
 that, because, since
 I sit, sit down
-0
+
 and, also, likewise
 widow
 no, not
@@ -135396,13 +135396,13 @@ the
 he, she, it; himself, herself, itself; even, very; same
 I practice prostitution, am sexually immoral
 and, also, likewise
-0
+
 whenever, when
 I see, look
 the
 smoke
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 (with gen.) from, away from
 from far away
@@ -135444,12 +135444,12 @@ I grieve, mourn
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 no one, nothing
 I buy
 no more, no longer
-0
+
 gold
 and, also, likewise
 silver
@@ -135461,19 +135461,19 @@ pearl
 and, also, likewise
 made of fine linen
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 red, scarlet
 and, also, likewise
 all, every
 wood, tree; cross
-0
+
 and, also, likewise
 all, every
 vessel, jar
-0
+
 and, also, likewise
 all, every
 vessel, jar
@@ -135483,35 +135483,35 @@ valuable, precious
 and, also, likewise
 brass, bronze, money
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
 incense, incense offering
 and, also, likewise
 ointment, perfume
 and, also, likewise
-0
+
 and, also, likewise
 wine
 and, also, likewise
 oil
 and, also, likewise
-0
+
 and, also, likewise
 wheat, grain
 and, also, likewise
-0
+
 and, also, likewise
 sheep
 and, also, likewise
 horse
 and, also, likewise
-0
+
 and, also, likewise
 body
 and, also, likewise
@@ -135519,7 +135519,7 @@ soul
 human being, person
 and, also, likewise
 the
-0
+
 you
 the
 desire, longing
@@ -135531,7 +135531,7 @@ you
 and, also, likewise
 all, every
 the
-0
+
 and, also, likewise
 the
 bright, shining
@@ -135574,11 +135574,11 @@ the
 I put on, clothe
 made of fine linen
 and, also, likewise
-0
+
 and, also, likewise
 red, scarlet
 and, also, likewise
-0
+
 (with dat.) in
 gold
 and, also, likewise
@@ -135595,7 +135595,7 @@ so great, so far, so much
 riches
 and, also, likewise
 all, every
-0
+
 and, also, likewise
 all, every
 the
@@ -135603,7 +135603,7 @@ the
 place
 I sail
 and, also, likewise
-0
+
 and, also, likewise
 as great, how great; as far, how far
 the
@@ -135618,7 +135618,7 @@ I see, look
 the
 smoke
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 I say, tell
 who? which one? what?
@@ -135629,7 +135629,7 @@ the
 large, great
 and, also, likewise
 I throw, place
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
 head
@@ -135659,7 +135659,7 @@ the
 sea
 from, out of
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 that, because, since
 one
@@ -135694,7 +135694,7 @@ angel, messenger
 strong, powerful
 stone
 as, like, so
-0
+
 large, great
 and, also, likewise
 I throw, place
@@ -135703,7 +135703,7 @@ the
 sea
 I say, tell
 in this manner, thus, so
-0
+
 I throw, place
 Babylon
 the
@@ -135716,13 +135716,13 @@ I find, discover
 yet, still
 and, also, likewise
 sound, voice
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 and, also, likewise
-0
+
 no, not
 not
 I hear
@@ -135731,9 +135731,9 @@ you
 yet, still
 and, also, likewise
 all, every
-0
+
 all, every
-0
+
 no, not
 not
 I find, discover
@@ -135742,7 +135742,7 @@ you
 yet, still
 and, also, likewise
 sound, voice
-0
+
 no, not
 not
 I hear
@@ -135775,13 +135775,13 @@ merchant
 you
 I am
 the
-0
+
 the
 earth
 that, because, since
 (with dat.) in
 the
-0
+
 you
 I lead astray, deceive
 all, every
@@ -135809,12 +135809,12 @@ as, like, so
 sound, voice
 large, great
 multitude
-0
+
 (with dat.) in
 the
 heaven
 I say, tell
-0
+
 the
 salvation, deliverance
 and, also, likewise
@@ -135827,7 +135827,7 @@ the
 God, god
 I
 that, because, since
-TRUE
+True
 and, also, likewise
 righteous, just
 the
@@ -135839,7 +135839,7 @@ the
 prostitute
 the
 large, great
-0
+
 I destroy, ruin
 the
 earth
@@ -135859,8 +135859,8 @@ hand
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 second
-0
-0
+
+
 and, also, likewise
 the
 smoke
@@ -135876,7 +135876,7 @@ I fall
 the
 old; (as a noun) elder
 the
-0
+
 four
 and, also, likewise
 the
@@ -135893,7 +135893,7 @@ the
 throne
 I say, tell
 so let it be, truly, amen
-0
+
 and, also, likewise
 sound, voice
 (with gen.) from, away from
@@ -135922,19 +135922,19 @@ I hear
 as, like, so
 sound, voice
 multitude
-0
+
 and, also, likewise
 as, like, so
 sound, voice
 water
-0
+
 and, also, likewise
 as, like, so
 sound, voice
 thunder
 strong, powerful
 I say, tell
-0
+
 that, because, since
 I rule
 master, lord, the Lord
@@ -135962,7 +135962,7 @@ the
 woman
 he, she, it; himself, herself, itself; even, very; same
 I prepare
-0
+
 and, also, likewise
 I give
 he, she, it; himself, herself, itself; even, very; same
@@ -135999,7 +135999,7 @@ I
 this
 the
 word, Word
-TRUE
+True
 the
 God, god
 I am
@@ -136057,7 +136057,7 @@ he, she, it; himself, herself, itself; even, very; same
 I call
 faithful
 and, also, likewise
-TRUE
+True
 and, also, likewise
 (with dat.) in
 righteousness
@@ -136075,8 +136075,8 @@ and, also, likewise
 the
 head
 he, she, it; himself, herself, itself; even, very; same
-0
-0
+
+
 I have, hold
 name
 I write
@@ -136089,7 +136089,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 I put on, clothe
 garment
-0
+
 blood
 and, also, likewise
 I call
@@ -136160,7 +136160,7 @@ garment
 and, also, likewise
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 name
 I write
@@ -136185,11 +136185,11 @@ large, great
 I say, tell
 all, every
 the
-0
+
 the
 I fly
 (with dat.) in
-0
+
 come (on)!
 I gather together
 into, in
@@ -136200,7 +136200,7 @@ large, great
 the
 God, god
 in order that, that
-0
+
 flesh
 king
 and, also, likewise
@@ -136301,7 +136301,7 @@ I burn
 sulphur
 and, also, likewise
 the
-0
+
 I kill
 (with dat.) in
 the
@@ -136320,7 +136320,7 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 all, every
 the
-0
+
 I feed, fill; (pass.) I eat my fill
 from, out of
 the
@@ -136409,7 +136409,7 @@ and, also, likewise
 the
 soul
 the
-0
+
 (with gen.) through; (with acc.) because of, for the sake of
 the
 testimony
@@ -136421,7 +136421,7 @@ word, Word
 the
 God, god
 and, also, likewise
-0
+
 no, not
 I worship
 the
@@ -136453,7 +136453,7 @@ the Anointed One, the Messiah, the Christ [cf. χρίω and ἀντίχριστ�
 thousands
 year
 the
-0
+
 the
 dead
 no, not
@@ -136467,7 +136467,7 @@ this
 the
 resurrection
 the
-0
+
 blessed, happy
 and, also, likewise
 holy
@@ -136478,7 +136478,7 @@ part
 the
 resurrection
 the
-0
+
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 this
 the
@@ -136528,9 +136528,9 @@ corner
 the
 earth
 the
-0
+
 and, also, likewise
-0
+
 I gather together
 he, she, it; himself, herself, itself; even, very; same
 into, in
@@ -136549,11 +136549,11 @@ and, also, likewise
 I go up, embark
 (with gen.) over, upon; (with dat.) on, in; (with acc.) on, against
 the
-0
+
 the
 earth
 and, also, likewise
-0
+
 the
 camp, army
 the
@@ -136680,7 +136680,7 @@ the
 death
 and, also, likewise
 the
-0
+
 I give
 the
 dead
@@ -136699,7 +136699,7 @@ the
 death
 and, also, likewise
 the
-0
+
 I throw, place
 into, in
 the
@@ -136742,11 +136742,11 @@ earth
 new
 the
 for
-0
+
 heaven
 and, also, likewise
 the
-0
+
 earth
 I go away
 and, also, likewise
@@ -136828,13 +136828,13 @@ grief, mourning
 neither, nor
 cry, shout
 neither, nor
-0
+
 no, not
 I am
 yet, still
 that, because, since
 the
-0
+
 I go away
 and, also, likewise
 I say, tell
@@ -136856,7 +136856,7 @@ the
 word, Word
 faithful
 and, also, likewise
-TRUE
+True
 I am
 and, also, likewise
 I say, tell
@@ -136864,10 +136864,10 @@ I
 I am, become, happen
 I
 the
-0
+
 and, also, likewise
 the
-0
+
 the
 beginning; ruler, authority
 and, also, likewise
@@ -136900,23 +136900,23 @@ I
 son
 the
 but, and (frequently untranslated)
-0
+
 and, also, likewise
 faithless, unbelieving
 and, also, likewise
-0
+
 and, also, likewise
 murderer
 and, also, likewise
 a sexually immoral person
 and, also, likewise
-0
+
 and, also, likewise
 idolater
 and, also, likewise
 all, every
 the
-0
+
 the
 part
 he, she, it; himself, herself, itself; even, very; same
@@ -136998,15 +136998,15 @@ glory, brightness, splendor
 the
 God, god
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 like, similar
 stone
 valuable, precious
 as, like, so
 stone
-0
-0
+
+
 I have, hold
 (city) wall
 large, great
@@ -137037,7 +137037,7 @@ gate, gateway
 three
 and, also, likewise
 (with gen.) from, away from
-0
+
 gate, gateway
 three
 and, also, likewise
@@ -137092,15 +137092,15 @@ he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
 city
-0
+
 I lie, recline
 and, also, likewise
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 as great, how great; as far, how far
 the
-0
+
 and, also, likewise
 I measure
 the
@@ -137112,10 +137112,10 @@ stade, 192 meters
 twelve
 (a group of) a thousand
 the
-0
+
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
 height
@@ -137130,7 +137130,7 @@ he, she, it; himself, herself, itself; even, very; same
 one hundred
 forty
 four
-0
+
 measure
 human being, person
 who, which, what
@@ -137138,18 +137138,18 @@ I am
 angel, messenger
 and, also, likewise
 the
-0
+
 the
 (city) wall
 he, she, it; himself, herself, itself; even, very; same
-0
+
 and, also, likewise
 the
 city
 gold
 clean, pure
 like, similar
-0
+
 clean, pure
 the
 foundation
@@ -137164,41 +137164,41 @@ I adorn, beautify
 the
 foundation
 the
-0
-0
+
+
 the
 second
-0
+
 the
 third
-0
+
 the
 fourth
-0
+
 the
-0
-0
+
+
 the
 sixth
-0
+
 the
 seventh
-0
+
 the
 eighth
-0
+
 the
 ninth
-0
+
 the
-0
-0
+
+
 the
-0
-0
+
+
 the
-0
-0
+
+
 and, also, likewise
 the
 twelve
@@ -137216,14 +137216,14 @@ one
 pearl
 and, also, likewise
 the
-0
+
 the
 city
 gold
 clean, pure
 as, like, so
-0
-0
+
+
 and, also, likewise
 temple
 no, not
@@ -137346,7 +137346,7 @@ water
 life
 bright, shining
 as, like, so
-0
+
 I go out
 from, out of
 the
@@ -137359,7 +137359,7 @@ sheep, lamb
 (with dat.) in
 middle, in the middle
 the
-0
+
 he, she, it; himself, herself, itself; even, very; same
 and, also, likewise
 the
@@ -137385,12 +137385,12 @@ leaf
 the
 wood, tree; cross
 into, in
-0
+
 the
 nation, the Gentiles
 and, also, likewise
 all, every
-0
+
 no, not
 I am
 yet, still
@@ -137460,7 +137460,7 @@ the
 word, Word
 faithful
 and, also, likewise
-TRUE
+True
 and, also, likewise
 the
 master, lord, the Lord
@@ -137486,7 +137486,7 @@ speed, quickness
 and, also, likewise
 I see
 I come, go
-0
+
 blessed, happy
 the
 I keep, observe
@@ -137560,7 +137560,7 @@ this
 the
 time, right time
 for
-0
+
 I am
 the
 I do wrong, treat unjustly
@@ -137568,8 +137568,8 @@ I do wrong, treat unjustly
 yet, still
 and, also, likewise
 the
-0
-0
+
+
 yet, still
 and, also, likewise
 the
@@ -137584,7 +137584,7 @@ I make holy, sanctify
 yet, still
 I see
 I come, go
-0
+
 and, also, likewise
 the
 wages
@@ -137600,12 +137600,12 @@ I am
 he, she, it; himself, herself, itself; even, very; same
 I
 the
-0
+
 and, also, likewise
 the
-0
+
 the
-0
+
 and, also, likewise
 the
 last
@@ -137616,7 +137616,7 @@ the
 end
 blessed, happy
 the
-0
+
 the
 robe
 he, she, it; himself, herself, itself; even, very; same
@@ -137642,7 +137642,7 @@ the
 dog
 and, also, likewise
 the
-0
+
 and, also, likewise
 the
 a sexually immoral person
@@ -137683,7 +137683,7 @@ star
 the
 bright, shining
 the
-0
+
 and, also, likewise
 the
 breath, spirit
@@ -137778,7 +137778,7 @@ I bear witness, testify
 this
 yes, indeed
 I come, go
-0
+
 so let it be, truly, amen
 I come, go
 master, lord, the Lord
